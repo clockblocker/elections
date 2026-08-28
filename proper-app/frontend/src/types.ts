@@ -88,6 +88,7 @@ export interface AnalysisResult {
     expectedTurnout: number;
     expectedResult: number;
     covariance: [[number, number], [number, number]];
+    contour50: Array<{ turnout: number; result: number }>;
     contour95: Array<{ turnout: number; result: number }>;
   };
   estimates: Map<string, PointEstimate>;

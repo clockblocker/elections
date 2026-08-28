@@ -9,6 +9,7 @@ from statistics import median
 METHOD_SLUG = "protocol-cloud-clt-v3"
 METHOD_VERSION = 3
 CHI_SQUARE_2_95 = 5.991464547107979
+CHI_SQUARE_2_50 = 1.3862943611198906
 Z_95 = 1.959963984540054
 NORMAL_MAD = 0.6744897501960817
 
@@ -86,6 +87,7 @@ class Core:
     expected_turnout: float
     expected_result: float
     covariance: tuple[tuple[float, float], tuple[float, float]]
+    contour50: tuple[dict[str, float], ...]
     contour95: tuple[dict[str, float], ...]
 
 
@@ -309,12 +311,12 @@ def _direction(dx: float, dy: float, distance: float) -> str:
     return "low-low"
 
 
-def _contour(fit: _Fit) -> tuple[dict[str, float], ...]:
+def _contour(fit: _Fit, squared_radius: float) -> tuple[dict[str, float], ...]:
     a = max(1e-12, fit.covariance[0][0])
     l11 = sqrt(a)
     l21 = fit.covariance[1][0] / l11
     l22 = sqrt(max(1e-12, fit.covariance[1][1] - l21**2))
-    radius = sqrt(CHI_SQUARE_2_95)
+    radius = sqrt(squared_radius)
     return tuple(
         {
             "turnout": 100 * _inverse_logit(fit.center[0] + radius * l11 * cos(2 * pi * index / 96)),
@@ -445,7 +447,8 @@ def analyze(points: list[Point], parameters: Parameters | None = None) -> Analys
         expected_turnout=100 * expected_turnout,
         expected_result=100 * expected_result,
         covariance=fit.covariance,
-        contour95=_contour(fit),
+        contour50=_contour(fit, CHI_SQUARE_2_50),
+        contour95=_contour(fit, CHI_SQUARE_2_95),
     )
     return Analysis(
         method=METHOD_SLUG,

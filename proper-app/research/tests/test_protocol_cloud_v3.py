@@ -106,6 +106,7 @@ class ProtocolCloudV3Tests(unittest.TestCase):
         self.assertLess(result.core.expected_turnout, 50)
         self.assertGreater(result.core.expected_result, 15)
         self.assertLess(result.core.expected_result, 25)
+        self.assertEqual(len(result.core.contour50), 97)
         self.assertEqual(len(result.core.contour95), 97)
         self.assertGreater(covariance[0][0], 0)
         self.assertGreater(covariance[1][1], 0)

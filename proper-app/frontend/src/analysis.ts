@@ -24,6 +24,7 @@ interface CoreFit {
   members: Observation[];
 }
 
+const CHI_SQUARE_2_50 = 1.3862943611198906;
 const CHI_SQUARE_2_95 = 5.991464547107979;
 const Z_95 = 1.959963984540054;
 const NORMAL_MAD = 0.6744897501960817;
@@ -210,12 +211,12 @@ function direction(dx: number, dy: number, distance: number): PointEstimate["dir
   return "low-low";
 }
 
-function contour(fit: CoreFit): Array<{ turnout: number; result: number }> {
+function contour(fit: CoreFit, squaredRadius: number): Array<{ turnout: number; result: number }> {
   const a = Math.max(1e-12, fit.covariance[0][0]);
   const l11 = Math.sqrt(a);
   const l21 = fit.covariance[1][0] / l11;
   const l22 = Math.sqrt(Math.max(1e-12, fit.covariance[1][1] - l21 ** 2));
-  const radius = Math.sqrt(CHI_SQUARE_2_95);
+  const radius = Math.sqrt(squaredRadius);
   return Array.from({ length: 97 }, (_, index) => {
     const angle = 2 * Math.PI * index / 96;
     const cosine = Math.cos(angle); const sine = Math.sin(angle);
@@ -321,7 +322,8 @@ export function analyze(points: Point[], parameters: AnalysisParameters = DEFAUL
       expectedTurnout: 100 * expectedTurnoutShare,
       expectedResult: 100 * expectedResultShare,
       covariance: fit.covariance,
-      contour95: contour(fit)
+      contour50: contour(fit, CHI_SQUARE_2_50),
+      contour95: contour(fit, CHI_SQUARE_2_95)
     },
     estimates
   };

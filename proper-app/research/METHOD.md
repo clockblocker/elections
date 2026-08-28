@@ -145,10 +145,12 @@ The implementation floors `p_i` at machine epsilon. `P_sus` is therefore an anal
 model-incompatibility score, not an empirical rank and never `1 - q`. Higher values mean
 that the observed turnout/result pair lies farther into the working model's tail.
 
-The 95% central contour uses `D2 = 5.99146`. Outside it, the signs of the turnout and
-result logit residuals label a protocol `high-high`, `high-low`, `low-high`, or
-`low-low`; points inside it are `central`. `P_sus` itself is two-sided and can be high in
-any quadrant.
+The plot renders a bright 50% central contour using `D2 = 1.38629` and a quieter 95%
+contour using `D2 = 5.99146`. The first makes the dense fitted center visible; the
+second shows the broad working-model reference band. Outside the 95% contour, the signs
+of the turnout and result logit residuals label a protocol `high-high`, `high-low`,
+`low-high`, or `low-low`; points inside it are `central`. `P_sus` itself is two-sided
+and can be high in any quadrant.
 
 The versioned display grades are:
 

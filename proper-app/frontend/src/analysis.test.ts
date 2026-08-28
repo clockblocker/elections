@@ -70,7 +70,13 @@ describe("protocol-cloud-clt-v3", () => {
     expect(result.core.expectedTurnout).toBeLessThan(50);
     expect(result.core.expectedResult).toBeGreaterThan(15);
     expect(result.core.expectedResult).toBeLessThan(25);
+    expect(result.core.contour50).toHaveLength(97);
     expect(result.core.contour95).toHaveLength(97);
+    const center = { turnout: result.core.expectedTurnout, result: result.core.expectedResult };
+    const radialDistance = (item: { turnout: number; result: number }) =>
+      Math.hypot(item.turnout - center.turnout, item.result - center.result);
+    expect(Math.max(...result.core.contour50.map(radialDistance)))
+      .toBeLessThan(Math.max(...result.core.contour95.map(radialDistance)));
     expect(result.core.contour95.every((item) => Number.isFinite(item.turnout) && Number.isFinite(item.result))).toBe(true);
   });
 
