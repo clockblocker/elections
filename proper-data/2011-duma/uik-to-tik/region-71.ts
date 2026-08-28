@@ -7,6883 +7,12618 @@ export const duma_2011_uik_to_tik_region_71 = [
   {
     "uikNumber": 1,
     "uikTvd": "4714001114595",
+    "uikName": "УИК №1",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "4714001114596",
+    "uikName": "УИК №2",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "4714001114597",
+    "uikName": "УИК №3",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "4714001114598",
+    "uikName": "УИК №4",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "4714001114599",
+    "uikName": "УИК №5",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "4714001114600",
+    "uikName": "УИК №6",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "4714001114601",
+    "uikName": "УИК №7",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "4714001114602",
+    "uikName": "УИК №8",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "4714001114603",
+    "uikName": "УИК №9",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "4714001114604",
+    "uikName": "УИК №10",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "4714001114605",
+    "uikName": "УИК №11",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "4714001114606",
+    "uikName": "УИК №12",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "4714001114607",
+    "uikName": "УИК №13",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "4714001114608",
+    "uikName": "УИК №14",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "4714001114609",
+    "uikName": "УИК №15",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "4714001114610",
+    "uikName": "УИК №16",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "4714001114611",
+    "uikName": "УИК №17",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "4714001114612",
+    "uikName": "УИК №18",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "4714001114613",
+    "uikName": "УИК №19",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "4714001114614",
+    "uikName": "УИК №20",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "4714001114615",
+    "uikName": "УИК №21",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "4714001114616",
+    "uikName": "УИК №22",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "4714001114617",
+    "uikName": "УИК №23",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "4714001114618",
+    "uikName": "УИК №24",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "4714001114619",
+    "uikName": "УИК №25",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "4714001114620",
+    "uikName": "УИК №26",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "4714001114621",
+    "uikName": "УИК №27",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "4714001114622",
+    "uikName": "УИК №28",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "4714001114623",
+    "uikName": "УИК №29",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "4714001114624",
+    "uikName": "УИК №30",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "4714001114625",
+    "uikName": "УИК №31",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "4714001114626",
+    "uikName": "УИК №32",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "4714001114627",
+    "uikName": "УИК №33",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "4714001114628",
+    "uikName": "УИК №34",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "4714001114629",
+    "uikName": "УИК №35",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "4714001114630",
+    "uikName": "УИК №36",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "4714001114631",
+    "uikName": "УИК №37",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "4714001114632",
+    "uikName": "УИК №38",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "4714001114633",
+    "uikName": "УИК №39",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "4714001114634",
+    "uikName": "УИК №40",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "4714001114635",
+    "uikName": "УИК №41",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "4714001114636",
+    "uikName": "УИК №42",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "4714001114637",
+    "uikName": "УИК №43",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "4714001114638",
+    "uikName": "УИК №44",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "4714001114639",
+    "uikName": "УИК №45",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "4714001114640",
+    "uikName": "УИК №46",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "4714001114641",
+    "uikName": "УИК №47",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "4714001114642",
+    "uikName": "УИК №48",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "4714001114643",
+    "uikName": "УИК №49",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "4714001114644",
+    "uikName": "УИК №50",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "4714001114645",
+    "uikName": "УИК №51",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "4714001114646",
+    "uikName": "УИК №52",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "4714001114647",
+    "uikName": "УИК №53",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "4714001114648",
+    "uikName": "УИК №54",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "4714001114649",
+    "uikName": "УИК №55",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "4714001114650",
+    "uikName": "УИК №56",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "4714001114651",
+    "uikName": "УИК №57",
     "tikTvd": "2712000294409",
-    "tikName": "Алексинская"
+    "tikName": "Алексинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "4714002105406",
+    "uikName": "УИК №58",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "4714002105407",
+    "uikName": "УИК №59",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "4714002105408",
+    "uikName": "УИК №60",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "4714002105409",
+    "uikName": "УИК №61",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "4714002105410",
+    "uikName": "УИК №62",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "4714002105411",
+    "uikName": "УИК №63",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "4714002105412",
+    "uikName": "УИК №64",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "4714002105413",
+    "uikName": "УИК №65",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "4714002105414",
+    "uikName": "УИК №66",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "4714002105415",
+    "uikName": "УИК №67",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "4714002105416",
+    "uikName": "УИК №68",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "4714002105417",
+    "uikName": "УИК №69",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "4714002105418",
+    "uikName": "УИК №70",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "4714002105419",
+    "uikName": "УИК №71",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "4714002105420",
+    "uikName": "УИК №72",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "4714002105421",
+    "uikName": "УИК №73",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "4714002105422",
+    "uikName": "УИК №74",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "4714002105423",
+    "uikName": "УИК №75",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "4714002105424",
+    "uikName": "УИК №76",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "4714002105425",
+    "uikName": "УИК №77",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "4714002105426",
+    "uikName": "УИК №78",
     "tikTvd": "2712000294408",
-    "tikName": "Арсеньевская"
+    "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "4714003104369",
+    "uikName": "УИК №79",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "4714003104370",
+    "uikName": "УИК №80",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "4714003104371",
+    "uikName": "УИК №81",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "4714003104372",
+    "uikName": "УИК №82",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "4714003104373",
+    "uikName": "УИК №83",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "4714003104374",
+    "uikName": "УИК №84",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "4714003104375",
+    "uikName": "УИК №85",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "4714003104376",
+    "uikName": "УИК №86",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "4714003104377",
+    "uikName": "УИК №87",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "4714003104378",
+    "uikName": "УИК №88",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "4714003104379",
+    "uikName": "УИК №89",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "4714003104380",
+    "uikName": "УИК №90",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "4714003104381",
+    "uikName": "УИК №91",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "4714003104382",
+    "uikName": "УИК №92",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "4714003104383",
+    "uikName": "УИК №93",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "4714003104384",
+    "uikName": "УИК №94",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "4714003104385",
+    "uikName": "УИК №95",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "4714003104386",
+    "uikName": "УИК №96",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "4714003104387",
+    "uikName": "УИК №97",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "4714003104388",
+    "uikName": "УИК №98",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "4714003104389",
+    "uikName": "УИК №99",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "4714003104390",
+    "uikName": "УИК №100",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "4714003104391",
+    "uikName": "УИК №101",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4714003104392",
+    "uikName": "УИК №102",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4714003104393",
+    "uikName": "УИК №103",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4714003104394",
+    "uikName": "УИК №104",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4714003104395",
+    "uikName": "УИК №105",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4714003104396",
+    "uikName": "УИК №106",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4714003104397",
+    "uikName": "УИК №107",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4714003104398",
+    "uikName": "УИК №108",
     "tikTvd": "2712000294407",
-    "tikName": "Белевская"
+    "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4714004113554",
+    "uikName": "УИК №109",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4714004113555",
+    "uikName": "УИК №110",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4714004113556",
+    "uikName": "УИК №111",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4714004113557",
+    "uikName": "УИК №112",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4714004113558",
+    "uikName": "УИК №113",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4714004113559",
+    "uikName": "УИК №114",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4714004113560",
+    "uikName": "УИК №115",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4714004113561",
+    "uikName": "УИК №116",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4714004113562",
+    "uikName": "УИК №117",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4714004113563",
+    "uikName": "УИК №118",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4714004113564",
+    "uikName": "УИК №119",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4714004113565",
+    "uikName": "УИК №120",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4714004113566",
+    "uikName": "УИК №121",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4714004113567",
+    "uikName": "УИК №122",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4714004113568",
+    "uikName": "УИК №123",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4714004113569",
+    "uikName": "УИК №124",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4714004113570",
+    "uikName": "УИК №125",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4714004113571",
+    "uikName": "УИК №126",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4714004113572",
+    "uikName": "УИК №127",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4714004113573",
+    "uikName": "УИК №128",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4714004113574",
+    "uikName": "УИК №129",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4714004113575",
+    "uikName": "УИК №130",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4714004113576",
+    "uikName": "УИК №131",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4714004113577",
+    "uikName": "УИК №132",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4714004113578",
+    "uikName": "УИК №133",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4714004113579",
+    "uikName": "УИК №134",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4714004113580",
+    "uikName": "УИК №135",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4714004113581",
+    "uikName": "УИК №136",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4714004113582",
+    "uikName": "УИК №137",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4714004113583",
+    "uikName": "УИК №138",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4714004113584",
+    "uikName": "УИК №139",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4714004113585",
+    "uikName": "УИК №140",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4714004113586",
+    "uikName": "УИК №141",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4714004113587",
+    "uikName": "УИК №142",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4714004113588",
+    "uikName": "УИК №143",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4714004113589",
+    "uikName": "УИК №144",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4714004113590",
+    "uikName": "УИК №145",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4714004113591",
+    "uikName": "УИК №146",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4714004113592",
+    "uikName": "УИК №147",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4714004113593",
+    "uikName": "УИК №148",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4714004113594",
+    "uikName": "УИК №149",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4714004113595",
+    "uikName": "УИК №150",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4714004113596",
+    "uikName": "УИК №151",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4714004113597",
+    "uikName": "УИК №152",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4714004113598",
+    "uikName": "УИК №153",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "4714004113599",
+    "uikName": "УИК №154",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "4714004113600",
+    "uikName": "УИК №155",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "4714004113601",
+    "uikName": "УИК №156",
     "tikTvd": "2712000294406",
-    "tikName": "Богородицкая"
+    "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "4714005108796",
+    "uikName": "УИК №157",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "4714005108797",
+    "uikName": "УИК №158",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "4714005108798",
+    "uikName": "УИК №159",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "4714005108799",
+    "uikName": "УИК №160",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "4714005108800",
+    "uikName": "УИК №161",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "4714005108801",
+    "uikName": "УИК №162",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "4714005108802",
+    "uikName": "УИК №163",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "4714005108803",
+    "uikName": "УИК №164",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "4714005108804",
+    "uikName": "УИК №165",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "4714005108805",
+    "uikName": "УИК №166",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "4714005108806",
+    "uikName": "УИК №167",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "4714005108807",
+    "uikName": "УИК №168",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "4714005108808",
+    "uikName": "УИК №169",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "4714005108809",
+    "uikName": "УИК №170",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "4714005108810",
+    "uikName": "УИК №171",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "4714005108811",
+    "uikName": "УИК №172",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "4714005108812",
+    "uikName": "УИК №173",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "4714005108813",
+    "uikName": "УИК №174",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "4714005108814",
+    "uikName": "УИК №175",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "4714005108815",
+    "uikName": "УИК №176",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "4714005108816",
+    "uikName": "УИК №177",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "4714005108817",
+    "uikName": "УИК №178",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "4714005108818",
+    "uikName": "УИК №179",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "4714005108819",
+    "uikName": "УИК №180",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "4714005108820",
+    "uikName": "УИК №181",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "4714005108821",
+    "uikName": "УИК №182",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "4714005108822",
+    "uikName": "УИК №183",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "4714005108823",
+    "uikName": "УИК №184",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "4714005108824",
+    "uikName": "УИК №185",
     "tikTvd": "2712000294405",
-    "tikName": "Веневская"
+    "tikName": "Веневская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "4714006107407",
+    "uikName": "УИК №186",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "4714006107408",
+    "uikName": "УИК №187",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "4714006107409",
+    "uikName": "УИК №188",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "4714006107410",
+    "uikName": "УИК №189",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "4714006107411",
+    "uikName": "УИК №190",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "4714006107412",
+    "uikName": "УИК №191",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "4714006107413",
+    "uikName": "УИК №192",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "4714006107414",
+    "uikName": "УИК №193",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "4714006107415",
+    "uikName": "УИК №194",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "4714006107416",
+    "uikName": "УИК №195",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "4714006107417",
+    "uikName": "УИК №196",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "4714006107418",
+    "uikName": "УИК №197",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "4714006107419",
+    "uikName": "УИК №198",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "4714006107420",
+    "uikName": "УИК №199",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "4714006107421",
+    "uikName": "УИК №200",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4714006107422",
+    "uikName": "УИК №201",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4714006107423",
+    "uikName": "УИК №202",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4714006107424",
+    "uikName": "УИК №203",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4714006107425",
+    "uikName": "УИК №204",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4714006107426",
+    "uikName": "УИК №205",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4714006107427",
+    "uikName": "УИК №206",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4714006107428",
+    "uikName": "УИК №207",
     "tikTvd": "2712000294404",
-    "tikName": "Воловская"
+    "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "471400798025",
+    "uikName": "УИК №208",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "471400798026",
+    "uikName": "УИК №209",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "471400798027",
+    "uikName": "УИК №210",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "471400798028",
+    "uikName": "УИК №211",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "471400798029",
+    "uikName": "УИК №212",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "471400798030",
+    "uikName": "УИК №213",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "471400798031",
+    "uikName": "УИК №214",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "471400798032",
+    "uikName": "УИК №215",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "471400798033",
+    "uikName": "УИК №216",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "471400798034",
+    "uikName": "УИК №217",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "471400798035",
+    "uikName": "УИК №218",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "471400798036",
+    "uikName": "УИК №219",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "471400798037",
+    "uikName": "УИК №220",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "471400798038",
+    "uikName": "УИК №221",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "471400798039",
+    "uikName": "УИК №222",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "471400798040",
+    "uikName": "УИК №223",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "471400798041",
+    "uikName": "УИК №224",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "471400798042",
+    "uikName": "УИК №225",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "471400798043",
+    "uikName": "УИК №226",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "471400798044",
+    "uikName": "УИК №227",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "471400798045",
+    "uikName": "УИК №228",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "471400798046",
+    "uikName": "УИК №229",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "471400798047",
+    "uikName": "УИК №230",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "471400798048",
+    "uikName": "УИК №231",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "471400798049",
+    "uikName": "УИК №232",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "471400798050",
+    "uikName": "УИК №233",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "471400798051",
+    "uikName": "УИК №234",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "471400798052",
+    "uikName": "УИК №235",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "471400798053",
+    "uikName": "УИК №236",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "471400798054",
+    "uikName": "УИК №237",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "471400798055",
+    "uikName": "УИК №238",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "471400798056",
+    "uikName": "УИК №239",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "471400798023",
+    "uikName": "УИК №240",
     "tikTvd": "2712000294403",
-    "tikName": "Донская"
+    "tikName": "Донская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "471400898838",
+    "uikName": "УИК №241",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "471400898839",
+    "uikName": "УИК №242",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "471400898840",
+    "uikName": "УИК №243",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "471400898841",
+    "uikName": "УИК №244",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "471400898842",
+    "uikName": "УИК №245",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "471400898843",
+    "uikName": "УИК №246",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "471400898844",
+    "uikName": "УИК №247",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "471400898845",
+    "uikName": "УИК №248",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "471400898846",
+    "uikName": "УИК №249",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "471400898847",
+    "uikName": "УИК №250",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "471400898848",
+    "uikName": "УИК №251",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "471400898849",
+    "uikName": "УИК №252",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "471400898850",
+    "uikName": "УИК №253",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "471400898851",
+    "uikName": "УИК №254",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "471400898852",
+    "uikName": "УИК №255",
     "tikTvd": "2712000294402",
-    "tikName": "Дубенская"
+    "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "4714009119354",
+    "uikName": "УИК №256",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "4714009119355",
+    "uikName": "УИК №257",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "4714009119356",
+    "uikName": "УИК №258",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "4714009119357",
+    "uikName": "УИК №259",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "4714009119358",
+    "uikName": "УИК №260",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "4714009119359",
+    "uikName": "УИК №261",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "4714009119360",
+    "uikName": "УИК №262",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "4714009119361",
+    "uikName": "УИК №263",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "4714009119362",
+    "uikName": "УИК №264",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "4714009119363",
+    "uikName": "УИК №265",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "4714009119364",
+    "uikName": "УИК №266",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "4714009119365",
+    "uikName": "УИК №267",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "4714009119366",
+    "uikName": "УИК №268",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "4714009119367",
+    "uikName": "УИК №269",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "4714009119368",
+    "uikName": "УИК №270",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "4714009119369",
+    "uikName": "УИК №271",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "4714009119370",
+    "uikName": "УИК №272",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "4714009119371",
+    "uikName": "УИК №273",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "4714009119372",
+    "uikName": "УИК №274",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "4714009119373",
+    "uikName": "УИК №275",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "4714009119374",
+    "uikName": "УИК №276",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "4714009119375",
+    "uikName": "УИК №277",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "4714009119376",
+    "uikName": "УИК №278",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "4714009119377",
+    "uikName": "УИК №279",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "4714009119378",
+    "uikName": "УИК №280",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "4714009119379",
+    "uikName": "УИК №281",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "4714009119380",
+    "uikName": "УИК №282",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "4714009119381",
+    "uikName": "УИК №283",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "4714009119382",
+    "uikName": "УИК №284",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "4714009119383",
+    "uikName": "УИК №285",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "4714009119384",
+    "uikName": "УИК №286",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "4714009119385",
+    "uikName": "УИК №287",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "4714009119386",
+    "uikName": "УИК №288",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "4714009119387",
+    "uikName": "УИК №289",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "4714009119388",
+    "uikName": "УИК №290",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "4714009119389",
+    "uikName": "УИК №291",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "4714009119390",
+    "uikName": "УИК №292",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "4714009119391",
+    "uikName": "УИК №293",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "4714009119392",
+    "uikName": "УИК №294",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "4714009119393",
+    "uikName": "УИК №295",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "4714009119394",
+    "uikName": "УИК №296",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "4714009119395",
+    "uikName": "УИК №297",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "4714009119396",
+    "uikName": "УИК №298",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "4714009119397",
+    "uikName": "УИК №299",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "4714009119398",
+    "uikName": "УИК №300",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4714009119399",
+    "uikName": "УИК №301",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4714009119400",
+    "uikName": "УИК №302",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4714009119401",
+    "uikName": "УИК №303",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4714009119402",
+    "uikName": "УИК №304",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4714009119403",
+    "uikName": "УИК №305",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4714009119404",
+    "uikName": "УИК №306",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4714009119405",
+    "uikName": "УИК №307",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4714009119406",
+    "uikName": "УИК №308",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4714009119407",
+    "uikName": "УИК №309",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4714009119408",
+    "uikName": "УИК №310",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4714009119409",
+    "uikName": "УИК №311",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4714009119410",
+    "uikName": "УИК №312",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4714009119411",
+    "uikName": "УИК №313",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4714009119412",
+    "uikName": "УИК №314",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4714009119413",
+    "uikName": "УИК №315",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4714009119414",
+    "uikName": "УИК №316",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4714009119415",
+    "uikName": "УИК №317",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4714009119416",
+    "uikName": "УИК №318",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4714009119417",
+    "uikName": "УИК №319",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4714009119418",
+    "uikName": "УИК №320",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4714009119419",
+    "uikName": "УИК №321",
     "tikTvd": "2712000294401",
-    "tikName": "Ефремовская"
+    "tikName": "Ефремовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4714010109387",
+    "uikName": "УИК №322",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4714010109388",
+    "uikName": "УИК №323",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4714010109389",
+    "uikName": "УИК №324",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4714010109390",
+    "uikName": "УИК №325",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4714010109391",
+    "uikName": "УИК №326",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4714010109392",
+    "uikName": "УИК №327",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4714010109393",
+    "uikName": "УИК №328",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4714010109394",
+    "uikName": "УИК №329",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4714010109395",
+    "uikName": "УИК №330",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4714010109396",
+    "uikName": "УИК №331",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4714010109397",
+    "uikName": "УИК №332",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4714010109398",
+    "uikName": "УИК №333",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4714010109399",
+    "uikName": "УИК №334",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4714010109400",
+    "uikName": "УИК №335",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4714010109401",
+    "uikName": "УИК №336",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4714010109402",
+    "uikName": "УИК №337",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4714010109403",
+    "uikName": "УИК №338",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4714010109404",
+    "uikName": "УИК №339",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4714010109405",
+    "uikName": "УИК №340",
     "tikTvd": "2712000294400",
-    "tikName": "Заокская"
+    "tikName": "Заокская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4714011100709",
+    "uikName": "УИК №341",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4714011100710",
+    "uikName": "УИК №342",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4714011100711",
+    "uikName": "УИК №343",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4714011100712",
+    "uikName": "УИК №344",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4714011100713",
+    "uikName": "УИК №345",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4714011100714",
+    "uikName": "УИК №346",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4714011100715",
+    "uikName": "УИК №347",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4714011100716",
+    "uikName": "УИК №348",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4714011100717",
+    "uikName": "УИК №349",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4714011100718",
+    "uikName": "УИК №350",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4714011100719",
+    "uikName": "УИК №351",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4714011100720",
+    "uikName": "УИК №352",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4714011100721",
+    "uikName": "УИК №353",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4714011100707",
+    "uikName": "УИК №354",
     "tikTvd": "2712000294399",
-    "tikName": "Каменская"
+    "tikName": "Каменская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4714012117611",
+    "uikName": "УИК №355",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4714012117612",
+    "uikName": "УИК №356",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "4714012117613",
+    "uikName": "УИК №357",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "4714012117614",
+    "uikName": "УИК №358",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "4714012117615",
+    "uikName": "УИК №359",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "4714012117616",
+    "uikName": "УИК №360",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "4714012117617",
+    "uikName": "УИК №361",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "4714012117618",
+    "uikName": "УИК №362",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "4714012117619",
+    "uikName": "УИК №363",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "4714012117620",
+    "uikName": "УИК №364",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "4714012117621",
+    "uikName": "УИК №365",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "4714012117622",
+    "uikName": "УИК №366",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "4714012117623",
+    "uikName": "УИК №367",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "4714012117624",
+    "uikName": "УИК №368",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "4714012117625",
+    "uikName": "УИК №369",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "4714012117626",
+    "uikName": "УИК №370",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "4714012117627",
+    "uikName": "УИК №371",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "4714012117628",
+    "uikName": "УИК №372",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "4714012117629",
+    "uikName": "УИК №373",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "4714012117630",
+    "uikName": "УИК №374",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "4714012117631",
+    "uikName": "УИК №375",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "4714012117632",
+    "uikName": "УИК №376",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "4714012117633",
+    "uikName": "УИК №377",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "4714012117634",
+    "uikName": "УИК №378",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "4714012117635",
+    "uikName": "УИК №379",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "4714012117636",
+    "uikName": "УИК №380",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "4714012117637",
+    "uikName": "УИК №381",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "4714012117638",
+    "uikName": "УИК №382",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "4714012117639",
+    "uikName": "УИК №383",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "4714012117640",
+    "uikName": "УИК №384",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "4714012117641",
+    "uikName": "УИК №385",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "4714012117642",
+    "uikName": "УИК №386",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "4714012117643",
+    "uikName": "УИК №387",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "4714012117644",
+    "uikName": "УИК №388",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "4714012117645",
+    "uikName": "УИК №389",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "4714012117646",
+    "uikName": "УИК №390",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "4714012117647",
+    "uikName": "УИК №391",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "4714012117648",
+    "uikName": "УИК №392",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "4714012117649",
+    "uikName": "УИК №393",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "4714012117650",
+    "uikName": "УИК №394",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "4714012117651",
+    "uikName": "УИК №395",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "4714012117652",
+    "uikName": "УИК №396",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "4714012117653",
+    "uikName": "УИК №397",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "4714012117654",
+    "uikName": "УИК №398",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "4714012117655",
+    "uikName": "УИК №399",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "4714012117656",
+    "uikName": "УИК №400",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4714012117657",
+    "uikName": "УИК №401",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4714012117658",
+    "uikName": "УИК №402",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4714012117659",
+    "uikName": "УИК №403",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4714012117660",
+    "uikName": "УИК №404",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4714012117661",
+    "uikName": "УИК №405",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4714012117662",
+    "uikName": "УИК №406",
     "tikTvd": "2712000294398",
-    "tikName": "Кимовская"
+    "tikName": "Кимовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4714013129128",
+    "uikName": "УИК №407",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4714013129129",
+    "uikName": "УИК №408",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4714013129130",
+    "uikName": "УИК №409",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4714013129131",
+    "uikName": "УИК №410",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4714013129132",
+    "uikName": "УИК №411",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4714013129133",
+    "uikName": "УИК №412",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4714013129134",
+    "uikName": "УИК №413",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4714013129135",
+    "uikName": "УИК №414",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4714013129136",
+    "uikName": "УИК №415",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4714013129137",
+    "uikName": "УИК №416",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4714013129138",
+    "uikName": "УИК №417",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4714013129139",
+    "uikName": "УИК №418",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4714013129140",
+    "uikName": "УИК №419",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4714013129141",
+    "uikName": "УИК №420",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4714013129142",
+    "uikName": "УИК №421",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4714013129143",
+    "uikName": "УИК №422",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4714013129144",
+    "uikName": "УИК №423",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4714013129145",
+    "uikName": "УИК №424",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4714013129146",
+    "uikName": "УИК №425",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4714013129147",
+    "uikName": "УИК №426",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4714013129148",
+    "uikName": "УИК №427",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4714013129149",
+    "uikName": "УИК №428",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4714013129150",
+    "uikName": "УИК №429",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4714013129151",
+    "uikName": "УИК №430",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4714013129152",
+    "uikName": "УИК №431",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4714013129153",
+    "uikName": "УИК №432",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4714013129154",
+    "uikName": "УИК №433",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4714013129155",
+    "uikName": "УИК №434",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4714013129156",
+    "uikName": "УИК №435",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4714013129157",
+    "uikName": "УИК №436",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4714013129158",
+    "uikName": "УИК №437",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4714013129159",
+    "uikName": "УИК №438",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4714013129160",
+    "uikName": "УИК №439",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4714013129161",
+    "uikName": "УИК №440",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4714013129162",
+    "uikName": "УИК №441",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4714013129163",
+    "uikName": "УИК №442",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4714013129164",
+    "uikName": "УИК №443",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4714013129165",
+    "uikName": "УИК №444",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4714013129166",
+    "uikName": "УИК №445",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4714013129167",
+    "uikName": "УИК №446",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4714013129168",
+    "uikName": "УИК №447",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4714013129169",
+    "uikName": "УИК №448",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "4714013129170",
+    "uikName": "УИК №449",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "4714013129171",
+    "uikName": "УИК №450",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "4714013129172",
+    "uikName": "УИК №451",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "4714013129173",
+    "uikName": "УИК №452",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "4714013129174",
+    "uikName": "УИК №453",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "4714013129175",
+    "uikName": "УИК №454",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "4714013129176",
+    "uikName": "УИК №455",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "4714013129177",
+    "uikName": "УИК №456",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "4714013129178",
+    "uikName": "УИК №457",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "4714013129179",
+    "uikName": "УИК №458",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "4714013129180",
+    "uikName": "УИК №459",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "4714013129181",
+    "uikName": "УИК №460",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "4714013129182",
+    "uikName": "УИК №461",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "4714013129183",
+    "uikName": "УИК №462",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "4714013129184",
+    "uikName": "УИК №463",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "4714013129185",
+    "uikName": "УИК №464",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "4714013129186",
+    "uikName": "УИК №465",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "4714013129187",
+    "uikName": "УИК №466",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "4714013129188",
+    "uikName": "УИК №467",
     "tikTvd": "2712000294397",
-    "tikName": "Киреевская"
+    "tikName": "Киреевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "4714014101512",
+    "uikName": "УИК №468",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "4714014101514",
+    "uikName": "УИК №469",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "4714014101515",
+    "uikName": "УИК №470",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "4714014101516",
+    "uikName": "УИК №471",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "4714014101517",
+    "uikName": "УИК №472",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "4714014101518",
+    "uikName": "УИК №473",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "4714014101519",
+    "uikName": "УИК №474",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "4714014101520",
+    "uikName": "УИК №475",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "4714014101521",
+    "uikName": "УИК №476",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "4714014101522",
+    "uikName": "УИК №477",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "4714014101523",
+    "uikName": "УИК №478",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "4714014101524",
+    "uikName": "УИК №479",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "4714014101525",
+    "uikName": "УИК №480",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "4714014101526",
+    "uikName": "УИК №481",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "4714014101527",
+    "uikName": "УИК №482",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "4714014101528",
+    "uikName": "УИК №483",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "4714014101529",
+    "uikName": "УИК №484",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "4714014101530",
+    "uikName": "УИК №485",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "4714014101531",
+    "uikName": "УИК №486",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "4714014101532",
+    "uikName": "УИК №487",
     "tikTvd": "2712000294396",
-    "tikName": "Куркинская"
+    "tikName": "Куркинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "4714015122840",
+    "uikName": "УИК №488",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "4714015122842",
+    "uikName": "УИК №489",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "4714015122843",
+    "uikName": "УИК №490",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "4714015122844",
+    "uikName": "УИК №491",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "4714015122845",
+    "uikName": "УИК №492",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "4714015122846",
+    "uikName": "УИК №493",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "4714015122847",
+    "uikName": "УИК №494",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "4714015122848",
+    "uikName": "УИК №495",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "4714015122849",
+    "uikName": "УИК №496",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "4714015122850",
+    "uikName": "УИК №497",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "4714015122851",
+    "uikName": "УИК №498",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "4714015122852",
+    "uikName": "УИК №499",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "4714015122853",
+    "uikName": "УИК №500",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4714015122854",
+    "uikName": "УИК №501",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4714015122855",
+    "uikName": "УИК №502",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4714015122856",
+    "uikName": "УИК №503",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4714015122857",
+    "uikName": "УИК №504",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4714015122858",
+    "uikName": "УИК №505",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4714015122859",
+    "uikName": "УИК №506",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4714015122860",
+    "uikName": "УИК №507",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4714015122861",
+    "uikName": "УИК №508",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4714015122862",
+    "uikName": "УИК №509",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4714015122863",
+    "uikName": "УИК №510",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4714015122864",
+    "uikName": "УИК №511",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4714015122865",
+    "uikName": "УИК №512",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4714015122866",
+    "uikName": "УИК №513",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4714015122867",
+    "uikName": "УИК №514",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4714015122868",
+    "uikName": "УИК №515",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4714015122869",
+    "uikName": "УИК №516",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4714015122870",
+    "uikName": "УИК №517",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4714015122871",
+    "uikName": "УИК №518",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4714015122872",
+    "uikName": "УИК №519",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4714015122873",
+    "uikName": "УИК №520",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4714015122874",
+    "uikName": "УИК №521",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4714015122875",
+    "uikName": "УИК №522",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4714015122876",
+    "uikName": "УИК №523",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4714015122877",
+    "uikName": "УИК №524",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4714015122878",
+    "uikName": "УИК №525",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4714015122879",
+    "uikName": "УИК №526",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4714015122880",
+    "uikName": "УИК №527",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4714015122881",
+    "uikName": "УИК №528",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4714015122882",
+    "uikName": "УИК №529",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4714015122883",
+    "uikName": "УИК №530",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4714015122884",
+    "uikName": "УИК №531",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4714015122885",
+    "uikName": "УИК №532",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4714015122886",
+    "uikName": "УИК №533",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4714015122887",
+    "uikName": "УИК №534",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4714015122888",
+    "uikName": "УИК №535",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4714015122889",
+    "uikName": "УИК №536",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4714015122890",
+    "uikName": "УИК №537",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4714015122891",
+    "uikName": "УИК №538",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4714015122892",
+    "uikName": "УИК №539",
     "tikTvd": "2712000294395",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4714020112358",
+    "uikName": "УИК №540",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4714020112359",
+    "uikName": "УИК №541",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4714020112360",
+    "uikName": "УИК №542",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4714020112361",
+    "uikName": "УИК №543",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4714020112362",
+    "uikName": "УИК №544",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4714020112363",
+    "uikName": "УИК №545",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4714020112364",
+    "uikName": "УИК №546",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4714020112365",
+    "uikName": "УИК №547",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4714020112366",
+    "uikName": "УИК №548",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4714026115138",
+    "uikName": "УИК №549",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4714026115139",
+    "uikName": "УИК №550",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4714026115140",
+    "uikName": "УИК №551",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4714026115141",
+    "uikName": "УИК №552",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4714026115142",
+    "uikName": "УИК №553",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4714026115143",
+    "uikName": "УИК №554",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "4714026115144",
+    "uikName": "УИК №555",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "4714026115145",
+    "uikName": "УИК №556",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "4714026115146",
+    "uikName": "УИК №557",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "4714026115147",
+    "uikName": "УИК №558",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "4714026115148",
+    "uikName": "УИК №559",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "4714028127417",
+    "uikName": "УИК №560",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "4714028127421",
+    "uikName": "УИК №561",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "4714028127422",
+    "uikName": "УИК №562",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "4714028127423",
+    "uikName": "УИК №563",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "4714028127424",
+    "uikName": "УИК №564",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "4714028127425",
+    "uikName": "УИК №565",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "4714028127426",
+    "uikName": "УИК №566",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "4714028127427",
+    "uikName": "УИК №567",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "4714028127429",
+    "uikName": "УИК №568",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "4714028127430",
+    "uikName": "УИК №569",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "4714016117816",
+    "uikName": "УИК №570",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "4714016117817",
+    "uikName": "УИК №571",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "4714016117818",
+    "uikName": "УИК №572",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "4714016117819",
+    "uikName": "УИК №573",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "4714016117820",
+    "uikName": "УИК №574",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "4714016117821",
+    "uikName": "УИК №575",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "4714016117822",
+    "uikName": "УИК №576",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "4714016117823",
+    "uikName": "УИК №577",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "4714016117824",
+    "uikName": "УИК №578",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "4714016117825",
+    "uikName": "УИК №579",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "4714016117826",
+    "uikName": "УИК №580",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "4714016117827",
+    "uikName": "УИК №581",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "4714016117828",
+    "uikName": "УИК №582",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "4714016117829",
+    "uikName": "УИК №583",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "4714016117830",
+    "uikName": "УИК №584",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "4714016117831",
+    "uikName": "УИК №585",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "4714016117832",
+    "uikName": "УИК №586",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "4714016117833",
+    "uikName": "УИК №587",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "4714016117834",
+    "uikName": "УИК №588",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "4714016117835",
+    "uikName": "УИК №589",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "4714016117836",
+    "uikName": "УИК №590",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "4714016117837",
+    "uikName": "УИК №591",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "4714016117838",
+    "uikName": "УИК №592",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "4714016117839",
+    "uikName": "УИК №593",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "4714016117840",
+    "uikName": "УИК №594",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "4714016117841",
+    "uikName": "УИК №595",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "4714016117842",
+    "uikName": "УИК №596",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "4714016117843",
+    "uikName": "УИК №597",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "4714016117844",
+    "uikName": "УИК №598",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "4714016117845",
+    "uikName": "УИК №599",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "4714016117846",
+    "uikName": "УИК №600",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4714016117847",
+    "uikName": "УИК №601",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4714016117848",
+    "uikName": "УИК №602",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4714016117849",
+    "uikName": "УИК №603",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4714016117850",
+    "uikName": "УИК №604",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4714016117851",
+    "uikName": "УИК №605",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4714016117852",
+    "uikName": "УИК №606",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4714016117853",
+    "uikName": "УИК №607",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4714016117854",
+    "uikName": "УИК №608",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4714016117855",
+    "uikName": "УИК №609",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4714016117856",
+    "uikName": "УИК №610",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4714016117857",
+    "uikName": "УИК №611",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4714016117858",
+    "uikName": "УИК №612",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4714016117859",
+    "uikName": "УИК №613",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4714016117860",
+    "uikName": "УИК №614",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4714016117861",
+    "uikName": "УИК №615",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4714016117862",
+    "uikName": "УИК №616",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4714016117863",
+    "uikName": "УИК №617",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4714016117864",
+    "uikName": "УИК №618",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4714016117865",
+    "uikName": "УИК №619",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4714016117866",
+    "uikName": "УИК №620",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4714016117867",
+    "uikName": "УИК №621",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4714016117868",
+    "uikName": "УИК №622",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4714016117869",
+    "uikName": "УИК №623",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4714016117870",
+    "uikName": "УИК №624",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4714016117871",
+    "uikName": "УИК №625",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4714016117872",
+    "uikName": "УИК №626",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4714016117873",
+    "uikName": "УИК №627",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4714016117874",
+    "uikName": "УИК №628",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4714016117875",
+    "uikName": "УИК №629",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4714016117876",
+    "uikName": "УИК №630",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4714016117877",
+    "uikName": "УИК №631",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4714016117878",
+    "uikName": "УИК №632",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4714016117879",
+    "uikName": "УИК №633",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4714016117880",
+    "uikName": "УИК №634",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4714016117881",
+    "uikName": "УИК №635",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4714016117882",
+    "uikName": "УИК №636",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4714016117883",
+    "uikName": "УИК №637",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4714016117884",
+    "uikName": "УИК №638",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4714016117885",
+    "uikName": "УИК №639",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4714016117886",
+    "uikName": "УИК №640",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4714016117887",
+    "uikName": "УИК №641",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4714016117888",
+    "uikName": "УИК №642",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4714016117889",
+    "uikName": "УИК №643",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4714016117890",
+    "uikName": "УИК №644",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4714016117891",
+    "uikName": "УИК №645",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4714016117892",
+    "uikName": "УИК №646",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4714016117893",
+    "uikName": "УИК №647",
     "tikTvd": "2712000294394",
-    "tikName": "Новомосковская"
+    "tikName": "Новомосковская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "471401799021",
+    "uikName": "УИК №648",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "471401799022",
+    "uikName": "УИК №649",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "471401799023",
+    "uikName": "УИК №650",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "471401799024",
+    "uikName": "УИК №651",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "471401799025",
+    "uikName": "УИК №652",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "471401799026",
+    "uikName": "УИК №653",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "471401799027",
+    "uikName": "УИК №654",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "471401799028",
+    "uikName": "УИК №655",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "471401799029",
+    "uikName": "УИК №656",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "471401799030",
+    "uikName": "УИК №657",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "471401799031",
+    "uikName": "УИК №658",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "471401799032",
+    "uikName": "УИК №659",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "471401799033",
+    "uikName": "УИК №660",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "471401799034",
+    "uikName": "УИК №661",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "471401799035",
+    "uikName": "УИК №662",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "471401799036",
+    "uikName": "УИК №663",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "471401799037",
+    "uikName": "УИК №664",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "471401799038",
+    "uikName": "УИК №665",
     "tikTvd": "2712000294393",
-    "tikName": "Одоевская"
+    "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "4714018107079",
+    "uikName": "УИК №666",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "4714018107080",
+    "uikName": "УИК №667",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "4714018107081",
+    "uikName": "УИК №668",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "4714018107082",
+    "uikName": "УИК №669",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "4714018107083",
+    "uikName": "УИК №670",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "4714018107084",
+    "uikName": "УИК №671",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "4714018107085",
+    "uikName": "УИК №672",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "4714018107086",
+    "uikName": "УИК №673",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "4714018107087",
+    "uikName": "УИК №674",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "4714018107088",
+    "uikName": "УИК №675",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "4714018107089",
+    "uikName": "УИК №676",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "4714018107090",
+    "uikName": "УИК №677",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "4714018107091",
+    "uikName": "УИК №678",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "4714018107092",
+    "uikName": "УИК №679",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "4714018107093",
+    "uikName": "УИК №680",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "4714018107094",
+    "uikName": "УИК №681",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "4714018107095",
+    "uikName": "УИК №682",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "4714018107096",
+    "uikName": "УИК №683",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "4714018107097",
+    "uikName": "УИК №684",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "4714018107098",
+    "uikName": "УИК №685",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "4714018107099",
+    "uikName": "УИК №686",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "4714018107100",
+    "uikName": "УИК №687",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "4714018107101",
+    "uikName": "УИК №688",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "4714018107102",
+    "uikName": "УИК №689",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "4714018107103",
+    "uikName": "УИК №690",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "4714018107104",
+    "uikName": "УИК №691",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "4714018107105",
+    "uikName": "УИК №692",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "4714018107106",
+    "uikName": "УИК №693",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "4714018107107",
+    "uikName": "УИК №694",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "4714018107108",
+    "uikName": "УИК №695",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "4714018107109",
+    "uikName": "УИК №696",
     "tikTvd": "2712000294392",
-    "tikName": "Плавская"
+    "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "4714019120801",
+    "uikName": "УИК №697",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "4714019120802",
+    "uikName": "УИК №698",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "4714019120803",
+    "uikName": "УИК №699",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "4714019120804",
+    "uikName": "УИК №700",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4714019120805",
+    "uikName": "УИК №701",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4714019120806",
+    "uikName": "УИК №702",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4714019120807",
+    "uikName": "УИК №703",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4714019120808",
+    "uikName": "УИК №704",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4714019120809",
+    "uikName": "УИК №705",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4714019120810",
+    "uikName": "УИК №706",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4714019120811",
+    "uikName": "УИК №707",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4714019120812",
+    "uikName": "УИК №708",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4714019120813",
+    "uikName": "УИК №709",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4714019120814",
+    "uikName": "УИК №710",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4714019120815",
+    "uikName": "УИК №711",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4714019120816",
+    "uikName": "УИК №712",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4714019120817",
+    "uikName": "УИК №713",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4714019120818",
+    "uikName": "УИК №714",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4714019120819",
+    "uikName": "УИК №715",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4714019120820",
+    "uikName": "УИК №716",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4714019120821",
+    "uikName": "УИК №717",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4714019120822",
+    "uikName": "УИК №718",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4714019120823",
+    "uikName": "УИК №719",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4714019120824",
+    "uikName": "УИК №720",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4714019120825",
+    "uikName": "УИК №721",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4714019120826",
+    "uikName": "УИК №722",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4714019120827",
+    "uikName": "УИК №723",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4714019120828",
+    "uikName": "УИК №724",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4714019120829",
+    "uikName": "УИК №725",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4714019120830",
+    "uikName": "УИК №726",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4714019120831",
+    "uikName": "УИК №727",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4714019120832",
+    "uikName": "УИК №728",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4714019120833",
+    "uikName": "УИК №729",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4714019120834",
+    "uikName": "УИК №730",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4714019120835",
+    "uikName": "УИК №731",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4714019120836",
+    "uikName": "УИК №732",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4714019120837",
+    "uikName": "УИК №733",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4714019120838",
+    "uikName": "УИК №734",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4714019120839",
+    "uikName": "УИК №735",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4714019120840",
+    "uikName": "УИК №736",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4714019120841",
+    "uikName": "УИК №737",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4714019120842",
+    "uikName": "УИК №738",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4714019120843",
+    "uikName": "УИК №739",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4714019120844",
+    "uikName": "УИК №740",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4714019120845",
+    "uikName": "УИК №741",
     "tikTvd": "2712000294391",
-    "tikName": "Суворовская"
+    "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "4714020112367",
+    "uikName": "УИК №742",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "4714020112368",
+    "uikName": "УИК №743",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "4714020112369",
+    "uikName": "УИК №744",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "4714020112370",
+    "uikName": "УИК №745",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "4714020112371",
+    "uikName": "УИК №746",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "4714020112372",
+    "uikName": "УИК №747",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "4714020112373",
+    "uikName": "УИК №748",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "4714020112374",
+    "uikName": "УИК №749",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "4714020112375",
+    "uikName": "УИК №750",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "4714020112376",
+    "uikName": "УИК №751",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "4714020112377",
+    "uikName": "УИК №752",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "4714020112378",
+    "uikName": "УИК №753",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "4714020112379",
+    "uikName": "УИК №754",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "4714020112380",
+    "uikName": "УИК №755",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "4714020112381",
+    "uikName": "УИК №756",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "4714020112382",
+    "uikName": "УИК №757",
     "tikTvd": "2712000294390",
-    "tikName": "Тепло-Огаревская"
+    "tikName": "Тепло-Огаревская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "4714026115149",
+    "uikName": "УИК №758",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "4714026115150",
+    "uikName": "УИК №759",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "4714026115151",
+    "uikName": "УИК №760",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "4714026115152",
+    "uikName": "УИК №761",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "4714026115153",
+    "uikName": "УИК №762",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "4714026115154",
+    "uikName": "УИК №763",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "4714026115155",
+    "uikName": "УИК №764",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "4714026115156",
+    "uikName": "УИК №765",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "4714026115157",
+    "uikName": "УИК №766",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "4714026115158",
+    "uikName": "УИК №767",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "4714026115159",
+    "uikName": "УИК №768",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "4714026115160",
+    "uikName": "УИК №769",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "4714026115161",
+    "uikName": "УИК №770",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "4714026115162",
+    "uikName": "УИК №771",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 772,
     "uikTvd": "4714026115163",
+    "uikName": "УИК №772",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 773,
     "uikTvd": "4714026115164",
+    "uikName": "УИК №773",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 774,
     "uikTvd": "4714026115165",
+    "uikName": "УИК №774",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "4714026115166",
+    "uikName": "УИК №775",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "4714026115167",
+    "uikName": "УИК №776",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "4714026115168",
+    "uikName": "УИК №777",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "4714026115169",
+    "uikName": "УИК №778",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "4714026115170",
+    "uikName": "УИК №779",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "4714026115171",
+    "uikName": "УИК №780",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "4714026115172",
+    "uikName": "УИК №781",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "4714026115173",
+    "uikName": "УИК №782",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "4714026115174",
+    "uikName": "УИК №783",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "4714026115175",
+    "uikName": "УИК №784",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "4714026115176",
+    "uikName": "УИК №785",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "4714026115177",
+    "uikName": "УИК №786",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "4714026115178",
+    "uikName": "УИК №787",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "4714026115179",
+    "uikName": "УИК №788",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "4714026115180",
+    "uikName": "УИК №789",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "4714026115181",
+    "uikName": "УИК №790",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "4714026115182",
+    "uikName": "УИК №791",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "4714026115183",
+    "uikName": "УИК №792",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "4714026115184",
+    "uikName": "УИК №793",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "4714026115185",
+    "uikName": "УИК №794",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "4714026115186",
+    "uikName": "УИК №795",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "4714026115187",
+    "uikName": "УИК №796",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "4714026115188",
+    "uikName": "УИК №797",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "4714026115189",
+    "uikName": "УИК №798",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "4714026115190",
+    "uikName": "УИК №799",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "4714026115191",
+    "uikName": "УИК №800",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4714026115192",
+    "uikName": "УИК №801",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4714026115193",
+    "uikName": "УИК №802",
     "tikTvd": "2712000294384",
-    "tikName": "Узловская"
+    "tikName": "Узловская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4714027120474",
+    "uikName": "УИК №803",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4714027120475",
+    "uikName": "УИК №804",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4714027120476",
+    "uikName": "УИК №805",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4714027120477",
+    "uikName": "УИК №806",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4714027120478",
+    "uikName": "УИК №807",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4714027120479",
+    "uikName": "УИК №808",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4714027120480",
+    "uikName": "УИК №809",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4714027120481",
+    "uikName": "УИК №810",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4714027120482",
+    "uikName": "УИК №811",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4714027120483",
+    "uikName": "УИК №812",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4714027120484",
+    "uikName": "УИК №813",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4714027120485",
+    "uikName": "УИК №814",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4714027120486",
+    "uikName": "УИК №815",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4714027120487",
+    "uikName": "УИК №816",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4714027120488",
+    "uikName": "УИК №817",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4714027120489",
+    "uikName": "УИК №818",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4714027120490",
+    "uikName": "УИК №819",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4714027120491",
+    "uikName": "УИК №820",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4714027120492",
+    "uikName": "УИК №821",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4714027120493",
+    "uikName": "УИК №822",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4714027120494",
+    "uikName": "УИК №823",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "4714027120495",
+    "uikName": "УИК №824",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "4714027120496",
+    "uikName": "УИК №825",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "4714027120497",
+    "uikName": "УИК №826",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "4714027120498",
+    "uikName": "УИК №827",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "4714027120499",
+    "uikName": "УИК №828",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "4714027120500",
+    "uikName": "УИК №829",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "4714027120501",
+    "uikName": "УИК №830",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "4714027120502",
+    "uikName": "УИК №831",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "4714027120503",
+    "uikName": "УИК №832",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "4714027120504",
+    "uikName": "УИК №833",
     "tikTvd": "2712000294383",
-    "tikName": "Чернская"
+    "tikName": "Чернская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "4714028127431",
+    "uikName": "УИК №834",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "4714028127432",
+    "uikName": "УИК №835",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "4714028127433",
+    "uikName": "УИК №836",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "4714028127434",
+    "uikName": "УИК №837",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "4714028127435",
+    "uikName": "УИК №838",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "4714028127436",
+    "uikName": "УИК №839",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "4714028127437",
+    "uikName": "УИК №840",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "4714028127438",
+    "uikName": "УИК №841",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "4714028127439",
+    "uikName": "УИК №842",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "4714028127440",
+    "uikName": "УИК №843",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "4714028127441",
+    "uikName": "УИК №844",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "4714028127442",
+    "uikName": "УИК №845",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "4714028127443",
+    "uikName": "УИК №846",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "4714028127444",
+    "uikName": "УИК №847",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "4714028127445",
+    "uikName": "УИК №848",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "4714028127446",
+    "uikName": "УИК №849",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "4714028127447",
+    "uikName": "УИК №850",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "4714028127448",
+    "uikName": "УИК №851",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "4714028127449",
+    "uikName": "УИК №852",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "4714028127450",
+    "uikName": "УИК №853",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "4714028127451",
+    "uikName": "УИК №854",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "4714028127452",
+    "uikName": "УИК №855",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "4714028127453",
+    "uikName": "УИК №856",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "4714028127454",
+    "uikName": "УИК №857",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "4714028127455",
+    "uikName": "УИК №858",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "4714028127456",
+    "uikName": "УИК №859",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "4714028127457",
+    "uikName": "УИК №860",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "4714028127458",
+    "uikName": "УИК №861",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "4714028127459",
+    "uikName": "УИК №862",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "4714028127460",
+    "uikName": "УИК №863",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "4714028127461",
+    "uikName": "УИК №864",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "4714028127462",
+    "uikName": "УИК №865",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "4714028127463",
+    "uikName": "УИК №866",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "4714028127464",
+    "uikName": "УИК №867",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "4714028127465",
+    "uikName": "УИК №868",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "4714028127466",
+    "uikName": "УИК №869",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "4714028127467",
+    "uikName": "УИК №870",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "4714028127468",
+    "uikName": "УИК №871",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "4714028127469",
+    "uikName": "УИК №872",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "4714028127470",
+    "uikName": "УИК №873",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "4714028127471",
+    "uikName": "УИК №874",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "4714028127472",
+    "uikName": "УИК №875",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "4714028127473",
+    "uikName": "УИК №876",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "4714028127474",
+    "uikName": "УИК №877",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "4714028127475",
+    "uikName": "УИК №878",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "4714028127476",
+    "uikName": "УИК №879",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "4714028127477",
+    "uikName": "УИК №880",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "4714028127478",
+    "uikName": "УИК №881",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "4714028127479",
+    "uikName": "УИК №882",
     "tikTvd": "2712000294382",
-    "tikName": "Щекинская"
+    "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "4714029113254",
+    "uikName": "УИК №883",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "4714029113255",
+    "uikName": "УИК №884",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "4714029113256",
+    "uikName": "УИК №885",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "4714029113257",
+    "uikName": "УИК №886",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "4714029113258",
+    "uikName": "УИК №887",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "4714029113259",
+    "uikName": "УИК №888",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "4714029113260",
+    "uikName": "УИК №889",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "4714029113261",
+    "uikName": "УИК №890",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "4714029113262",
+    "uikName": "УИК №891",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "4714029113263",
+    "uikName": "УИК №892",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "4714029113264",
+    "uikName": "УИК №893",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "4714029113265",
+    "uikName": "УИК №894",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "4714029113266",
+    "uikName": "УИК №895",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "4714029113267",
+    "uikName": "УИК №896",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "4714029113268",
+    "uikName": "УИК №897",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "4714029113269",
+    "uikName": "УИК №898",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "4714029113270",
+    "uikName": "УИК №899",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "4714029113271",
+    "uikName": "УИК №900",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4714029113272",
+    "uikName": "УИК №901",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4714029113273",
+    "uikName": "УИК №902",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4714029113274",
+    "uikName": "УИК №903",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4714029113275",
+    "uikName": "УИК №904",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4714029113276",
+    "uikName": "УИК №905",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4714029113277",
+    "uikName": "УИК №906",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4714029113278",
+    "uikName": "УИК №907",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4714029113279",
+    "uikName": "УИК №908",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4714029113280",
+    "uikName": "УИК №909",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4714029113281",
+    "uikName": "УИК №910",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4714029113282",
+    "uikName": "УИК №911",
     "tikTvd": "2712000294381",
-    "tikName": "Ясногорская"
+    "tikName": "Ясногорская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4714021101314",
+    "uikName": "УИК №912",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4714021101315",
+    "uikName": "УИК №913",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4714021101316",
+    "uikName": "УИК №914",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4714021101317",
+    "uikName": "УИК №915",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4714021101318",
+    "uikName": "УИК №916",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4714021101319",
+    "uikName": "УИК №917",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4714021101320",
+    "uikName": "УИК №918",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4714021101321",
+    "uikName": "УИК №919",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4714021101322",
+    "uikName": "УИК №920",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4714021101323",
+    "uikName": "УИК №921",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4714021101324",
+    "uikName": "УИК №922",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4714021101325",
+    "uikName": "УИК №923",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4714021101326",
+    "uikName": "УИК №924",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4714021101327",
+    "uikName": "УИК №925",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4714021101328",
+    "uikName": "УИК №926",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4714021101329",
+    "uikName": "УИК №927",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4714021101330",
+    "uikName": "УИК №928",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4714021101331",
+    "uikName": "УИК №929",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4714021101332",
+    "uikName": "УИК №930",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4714021101333",
+    "uikName": "УИК №931",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4714021101334",
+    "uikName": "УИК №932",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4714021101335",
+    "uikName": "УИК №933",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4714021101336",
+    "uikName": "УИК №934",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4714021101337",
+    "uikName": "УИК №935",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4714021101338",
+    "uikName": "УИК №936",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4714021101339",
+    "uikName": "УИК №937",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4714021101340",
+    "uikName": "УИК №938",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4714021101341",
+    "uikName": "УИК №939",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4714021101342",
+    "uikName": "УИК №940",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4714021101343",
+    "uikName": "УИК №941",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4714021101344",
+    "uikName": "УИК №942",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4714021101345",
+    "uikName": "УИК №943",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4714021101346",
+    "uikName": "УИК №944",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4714021101347",
+    "uikName": "УИК №945",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4714021101348",
+    "uikName": "УИК №946",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4714021101349",
+    "uikName": "УИК №947",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4714021101350",
+    "uikName": "УИК №948",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4714021101351",
+    "uikName": "УИК №949",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4714021101352",
+    "uikName": "УИК №950",
     "tikTvd": "2712000294389",
-    "tikName": "Тула, Зареченская"
+    "tikName": "Тула, Зареченская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4714022101702",
+    "uikName": "УИК №951",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4714022101703",
+    "uikName": "УИК №952",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4714022101704",
+    "uikName": "УИК №953",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "4714022101705",
+    "uikName": "УИК №954",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "4714022101706",
+    "uikName": "УИК №955",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "4714022101707",
+    "uikName": "УИК №956",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "4714022101708",
+    "uikName": "УИК №957",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "4714022101709",
+    "uikName": "УИК №958",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "4714022101710",
+    "uikName": "УИК №959",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "4714022101711",
+    "uikName": "УИК №960",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "4714022101712",
+    "uikName": "УИК №961",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "4714022101713",
+    "uikName": "УИК №962",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "4714022101714",
+    "uikName": "УИК №963",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 964,
     "uikTvd": "4714022101715",
+    "uikName": "УИК №964",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "4714022101716",
+    "uikName": "УИК №965",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "4714022101717",
+    "uikName": "УИК №966",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "4714022101718",
+    "uikName": "УИК №967",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "4714022101719",
+    "uikName": "УИК №968",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "4714022101720",
+    "uikName": "УИК №969",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "4714022101721",
+    "uikName": "УИК №970",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "4714022101722",
+    "uikName": "УИК №971",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "4714022101723",
+    "uikName": "УИК №972",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "4714022101724",
+    "uikName": "УИК №973",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "4714022101725",
+    "uikName": "УИК №974",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "4714022101726",
+    "uikName": "УИК №975",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "4714022101727",
+    "uikName": "УИК №976",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "4714022101728",
+    "uikName": "УИК №977",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "4714022101729",
+    "uikName": "УИК №978",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "4714022101730",
+    "uikName": "УИК №979",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "4714022101731",
+    "uikName": "УИК №980",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "4714022101732",
+    "uikName": "УИК №981",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "4714022101733",
+    "uikName": "УИК №982",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "4714022101734",
+    "uikName": "УИК №983",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "4714022101735",
+    "uikName": "УИК №984",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "4714022101736",
+    "uikName": "УИК №985",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "4714022101737",
+    "uikName": "УИК №986",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "4714022101738",
+    "uikName": "УИК №987",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "4714022101739",
+    "uikName": "УИК №988",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "4714022101740",
+    "uikName": "УИК №989",
     "tikTvd": "2712000294388",
-    "tikName": "Тула, Привокзальная"
+    "tikName": "Тула, Привокзальная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "4714023115226",
+    "uikName": "УИК №990",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "4714023115228",
+    "uikName": "УИК №991",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "4714023115229",
+    "uikName": "УИК №992",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "4714023115230",
+    "uikName": "УИК №993",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "4714023115231",
+    "uikName": "УИК №994",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "4714023115232",
+    "uikName": "УИК №995",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "4714023115233",
+    "uikName": "УИК №996",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "4714023115234",
+    "uikName": "УИК №997",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "4714023115235",
+    "uikName": "УИК №998",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "4714023115236",
+    "uikName": "УИК №999",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4714023115237",
+    "uikName": "УИК №1000",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4714023115238",
+    "uikName": "УИК №1001",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4714023115239",
+    "uikName": "УИК №1002",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4714023115240",
+    "uikName": "УИК №1003",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4714023115241",
+    "uikName": "УИК №1004",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4714023115242",
+    "uikName": "УИК №1005",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4714023115243",
+    "uikName": "УИК №1006",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4714023115244",
+    "uikName": "УИК №1007",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4714023115245",
+    "uikName": "УИК №1008",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4714023115246",
+    "uikName": "УИК №1009",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4714023115247",
+    "uikName": "УИК №1010",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4714023115248",
+    "uikName": "УИК №1011",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4714023115249",
+    "uikName": "УИК №1012",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4714023115250",
+    "uikName": "УИК №1013",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4714023115251",
+    "uikName": "УИК №1014",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4714023115252",
+    "uikName": "УИК №1015",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4714023115253",
+    "uikName": "УИК №1016",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4714023115254",
+    "uikName": "УИК №1017",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4714023115255",
+    "uikName": "УИК №1018",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4714023115256",
+    "uikName": "УИК №1019",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4714023115257",
+    "uikName": "УИК №1020",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4714023115258",
+    "uikName": "УИК №1021",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4714023115259",
+    "uikName": "УИК №1022",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4714023115260",
+    "uikName": "УИК №1023",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4714023115261",
+    "uikName": "УИК №1024",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4714023115262",
+    "uikName": "УИК №1025",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4714023115263",
+    "uikName": "УИК №1026",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4714023115264",
+    "uikName": "УИК №1027",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4714023115265",
+    "uikName": "УИК №1028",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4714023115266",
+    "uikName": "УИК №1029",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4714023115267",
+    "uikName": "УИК №1030",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4714023115268",
+    "uikName": "УИК №1031",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4714023115269",
+    "uikName": "УИК №1032",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4714023115270",
+    "uikName": "УИК №1033",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4714023115271",
+    "uikName": "УИК №1034",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4714023115272",
+    "uikName": "УИК №1035",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4714023115273",
+    "uikName": "УИК №1036",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4714023115274",
+    "uikName": "УИК №1037",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4714023115275",
+    "uikName": "УИК №1038",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4714023115276",
+    "uikName": "УИК №1039",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4714023115277",
+    "uikName": "УИК №1040",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4714023115278",
+    "uikName": "УИК №1041",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4714023115279",
+    "uikName": "УИК №1042",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4714023115280",
+    "uikName": "УИК №1043",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4714023115281",
+    "uikName": "УИК №1044",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4714023115282",
+    "uikName": "УИК №1045",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4714023115283",
+    "uikName": "УИК №1046",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4714023115284",
+    "uikName": "УИК №1047",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4714023115285",
+    "uikName": "УИК №1048",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4714023115286",
+    "uikName": "УИК №1049",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4714023115287",
+    "uikName": "УИК №1050",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4714023115288",
+    "uikName": "УИК №1051",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4714023115289",
+    "uikName": "УИК №1052",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4714023115290",
+    "uikName": "УИК №1053",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4714023115291",
+    "uikName": "УИК №1054",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4714023115292",
+    "uikName": "УИК №1055",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4714023115293",
+    "uikName": "УИК №1056",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4714023115294",
+    "uikName": "УИК №1057",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4714023115295",
+    "uikName": "УИК №1058",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4714023115296",
+    "uikName": "УИК №1059",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4714023115297",
+    "uikName": "УИК №1060",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4714023115298",
+    "uikName": "УИК №1061",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4714023115299",
+    "uikName": "УИК №1062",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4714023115300",
+    "uikName": "УИК №1063",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4714023115301",
+    "uikName": "УИК №1064",
     "tikTvd": "2712000294387",
-    "tikName": "Тула, Пролетарская"
+    "tikName": "Тула, Пролетарская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4714024100438",
+    "uikName": "УИК №1065",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4714024100439",
+    "uikName": "УИК №1066",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4714024100440",
+    "uikName": "УИК №1067",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4714024100441",
+    "uikName": "УИК №1068",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4714024100442",
+    "uikName": "УИК №1069",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4714024100443",
+    "uikName": "УИК №1070",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4714024100444",
+    "uikName": "УИК №1071",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4714024100445",
+    "uikName": "УИК №1072",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4714024100446",
+    "uikName": "УИК №1073",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4714024100447",
+    "uikName": "УИК №1074",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4714024100448",
+    "uikName": "УИК №1075",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4714024100449",
+    "uikName": "УИК №1076",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4714024100450",
+    "uikName": "УИК №1077",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4714024100451",
+    "uikName": "УИК №1078",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4714024100452",
+    "uikName": "УИК №1079",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4714024100453",
+    "uikName": "УИК №1080",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4714024100454",
+    "uikName": "УИК №1081",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4714024100455",
+    "uikName": "УИК №1082",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4714024100456",
+    "uikName": "УИК №1083",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4714024100457",
+    "uikName": "УИК №1084",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4714024100458",
+    "uikName": "УИК №1085",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4714024100459",
+    "uikName": "УИК №1086",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4714024100460",
+    "uikName": "УИК №1087",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4714024100461",
+    "uikName": "УИК №1088",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4714024100462",
+    "uikName": "УИК №1089",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4714024100463",
+    "uikName": "УИК №1090",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4714024100464",
+    "uikName": "УИК №1091",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4714024100465",
+    "uikName": "УИК №1092",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4714024100466",
+    "uikName": "УИК №1093",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4714024100467",
+    "uikName": "УИК №1094",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4714024100468",
+    "uikName": "УИК №1095",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4714024100469",
+    "uikName": "УИК №1096",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4714024100470",
+    "uikName": "УИК №1097",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4714024100471",
+    "uikName": "УИК №1098",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4714024100472",
+    "uikName": "УИК №1099",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4714024100473",
+    "uikName": "УИК №1100",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4714024100474",
+    "uikName": "УИК №1101",
     "tikTvd": "2712000294386",
-    "tikName": "Тула, Советская"
+    "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4714025105652",
+    "uikName": "УИК №1102",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4714025105653",
+    "uikName": "УИК №1103",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4714025105654",
+    "uikName": "УИК №1104",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4714025105655",
+    "uikName": "УИК №1105",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4714025105656",
+    "uikName": "УИК №1106",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4714025105657",
+    "uikName": "УИК №1107",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4714025105612",
+    "uikName": "УИК №1108",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4714025105613",
+    "uikName": "УИК №1109",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4714025105614",
+    "uikName": "УИК №1110",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4714025105615",
+    "uikName": "УИК №1111",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4714025105616",
+    "uikName": "УИК №1112",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4714025105617",
+    "uikName": "УИК №1113",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4714025105618",
+    "uikName": "УИК №1114",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4714025105619",
+    "uikName": "УИК №1115",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4714025105620",
+    "uikName": "УИК №1116",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4714025105621",
+    "uikName": "УИК №1117",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4714025105622",
+    "uikName": "УИК №1118",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4714025105623",
+    "uikName": "УИК №1119",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4714025105624",
+    "uikName": "УИК №1120",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4714025105625",
+    "uikName": "УИК №1121",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4714025105626",
+    "uikName": "УИК №1122",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4714025105627",
+    "uikName": "УИК №1123",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4714025105628",
+    "uikName": "УИК №1124",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4714025105629",
+    "uikName": "УИК №1125",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4714025105630",
+    "uikName": "УИК №1126",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4714025105631",
+    "uikName": "УИК №1127",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4714025105632",
+    "uikName": "УИК №1128",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4714025105633",
+    "uikName": "УИК №1129",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4714025105634",
+    "uikName": "УИК №1130",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4714025105635",
+    "uikName": "УИК №1131",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4714025105636",
+    "uikName": "УИК №1132",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4714025105637",
+    "uikName": "УИК №1133",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4714025105638",
+    "uikName": "УИК №1134",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4714025105639",
+    "uikName": "УИК №1135",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4714025105640",
+    "uikName": "УИК №1136",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4714025105641",
+    "uikName": "УИК №1137",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4714025105642",
+    "uikName": "УИК №1138",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4714025105643",
+    "uikName": "УИК №1139",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4714025105644",
+    "uikName": "УИК №1140",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4714025105645",
+    "uikName": "УИК №1141",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4714025105646",
+    "uikName": "УИК №1142",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4714025105647",
+    "uikName": "УИК №1143",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4714025105648",
+    "uikName": "УИК №1144",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4714025105649",
+    "uikName": "УИК №1145",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4714025105650",
+    "uikName": "УИК №1146",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4714025114953",
+    "uikName": "УИК №1147",
     "tikTvd": "2712000294385",
-    "tikName": "Тула, Центральная"
+    "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100028713448",
+    "regionName": "Тульская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

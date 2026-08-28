@@ -12,8 +12,6 @@ __pycache__/
 
 # JavaScript
 node_modules/
-frontend/dist/
-frontend/coverage/
 proper-app/node_modules/
 proper-app/**/node_modules/
 proper-app/frontend/dist/
@@ -28,9 +26,6 @@ proper-app/research/**/__pycache__/
 
 # Local election data and generated artifacts
 data/raw/
-data/processed/
-data/exports/
-data/published-single-member-totals-2021.json
 reports/generated/
 *.sqlite
 *.sqlite3

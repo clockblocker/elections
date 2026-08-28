@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792584",
     "tikName": "Ярковская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16076,
@@ -91,6 +99,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792585",
     "tikName": "Юргинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9008,
@@ -164,6 +180,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792586",
     "tikName": "Уватская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14760,
@@ -237,6 +261,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792587",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130757,
@@ -370,6 +402,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792588",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 110520,
@@ -483,6 +523,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792589",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81753,
@@ -589,6 +637,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792590",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15981,
@@ -678,6 +734,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792591",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7966,
@@ -748,6 +812,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792592",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18900,
@@ -836,6 +908,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792593",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48731,
@@ -929,6 +1009,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792594",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24865,
@@ -1037,6 +1125,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792595",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12557,
@@ -1125,6 +1221,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792596",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16456,
@@ -1221,6 +1325,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792597",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9998,
@@ -1302,6 +1414,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792598",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100067796099",
+      "oikName": "Тюменская область – Тюменский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15437,
@@ -1399,6 +1519,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792599",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128770,
@@ -1513,6 +1641,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792600",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27787,
@@ -1584,6 +1720,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792601",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11592,
@@ -1664,6 +1808,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792602",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15223,
@@ -1754,6 +1906,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792603",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 138447,
@@ -1884,6 +2044,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792604",
     "tikName": "Тюменская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86248,
@@ -2011,6 +2179,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792605",
     "tikName": "Сладковская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9602,
@@ -2076,6 +2252,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792606",
     "tikName": "Омутинская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15291,
@@ -2152,6 +2336,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792607",
     "tikName": "Казанская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17227,
@@ -2236,6 +2428,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792608",
     "tikName": "Исетская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20018,
@@ -2323,6 +2523,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792609",
     "tikName": "Заводоуковская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37828,
@@ -2433,6 +2641,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792610",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19478,
@@ -2513,6 +2729,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792611",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9481,
@@ -2595,6 +2819,14 @@ export const duma_2016_tic_464_region_72 = [
     "ballot": "single-member",
     "tikTvd": "2722000792612",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100067796098",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100067796100",
+      "oikName": "Тюменская область – Заводоуковский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7697,

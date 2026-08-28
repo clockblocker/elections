@@ -7,1147 +7,2866 @@ export const duma_2016_uik_to_tik_region_94 = [
   {
     "uikNumber": 1,
     "uikTvd": "4944001101972",
+    "uikName": "УИК №1",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4944001101973",
+    "uikName": "УИК №2",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4944001101974",
+    "uikName": "УИК №3",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4944001101975",
+    "uikName": "УИК №4",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4944001101976",
+    "uikName": "УИК №5",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4944001101977",
+    "uikName": "УИК №6",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4944001101978",
+    "uikName": "УИК №7",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4944001101979",
+    "uikName": "УИК №8",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4944001101980",
+    "uikName": "УИК №9",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4944001101981",
+    "uikName": "УИК №10",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4944001101982",
+    "uikName": "УИК №11",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4944001101983",
+    "uikName": "УИК №12",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4944001101984",
+    "uikName": "УИК №13",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4944001101985",
+    "uikName": "УИК №14",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4944001101986",
+    "uikName": "УИК №15",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4944001101987",
+    "uikName": "УИК №16",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4944001101988",
+    "uikName": "УИК №17",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4944001101989",
+    "uikName": "УИК №18",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4944001101990",
+    "uikName": "УИК №19",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4944001101991",
+    "uikName": "УИК №20",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4944001101992",
+    "uikName": "УИК №21",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4944001101993",
+    "uikName": "УИК №22",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4944001101994",
+    "uikName": "УИК №23",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4944001101995",
+    "uikName": "УИК №24",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4944001101996",
+    "uikName": "УИК №25",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4944001101997",
+    "uikName": "УИК №26",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4944001101998",
+    "uikName": "УИК №27",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4944001101999",
+    "uikName": "УИК №28",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4944001102000",
+    "uikName": "УИК №29",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4944001102001",
+    "uikName": "УИК №30",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4944001102002",
+    "uikName": "УИК №31",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4944001102003",
+    "uikName": "УИК №32",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4944001102004",
+    "uikName": "УИК №33",
     "tikTvd": "2942000105292",
-    "tikName": "Балаклавская"
+    "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "494400289270",
+    "uikName": "УИК №36",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "494400289272",
+    "uikName": "УИК №37",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "494400289273",
+    "uikName": "УИК №38",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "494400289274",
+    "uikName": "УИК №39",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "494400289275",
+    "uikName": "УИК №40",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "494400289276",
+    "uikName": "УИК №41",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "494400289277",
+    "uikName": "УИК №42",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "494400289278",
+    "uikName": "УИК №43",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "494400289279",
+    "uikName": "УИК №44",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "494400289280",
+    "uikName": "УИК №45",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "494400289281",
+    "uikName": "УИК №46",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "494400289282",
+    "uikName": "УИК №47",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "494400289283",
+    "uikName": "УИК №48",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "494400289284",
+    "uikName": "УИК №49",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "494400289285",
+    "uikName": "УИК №50",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "494400289286",
+    "uikName": "УИК №51",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "494400289287",
+    "uikName": "УИК №52",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "494400289288",
+    "uikName": "УИК №53",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "494400289289",
+    "uikName": "УИК №54",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "494400289290",
+    "uikName": "УИК №55",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "494400289291",
+    "uikName": "УИК №56",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "494400289292",
+    "uikName": "УИК №57",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "494400289293",
+    "uikName": "УИК №58",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "494400289294",
+    "uikName": "УИК №59",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "494400289295",
+    "uikName": "УИК №60",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "494400289296",
+    "uikName": "УИК №61",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "494400289297",
+    "uikName": "УИК №62",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "494400289298",
+    "uikName": "УИК №63",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "494400289299",
+    "uikName": "УИК №64",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "494400289300",
+    "uikName": "УИК №65",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "494400289301",
+    "uikName": "УИК №66",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "494400289302",
+    "uikName": "УИК №67",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "494400289303",
+    "uikName": "УИК №68",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "494400289304",
+    "uikName": "УИК №69",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "494400289305",
+    "uikName": "УИК №70",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "494400289306",
+    "uikName": "УИК №71",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "494400289307",
+    "uikName": "УИК №72",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "494400289308",
+    "uikName": "УИК №73",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "494400289309",
+    "uikName": "УИК №74",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "494400289310",
+    "uikName": "УИК №75",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "494400289311",
+    "uikName": "УИК №76",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "494400289312",
+    "uikName": "УИК №77",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "494400289313",
+    "uikName": "УИК №78",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "494400289314",
+    "uikName": "УИК №79",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "494400289315",
+    "uikName": "УИК №80",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "494400289316",
+    "uikName": "УИК №81",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "494400289317",
+    "uikName": "УИК №82",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "494400289318",
+    "uikName": "УИК №83",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "494400289319",
+    "uikName": "УИК №84",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "494400289320",
+    "uikName": "УИК №85",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "494400289321",
+    "uikName": "УИК №86",
     "tikTvd": "2942000105293",
-    "tikName": "Гагаринская"
+    "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "494400391448",
+    "uikName": "УИК №88",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "494400391449",
+    "uikName": "УИК №89",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "494400391450",
+    "uikName": "УИК №90",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "494400391451",
+    "uikName": "УИК №91",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "494400391452",
+    "uikName": "УИК №92",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "494400391453",
+    "uikName": "УИК №93",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "494400391454",
+    "uikName": "УИК №94",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "494400391455",
+    "uikName": "УИК №95",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "494400391456",
+    "uikName": "УИК №96",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "494400391457",
+    "uikName": "УИК №97",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "494400391458",
+    "uikName": "УИК №98",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "494400391459",
+    "uikName": "УИК №99",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "494400391460",
+    "uikName": "УИК №100",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "494400391461",
+    "uikName": "УИК №101",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "494400391462",
+    "uikName": "УИК №102",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "494400391463",
+    "uikName": "УИК №103",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "494400391464",
+    "uikName": "УИК №104",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "494400391465",
+    "uikName": "УИК №105",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "494400391466",
+    "uikName": "УИК №106",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "494400391467",
+    "uikName": "УИК №107",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "494400391468",
+    "uikName": "УИК №108",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "494400391469",
+    "uikName": "УИК №109",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "494400391470",
+    "uikName": "УИК №110",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "494400391471",
+    "uikName": "УИК №111",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "494400391472",
+    "uikName": "УИК №112",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "494400391473",
+    "uikName": "УИК №113",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "494400391474",
+    "uikName": "УИК №114",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "494400391475",
+    "uikName": "УИК №115",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "494400391476",
+    "uikName": "УИК №116",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "494400391477",
+    "uikName": "УИК №117",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "494400391478",
+    "uikName": "УИК №118",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "494400391479",
+    "uikName": "УИК №119",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "494400391480",
+    "uikName": "УИК №120",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "494400391481",
+    "uikName": "УИК №121",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "494400391482",
+    "uikName": "УИК №122",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "494400391483",
+    "uikName": "УИК №123",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "494400391484",
+    "uikName": "УИК №124",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "494400391485",
+    "uikName": "УИК №125",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "494400391486",
+    "uikName": "УИК №126",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "494400391487",
+    "uikName": "УИК №127",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "494400391488",
+    "uikName": "УИК №128",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "494400391489",
+    "uikName": "УИК №129",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "494400391490",
+    "uikName": "УИК №130",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "494400391491",
+    "uikName": "УИК №131",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "494400391492",
+    "uikName": "УИК №132",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "494400391493",
+    "uikName": "УИК №133",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "494400391494",
+    "uikName": "УИК №134",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "494400391495",
+    "uikName": "УИК №135",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "494400391496",
+    "uikName": "УИК №136",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "494400391497",
+    "uikName": "УИК №137",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "494400391498",
+    "uikName": "УИК №138",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "494400391499",
+    "uikName": "УИК №139",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "494400391500",
+    "uikName": "УИК №140",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "494400391501",
+    "uikName": "УИК №141",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4944003100589",
+    "uikName": "УИК №142",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4944003100586",
+    "uikName": "УИК №143",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4944003100587",
+    "uikName": "УИК №144",
     "tikTvd": "2942000105291",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4944004101557",
+    "uikName": "УИК №145",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4944004101559",
+    "uikName": "УИК №146",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4944004101560",
+    "uikName": "УИК №147",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4944004101561",
+    "uikName": "УИК №148",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4944004101562",
+    "uikName": "УИК №149",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4944004101563",
+    "uikName": "УИК №150",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4944004101564",
+    "uikName": "УИК №151",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4944004101565",
+    "uikName": "УИК №152",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4944004101566",
+    "uikName": "УИК №153",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4944004101567",
+    "uikName": "УИК №154",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4944004101568",
+    "uikName": "УИК №155",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4944004101569",
+    "uikName": "УИК №156",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4944004101570",
+    "uikName": "УИК №157",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4944004101571",
+    "uikName": "УИК №158",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4944004101572",
+    "uikName": "УИК №159",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4944004101573",
+    "uikName": "УИК №160",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4944004101574",
+    "uikName": "УИК №161",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4944004101575",
+    "uikName": "УИК №162",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4944004101576",
+    "uikName": "УИК №163",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4944004101577",
+    "uikName": "УИК №164",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4944004101578",
+    "uikName": "УИК №165",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4944004101579",
+    "uikName": "УИК №166",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4944004101580",
+    "uikName": "УИК №167",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4944004101581",
+    "uikName": "УИК №168",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4944004101582",
+    "uikName": "УИК №169",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4944004101583",
+    "uikName": "УИК №170",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4944004101584",
+    "uikName": "УИК №171",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4944004101585",
+    "uikName": "УИК №172",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4944004101586",
+    "uikName": "УИК №173",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4944004101587",
+    "uikName": "УИК №174",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4944004101588",
+    "uikName": "УИК №175",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4944004101589",
+    "uikName": "УИК №176",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4944004101590",
+    "uikName": "УИК №177",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4944004101591",
+    "uikName": "УИК №178",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4944004101592",
+    "uikName": "УИК №179",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4944004101593",
+    "uikName": "УИК №180",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4944004101594",
+    "uikName": "УИК №181",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4944004101595",
+    "uikName": "УИК №182",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4944004101596",
+    "uikName": "УИК №183",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4944004101597",
+    "uikName": "УИК №184",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4944004101598",
+    "uikName": "УИК №185",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4944004101599",
+    "uikName": "УИК №186",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4944004101600",
+    "uikName": "УИК №187",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4944004101601",
+    "uikName": "УИК №188",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4944004101602",
+    "uikName": "УИК №189",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4944004101603",
+    "uikName": "УИК №190",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4944004101604",
+    "uikName": "УИК №191",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4944004101605",
+    "uikName": "УИК №192",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4944004101606",
+    "uikName": "УИК №193",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4944004124017",
+    "uikName": "УИК №194",
     "tikTvd": "2942000105290",
-    "tikName": "Нахимовская"
+    "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100067796163",
+    "regionName": "город Севастополь",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100067796164",
+      "oikName": "Город Севастополь – Севастопольский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

@@ -7,907 +7,1662 @@ export const president_2004_uik_to_tik_region_79 = [
   {
     "uikNumber": 1,
     "uikTvd": "479400168272",
+    "uikName": "УИК №1",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "479400168273",
+    "uikName": "УИК №2",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "479400168274",
+    "uikName": "УИК №3",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "479400168275",
+    "uikName": "УИК №4",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "479400168276",
+    "uikName": "УИК №5",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "479400168277",
+    "uikName": "УИК №6",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "479400168278",
+    "uikName": "УИК №7",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "479400168279",
+    "uikName": "УИК №8",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "479400168280",
+    "uikName": "УИК №9",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "479400168281",
+    "uikName": "УИК №10",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "479400168282",
+    "uikName": "УИК №11",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "479400168283",
+    "uikName": "УИК №12",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "479400168284",
+    "uikName": "УИК №13",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "479400168285",
+    "uikName": "УИК №14",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "479400168286",
+    "uikName": "УИК №15",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "479400168287",
+    "uikName": "УИК №16",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "479400168288",
+    "uikName": "УИК №17",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "479400168289",
+    "uikName": "УИК №18",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "479400168290",
+    "uikName": "УИК №19",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "479400168291",
+    "uikName": "УИК №20",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "479400168292",
+    "uikName": "УИК №21",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "479400168293",
+    "uikName": "УИК №22",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "479400168294",
+    "uikName": "УИК №23",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "479400168295",
+    "uikName": "УИК №24",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "479400168296",
+    "uikName": "УИК №25",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "479400168297",
+    "uikName": "УИК №26",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "479400168298",
+    "uikName": "УИК №27",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "479400168299",
+    "uikName": "УИК №28",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "479400168300",
+    "uikName": "УИК №29",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "479400168301",
+    "uikName": "УИК №30",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "479400168302",
+    "uikName": "УИК №31",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "479400168303",
+    "uikName": "УИК №32",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "479400168304",
+    "uikName": "УИК №33",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "479400168305",
+    "uikName": "УИК №34",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "479400168306",
+    "uikName": "УИК №35",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "479400168307",
+    "uikName": "УИК №36",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "479400168308",
+    "uikName": "УИК №37",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "479400168309",
+    "uikName": "УИК №38",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "479400168310",
+    "uikName": "УИК №39",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "479400168311",
+    "uikName": "УИК №40",
     "tikTvd": "279200069401",
-    "tikName": "Биробиджанская городская"
+    "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "479400367803",
+    "uikName": "УИК №41",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "479400367804",
+    "uikName": "УИК №42",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "479400367805",
+    "uikName": "УИК №43",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "479400367806",
+    "uikName": "УИК №44",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "479400367807",
+    "uikName": "УИК №45",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "479400367808",
+    "uikName": "УИК №46",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "479400367809",
+    "uikName": "УИК №47",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "479400367810",
+    "uikName": "УИК №48",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "479400367811",
+    "uikName": "УИК №49",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "479400367812",
+    "uikName": "УИК №50",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "479400367813",
+    "uikName": "УИК №51",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "479400367814",
+    "uikName": "УИК №52",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "479400367815",
+    "uikName": "УИК №53",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "479400367816",
+    "uikName": "УИК №54",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "479400367817",
+    "uikName": "УИК №55",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "479400367818",
+    "uikName": "УИК №56",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "479400367819",
+    "uikName": "УИК №57",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "479400367820",
+    "uikName": "УИК №58",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "479400367821",
+    "uikName": "УИК №59",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "479400367822",
+    "uikName": "УИК №60",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "479400367823",
+    "uikName": "УИК №61",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "479400367824",
+    "uikName": "УИК №62",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "479400367825",
+    "uikName": "УИК №63",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "479400367826",
+    "uikName": "УИК №64",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "479400367827",
+    "uikName": "УИК №65",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "479400367828",
+    "uikName": "УИК №66",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "479400367829",
+    "uikName": "УИК №67",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "479400367830",
+    "uikName": "УИК №68",
     "tikTvd": "279200069399",
-    "tikName": "Облученская"
+    "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "479400567787",
+    "uikName": "УИК №69",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "479400567788",
+    "uikName": "УИК №70",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "479400567789",
+    "uikName": "УИК №71",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "479400567790",
+    "uikName": "УИК №72",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "479400567791",
+    "uikName": "УИК №73",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "479400567792",
+    "uikName": "УИК №74",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "479400567793",
+    "uikName": "УИК №75",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "479400567794",
+    "uikName": "УИК №76",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "479400567795",
+    "uikName": "УИК №77",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "479400567796",
+    "uikName": "УИК №78",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "479400567797",
+    "uikName": "УИК №79",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "479400567798",
+    "uikName": "УИК №80",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "479400567799",
+    "uikName": "УИК №81",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "479400567800",
+    "uikName": "УИК №82",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "479400567801",
+    "uikName": "УИК №83",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "479400567802",
+    "uikName": "УИК №84",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "479400567803",
+    "uikName": "УИК №85",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "479400567804",
+    "uikName": "УИК №86",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "479400567805",
+    "uikName": "УИК №87",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "479400567806",
+    "uikName": "УИК №88",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "479400567807",
+    "uikName": "УИК №89",
     "tikTvd": "279200069397",
-    "tikName": "Смидовичская"
+    "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "479400467555",
+    "uikName": "УИК №90",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "479400467556",
+    "uikName": "УИК №91",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "479400467557",
+    "uikName": "УИК №92",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "479400467558",
+    "uikName": "УИК №93",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "479400467559",
+    "uikName": "УИК №94",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "479400467560",
+    "uikName": "УИК №95",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "479400467561",
+    "uikName": "УИК №96",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "479400467562",
+    "uikName": "УИК №97",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "479400467563",
+    "uikName": "УИК №98",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "479400467564",
+    "uikName": "УИК №99",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "479400467565",
+    "uikName": "УИК №100",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "479400467566",
+    "uikName": "УИК №101",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "479400467567",
+    "uikName": "УИК №102",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "479400467568",
+    "uikName": "УИК №103",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "479400467569",
+    "uikName": "УИК №104",
     "tikTvd": "279200069400",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "479400667709",
+    "uikName": "УИК №105",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "479400667710",
+    "uikName": "УИК №106",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "479400667711",
+    "uikName": "УИК №107",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "479400667712",
+    "uikName": "УИК №108",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "479400667713",
+    "uikName": "УИК №109",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "479400667714",
+    "uikName": "УИК №110",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "479400667715",
+    "uikName": "УИК №111",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "479400667716",
+    "uikName": "УИК №112",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "479400667717",
+    "uikName": "УИК №113",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "479400667718",
+    "uikName": "УИК №114",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "479400667719",
+    "uikName": "УИК №115",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "479400667720",
+    "uikName": "УИК №116",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "479400667721",
+    "uikName": "УИК №117",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "479400667722",
+    "uikName": "УИК №118",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "479400667723",
+    "uikName": "УИК №119",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "479400667724",
+    "uikName": "УИК №120",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "479400667725",
+    "uikName": "УИК №121",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "479400667726",
+    "uikName": "УИК №122",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "479400667727",
+    "uikName": "УИК №123",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "479400667728",
+    "uikName": "УИК №124",
     "tikTvd": "279200069396",
-    "tikName": "Биробиджанская"
+    "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "479400267964",
+    "uikName": "УИК №125",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "479400267965",
+    "uikName": "УИК №126",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "479400267966",
+    "uikName": "УИК №127",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "479400267967",
+    "uikName": "УИК №128",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "479400267968",
+    "uikName": "УИК №129",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "479400267969",
+    "uikName": "УИК №130",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "479400267970",
+    "uikName": "УИК №131",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "479400267971",
+    "uikName": "УИК №132",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "479400267972",
+    "uikName": "УИК №133",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "479400267973",
+    "uikName": "УИК №134",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "479400267974",
+    "uikName": "УИК №135",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "479400267975",
+    "uikName": "УИК №136",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "479400267976",
+    "uikName": "УИК №137",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "479400267977",
+    "uikName": "УИК №138",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "479400267978",
+    "uikName": "УИК №139",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "479400267979",
+    "uikName": "УИК №140",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "479400267980",
+    "uikName": "УИК №141",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "479400267981",
+    "uikName": "УИК №142",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "479400267982",
+    "uikName": "УИК №143",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "479400267983",
+    "uikName": "УИК №144",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "479400267984",
+    "uikName": "УИК №145",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "479400267985",
+    "uikName": "УИК №146",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "479400267986",
+    "uikName": "УИК №147",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "479400267987",
+    "uikName": "УИК №148",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "479400267988",
+    "uikName": "УИК №149",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "479400267989",
+    "uikName": "УИК №150",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "479400267990",
+    "uikName": "УИК №151",
     "tikTvd": "279200069398",
-    "tikName": "Ленинская"
+    "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "1001000882998",
+    "regionName": "Еврейская автономная область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

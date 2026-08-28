@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824626",
     "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33199,
@@ -106,6 +114,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824627",
     "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6379,
@@ -174,6 +190,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824628",
     "tikName": "Читинская - 43",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27938,
@@ -246,6 +270,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824629",
     "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25894,
@@ -332,6 +364,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824630",
     "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9667,
@@ -400,6 +440,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824631",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1029,
@@ -454,6 +502,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824632",
     "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17227,
@@ -543,6 +599,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824633",
     "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16780,
@@ -620,6 +684,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824634",
     "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8062,
@@ -689,6 +761,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824635",
     "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19684,
@@ -772,6 +852,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824636",
     "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19073,
@@ -840,6 +928,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824637",
     "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25807,
@@ -918,6 +1014,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824638",
     "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6560,
@@ -978,6 +1082,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824639",
     "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6655,
@@ -1042,6 +1154,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824640",
     "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7081,
@@ -1112,6 +1232,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824641",
     "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15650,
@@ -1197,6 +1325,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824642",
     "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7017,
@@ -1272,6 +1408,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824643",
     "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51795,
@@ -1348,6 +1492,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824644",
     "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 43,
+      "oikTvd": "100100067796157",
+      "oikName": "Забайкальский край – Читинский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101799,
@@ -1450,6 +1602,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824651",
     "tikName": "Читинская - 44",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21180,
@@ -1531,6 +1691,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824652",
     "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23017,
@@ -1608,6 +1776,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824653",
     "tikName": "Улетовская ",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15344,
@@ -1682,6 +1858,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824654",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13885,
@@ -1754,6 +1938,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824655",
     "tikName": "Ононская ",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9191,
@@ -1824,6 +2016,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824656",
     "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25863,
@@ -1909,6 +2109,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824657",
     "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19369,
@@ -1981,6 +2189,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824658",
     "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10994,
@@ -2047,6 +2263,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824659",
     "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15157,
@@ -2134,6 +2358,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824660",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46706,
@@ -2214,6 +2446,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824661",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14882,
@@ -2278,6 +2518,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824662",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10882,
@@ -2340,6 +2588,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824663",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39042,
@@ -2427,6 +2683,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824664",
     "tikName": "Акшинская ",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8635,
@@ -2492,6 +2756,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824665",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11952,
@@ -2558,6 +2830,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824666",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13387,
@@ -2627,6 +2907,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824667",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5605,
@@ -2679,6 +2967,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824668",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11736,
@@ -2734,6 +3030,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824669",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67694,
@@ -2817,6 +3121,14 @@ export const duma_2016_tic_464_region_92 = [
     "ballot": "single-member",
     "tikTvd": "2752000824670",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100067796156",
+    "regionName": "Забайкальский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100067796158",
+      "oikName": "Забайкальский край – Даурский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38786,

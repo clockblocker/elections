@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174098",
     "tikName": "Шегарская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12587,
@@ -77,6 +80,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174099",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7531,
@@ -142,6 +148,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174100",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 66062,
@@ -262,6 +271,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174101",
     "tikName": "Томск, Советская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 67719,
@@ -342,6 +354,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174102",
     "tikName": "Томск, Октябрьская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 71,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 112809,
@@ -453,6 +468,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174103",
     "tikName": "Томск, Ленинская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 74068,
@@ -538,6 +556,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174104",
     "tikName": "Томск, Кировская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 68563,
@@ -633,6 +654,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174105",
     "tikName": "Тегульдетская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4462,
@@ -686,6 +710,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174106",
     "tikName": "Cтрежевская городская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24000,
@@ -738,6 +765,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174107",
     "tikName": "Северская городская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 81151,
@@ -823,6 +853,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174108",
     "tikName": "Первомайская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12182,
@@ -893,6 +926,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174109",
     "tikName": "Парабельская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8382,
@@ -952,6 +988,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174110",
     "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8973,
@@ -1018,6 +1057,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174111",
     "tikName": "Кривошеинская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8837,
@@ -1082,6 +1124,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174112",
     "tikName": "Колпашевская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27181,
@@ -1171,6 +1216,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174113",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13620,
@@ -1242,6 +1290,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174114",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2207,
@@ -1287,6 +1338,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174115",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14515,
@@ -1357,6 +1411,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174116",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9048,
@@ -1427,6 +1484,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174117",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10095,
@@ -1482,6 +1542,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174118",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7647,
@@ -1547,6 +1610,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174119",
     "tikName": "Асиновская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23693,
@@ -1627,6 +1693,9 @@ export const president_2024_tic_227_region_70 = [
     "ballot": "presidential",
     "tikTvd": "27020001174120",
     "tikName": "Александровская",
+    "regionCode": "70",
+    "regionTvd": "100100339411262",
+    "regionName": "Томская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5251,

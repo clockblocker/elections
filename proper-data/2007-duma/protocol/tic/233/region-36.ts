@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164705",
     "tikName": "Cемилукская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50913,
@@ -120,6 +123,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164706",
     "tikName": "Новоусманская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 52697,
@@ -216,6 +222,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164707",
     "tikName": "Воронеж, Центральная",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 68549,
@@ -311,6 +320,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164708",
     "tikName": "Воронеж, Советская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 158164,
@@ -437,6 +449,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164709",
     "tikName": "Воронеж, Ленинская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 99502,
@@ -538,6 +553,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164710",
     "tikName": "Воронеж, Левобережная",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 161761,
@@ -671,6 +689,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164711",
     "tikName": "Воронеж, Коминтерновская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 99,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 225787,
@@ -824,6 +845,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164712",
     "tikName": "Воронеж, Железнодорожная",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 108055,
@@ -932,6 +956,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164713",
     "tikName": "Петропавловская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17810,
@@ -1007,6 +1034,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164714",
     "tikName": "Подгоренская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22231,
@@ -1098,6 +1128,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164715",
     "tikName": "Павловская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45363,
@@ -1202,6 +1235,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164716",
     "tikName": "Острогожская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 48488,
@@ -1313,6 +1349,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164717",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22254,
@@ -1406,6 +1445,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164718",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33835,
@@ -1500,6 +1542,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164719",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23097,
@@ -1597,6 +1642,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164720",
     "tikName": "Ольховатская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19796,
@@ -1678,6 +1726,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164721",
     "tikName": "Хохольская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26479,
@@ -1765,6 +1816,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164722",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34338,
@@ -1859,6 +1913,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164723",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18137,
@@ -1943,6 +2000,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164724",
     "tikName": "Россошанская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 74635,
@@ -2067,6 +2127,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164725",
     "tikName": "Репьевская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13883,
@@ -2140,6 +2203,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164726",
     "tikName": "Рамонская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25330,
@@ -2227,6 +2293,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164727",
     "tikName": "Верхнемамонская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16875,
@@ -2300,6 +2369,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164728",
     "tikName": "Бутурлиновская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 43085,
@@ -2398,6 +2470,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164729",
     "tikName": "Верхнехавская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20952,
@@ -2484,6 +2559,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164730",
     "tikName": "Богучарская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29516,
@@ -2584,6 +2662,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164731",
     "tikName": "Бобровская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 39694,
@@ -2682,6 +2763,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164732",
     "tikName": "Борисоглебская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 63918,
@@ -2786,6 +2870,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164733",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29998,
@@ -2879,6 +2966,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164734",
     "tikName": "Аннинская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 38655,
@@ -2990,6 +3080,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164735",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30642,
@@ -3056,6 +3149,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164736",
     "tikName": "Воробьевская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15496,
@@ -3134,6 +3230,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164737",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 83416,
@@ -3270,6 +3369,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164738",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21146,
@@ -3349,6 +3451,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164739",
     "tikName": "Нижнедевицкая",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18673,
@@ -3437,6 +3542,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164740",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46981,
@@ -3536,6 +3644,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164741",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30922,
@@ -3635,6 +3746,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164742",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16320,
@@ -3712,6 +3826,9 @@ export const duma_2007_tic_233_region_36 = [
     "ballot": "party",
     "tikTvd": "2362000164743",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100021960250",
+    "regionName": "Воронежская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26914,

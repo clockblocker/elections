@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484963",
     "tikName": "Ярославская - 194",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19151,
@@ -81,6 +89,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484964",
     "tikName": "Ярославль, Фрунзенская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103629,
@@ -192,6 +208,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484965",
     "tikName": "Ярославль, Ленинская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49164,
@@ -281,6 +305,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484966",
     "tikName": "Ярославль, Заволжская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93183,
@@ -383,6 +415,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484967",
     "tikName": "Ярославль, Дзержинская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131601,
@@ -508,6 +548,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484968",
     "tikName": "Тутаевская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46290,
@@ -600,6 +648,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484969",
     "tikName": "Рыбинская - 194",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9357,
@@ -662,6 +718,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484970",
     "tikName": "Пошехонская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11723,
@@ -741,6 +805,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484971",
     "tikName": "Первомайская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9345,
@@ -815,6 +887,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484972",
     "tikName": "Некрасовская ТИК",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18360,
@@ -898,6 +978,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484973",
     "tikName": "Любимская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10010,
@@ -975,6 +1063,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484974",
     "tikName": "Даниловская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100067796111",
+      "oikName": "Ярославская область – Ярославский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20863,
@@ -1064,6 +1160,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484975",
     "tikName": "Рыбинск, Пролетарская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80857,
@@ -1167,6 +1271,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484976",
     "tikName": "Рыбинск, Волжская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81636,
@@ -1272,6 +1384,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484977",
     "tikName": "Переславская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16237,
@@ -1355,6 +1475,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484978",
     "tikName": "Ярославская - 195",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26079,
@@ -1427,6 +1555,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484979",
     "tikName": "Ярославль, Красноперекопская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49823,
@@ -1505,6 +1641,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484980",
     "tikName": "Ярославль, Кировская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43047,
@@ -1585,6 +1729,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484981",
     "tikName": "Угличская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38059,
@@ -1684,6 +1836,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484982",
     "tikName": "Рыбинская - 195",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13724,
@@ -1748,6 +1908,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484983",
     "tikName": "Ростовская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54580,
@@ -1846,6 +2014,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484984",
     "tikName": "Переславль-Залесская городская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33572,
@@ -1918,6 +2094,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484985",
     "tikName": "Некоузская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13204,
@@ -1996,6 +2180,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484986",
     "tikName": "Мышкинская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8520,
@@ -2064,6 +2256,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484987",
     "tikName": "Гаврилов-Ямская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21536,
@@ -2142,6 +2342,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484988",
     "tikName": "Брейтовская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5903,
@@ -2206,6 +2414,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484989",
     "tikName": "Борисоглебская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10651,
@@ -2276,6 +2492,14 @@ export const duma_2016_tic_464_region_76 = [
     "ballot": "single-member",
     "tikTvd": "2762000484990",
     "tikName": "Большесельская",
+    "regionCode": "76",
+    "regionTvd": "100100067796110",
+    "regionName": "Ярославская область",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100067796112",
+      "oikName": "Ярославская область – Ростовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8018,

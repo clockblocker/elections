@@ -11,6 +11,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314655",
     "tikName": "Турочкаская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10653,
@@ -87,6 +90,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314656",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11633,
@@ -173,6 +179,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314657",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22747,
@@ -258,6 +267,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314658",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 43510,
@@ -337,6 +349,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314659",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14461,
@@ -410,6 +425,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314660",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6582,
@@ -484,6 +502,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314661",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10597,
@@ -561,6 +582,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314662",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8306,
@@ -628,6 +652,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314663",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11077,
@@ -709,6 +736,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314664",
     "tikName": "Онгудайская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11633,
@@ -791,6 +821,9 @@ export const duma_2016_tic_233_region_2 = [
     "ballot": "party",
     "tikTvd": "2042000314665",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100067795857",
+    "regionName": "Республика Алтай",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8101,

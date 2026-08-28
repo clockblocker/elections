@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761444",
     "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78192,
@@ -117,6 +125,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761445",
     "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62359,
@@ -201,6 +217,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761446",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35482,
@@ -277,6 +301,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761447",
     "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44963,
@@ -356,6 +388,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761448",
     "tikName": "Грачевская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26974,
@@ -429,6 +469,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761449",
     "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47087,
@@ -518,6 +566,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761450",
     "tikName": "Красногвардейская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29693,
@@ -590,6 +646,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761451",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18038,
@@ -655,6 +719,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761452",
     "tikName": "Петровская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 56105,
@@ -749,6 +821,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761453",
     "tikName": "Труновская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26518,
@@ -824,6 +904,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761454",
     "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 65,
+      "oikTvd": "100100067795935",
+      "oikName": "Ставропольский край – Ставропольский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 71864,
@@ -912,6 +1000,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761463",
     "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100067795936",
+      "oikName": "Ставропольский край – Невинномысский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 155537,
@@ -1033,6 +1129,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761464",
     "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100067795936",
+      "oikName": "Ставропольский край – Невинномысский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 89218,
@@ -1139,6 +1243,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761465",
     "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100067795936",
+      "oikName": "Ставропольский край – Невинномысский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23516,
@@ -1214,6 +1326,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761466",
     "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100067795936",
+      "oikName": "Ставропольский край – Невинномысский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 73381,
@@ -1318,6 +1438,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761467",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100067795936",
+      "oikName": "Ставропольский край – Невинномысский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57117,
@@ -1424,6 +1552,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761468",
     "tikName": "Новоалександровская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100067795936",
+      "oikName": "Ставропольский край – Невинномысский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46333,
@@ -1526,6 +1662,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761469",
     "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100067795936",
+      "oikName": "Ставропольский край – Невинномысский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20312,
@@ -1596,6 +1740,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761470",
     "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 67,
+      "oikTvd": "100100067795937",
+      "oikName": "Ставропольский край – Кавминводский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18205,
@@ -1662,6 +1814,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761471",
     "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 67,
+      "oikTvd": "100100067795937",
+      "oikName": "Ставропольский край – Кавминводский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 74104,
@@ -1754,6 +1914,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761472",
     "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 67,
+      "oikTvd": "100100067795937",
+      "oikName": "Ставропольский край – Кавминводский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39075,
@@ -1834,6 +2002,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761473",
     "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 67,
+      "oikTvd": "100100067795937",
+      "oikName": "Ставропольский край – Кавминводский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68196,
@@ -1918,6 +2094,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761474",
     "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 67,
+      "oikTvd": "100100067795937",
+      "oikName": "Ставропольский край – Кавминводский"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 134895,
@@ -2047,6 +2231,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761475",
     "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 67,
+      "oikTvd": "100100067795937",
+      "oikName": "Ставропольский край – Кавминводский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82166,
@@ -2146,6 +2338,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761476",
     "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 67,
+      "oikTvd": "100100067795937",
+      "oikName": "Ставропольский край – Кавминводский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 98936,
@@ -2263,6 +2463,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761477",
     "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45954,
@@ -2339,6 +2547,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761478",
     "tikName": "Апанасенковская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25075,
@@ -2408,6 +2624,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761479",
     "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18911,
@@ -2471,6 +2695,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761480",
     "tikName": "Буденновская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80110,
@@ -2569,6 +2801,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761481",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66658,
@@ -2656,6 +2896,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761482",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47586,
@@ -2731,6 +2979,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761483",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36060,
@@ -2815,6 +3071,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761484",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27986,
@@ -2884,6 +3148,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761485",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44086,
@@ -2972,6 +3244,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761486",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50244,
@@ -3062,6 +3342,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761487",
     "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15007,
@@ -3132,6 +3420,14 @@ export const duma_2016_tic_464_region_26 = [
     "ballot": "single-member",
     "tikTvd": "2262000761488",
     "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100067795934",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100067795938",
+      "oikName": "Ставропольский край – Георгиевский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19069,

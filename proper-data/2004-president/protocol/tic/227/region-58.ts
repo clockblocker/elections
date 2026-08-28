@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078521",
     "tikName": "Сердобская городская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 31333,
@@ -83,6 +86,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078522",
     "tikName": "Каменская городская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список": 32878,
@@ -148,6 +154,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078523",
     "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 14814,
@@ -228,6 +237,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078524",
     "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 31168,
@@ -317,6 +329,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078525",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 23300,
@@ -399,6 +414,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078526",
     "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 41041,
@@ -485,6 +503,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078527",
     "tikName": "Иссинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 10096,
@@ -558,6 +579,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078528",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 33127,
@@ -643,6 +667,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078529",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список": 26045,
@@ -735,6 +762,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078530",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 8343,
@@ -806,6 +836,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078531",
     "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 9084,
@@ -876,6 +909,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078532",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 14879,
@@ -946,6 +982,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078533",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 10203,
@@ -1014,6 +1053,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078534",
     "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 12419,
@@ -1093,6 +1135,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078535",
     "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 17789,
@@ -1181,6 +1226,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078536",
     "tikName": "Кузнецкая городская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 72588,
@@ -1266,6 +1314,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078537",
     "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 21233,
@@ -1339,6 +1390,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078538",
     "tikName": "Кондольская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 7917,
@@ -1407,6 +1461,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078539",
     "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 11344,
@@ -1479,6 +1536,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078540",
     "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 14740,
@@ -1552,6 +1612,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078541",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список": 18947,
@@ -1643,6 +1706,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078542",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список": 51673,
@@ -1718,6 +1784,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078543",
     "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список": 36369,
@@ -1813,6 +1882,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078544",
     "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 13738,
@@ -1884,6 +1956,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078545",
     "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список": 30923,
@@ -1973,6 +2048,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078546",
     "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 23504,
@@ -2060,6 +2138,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078547",
     "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 10553,
@@ -2140,6 +2221,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078548",
     "tikName": "Тамалинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 14901,
@@ -2209,6 +2293,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078549",
     "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 15747,
@@ -2293,6 +2380,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078550",
     "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 17192,
@@ -2369,6 +2459,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078551",
     "tikName": "Пензенская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список": 32684,
@@ -2457,6 +2550,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078552",
     "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 80531,
@@ -2542,6 +2638,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078553",
     "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список": 103653,
@@ -2644,6 +2743,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078554",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список": 149006,
@@ -2762,6 +2864,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078555",
     "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 85161,
@@ -2849,6 +2954,9 @@ export const president_2004_tic_227_region_58 = [
     "ballot": "presidential",
     "tikTvd": "258200078556",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "1001000882989",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 19655,

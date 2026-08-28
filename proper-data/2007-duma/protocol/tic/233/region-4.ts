@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143316",
     "tikName": "Баргузинская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17716,
@@ -101,6 +104,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143317",
     "tikName": "Хоринская территориальная избирательная комиссия",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13942,
@@ -183,6 +189,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143318",
     "tikName": "Улан-Удэ, Советская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 55730,
@@ -272,6 +281,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143319",
     "tikName": "Улан-Удэ, Октябрьская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 125276,
@@ -392,6 +404,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143320",
     "tikName": "Улан-Удэ, Железнодорожная",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 106545,
@@ -501,6 +516,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143321",
     "tikName": "Тункинская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13913,
@@ -590,6 +608,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143322",
     "tikName": "Тарбагатайская избирательная комиссия",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11999,
@@ -664,6 +685,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143323",
     "tikName": "Селенгинская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29518,
@@ -755,6 +779,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143324",
     "tikName": "Северобайкальская городская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19114,
@@ -821,6 +848,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143325",
     "tikName": "Северо-Байкальская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12279,
@@ -894,6 +924,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143326",
     "tikName": "Прибайкальская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21235,
@@ -987,6 +1020,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143327",
     "tikName": "Окинская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 3341,
@@ -1052,6 +1088,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143328",
     "tikName": "Мухоршибирская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18465,
@@ -1137,6 +1176,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143329",
     "tikName": "Муйская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11165,
@@ -1203,6 +1245,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143330",
     "tikName": "Кяхтинская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28609,
@@ -1308,6 +1353,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143331",
     "tikName": "Курумканская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10498,
@@ -1380,6 +1428,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143332",
     "tikName": "Кижингинская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11436,
@@ -1457,6 +1508,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143333",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 46696,
@@ -1587,6 +1641,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143334",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21797,
@@ -1665,6 +1722,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143335",
     "tikName": "Закаменская территориальная избирательная комиссия",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19220,
@@ -1750,6 +1810,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143336",
     "tikName": "Заиграевская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37247,
@@ -1849,6 +1912,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143337",
     "tikName": "Еравнинская ТИК",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10956,
@@ -1929,6 +1995,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143338",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22341,
@@ -2018,6 +2087,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143339",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19448,
@@ -2110,6 +2182,9 @@ export const duma_2007_tic_233_region_4 = [
     "ballot": "party",
     "tikTvd": "2032000143340",
     "tikName": "Баунтовская",
+    "regionCode": "4",
+    "regionTvd": "100100021960194",
+    "regionName": "Республика Бурятия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7601,

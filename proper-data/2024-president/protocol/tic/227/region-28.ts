@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282388",
     "tikName": "рабочего поселка (п.г.т.) Прогресс",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9380,
@@ -61,6 +64,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282389",
     "tikName": "города Шимановск",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13530,
@@ -113,6 +119,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282390",
     "tikName": "Шимановского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 3376,
@@ -170,6 +179,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282391",
     "tikName": "ЗАТО Циолковский",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4183,
@@ -212,6 +224,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282392",
     "tikName": "города Тында",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24556,
@@ -278,6 +293,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282393",
     "tikName": "Тындинского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10509,
@@ -338,6 +356,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282394",
     "tikName": "Тамбовского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16709,
@@ -407,6 +428,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282395",
     "tikName": "Сковородинского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18963,
@@ -467,6 +491,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282396",
     "tikName": "Серышевского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16077,
@@ -539,6 +566,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282397",
     "tikName": "Селемджинского района",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8350,
@@ -594,6 +624,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282398",
     "tikName": "города Свободный",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 39176,
@@ -660,6 +693,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282399",
     "tikName": "Свободненского района",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10438,
@@ -732,6 +768,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282400",
     "tikName": "Ромненского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6092,
@@ -793,6 +832,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282401",
     "tikName": "города Райчихинск",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15040,
@@ -845,6 +887,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282402",
     "tikName": "Октябрьского района",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12246,
@@ -914,6 +959,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282403",
     "tikName": "Михайловского района",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9052,
@@ -974,6 +1022,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282404",
     "tikName": "Мазановского района",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8103,
@@ -1039,6 +1090,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282405",
     "tikName": "Магдагачинского района",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15762,
@@ -1098,6 +1152,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282406",
     "tikName": "Константиновского района",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8720,
@@ -1156,6 +1213,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282407",
     "tikName": "Ивановского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16853,
@@ -1224,6 +1284,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282408",
     "tikName": "города Зея",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17341,
@@ -1277,6 +1340,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282409",
     "tikName": "Зейского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12843,
@@ -1343,6 +1409,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282410",
     "tikName": "Завитинского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10872,
@@ -1401,6 +1470,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282411",
     "tikName": "Бурейского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16360,
@@ -1462,6 +1534,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282412",
     "tikName": "города Благовещенск",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 106,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 177552,
@@ -1608,6 +1683,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282413",
     "tikName": "Благовещенского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25457,
@@ -1678,6 +1756,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282414",
     "tikName": "города Белогорск ",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 46563,
@@ -1746,6 +1827,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282415",
     "tikName": "Белогорского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12022,
@@ -1815,6 +1899,9 @@ export const president_2024_tic_227_region_28 = [
     "ballot": "presidential",
     "tikTvd": "22820001282416",
     "tikName": "Архаринского округа",
+    "regionCode": "28",
+    "regionTvd": "100100339411222",
+    "regionName": "Амурская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10825,

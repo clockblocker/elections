@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447675",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6743,
@@ -65,6 +68,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447676",
     "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1871,
@@ -113,6 +119,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447677",
     "tikName": "Вилючинская ",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17335,
@@ -173,6 +182,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447679",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2905,
@@ -225,6 +237,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447680",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7674,
@@ -278,6 +293,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447681",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 123,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5201,
@@ -445,6 +463,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447682",
     "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47293,
@@ -524,6 +545,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447683",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4609,
@@ -576,6 +600,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447684",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5982,
@@ -628,6 +655,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447685",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1690,
@@ -679,6 +709,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447686",
     "tikName": "Алеутская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 499,
@@ -724,6 +757,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447687",
     "tikName": "Быстринская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2054,
@@ -770,6 +806,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447688",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2855,
@@ -820,6 +859,9 @@ export const president_2018_tic_227_region_91 = [
     "ballot": "presidential",
     "tikTvd": "2412000447689",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100084849208",
+    "regionName": "Камчатский край",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 132334,

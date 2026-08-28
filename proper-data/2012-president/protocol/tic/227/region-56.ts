@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385310",
     "tikName": "Шарлыкская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15781,
@@ -98,6 +101,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385311",
     "tikName": "Тюльганская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17878,
@@ -173,6 +179,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385312",
     "tikName": "Тоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26653,
@@ -267,6 +276,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385313",
     "tikName": "Ясненская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17625,
@@ -335,6 +347,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385314",
     "tikName": "Сорочинская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12352,
@@ -413,6 +428,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385315",
     "tikName": "Асекеевская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17966,
@@ -494,6 +512,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385316",
     "tikName": "Беляевская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15132,
@@ -569,6 +590,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385317",
     "tikName": "Акбулакская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21312,
@@ -651,6 +675,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385318",
     "tikName": "Адамовская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22285,
@@ -740,6 +767,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385319",
     "tikName": "Александровская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14638,
@@ -833,6 +863,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385320",
     "tikName": "Абдулинская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27189,
@@ -915,6 +948,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385321",
     "tikName": "Кваркенская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16366,
@@ -999,6 +1035,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385322",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21801,
@@ -1074,6 +1113,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385323",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18473,
@@ -1165,6 +1207,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385324",
     "tikName": "Гайская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8610,
@@ -1241,6 +1286,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385325",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12152,
@@ -1312,6 +1360,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385326",
     "tikName": "Домбаровская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13941,
@@ -1388,6 +1439,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385327",
     "tikName": "Бугурусланская городская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40734,
@@ -1458,6 +1512,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385328",
     "tikName": "Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18193,
@@ -1545,6 +1602,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385329",
     "tikName": "Бузулукская городская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 64619,
@@ -1632,6 +1692,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385330",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28311,
@@ -1735,6 +1798,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385331",
     "tikName": "Новоорская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25489,
@@ -1805,6 +1871,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385332",
     "tikName": "Новотроицкая городская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 81986,
@@ -1906,6 +1975,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385333",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10752,
@@ -1981,6 +2053,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385334",
     "tikName": "Медногорская городская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24376,
@@ -2054,6 +2129,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385335",
     "tikName": "Курманаевская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16447,
@@ -2131,6 +2209,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385336",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 21875,
@@ -2223,6 +2304,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385337",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23141,
@@ -2316,6 +2400,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385338",
     "tikName": "Орск, Советская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60981,
@@ -2405,6 +2492,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385339",
     "tikName": "Оренбургская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58792,
@@ -2510,6 +2600,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385340",
     "tikName": "Орск, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 58584,
@@ -2590,6 +2683,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385341",
     "tikName": "Оренбург, Центральная",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 80446,
@@ -2673,6 +2769,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385342",
     "tikName": "Оренбург, Дзержинская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 127330,
@@ -2777,6 +2876,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385343",
     "tikName": "Оренбург, Ленинская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 145763,
@@ -2889,6 +2991,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385344",
     "tikName": "Оренбург, Промышленная",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 90198,
@@ -2983,6 +3088,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385345",
     "tikName": "Сорочинская городская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23572,
@@ -3045,6 +3153,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385346",
     "tikName": "Соль-Илецкая",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43350,
@@ -3145,6 +3256,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385347",
     "tikName": "Ташлинская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20412,
@@ -3237,6 +3351,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385348",
     "tikName": "Светлинская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11922,
@@ -3298,6 +3415,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385349",
     "tikName": "Саракташская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 33886,
@@ -3393,6 +3513,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385350",
     "tikName": "Северная",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12703,
@@ -3474,6 +3597,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385351",
     "tikName": "Кувандыкская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40041,
@@ -3585,6 +3711,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385352",
     "tikName": "Пономаревская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12734,
@@ -3661,6 +3790,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385353",
     "tikName": "Сакмарская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 22461,
@@ -3731,6 +3863,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385354",
     "tikName": "Бузулукская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27325,
@@ -3827,6 +3962,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385355",
     "tikName": "Бугурусланская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17372,
@@ -3922,6 +4060,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385356",
     "tikName": "Гайская городская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 32420,
@@ -3991,6 +4132,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385357",
     "tikName": "Орск, Октябрьская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 75669,
@@ -4076,6 +4220,9 @@ export const president_2012_tic_227_region_56 = [
     "ballot": "presidential",
     "tikTvd": "2562000385358",
     "tikName": "ЗАТО Комаровская",
+    "regionCode": "56",
+    "regionTvd": "100100031793879",
+    "regionName": "Оренбургская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6606,

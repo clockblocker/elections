@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131867",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4110,
@@ -70,6 +73,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131868",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15636,
@@ -137,6 +143,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131869",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9499,
@@ -203,6 +212,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131870",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5693,
@@ -267,6 +279,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131871",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19203,
@@ -332,6 +347,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131872",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8908,
@@ -399,6 +417,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131873",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11510,
@@ -462,6 +483,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131874",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12103,
@@ -528,6 +552,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131875",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4337,
@@ -586,6 +613,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131876",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22789,
@@ -664,6 +694,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131877",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5235,
@@ -723,6 +756,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131878",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 60477,
@@ -830,6 +866,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131879",
     "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12635,
@@ -896,6 +935,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131880",
     "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 40140,
@@ -986,6 +1028,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131881",
     "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13626,
@@ -1054,6 +1099,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131882",
     "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 17508,
@@ -1126,6 +1174,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131883",
     "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 4083,
@@ -1182,6 +1233,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131884",
     "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11721,
@@ -1244,6 +1298,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131885",
     "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 45707,
@@ -1332,6 +1389,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131886",
     "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 23770,
@@ -1406,6 +1466,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131887",
     "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 84,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 186384,
@@ -1537,6 +1600,9 @@ export const president_2008_tic_227_region_53 = [
     "ballot": "presidential",
     "tikTvd": "2532000131888",
     "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100022250001",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6428,

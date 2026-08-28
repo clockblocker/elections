@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256002",
     "tikName": "Волгодонская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 130461,
@@ -118,6 +121,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256003",
     "tikName": "Цимлянская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29327,
@@ -202,6 +208,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256004",
     "tikName": "Целинская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27933,
@@ -286,6 +295,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256005",
     "tikName": "Семикаракорская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41747,
@@ -379,6 +391,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256006",
     "tikName": "Сальская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 85181,
@@ -490,6 +505,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256007",
     "tikName": "Ремонтненская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14135,
@@ -562,6 +580,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256008",
     "tikName": "Пролетарская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26152,
@@ -640,6 +661,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256009",
     "tikName": "Песчанокопская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26289,
@@ -715,6 +739,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256010",
     "tikName": "Орловская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30328,
@@ -813,6 +840,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256011",
     "tikName": "Морозовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 35610,
@@ -912,6 +942,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256012",
     "tikName": "Мартыновская ТИК",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 28180,
@@ -1010,6 +1043,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256013",
     "tikName": "Зимовниковская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26747,
@@ -1094,6 +1130,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256014",
     "tikName": "Зерноградская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 50556,
@@ -1211,6 +1250,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256015",
     "tikName": "Заветинская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10714,
@@ -1278,6 +1320,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256016",
     "tikName": "Егорлыкская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29348,
@@ -1355,6 +1400,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256017",
     "tikName": "Дубовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16832,
@@ -1430,6 +1478,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256018",
     "tikName": "Волгодонская  районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22450,
@@ -1513,6 +1564,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256019",
     "tikName": "Веселовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19548,
@@ -1591,6 +1645,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256020",
     "tikName": "Шолоховская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22122,
@@ -1683,6 +1740,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256021",
     "tikName": "Чертковская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29929,
@@ -1780,6 +1840,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256022",
     "tikName": "Тацинская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30716,
@@ -1868,6 +1931,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256023",
     "tikName": "Тарасовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24149,
@@ -1973,6 +2039,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256024",
     "tikName": "Советская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 5284,
@@ -2040,6 +2109,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256025",
     "tikName": "Обливская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15208,
@@ -2117,6 +2189,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256026",
     "tikName": "Милютинская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13264,
@@ -2199,6 +2274,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256027",
     "tikName": "Миллеровская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 56137,
@@ -2313,6 +2391,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256028",
     "tikName": "Красносулинская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 67718,
@@ -2432,6 +2513,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256029",
     "tikName": "Константиновская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26812,
@@ -2533,6 +2617,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256030",
     "tikName": "Кашарская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20266,
@@ -2624,6 +2711,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256031",
     "tikName": "Каменская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 39837,
@@ -2729,6 +2819,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256032",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 76215,
@@ -2828,6 +2921,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256033",
     "tikName": "Зверевская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19277,
@@ -2894,6 +2990,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256034",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 40605,
@@ -2974,6 +3073,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256035",
     "tikName": "Гуковская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 55310,
@@ -3065,6 +3167,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256036",
     "tikName": "Верхнедонская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17465,
@@ -3162,6 +3267,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256037",
     "tikName": "Боковская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12323,
@@ -3243,6 +3351,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256038",
     "tikName": "Белокалитвинская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 87155,
@@ -3372,6 +3483,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256039",
     "tikName": "Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 97,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 180488,
@@ -3523,6 +3637,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256040",
     "tikName": "Усть-Донецкая районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23177,
@@ -3600,6 +3717,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256041",
     "tikName": "Родионово-Несветайская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18156,
@@ -3676,6 +3796,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256042",
     "tikName": "Октябрьская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 55069,
@@ -3779,6 +3902,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256043",
     "tikName": "Новошахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 75367,
@@ -3888,6 +4014,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256044",
     "tikName": "Новочеркасская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 141384,
@@ -4009,6 +4138,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256045",
     "tikName": "Матвеево-Курганская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36487,
@@ -4098,6 +4230,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256046",
     "tikName": "Куйбышевская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12012,
@@ -4168,6 +4303,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256047",
     "tikName": "Кагальницкая районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24537,
@@ -4263,6 +4401,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256048",
     "tikName": "Багаевская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26445,
@@ -4342,6 +4483,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256049",
     "tikName": "Аксайская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 71097,
@@ -4461,6 +4605,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256050",
     "tikName": "Ростов-на-Дону, Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 93968,
@@ -4568,6 +4715,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256051",
     "tikName": "Ростов-на-Дону, Первомайская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 130600,
@@ -4680,6 +4830,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256052",
     "tikName": "Ростов-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 110279,
@@ -4785,6 +4938,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256053",
     "tikName": "Ростов-на-Дону, Ленинская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 53809,
@@ -4865,6 +5021,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256054",
     "tikName": "Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 52224,
@@ -4944,6 +5103,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256055",
     "tikName": "Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 68348,
@@ -5034,6 +5196,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256056",
     "tikName": "Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 150499,
@@ -5155,6 +5320,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256057",
     "tikName": "ТИК города Таганрога",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 123,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 230073,
@@ -5332,6 +5500,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256058",
     "tikName": "Ростов-на-Дону, Советская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 124982,
@@ -5440,6 +5611,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256059",
     "tikName": "Неклиновская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 65820,
@@ -5572,6 +5746,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256060",
     "tikName": "Мясниковская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30161,
@@ -5650,6 +5827,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256061",
     "tikName": "Батайская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 84464,
@@ -5754,6 +5934,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256062",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 70381,
@@ -5889,6 +6072,9 @@ export const duma_2007_tic_233_region_61 = [
     "ballot": "party",
     "tikTvd": "2612000256063",
     "tikName": "Азовская городская",
+    "regionCode": "61",
+    "regionTvd": "100100021960299",
+    "regionName": "Ростовская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 64077,

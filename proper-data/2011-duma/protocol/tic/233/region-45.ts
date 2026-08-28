@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377848",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17460,
@@ -97,6 +100,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377849",
     "tikName": "Щучанская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19695,
@@ -194,6 +200,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377850",
     "tikName": "Шумихинская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24530,
@@ -289,6 +298,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377851",
     "tikName": "Шатровская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15897,
@@ -379,6 +391,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377852",
     "tikName": "Шадринская городская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 60675,
@@ -471,6 +486,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377853",
     "tikName": "Шадринская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23809,
@@ -577,6 +595,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377854",
     "tikName": "Частоозерская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 5210,
@@ -648,6 +669,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377855",
     "tikName": "Целинная",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15178,
@@ -741,6 +765,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377856",
     "tikName": "Сафакулевская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11255,
@@ -824,6 +851,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377857",
     "tikName": "Притобольная",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13024,
@@ -903,6 +933,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377858",
     "tikName": "Половинская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11103,
@@ -984,6 +1017,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377859",
     "tikName": "Петуховская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18170,
@@ -1077,6 +1113,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377860",
     "tikName": "Мокроусовская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10117,
@@ -1166,6 +1205,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377861",
     "tikName": "Мишкинская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15408,
@@ -1251,6 +1293,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377862",
     "tikName": "Макушинская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16000,
@@ -1341,6 +1386,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377863",
     "tikName": "Лебяжьевская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14298,
@@ -1432,6 +1480,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377864",
     "tikName": "Куртамышская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 26932,
@@ -1537,6 +1588,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377865",
     "tikName": "Курганская Западная",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 140976,
@@ -1659,6 +1713,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377866",
     "tikName": "Курганская Восточная",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 138462,
@@ -1787,6 +1844,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377867",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 42535,
@@ -1892,6 +1952,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377868",
     "tikName": "Катайская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20640,
@@ -1986,6 +2049,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377869",
     "tikName": "Каргапольская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24629,
@@ -2081,6 +2147,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377870",
     "tikName": "Звериноголовская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8186,
@@ -2149,6 +2218,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377871",
     "tikName": "Далматовская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 24977,
@@ -2246,6 +2318,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377872",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16613,
@@ -2333,6 +2408,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377873",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14564,
@@ -2429,6 +2507,9 @@ export const duma_2011_tic_233_region_45 = [
     "ballot": "party",
     "tikTvd": "2452000377874",
     "tikName": "Альменевская",
+    "regionCode": "45",
+    "regionTvd": "100100028713386",
+    "regionName": "Курганская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9720,

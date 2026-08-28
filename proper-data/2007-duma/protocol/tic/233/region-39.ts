@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134278",
     "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 125662,
@@ -120,6 +123,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134279",
     "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 54553,
@@ -236,6 +242,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134280",
     "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27611,
@@ -313,6 +322,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134281",
     "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24205,
@@ -387,6 +399,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134282",
     "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26173,
@@ -464,6 +479,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134283",
     "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41346,
@@ -549,6 +567,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134284",
     "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 32904,
@@ -628,6 +649,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134285",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 29811,
@@ -702,6 +726,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134286",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11947,
@@ -775,6 +802,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134287",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14093,
@@ -843,6 +873,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134288",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15873,
@@ -912,6 +945,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134289",
     "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9375,
@@ -974,6 +1010,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134290",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 63341,
@@ -1056,6 +1095,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134291",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16906,
@@ -1130,6 +1172,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134292",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 12663,
@@ -1200,6 +1245,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134293",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9933,
@@ -1268,6 +1316,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134294",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 68184,
@@ -1351,6 +1402,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134295",
     "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34320,
@@ -1418,6 +1472,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134296",
     "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 44052,
@@ -1508,6 +1565,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134297",
     "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 32594,
@@ -1582,6 +1642,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134298",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14842,
@@ -1656,6 +1719,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134299",
     "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22714,
@@ -1725,6 +1791,9 @@ export const duma_2007_tic_233_region_39 = [
     "ballot": "party",
     "tikTvd": "2392000134300",
     "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17943,

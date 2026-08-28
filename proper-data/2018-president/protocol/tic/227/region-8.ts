@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464483",
     "tikName": "Малодербетовская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7465,
@@ -67,6 +70,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464484",
     "tikName": "Сарпинская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8822,
@@ -126,6 +132,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464485",
     "tikName": "Лаганская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13156,
@@ -193,6 +202,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464486",
     "tikName": "Юстинская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6801,
@@ -252,6 +264,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464487",
     "tikName": "Черноземельская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8202,
@@ -309,6 +324,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464488",
     "tikName": "Приютненская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7820,
@@ -365,6 +383,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464489",
     "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7006,
@@ -425,6 +446,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464490",
     "tikName": "Яшкульская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9769,
@@ -484,6 +508,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464491",
     "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 13404,
@@ -546,6 +573,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464492",
     "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10899,
@@ -605,6 +635,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464493",
     "tikName": "Городовиковская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12419,
@@ -672,6 +705,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464494",
     "tikName": "Ики-Бурульская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7285,
@@ -730,6 +766,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464495",
     "tikName": "Элистинская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 83146,
@@ -824,6 +863,9 @@ export const president_2018_tic_227_region_8 = [
     "ballot": "presidential",
     "tikTvd": "2082000464496",
     "tikName": "Октябрьская",
+    "regionCode": "8",
+    "regionTvd": "100100084849134",
+    "regionName": "Республика Калмыкия",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5718,

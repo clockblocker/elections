@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167209",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11534,
@@ -86,6 +89,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167210",
     "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13186,
@@ -161,6 +167,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167211",
     "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7308,
@@ -227,6 +236,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167212",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 113,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 254973,
@@ -387,6 +399,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167213",
     "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 31557,
@@ -484,6 +499,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167214",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 24846,
@@ -565,6 +583,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167215",
     "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11726,
@@ -630,6 +651,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167216",
     "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 6914,
@@ -691,6 +715,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167217",
     "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14897,
@@ -762,6 +789,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167218",
     "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 20034,
@@ -843,6 +873,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167219",
     "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15078,
@@ -923,6 +956,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167220",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 43946,
@@ -1015,6 +1051,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167221",
     "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10824,
@@ -1086,6 +1125,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167222",
     "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7841,
@@ -1155,6 +1197,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167223",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 8526,
@@ -1226,6 +1271,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167224",
     "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 19259,
@@ -1307,6 +1355,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167225",
     "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11468,
@@ -1379,6 +1430,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167226",
     "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15482,
@@ -1456,6 +1510,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167227",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18762,
@@ -1544,6 +1601,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167228",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 5589,
@@ -1602,6 +1662,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167229",
     "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 14160,
@@ -1671,6 +1734,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167230",
     "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13675,
@@ -1746,6 +1812,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167231",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15140,
@@ -1824,6 +1893,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167232",
     "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22807,
@@ -1915,6 +1987,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167233",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 28818,
@@ -2003,6 +2078,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167234",
     "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 37983,
@@ -2094,6 +2172,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167235",
     "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 143,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 247342,
@@ -2284,6 +2365,9 @@ export const president_2008_tic_227_region_35 = [
     "ballot": "presidential",
     "tikTvd": "2352000167236",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100022249969",
+    "regionName": "Вологодская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 49557,

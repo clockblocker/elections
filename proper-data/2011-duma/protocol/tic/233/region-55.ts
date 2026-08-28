@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296216",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13500,
@@ -102,6 +105,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296217",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31095,
@@ -214,6 +220,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296218",
     "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19394,
@@ -302,6 +311,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296219",
     "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10368,
@@ -380,6 +392,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296220",
     "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 36293,
@@ -485,6 +500,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296221",
     "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9765,
@@ -560,6 +578,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296222",
     "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6993,
@@ -627,6 +648,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296223",
     "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33445,
@@ -732,6 +756,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296224",
     "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16832,
@@ -826,6 +853,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296225",
     "tikName": "Большереченская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23566,
@@ -932,6 +962,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296226",
     "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16361,
@@ -1009,6 +1042,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296229",
     "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10541,
@@ -1093,6 +1129,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296230",
     "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 159082,
@@ -1222,6 +1261,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296231",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20135,
@@ -1329,6 +1371,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296232",
     "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13635,
@@ -1428,6 +1473,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296233",
     "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12364,
@@ -1496,6 +1544,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296234",
     "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18452,
@@ -1580,6 +1631,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296235",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17858,
@@ -1677,6 +1731,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296236",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19730,
@@ -1764,6 +1821,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296237",
     "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10390,
@@ -1844,6 +1904,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296238",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22815,
@@ -1941,6 +2004,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296239",
     "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20426,
@@ -2048,6 +2114,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296240",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28004,
@@ -2145,6 +2214,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296241",
     "tikName": " Тевризская ТИК",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 12024,
@@ -2229,6 +2301,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296242",
     "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 34626,
@@ -2357,6 +2432,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296243",
     "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14917,
@@ -2446,6 +2524,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296244",
     "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8785,
@@ -2528,6 +2609,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296245",
     "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16403,
@@ -2608,6 +2692,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296246",
     "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17117,
@@ -2698,6 +2785,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296247",
     "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15476,
@@ -2781,6 +2871,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296248",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 77015,
@@ -2904,6 +2997,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296251",
     "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17888,
@@ -2990,6 +3086,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296252",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 22686,
@@ -3086,6 +3185,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296253",
     "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 139734,
@@ -3210,6 +3312,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296254",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 193402,
@@ -3350,6 +3455,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296255",
     "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 123,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 224455,
@@ -3522,6 +3630,9 @@ export const duma_2011_tic_233_region_55 = [
     "ballot": "party",
     "tikTvd": "2552000296256",
     "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100028713411",
+    "regionName": "Омская область",
     "uikCount": 95,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 199022,

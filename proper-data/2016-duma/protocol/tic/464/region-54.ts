@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234727",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44945,
@@ -86,6 +94,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234728",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112022,
@@ -206,6 +222,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234729",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 144613,
@@ -329,6 +353,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234730",
     "tikName": "Обская городская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21380,
@@ -394,6 +426,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234731",
     "tikName": "Венгеровская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15587,
@@ -491,6 +531,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234732",
     "tikName": "Колыванская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20439,
@@ -579,6 +627,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234733",
     "tikName": "Куйбышевская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 46553,
@@ -686,6 +742,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234734",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10282,
@@ -772,6 +836,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234735",
     "tikName": "Новосибирская - 135",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30561,
@@ -845,6 +917,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234736",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8264,
@@ -917,6 +997,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234737",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31669,
@@ -1032,6 +1120,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234738",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12663,
@@ -1115,6 +1211,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234739",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9497,
@@ -1199,6 +1303,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234740",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20095,
@@ -1309,6 +1421,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234741",
     "tikName": "Чистоозерная",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100067796032",
+      "oikName": "Новосибирская область – Новосибирский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14653,
@@ -1398,6 +1518,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234742",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119248,
@@ -1523,6 +1651,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234743",
     "tikName": "Новосибирск, Октябрьская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 82,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 164545,
@@ -1656,6 +1792,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234744",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 54135,
@@ -1740,6 +1884,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234745",
     "tikName": "Кольцовская поселковая",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12181,
@@ -1796,6 +1948,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234746",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22853,
@@ -1887,6 +2047,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234747",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20664,
@@ -1976,6 +2144,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234748",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32643,
@@ -2069,6 +2245,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234749",
     "tikName": "Новосибирская - 136",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23999,
@@ -2138,6 +2322,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234750",
     "tikName": "Тогучинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 45737,
@@ -2251,6 +2443,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234751",
     "tikName": "Черепановская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100067796033",
+      "oikName": "Новосибирская область – Центральный"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38762,
@@ -2356,6 +2556,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234752",
     "tikName": "Новосибирск, Первомайская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64391,
@@ -2443,6 +2651,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234753",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102250,
@@ -2549,6 +2765,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234754",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 82439,
@@ -2648,6 +2872,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234755",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47636,
@@ -2734,6 +2966,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234756",
     "tikName": "Баганская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12756,
@@ -2830,6 +3070,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234757",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 50839,
@@ -2963,6 +3211,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234758",
     "tikName": "Карасукская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36500,
@@ -3070,6 +3326,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234759",
     "tikName": "Кочковская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12060,
@@ -3138,6 +3402,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234760",
     "tikName": "Краснозерская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27682,
@@ -3242,6 +3514,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234761",
     "tikName": "Новосибирская - 137",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26667,
@@ -3309,6 +3589,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234762",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31422,
@@ -3401,6 +3689,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234763",
     "tikName": "Сузунская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100067796034",
+      "oikName": "Новосибирская область – Искитимский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25756,
@@ -3489,6 +3785,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234764",
     "tikName": "Новосибирск, Кировская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 139522,
@@ -3605,6 +3909,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234765",
     "tikName": "Новосибирск, Ленинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 110,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 221103,
@@ -3766,6 +4078,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234766",
     "tikName": "Барабинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35452,
@@ -3878,6 +4198,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234767",
     "tikName": "Доволенская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14834,
@@ -3958,6 +4286,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234768",
     "tikName": "Здвинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12648,
@@ -4038,6 +4374,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234769",
     "tikName": "Каргатская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15620,
@@ -4125,6 +4469,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234770",
     "tikName": "Коченевская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35248,
@@ -4227,6 +4579,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234771",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24452,
@@ -4331,6 +4691,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234772",
     "tikName": "Новосибирская - 138",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20479,
@@ -4399,6 +4767,14 @@ export const duma_2016_tic_464_region_54 = [
     "ballot": "single-member",
     "tikTvd": "25420001234773",
     "tikName": "Чулымская",
+    "regionCode": "54",
+    "regionTvd": "100100067796031",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 138,
+      "oikTvd": "100100067796035",
+      "oikName": "Новосибирская область – Барабинский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19277,

@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127716",
     "tikName": "Волоконовская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27776,
@@ -104,6 +107,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127717",
     "tikName": "Грайворонская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23484,
@@ -196,6 +202,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127718",
     "tikName": "Вейделевская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18523,
@@ -281,6 +290,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127719",
     "tikName": "Валуйская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 54636,
@@ -404,6 +416,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127720",
     "tikName": "Белгородская районная",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 79724,
@@ -531,6 +546,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127721",
     "tikName": "Белгородская городская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 166,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 288137,
@@ -751,6 +769,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127722",
     "tikName": "Алексеевская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 52108,
@@ -859,6 +880,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127723",
     "tikName": "Борисовская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20659,
@@ -939,6 +963,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127724",
     "tikName": "Ракитянская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26593,
@@ -1021,6 +1048,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127725",
     "tikName": "Новооскольская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36188,
@@ -1121,6 +1151,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127726",
     "tikName": "Краснояружская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11488,
@@ -1192,6 +1225,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127727",
     "tikName": "Прохоровская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22905,
@@ -1293,6 +1329,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127728",
     "tikName": "Красненская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11047,
@@ -1371,6 +1410,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127729",
     "tikName": "Корочанская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 31282,
@@ -1469,6 +1511,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127730",
     "tikName": "Красногвардейская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 33509,
@@ -1586,6 +1631,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127731",
     "tikName": "Ивнянская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18965,
@@ -1663,6 +1711,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127732",
     "tikName": "Губкинская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 85573,
@@ -1811,6 +1862,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127733",
     "tikName": "Яковлевская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 41338,
@@ -1913,6 +1967,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127734",
     "tikName": "Шебекинская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 72452,
@@ -2041,6 +2098,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127735",
     "tikName": "Чернянская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26184,
@@ -2138,6 +2198,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127736",
     "tikName": "Старооскольская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 130,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 206136,
@@ -2322,6 +2385,9 @@ export const duma_2007_tic_233_region_31 = [
     "ballot": "party",
     "tikTvd": "2312000127737",
     "tikName": "Ровеньская",
+    "regionCode": "31",
+    "regionTvd": "100100021960242",
+    "regionName": "Белгородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19005,

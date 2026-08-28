@@ -11,6 +11,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198379",
     "tikName": "Ялуторовская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11404,
@@ -84,6 +87,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198380",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9335,
@@ -155,6 +161,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198381",
     "tikName": "Сладковская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9176,
@@ -213,6 +222,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198382",
     "tikName": "Тюмень, Ленинская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 110443,
@@ -318,6 +330,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198383",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 23809,
@@ -416,6 +431,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198384",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 79417,
@@ -512,6 +530,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198385",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9079,
@@ -587,6 +608,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198386",
     "tikName": "Ярковская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15461,
@@ -657,6 +681,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198387",
     "tikName": "Уватская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15892,
@@ -720,6 +747,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198388",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14685,
@@ -807,6 +837,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198389",
     "tikName": "Юргинская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8837,
@@ -870,6 +903,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198390",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7361,
@@ -936,6 +972,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198391",
     "tikName": "Упоровская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14982,
@@ -1019,6 +1058,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198392",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15278,
@@ -1105,6 +1147,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198393",
     "tikName": "Заводоуковская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 37337,
@@ -1208,6 +1253,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198394",
     "tikName": "Казанская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 16711,
@@ -1285,6 +1333,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198395",
     "tikName": "Тюменская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 76,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 90155,
@@ -1405,6 +1456,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198396",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14908,
@@ -1478,6 +1532,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198397",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19049,
@@ -1548,6 +1605,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198398",
     "tikName": "Омутинская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14353,
@@ -1617,6 +1677,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198399",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7246,
@@ -1675,6 +1738,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198400",
     "tikName": "Исетская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19543,
@@ -1755,6 +1821,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198401",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18771,
@@ -1833,6 +1902,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198402",
     "tikName": "Тюмень, Центральная",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 122450,
@@ -1955,6 +2027,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198403",
     "tikName": "Тюмень, Калининская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 145357,
@@ -2082,6 +2157,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198404",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 47523,
@@ -2164,6 +2242,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198405",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11548,
@@ -2242,6 +2323,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198406",
     "tikName": "Тюмень, Восточная",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 131095,
@@ -2353,6 +2437,9 @@ export const president_2018_tic_227_region_72 = [
     "ballot": "presidential",
     "tikTvd": "27220001198407",
     "tikName": "Ялуторовская городская",
+    "regionCode": "72",
+    "regionTvd": "100100084849196",
+    "regionName": "Тюменская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 27591,

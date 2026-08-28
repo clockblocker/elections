@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305237",
     "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15925,
@@ -71,6 +74,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305238",
     "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 32429,
@@ -151,6 +157,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305239",
     "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 20686,
@@ -236,6 +245,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305240",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28685,
@@ -314,6 +326,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305241",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 95214,
@@ -414,6 +429,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305242",
     "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 96741,
@@ -511,6 +529,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305243",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 83203,
@@ -607,6 +628,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305244",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 90793,
@@ -692,6 +716,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305245",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 87690,
@@ -777,6 +804,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305246",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 75260,
@@ -866,6 +896,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305247",
     "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13655,
@@ -941,6 +974,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305248",
     "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14946,
@@ -1030,6 +1066,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305249",
     "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 13761,
@@ -1104,6 +1143,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305250",
     "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11885,
@@ -1174,6 +1216,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305251",
     "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19046,
@@ -1248,6 +1293,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305252",
     "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10412,
@@ -1323,6 +1371,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305253",
     "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11783,
@@ -1397,6 +1448,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305254",
     "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17571,
@@ -1473,6 +1527,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305255",
     "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11991,
@@ -1544,6 +1601,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305256",
     "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21780,
@@ -1628,6 +1688,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305257",
     "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 31043,
@@ -1726,6 +1789,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305258",
     "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 21738,
@@ -1813,6 +1879,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305259",
     "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18271,
@@ -1891,6 +1960,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305260",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19312,
@@ -1972,6 +2044,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305261",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 28496,
@@ -2072,6 +2147,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305262",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 101997,
@@ -2174,6 +2252,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305263",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16156,
@@ -2248,6 +2329,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305264",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 35603,
@@ -2356,6 +2440,9 @@ export const duma_2011_tic_233_region_73 = [
     "ballot": "party",
     "tikTvd": "2732000305265",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100028713450",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7899,

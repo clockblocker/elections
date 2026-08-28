@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693373",
     "tikName": "Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4725,
@@ -56,6 +59,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693374",
     "tikName": "Ногликская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9995,
@@ -104,6 +110,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693375",
     "tikName": "Долинская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18892,
@@ -159,6 +168,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693376",
     "tikName": "Смирныховская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7038,
@@ -208,6 +220,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693377",
     "tikName": "Углегорская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14642,
@@ -264,6 +279,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693378",
     "tikName": "Невельская судовая",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2725,
@@ -366,6 +384,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693379",
     "tikName": "Поронайская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15995,
@@ -418,6 +439,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693380",
     "tikName": "Южно-Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7203,
@@ -467,6 +491,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693381",
     "tikName": "Южно-Сахалинская городская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 88,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 153988,
@@ -595,6 +622,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693382",
     "tikName": "Невельская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12340,
@@ -644,6 +674,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693383",
     "tikName": "Корсаковская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30591,
@@ -736,6 +769,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693384",
     "tikName": "Тымовская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10546,
@@ -791,6 +827,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693385",
     "tikName": "Холмская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 29068,
@@ -856,6 +895,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693386",
     "tikName": "Охинская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18010,
@@ -914,6 +956,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693387",
     "tikName": "Томаринская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7230,
@@ -965,6 +1010,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693388",
     "tikName": "Александровск-Сахалинская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7923,
@@ -1015,6 +1063,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693389",
     "tikName": "Холмская судовая",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 735,
@@ -1090,6 +1141,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693390",
     "tikName": "Анивская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12363,
@@ -1147,6 +1201,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693391",
     "tikName": "Макаровская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5069,
@@ -1194,6 +1251,9 @@ export const president_2024_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "2652000693392",
     "tikName": "Северо-Курильская",
+    "regionCode": "65",
+    "regionTvd": "100100339411257",
+    "regionName": "Сахалинская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1686,

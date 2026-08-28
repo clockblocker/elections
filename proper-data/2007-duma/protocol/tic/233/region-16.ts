@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186698",
     "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 49192,
@@ -116,6 +119,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186699",
     "tikName": "Чистопольская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15239,
@@ -212,6 +218,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186700",
     "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18939,
@@ -320,6 +329,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186701",
     "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 16002,
@@ -413,6 +425,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186702",
     "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 20672,
@@ -499,6 +514,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186703",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25515,
@@ -600,6 +618,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186704",
     "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 13186,
@@ -693,6 +714,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186705",
     "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10867,
@@ -782,6 +806,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186706",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 102071,
@@ -889,6 +916,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186707",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 81092,
@@ -991,6 +1021,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186708",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 77296,
@@ -1086,6 +1119,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186709",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 45782,
@@ -1201,6 +1237,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186710",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19227,
@@ -1293,6 +1332,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186711",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 34940,
@@ -1399,6 +1441,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186712",
     "tikName": "Верхнеуслонская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14129,
@@ -1493,6 +1538,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186713",
     "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14218,
@@ -1560,6 +1608,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186714",
     "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19266,
@@ -1681,6 +1732,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186715",
     "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10420,
@@ -1760,6 +1814,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186716",
     "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36719,
@@ -1879,6 +1936,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186717",
     "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15848,
@@ -1990,6 +2050,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186718",
     "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15464,
@@ -2093,6 +2156,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186719",
     "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19676,
@@ -2197,6 +2263,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186720",
     "tikName": "Тюлячинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10756,
@@ -2279,6 +2348,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186721",
     "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24580,
@@ -2376,6 +2448,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186722",
     "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23705,
@@ -2470,6 +2545,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186723",
     "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22077,
@@ -2575,6 +2653,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186724",
     "tikName": "Набережные Челны, Центральная",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 147695,
@@ -2688,6 +2769,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186725",
     "tikName": "Набережные Челны, Комсомольская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 101840,
@@ -2787,6 +2871,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186726",
     "tikName": "Набережные Челны, Автозаводская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 130145,
@@ -2894,6 +2981,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186727",
     "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15561,
@@ -2984,6 +3074,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186728",
     "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21311,
@@ -3091,6 +3184,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186729",
     "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21024,
@@ -3182,6 +3278,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186730",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 32752,
@@ -3298,6 +3397,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186731",
     "tikName": "Кукморская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 37961,
@@ -3421,6 +3523,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186732",
     "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 48153,
@@ -3513,6 +3618,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186733",
     "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 7650,
@@ -3590,6 +3698,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186734",
     "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 24585,
@@ -3676,6 +3787,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186735",
     "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22249,
@@ -3776,6 +3890,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186736",
     "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 25742,
@@ -3880,6 +3997,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186737",
     "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17596,
@@ -3966,6 +4086,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186738",
     "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 14057,
@@ -4054,6 +4177,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186739",
     "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27129,
@@ -4164,6 +4290,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186740",
     "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 22932,
@@ -4233,6 +4362,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186741",
     "tikName": "Нурлатская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 18594,
@@ -4331,6 +4463,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186742",
     "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10845,
@@ -4412,6 +4547,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186743",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 159148,
@@ -4546,6 +4684,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186744",
     "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 26765,
@@ -4634,6 +4775,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186745",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 48478,
@@ -4714,6 +4858,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186746",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17237,
@@ -4801,6 +4948,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186747",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 30271,
@@ -4880,6 +5030,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186748",
     "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 11441,
@@ -4973,6 +5126,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186749",
     "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 65544,
@@ -5080,6 +5236,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186750",
     "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15355,
@@ -5164,6 +5323,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186751",
     "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 15884,
@@ -5233,6 +5395,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186752",
     "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 10295,
@@ -5309,6 +5474,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186753",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 107423,
@@ -5420,6 +5588,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186754",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 36195,
@@ -5527,6 +5698,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186755",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 21792,
@@ -5630,6 +5804,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186756",
     "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 27881,
@@ -5704,6 +5881,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186757",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 23668,
@@ -5800,6 +5980,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186758",
     "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 102,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 201005,
@@ -5956,6 +6139,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186759",
     "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 166536,
@@ -6083,6 +6269,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186760",
     "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 170834,
@@ -6224,6 +6413,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186761",
     "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 70260,
@@ -6329,6 +6521,9 @@ export const duma_2007_tic_233_region_16 = [
     "ballot": "party",
     "tikTvd": "2162000186762",
     "tikName": "Казань, Авиастроительная",
+    "regionCode": "16",
+    "regionTvd": "100100021960208",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 87134,

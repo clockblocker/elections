@@ -11,6 +11,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253674",
     "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15383,
@@ -67,6 +70,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253675",
     "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17375,
@@ -145,6 +151,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253676",
     "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 34904,
@@ -216,6 +225,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253677",
     "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60149,
@@ -301,6 +313,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253678",
     "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 69566,
@@ -393,6 +408,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253679",
     "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 4105,
@@ -456,6 +474,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253680",
     "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 40743,
@@ -529,6 +550,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253681",
     "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35904,
@@ -597,6 +621,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253682",
     "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28742,
@@ -663,6 +690,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253683",
     "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25792,
@@ -740,6 +770,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253684",
     "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10374,
@@ -794,6 +827,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253685",
     "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 57400,
@@ -873,6 +909,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253686",
     "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48034,
@@ -947,6 +986,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253687",
     "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 1858,
@@ -1005,6 +1047,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253688",
     "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10632,
@@ -1072,6 +1117,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253689",
     "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30262,
@@ -1145,6 +1193,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253690",
     "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28840,
@@ -1207,6 +1258,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253691",
     "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 28200,
@@ -1275,6 +1329,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253692",
     "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 36196,
@@ -1343,6 +1400,9 @@ export const president_2012_tic_227_region_20 = [
     "ballot": "presidential",
     "tikTvd": "2202000253693",
     "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100031793914",
+    "regionName": "Чеченская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 30982,

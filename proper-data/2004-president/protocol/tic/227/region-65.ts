@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075581",
     "tikName": "Невельская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список": 18337,
@@ -72,6 +75,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075582",
     "tikName": "Ногликская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список": 10624,
@@ -128,6 +134,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075583",
     "tikName": "Макаровская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список": 7909,
@@ -183,6 +192,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075584",
     "tikName": "Корсаковская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 31253,
@@ -261,6 +273,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075585",
     "tikName": "Курильская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список": 5590,
@@ -314,6 +329,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075586",
     "tikName": "Долинская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 22074,
@@ -381,6 +399,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075587",
     "tikName": "Холмская ",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 36524,
@@ -461,6 +482,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075588",
     "tikName": "Анивская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 11684,
@@ -523,6 +547,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075589",
     "tikName": "Александровск-Сахалинская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 13247,
@@ -586,6 +613,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075590",
     "tikName": "Тымовская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 13969,
@@ -656,6 +686,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075591",
     "tikName": "Томаринская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список": 8102,
@@ -719,6 +752,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075592",
     "tikName": "Углегорская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список": 23434,
@@ -793,6 +829,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075593",
     "tikName": "Поронайская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список": 22408,
@@ -861,6 +900,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075594",
     "tikName": "Северо-Курильская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 2,
     "accounting": {
       "Число действительных избирательных бюллетеней": 1268,
@@ -896,6 +938,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075595",
     "tikName": "Смирныховская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список": 9743,
@@ -956,6 +1001,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075596",
     "tikName": "Охинская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 24930,
@@ -1027,6 +1075,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075597",
     "tikName": "Южно-Курильская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список": 6667,
@@ -1081,6 +1132,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075598",
     "tikName": "Южно-Сахалинская городская",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список": 137748,
@@ -1208,6 +1262,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075599",
     "tikName": "Невельская судовая",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 129,
     "accounting": {
       "Число избирателей, внесенных в список": 3315,
@@ -1385,6 +1442,9 @@ export const president_2004_tic_227_region_65 = [
     "ballot": "presidential",
     "tikTvd": "265200075600",
     "tikName": "Холмская судовая",
+    "regionCode": "65",
+    "regionTvd": "1001000883017",
+    "regionName": "Сахалинская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в список": 1625,

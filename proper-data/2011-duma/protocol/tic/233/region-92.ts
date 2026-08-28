@@ -11,6 +11,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284713",
     "tikName": "Улетовская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16049,
@@ -84,6 +87,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284715",
     "tikName": "Дульдургинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10429,
@@ -146,6 +152,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284716",
     "tikName": "Могойтуйская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 18489,
@@ -218,6 +227,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284717",
     "tikName": "Чита, Железнодорожная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 37329,
@@ -282,6 +294,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284719",
     "tikName": "Чита, Центральная",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 91132,
@@ -374,6 +389,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284720",
     "tikName": "Чита, Черновская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 60902,
@@ -456,6 +474,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284722",
     "tikName": "Акшинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8781,
@@ -521,6 +542,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284723",
     "tikName": "Кыринская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11056,
@@ -588,6 +612,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284724",
     "tikName": "Красночикойская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15529,
@@ -674,6 +701,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284725",
     "tikName": "Калганская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6904,
@@ -734,6 +764,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284726",
     "tikName": "Краснокаменская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 49501,
@@ -815,6 +848,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284727",
     "tikName": "Карымская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25983,
@@ -893,6 +929,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284728",
     "tikName": "Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 15515,
@@ -957,6 +996,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284732",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 1016,
@@ -1011,6 +1053,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284735",
     "tikName": "Сретенская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 17070,
@@ -1100,6 +1145,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284737",
     "tikName": "Нерчинско-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 8427,
@@ -1170,6 +1218,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284740",
     "tikName": "Оловяннинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 27018,
@@ -1256,6 +1307,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284741",
     "tikName": "Балейская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16536,
@@ -1342,6 +1396,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284744",
     "tikName": "Читинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 48143,
@@ -1445,6 +1502,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284745",
     "tikName": "Шелопугинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6716,
@@ -1514,6 +1574,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284746",
     "tikName": "Шилкинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 33987,
@@ -1608,6 +1671,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284748",
     "tikName": "Хилокская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 23698,
@@ -1683,6 +1749,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284749",
     "tikName": "Чернышевская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 25979,
@@ -1769,6 +1838,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000284750",
     "tikName": "Александрово-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7345,
@@ -1845,6 +1917,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313733",
     "tikName": "Борзинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 40600,
@@ -1933,6 +2008,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313734",
     "tikName": "Агинская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10080,
@@ -1986,6 +2064,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313735",
     "tikName": "Агинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 11130,
@@ -2052,6 +2133,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313736",
     "tikName": "Газимуро-Заводская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 7396,
@@ -2124,6 +2208,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313737",
     "tikName": "ЗАТО п. Горный",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6519,
@@ -2176,6 +2263,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313738",
     "tikName": "Каларская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 6927,
@@ -2240,6 +2330,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313739",
     "tikName": "Могочинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19633,
@@ -2307,6 +2400,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313740",
     "tikName": "Нерчинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 19435,
@@ -2394,6 +2490,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313741",
     "tikName": "Ононская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 9187,
@@ -2464,6 +2563,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313742",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14182,
@@ -2533,6 +2635,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313743",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 14410,
@@ -2605,6 +2710,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313744",
     "tikName": "Приаргунская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 16958,
@@ -2682,6 +2790,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313745",
     "tikName": "Тунгокоченская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 10230,
@@ -2751,6 +2862,9 @@ export const duma_2011_tic_233_region_92 = [
     "ballot": "party",
     "tikTvd": "2752000313746",
     "tikName": "Чита, Ингодинская",
+    "regionCode": "92",
+    "regionTvd": "100100028713484",
+    "regionName": "Забайкальский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей": 52282,

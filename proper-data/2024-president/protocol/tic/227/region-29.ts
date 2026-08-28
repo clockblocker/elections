@@ -11,6 +11,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099973",
     "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10017,
@@ -75,6 +78,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099974",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 15937,
@@ -139,6 +145,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099975",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 19848,
@@ -209,6 +218,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099976",
     "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20026,
@@ -277,6 +289,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099977",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 26956,
@@ -352,6 +367,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099978",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17093,
@@ -434,6 +452,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099979",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20669,
@@ -509,6 +530,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099980",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 18888,
@@ -574,6 +598,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099981",
     "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 6619,
@@ -631,6 +658,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099982",
     "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 5462,
@@ -689,6 +719,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099983",
     "tikName": "Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 8379,
@@ -750,6 +783,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099984",
     "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 9157,
@@ -808,6 +844,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099985",
     "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12747,
@@ -866,6 +905,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099986",
     "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 14394,
@@ -933,6 +975,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099987",
     "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 12032,
@@ -999,6 +1044,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099988",
     "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 10611,
@@ -1058,6 +1106,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099989",
     "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 7389,
@@ -1114,6 +1165,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099990",
     "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 11128,
@@ -1174,6 +1228,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099991",
     "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 35366,
@@ -1261,6 +1318,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099992",
     "tikName": "Северодвинская городская № 2",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 60311,
@@ -1342,6 +1402,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099993",
     "tikName": "Северодвинская городская № 1",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 63063,
@@ -1424,6 +1487,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099994",
     "tikName": "Новоземельская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 2016,
@@ -1470,6 +1536,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099995",
     "tikName": "Новодвинская городская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 25705,
@@ -1524,6 +1593,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099996",
     "tikName": "Мирнинская городская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 17496,
@@ -1581,6 +1653,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099997",
     "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48355,
@@ -1653,6 +1728,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099998",
     "tikName": "Коряжемская городская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 24644,
@@ -1713,6 +1791,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002099999",
     "tikName": "Архангельск, Южная",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 52433,
@@ -1780,6 +1861,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002100000",
     "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 48811,
@@ -1852,6 +1936,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002100001",
     "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 87,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 55304,
@@ -1979,6 +2066,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002100002",
     "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 43123,
@@ -2044,6 +2134,9 @@ export const president_2024_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "22920002100003",
     "tikName": "Архангельск, Исакогорская ",
+    "regionCode": "29",
+    "regionTvd": "100100339411223",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в список избирателей": 20806,

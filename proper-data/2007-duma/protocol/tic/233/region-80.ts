@@ -11,6 +11,9 @@ export const duma_2007_tic_233_region_80 = [
     "ballot": "party",
     "tikTvd": "280200088006",
     "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100021960355",
+    "regionName": "Агинский Бурятский автономный округ",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 17313,
@@ -87,6 +90,9 @@ export const duma_2007_tic_233_region_80 = [
     "ballot": "party",
     "tikTvd": "280200088007",
     "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100021960355",
+    "regionName": "Агинский Бурятский автономный округ",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 9687,
@@ -154,6 +160,9 @@ export const duma_2007_tic_233_region_80 = [
     "ballot": "party",
     "tikTvd": "280200088008",
     "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100021960355",
+    "regionName": "Агинский Бурятский автономный округ",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки избирателей": 19575,

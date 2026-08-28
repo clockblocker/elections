@@ -7,3265 +7,8161 @@ export const duma_2016_uik_to_tik_region_53 = [
   {
     "uikNumber": 101,
     "uikTvd": "4534001122365",
+    "uikName": "УИК №101",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4534001122366",
+    "uikName": "УИК №102",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4534001122367",
+    "uikName": "УИК №103",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4534001122368",
+    "uikName": "УИК №104",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4534001122369",
+    "uikName": "УИК №105",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4534001122370",
+    "uikName": "УИК №106",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4534001122371",
+    "uikName": "УИК №107",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4534001122372",
+    "uikName": "УИК №108",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4534001122373",
+    "uikName": "УИК №109",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4534001122374",
+    "uikName": "УИК №110",
     "tikTvd": "2532000487239",
-    "tikName": "Батецкая"
+    "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4534002170175",
+    "uikName": "УИК №201",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4534002170176",
+    "uikName": "УИК №202",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4534002170177",
+    "uikName": "УИК №203",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4534002170178",
+    "uikName": "УИК №204",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4534002170179",
+    "uikName": "УИК №205",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4534002170180",
+    "uikName": "УИК №206",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4534002170181",
+    "uikName": "УИК №207",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4534002170182",
+    "uikName": "УИК №208",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4534002170183",
+    "uikName": "УИК №209",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4534002170184",
+    "uikName": "УИК №210",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4534002170185",
+    "uikName": "УИК №211",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4534002170186",
+    "uikName": "УИК №212",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4534002170187",
+    "uikName": "УИК №213",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4534002170188",
+    "uikName": "УИК №214",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4534002170189",
+    "uikName": "УИК №215",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4534002170190",
+    "uikName": "УИК №216",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4534002170191",
+    "uikName": "УИК №217",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4534002170192",
+    "uikName": "УИК №218",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4534002170193",
+    "uikName": "УИК №219",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4534002170194",
+    "uikName": "УИК №220",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4534002170195",
+    "uikName": "УИК №221",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4534002170196",
+    "uikName": "УИК №222",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4534002170197",
+    "uikName": "УИК №223",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4534002170198",
+    "uikName": "УИК №224",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4534002170199",
+    "uikName": "УИК №225",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4534002170200",
+    "uikName": "УИК №226",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4534002170201",
+    "uikName": "УИК №227",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4534002170202",
+    "uikName": "УИК №228",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4534002170203",
+    "uikName": "УИК №229",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4534002170204",
+    "uikName": "УИК №230",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4534002170205",
+    "uikName": "УИК №231",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4534002170206",
+    "uikName": "УИК №232",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4534002170207",
+    "uikName": "УИК №233",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4534002170208",
+    "uikName": "УИК №234",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4534002170209",
+    "uikName": "УИК №235",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4534002170210",
+    "uikName": "УИК №236",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4534002170211",
+    "uikName": "УИК №237",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4534002170212",
+    "uikName": "УИК №238",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4534002170213",
+    "uikName": "УИК №239",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4534002170214",
+    "uikName": "УИК №240",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4534002170215",
+    "uikName": "УИК №241",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4534002170216",
+    "uikName": "УИК №242",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4534002170217",
+    "uikName": "УИК №243",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4534002170218",
+    "uikName": "УИК №244",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4534002170219",
+    "uikName": "УИК №245",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4534002170220",
+    "uikName": "УИК №246",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4534002170221",
+    "uikName": "УИК №247",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4534002170222",
+    "uikName": "УИК №248",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4534002170223",
+    "uikName": "УИК №249",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4534002170224",
+    "uikName": "УИК №250",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4534002170225",
+    "uikName": "УИК №251",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4534002170226",
+    "uikName": "УИК №252",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4534002170227",
+    "uikName": "УИК №253",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4534002170228",
+    "uikName": "УИК №254",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4534002174116",
+    "uikName": "УИК №255",
     "tikTvd": "2532000487241",
-    "tikName": "Боровичcкая"
+    "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4534003164339",
+    "uikName": "УИК №301",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4534003164340",
+    "uikName": "УИК №302",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4534003164341",
+    "uikName": "УИК №303",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4534003164342",
+    "uikName": "УИК №304",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4534003164343",
+    "uikName": "УИК №305",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4534003164344",
+    "uikName": "УИК №306",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4534003164345",
+    "uikName": "УИК №307",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4534003164346",
+    "uikName": "УИК №308",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4534003164347",
+    "uikName": "УИК №309",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4534003164348",
+    "uikName": "УИК №310",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4534003164349",
+    "uikName": "УИК №311",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4534003164350",
+    "uikName": "УИК №312",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4534003164351",
+    "uikName": "УИК №313",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4534003164352",
+    "uikName": "УИК №314",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4534003164353",
+    "uikName": "УИК №315",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4534003164354",
+    "uikName": "УИК №316",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4534003164355",
+    "uikName": "УИК №317",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4534003164356",
+    "uikName": "УИК №318",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4534003164357",
+    "uikName": "УИК №319",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4534003164358",
+    "uikName": "УИК №320",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4534003164359",
+    "uikName": "УИК №321",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4534003164360",
+    "uikName": "УИК №322",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4534003164361",
+    "uikName": "УИК №323",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4534003164362",
+    "uikName": "УИК №324",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4534003164363",
+    "uikName": "УИК №325",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4534003164364",
+    "uikName": "УИК №326",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4534003164365",
+    "uikName": "УИК №327",
     "tikTvd": "2532000487224",
-    "tikName": "Валдайская"
+    "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4534004121522",
+    "uikName": "УИК №401",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4534004121523",
+    "uikName": "УИК №402",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4534004121524",
+    "uikName": "УИК №403",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4534004121525",
+    "uikName": "УИК №404",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4534004121526",
+    "uikName": "УИК №405",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4534004121527",
+    "uikName": "УИК №406",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4534004121528",
+    "uikName": "УИК №407",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4534004121529",
+    "uikName": "УИК №408",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4534004121530",
+    "uikName": "УИК №409",
     "tikTvd": "2532000487233",
-    "tikName": "Волотовская"
+    "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4534005138446",
+    "uikName": "УИК №501",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4534005138448",
+    "uikName": "УИК №502",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4534005138449",
+    "uikName": "УИК №503",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4534005138450",
+    "uikName": "УИК №504",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4534005138451",
+    "uikName": "УИК №505",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4534005138452",
+    "uikName": "УИК №506",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4534005138453",
+    "uikName": "УИК №507",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4534005138454",
+    "uikName": "УИК №508",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4534005138455",
+    "uikName": "УИК №509",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4534005138456",
+    "uikName": "УИК №510",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4534005138457",
+    "uikName": "УИК №511",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4534005138458",
+    "uikName": "УИК №512",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4534005138459",
+    "uikName": "УИК №513",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4534005138460",
+    "uikName": "УИК №514",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4534005138461",
+    "uikName": "УИК №515",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4534005138462",
+    "uikName": "УИК №516",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4534005138463",
+    "uikName": "УИК №517",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4534005138464",
+    "uikName": "УИК №518",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4534005138465",
+    "uikName": "УИК №519",
     "tikTvd": "2532000487222",
-    "tikName": "Демянская"
+    "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4534006138155",
+    "uikName": "УИК №601",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4534006138156",
+    "uikName": "УИК №602",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4534006138157",
+    "uikName": "УИК №603",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4534006138158",
+    "uikName": "УИК №604",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4534006138159",
+    "uikName": "УИК №605",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4534006138160",
+    "uikName": "УИК №606",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4534006138161",
+    "uikName": "УИК №607",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4534006138162",
+    "uikName": "УИК №608",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4534006138163",
+    "uikName": "УИК №609",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4534006138164",
+    "uikName": "УИК №610",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4534006138165",
+    "uikName": "УИК №611",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4534006138166",
+    "uikName": "УИК №612",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4534006138167",
+    "uikName": "УИК №613",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4534006138168",
+    "uikName": "УИК №614",
     "tikTvd": "2532000487243",
-    "tikName": "Крестецкая"
+    "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4534007117426",
+    "uikName": "УИК №701",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4534007117427",
+    "uikName": "УИК №702",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4534007117428",
+    "uikName": "УИК №703",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4534007117429",
+    "uikName": "УИК №704",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4534007117430",
+    "uikName": "УИК №705",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4534007117431",
+    "uikName": "УИК №706",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4534007117432",
+    "uikName": "УИК №707",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4534007117433",
+    "uikName": "УИК №708",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4534007117434",
+    "uikName": "УИК №709",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4534007117435",
+    "uikName": "УИК №710",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4534007117436",
+    "uikName": "УИК №711",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4534007117437",
+    "uikName": "УИК №712",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4534007117438",
+    "uikName": "УИК №713",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4534007117439",
+    "uikName": "УИК №714",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4534007117440",
+    "uikName": "УИК №715",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4534007117441",
+    "uikName": "УИК №716",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4534007117442",
+    "uikName": "УИК №717",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4534007117443",
+    "uikName": "УИК №718",
     "tikTvd": "2532000487232",
-    "tikName": "Любытинская"
+    "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4534008147196",
+    "uikName": "УИК №801",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4534008147197",
+    "uikName": "УИК №802",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4534008147198",
+    "uikName": "УИК №803",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4534008147199",
+    "uikName": "УИК №804",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4534008147200",
+    "uikName": "УИК №805",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4534008147201",
+    "uikName": "УИК №806",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4534008147202",
+    "uikName": "УИК №807",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4534008147203",
+    "uikName": "УИК №808",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4534008147204",
+    "uikName": "УИК №809",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4534008147205",
+    "uikName": "УИК №810",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4534008147206",
+    "uikName": "УИК №811",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4534008147207",
+    "uikName": "УИК №812",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4534008147208",
+    "uikName": "УИК №813",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4534008147209",
+    "uikName": "УИК №814",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4534008147210",
+    "uikName": "УИК №815",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4534008147211",
+    "uikName": "УИК №816",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4534008147212",
+    "uikName": "УИК №817",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4534008147213",
+    "uikName": "УИК №818",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4534008147214",
+    "uikName": "УИК №819",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4534008147215",
+    "uikName": "УИК №820",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4534008147216",
+    "uikName": "УИК №821",
     "tikTvd": "2532000487223",
-    "tikName": "Маловишерская"
+    "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4534009125197",
+    "uikName": "УИК №901",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4534009125198",
+    "uikName": "УИК №902",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4534009125199",
+    "uikName": "УИК №903",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4534009125200",
+    "uikName": "УИК №904",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4534009125201",
+    "uikName": "УИК №905",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4534009125202",
+    "uikName": "УИК №906",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4534009125203",
+    "uikName": "УИК №907",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4534009125204",
+    "uikName": "УИК №908",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4534009125205",
+    "uikName": "УИК №909",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4534009125206",
+    "uikName": "УИК №910",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4534009125207",
+    "uikName": "УИК №911",
     "tikTvd": "2532000487236",
-    "tikName": "Маревская"
+    "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4534010139211",
+    "uikName": "УИК №1001",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4534010139212",
+    "uikName": "УИК №1002",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4534010139213",
+    "uikName": "УИК №1003",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4534010139214",
+    "uikName": "УИК №1004",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4534010139215",
+    "uikName": "УИК №1005",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4534010139216",
+    "uikName": "УИК №1006",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4534010139217",
+    "uikName": "УИК №1007",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4534010139218",
+    "uikName": "УИК №1008",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4534010139219",
+    "uikName": "УИК №1009",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4534010139220",
+    "uikName": "УИК №1010",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4534010139221",
+    "uikName": "УИК №1011",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4534010139222",
+    "uikName": "УИК №1012",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4534010139223",
+    "uikName": "УИК №1013",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4534010139224",
+    "uikName": "УИК №1014",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4534010139225",
+    "uikName": "УИК №1015",
     "tikTvd": "2532000487229",
-    "tikName": "Мошенская"
+    "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4534011250794",
+    "uikName": "УИК №1101",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4534011250795",
+    "uikName": "УИК №1102",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4534011250796",
+    "uikName": "УИК №1103",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4534011250797",
+    "uikName": "УИК №1104",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4534011250798",
+    "uikName": "УИК №1105",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4534011250799",
+    "uikName": "УИК №1106",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4534011250800",
+    "uikName": "УИК №1107",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4534011250801",
+    "uikName": "УИК №1108",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4534011250802",
+    "uikName": "УИК №1109",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4534011250803",
+    "uikName": "УИК №1110",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4534011250804",
+    "uikName": "УИК №1111",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4534011250805",
+    "uikName": "УИК №1112",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4534011250806",
+    "uikName": "УИК №1113",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4534011250807",
+    "uikName": "УИК №1114",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4534011250808",
+    "uikName": "УИК №1115",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4534011250809",
+    "uikName": "УИК №1116",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4534011250810",
+    "uikName": "УИК №1117",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4534011250811",
+    "uikName": "УИК №1118",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4534011250812",
+    "uikName": "УИК №1119",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4534011250813",
+    "uikName": "УИК №1120",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4534011250814",
+    "uikName": "УИК №1121",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4534011250815",
+    "uikName": "УИК №1122",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4534011250816",
+    "uikName": "УИК №1123",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4534011250817",
+    "uikName": "УИК №1124",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4534011250818",
+    "uikName": "УИК №1125",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4534011250819",
+    "uikName": "УИК №1126",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4534011250820",
+    "uikName": "УИК №1127",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4534011250821",
+    "uikName": "УИК №1128",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4534011250822",
+    "uikName": "УИК №1129",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4534011250823",
+    "uikName": "УИК №1130",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4534011250824",
+    "uikName": "УИК №1131",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4534011250825",
+    "uikName": "УИК №1132",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4534011250826",
+    "uikName": "УИК №1133",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4534011250827",
+    "uikName": "УИК №1134",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4534011250828",
+    "uikName": "УИК №1135",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4534011250829",
+    "uikName": "УИК №1136",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4534011250830",
+    "uikName": "УИК №1137",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4534011250831",
+    "uikName": "УИК №1138",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4534011250832",
+    "uikName": "УИК №1139",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4534011250833",
+    "uikName": "УИК №1140",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4534011250834",
+    "uikName": "УИК №1141",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4534011250835",
+    "uikName": "УИК №1142",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4534011250836",
+    "uikName": "УИК №1143",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4534011250837",
+    "uikName": "УИК №1144",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4534011250838",
+    "uikName": "УИК №1145",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4534011250839",
+    "uikName": "УИК №1146",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4534011250840",
+    "uikName": "УИК №1147",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4534011250841",
+    "uikName": "УИК №1148",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4534011250842",
+    "uikName": "УИК №1149",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4534011250843",
+    "uikName": "УИК №1150",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4534011250844",
+    "uikName": "УИК №1151",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4534011250845",
+    "uikName": "УИК №1152",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4534011250846",
+    "uikName": "УИК №1153",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4534011250847",
+    "uikName": "УИК №1154",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4534011250848",
+    "uikName": "УИК №1155",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4534011250849",
+    "uikName": "УИК №1156",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4534011250850",
+    "uikName": "УИК №1157",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4534011250851",
+    "uikName": "УИК №1158",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4534011250852",
+    "uikName": "УИК №1159",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4534011250853",
+    "uikName": "УИК №1160",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4534011250854",
+    "uikName": "УИК №1161",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4534011250855",
+    "uikName": "УИК №1162",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4534011250856",
+    "uikName": "УИК №1163",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4534011250857",
+    "uikName": "УИК №1164",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4534011250858",
+    "uikName": "УИК №1165",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4534011250859",
+    "uikName": "УИК №1166",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4534011250860",
+    "uikName": "УИК №1167",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4534011250861",
+    "uikName": "УИК №1168",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4534011250862",
+    "uikName": "УИК №1169",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4534011250863",
+    "uikName": "УИК №1170",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4534011250864",
+    "uikName": "УИК №1171",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4534011250865",
+    "uikName": "УИК №1172",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4534011250866",
+    "uikName": "УИК №1173",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4534011250867",
+    "uikName": "УИК №1174",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4534011250868",
+    "uikName": "УИК №1175",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4534011250869",
+    "uikName": "УИК №1176",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4534011250870",
+    "uikName": "УИК №1177",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4534011250871",
+    "uikName": "УИК №1178",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4534011250872",
+    "uikName": "УИК №1179",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4534011250873",
+    "uikName": "УИК №1180",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4534011250874",
+    "uikName": "УИК №1181",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4534011250875",
+    "uikName": "УИК №1182",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4534011250876",
+    "uikName": "УИК №1183",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4534011250877",
+    "uikName": "УИК №1184",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4534011250878",
+    "uikName": "УИК №1185",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4534011250879",
+    "uikName": "УИК №1186",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4534011250880",
+    "uikName": "УИК №1187",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4534011250881",
+    "uikName": "УИК №1188",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4534011250882",
+    "uikName": "УИК №1189",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4534011250883",
+    "uikName": "УИК №1190",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4534011250884",
+    "uikName": "УИК №1191",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4534011274411",
+    "uikName": "УИК №1192",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4534011274412",
+    "uikName": "УИК №1193",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4534011274413",
+    "uikName": "УИК №1194",
     "tikTvd": "2532000487242",
-    "tikName": "Новгородcкая городская"
+    "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4534012195765",
+    "uikName": "УИК №1201",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4534012195766",
+    "uikName": "УИК №1202",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4534012195767",
+    "uikName": "УИК №1203",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4534012195768",
+    "uikName": "УИК №1204",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4534012195769",
+    "uikName": "УИК №1205",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4534012195770",
+    "uikName": "УИК №1206",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4534012195771",
+    "uikName": "УИК №1207",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4534012195772",
+    "uikName": "УИК №1208",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4534012195773",
+    "uikName": "УИК №1209",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4534012195774",
+    "uikName": "УИК №1210",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4534012195775",
+    "uikName": "УИК №1211",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4534012195776",
+    "uikName": "УИК №1212",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4534012195777",
+    "uikName": "УИК №1213",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4534012195778",
+    "uikName": "УИК №1214",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4534012195779",
+    "uikName": "УИК №1215",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4534012195780",
+    "uikName": "УИК №1216",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4534012195781",
+    "uikName": "УИК №1217",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4534012195782",
+    "uikName": "УИК №1218",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4534012195783",
+    "uikName": "УИК №1219",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4534012195784",
+    "uikName": "УИК №1220",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4534012195785",
+    "uikName": "УИК №1221",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4534012195786",
+    "uikName": "УИК №1222",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4534012195787",
+    "uikName": "УИК №1223",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4534012195788",
+    "uikName": "УИК №1224",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4534012195789",
+    "uikName": "УИК №1225",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4534012195790",
+    "uikName": "УИК №1226",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4534012195791",
+    "uikName": "УИК №1227",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4534012195792",
+    "uikName": "УИК №1228",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4534012195793",
+    "uikName": "УИК №1229",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4534012195794",
+    "uikName": "УИК №1230",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4534012195795",
+    "uikName": "УИК №1231",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4534012195796",
+    "uikName": "УИК №1232",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4534012195797",
+    "uikName": "УИК №1233",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4534012195798",
+    "uikName": "УИК №1234",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4534012195799",
+    "uikName": "УИК №1235",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4534012195800",
+    "uikName": "УИК №1236",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4534012195801",
+    "uikName": "УИК №1237",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4534012195802",
+    "uikName": "УИК №1238",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4534012195803",
+    "uikName": "УИК №1239",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4534012195804",
+    "uikName": "УИК №1240",
     "tikTvd": "2532000487226",
-    "tikName": "Новгородская"
+    "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4534013165078",
+    "uikName": "УИК №1301",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4534013165079",
+    "uikName": "УИК №1302",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4534013165080",
+    "uikName": "УИК №1303",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4534013165081",
+    "uikName": "УИК №1304",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4534013165082",
+    "uikName": "УИК №1305",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4534013165083",
+    "uikName": "УИК №1306",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4534013165084",
+    "uikName": "УИК №1307",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4534013165085",
+    "uikName": "УИК №1308",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4534013165086",
+    "uikName": "УИК №1309",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4534013165087",
+    "uikName": "УИК №1310",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4534013165088",
+    "uikName": "УИК №1311",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4534013165089",
+    "uikName": "УИК №1312",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4534013165090",
+    "uikName": "УИК №1313",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4534013165091",
+    "uikName": "УИК №1314",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4534013165092",
+    "uikName": "УИК №1315",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4534013165093",
+    "uikName": "УИК №1316",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4534013165094",
+    "uikName": "УИК №1317",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4534013165095",
+    "uikName": "УИК №1318",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4534013165096",
+    "uikName": "УИК №1319",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4534013165097",
+    "uikName": "УИК №1320",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4534013165098",
+    "uikName": "УИК №1321",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4534013165099",
+    "uikName": "УИК №1322",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4534013165100",
+    "uikName": "УИК №1323",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4534013165101",
+    "uikName": "УИК №1324",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4534013165102",
+    "uikName": "УИК №1325",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4534013165103",
+    "uikName": "УИК №1326",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4534013165104",
+    "uikName": "УИК №1327",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4534013165105",
+    "uikName": "УИК №1328",
     "tikTvd": "2532000487237",
-    "tikName": "Окуловская"
+    "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4534014138978",
+    "uikName": "УИК №1401",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4534014138979",
+    "uikName": "УИК №1402",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4534014138980",
+    "uikName": "УИК №1403",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4534014138981",
+    "uikName": "УИК №1404",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4534014138982",
+    "uikName": "УИК №1405",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4534014138983",
+    "uikName": "УИК №1406",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4534014138984",
+    "uikName": "УИК №1407",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4534014138985",
+    "uikName": "УИК №1408",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4534014138986",
+    "uikName": "УИК №1409",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4534014138987",
+    "uikName": "УИК №1410",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4534014138988",
+    "uikName": "УИК №1411",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4534014138989",
+    "uikName": "УИК №1412",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4534014138990",
+    "uikName": "УИК №1413",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4534014138991",
+    "uikName": "УИК №1414",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4534014138992",
+    "uikName": "УИК №1415",
     "tikTvd": "2532000487234",
-    "tikName": "Парфинская"
+    "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4534015144847",
+    "uikName": "УИК №1501",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4534015144848",
+    "uikName": "УИК №1502",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4534015144849",
+    "uikName": "УИК №1503",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4534015144850",
+    "uikName": "УИК №1504",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4534015144851",
+    "uikName": "УИК №1505",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4534015144852",
+    "uikName": "УИК №1506",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4534015144853",
+    "uikName": "УИК №1507",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4534015144854",
+    "uikName": "УИК №1508",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4534015144855",
+    "uikName": "УИК №1509",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4534015144856",
+    "uikName": "УИК №1510",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4534015144857",
+    "uikName": "УИК №1511",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4534015144858",
+    "uikName": "УИК №1512",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4534015144859",
+    "uikName": "УИК №1513",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4534015144860",
+    "uikName": "УИК №1514",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4534015144861",
+    "uikName": "УИК №1515",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4534015144862",
+    "uikName": "УИК №1516",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4534015144863",
+    "uikName": "УИК №1517",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4534015144864",
+    "uikName": "УИК №1518",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4534015144865",
+    "uikName": "УИК №1519",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4534015144866",
+    "uikName": "УИК №1520",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4534015144867",
+    "uikName": "УИК №1521",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4534015144868",
+    "uikName": "УИК №1522",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4534015144869",
+    "uikName": "УИК №1523",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4534015144870",
+    "uikName": "УИК №1524",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4534015144871",
+    "uikName": "УИК №1525",
     "tikTvd": "2532000487225",
-    "tikName": "Пестовская"
+    "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4534016126031",
+    "uikName": "УИК №1601",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4534016126032",
+    "uikName": "УИК №1602",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4534016126033",
+    "uikName": "УИК №1603",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4534016126034",
+    "uikName": "УИК №1604",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4534016126035",
+    "uikName": "УИК №1605",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4534016126036",
+    "uikName": "УИК №1606",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4534016126037",
+    "uikName": "УИК №1607",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4534016126038",
+    "uikName": "УИК №1608",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4534016126039",
+    "uikName": "УИК №1609",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4534016126040",
+    "uikName": "УИК №1610",
     "tikTvd": "2532000487235",
-    "tikName": "Поддорская"
+    "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4534017134360",
+    "uikName": "УИК №1701",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4534017134361",
+    "uikName": "УИК №1702",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4534017134362",
+    "uikName": "УИК №1703",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4534017134363",
+    "uikName": "УИК №1704",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4534017134364",
+    "uikName": "УИК №1705",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4534017134365",
+    "uikName": "УИК №1706",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4534017134366",
+    "uikName": "УИК №1707",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4534017134367",
+    "uikName": "УИК №1708",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4534017134368",
+    "uikName": "УИК №1709",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4534017134369",
+    "uikName": "УИК №1710",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4534017134370",
+    "uikName": "УИК №1711",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4534017134371",
+    "uikName": "УИК №1712",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4534017134372",
+    "uikName": "УИК №1713",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4534017134373",
+    "uikName": "УИК №1714",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4534017134374",
+    "uikName": "УИК №1715",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4534017134375",
+    "uikName": "УИК №1716",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4534017134376",
+    "uikName": "УИК №1717",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4534017134377",
+    "uikName": "УИК №1718",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4534017134378",
+    "uikName": "УИК №1719",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4534017134379",
+    "uikName": "УИК №1720",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4534017134380",
+    "uikName": "УИК №1721",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4534017134381",
+    "uikName": "УИК №1722",
     "tikTvd": "2532000487230",
-    "tikName": "Солецкая"
+    "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4534018163656",
+    "uikName": "УИК №1801",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4534018163658",
+    "uikName": "УИК №1802",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4534018163659",
+    "uikName": "УИК №1803",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4534018163660",
+    "uikName": "УИК №1804",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4534018163661",
+    "uikName": "УИК №1805",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4534018163662",
+    "uikName": "УИК №1806",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4534018163663",
+    "uikName": "УИК №1807",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4534018163664",
+    "uikName": "УИК №1808",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4534018163665",
+    "uikName": "УИК №1809",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4534018163666",
+    "uikName": "УИК №1810",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4534018163667",
+    "uikName": "УИК №1811",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4534018163668",
+    "uikName": "УИК №1812",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4534018163669",
+    "uikName": "УИК №1813",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4534018163670",
+    "uikName": "УИК №1814",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4534018163671",
+    "uikName": "УИК №1815",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4534018163672",
+    "uikName": "УИК №1816",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4534018163673",
+    "uikName": "УИК №1817",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4534018163674",
+    "uikName": "УИК №1818",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4534018163675",
+    "uikName": "УИК №1819",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4534018163676",
+    "uikName": "УИК №1820",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4534018163677",
+    "uikName": "УИК №1821",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4534018163678",
+    "uikName": "УИК №1822",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4534018163679",
+    "uikName": "УИК №1823",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4534018163680",
+    "uikName": "УИК №1824",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4534018163681",
+    "uikName": "УИК №1825",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4534018163682",
+    "uikName": "УИК №1826",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4534018163683",
+    "uikName": "УИК №1827",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4534018163684",
+    "uikName": "УИК №1828",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4534018163685",
+    "uikName": "УИК №1829",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4534018163686",
+    "uikName": "УИК №1830",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4534018163687",
+    "uikName": "УИК №1831",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4534018163688",
+    "uikName": "УИК №1832",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4534018163689",
+    "uikName": "УИК №1833",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4534018163690",
+    "uikName": "УИК №1834",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4534018163691",
+    "uikName": "УИК №1835",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4534018163692",
+    "uikName": "УИК №1836",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4534018163693",
+    "uikName": "УИК №1837",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4534018163694",
+    "uikName": "УИК №1838",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4534018163695",
+    "uikName": "УИК №1839",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4534018163696",
+    "uikName": "УИК №1840",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4534018163697",
+    "uikName": "УИК №1841",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4534018163698",
+    "uikName": "УИК №1842",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4534018163699",
+    "uikName": "УИК №1843",
     "tikTvd": "2532000487231",
-    "tikName": "Старорусская"
+    "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4534019152179",
+    "uikName": "УИК №1901",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4534019152180",
+    "uikName": "УИК №1902",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4534019152181",
+    "uikName": "УИК №1903",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4534019152182",
+    "uikName": "УИК №1904",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4534019152183",
+    "uikName": "УИК №1905",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4534019152184",
+    "uikName": "УИК №1906",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4534019152185",
+    "uikName": "УИК №1907",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4534019152186",
+    "uikName": "УИК №1908",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4534019152187",
+    "uikName": "УИК №1909",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4534019152188",
+    "uikName": "УИК №1910",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4534019152189",
+    "uikName": "УИК №1911",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4534019152190",
+    "uikName": "УИК №1912",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4534019152191",
+    "uikName": "УИК №1913",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4534019152192",
+    "uikName": "УИК №1914",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4534019152193",
+    "uikName": "УИК №1915",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4534019152194",
+    "uikName": "УИК №1916",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4534019152195",
+    "uikName": "УИК №1917",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4534019152196",
+    "uikName": "УИК №1918",
     "tikTvd": "2532000487228",
-    "tikName": "Хвойнинская"
+    "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4534020120873",
+    "uikName": "УИК №2001",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4534020120874",
+    "uikName": "УИК №2002",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4534020120875",
+    "uikName": "УИК №2003",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4534020120876",
+    "uikName": "УИК №2004",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4534020120877",
+    "uikName": "УИК №2005",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4534020120878",
+    "uikName": "УИК №2006",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4534020120879",
+    "uikName": "УИК №2007",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4534020120880",
+    "uikName": "УИК №2008",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4534020120881",
+    "uikName": "УИК №2009",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4534020120882",
+    "uikName": "УИК №2010",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4534020120883",
+    "uikName": "УИК №2011",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4534020120884",
+    "uikName": "УИК №2012",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4534020120885",
+    "uikName": "УИК №2013",
     "tikTvd": "2532000487240",
-    "tikName": "Холмская"
+    "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4534021138979",
+    "uikName": "УИК №2101",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4534021138980",
+    "uikName": "УИК №2102",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4534021138981",
+    "uikName": "УИК №2103",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4534021138982",
+    "uikName": "УИК №2104",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4534021138983",
+    "uikName": "УИК №2105",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4534021138984",
+    "uikName": "УИК №2106",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4534021138985",
+    "uikName": "УИК №2107",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4534021138986",
+    "uikName": "УИК №2108",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4534021138987",
+    "uikName": "УИК №2109",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4534021138988",
+    "uikName": "УИК №2110",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4534021138989",
+    "uikName": "УИК №2111",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4534021138990",
+    "uikName": "УИК №2112",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4534021138991",
+    "uikName": "УИК №2113",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4534021138992",
+    "uikName": "УИК №2114",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4534021138993",
+    "uikName": "УИК №2115",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4534021138994",
+    "uikName": "УИК №2116",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4534021138995",
+    "uikName": "УИК №2117",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4534021138996",
+    "uikName": "УИК №2118",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4534021138997",
+    "uikName": "УИК №2119",
     "tikTvd": "2532000487227",
-    "tikName": "Чудовская"
+    "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4544022134949",
+    "uikName": "УИК №2201",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4544022134950",
+    "uikName": "УИК №2202",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4544022134951",
+    "uikName": "УИК №2203",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4544022134952",
+    "uikName": "УИК №2204",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4544022134953",
+    "uikName": "УИК №2205",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4544022134954",
+    "uikName": "УИК №2206",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4544022134955",
+    "uikName": "УИК №2207",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4544022134956",
+    "uikName": "УИК №2208",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4544022134957",
+    "uikName": "УИК №2209",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4544022134958",
+    "uikName": "УИК №2210",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4544022134959",
+    "uikName": "УИК №2211",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4544022134960",
+    "uikName": "УИК №2212",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4544022134961",
+    "uikName": "УИК №2213",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4544022134962",
+    "uikName": "УИК №2214",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4544022134963",
+    "uikName": "УИК №2215",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4544022134964",
+    "uikName": "УИК №2216",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4544022134965",
+    "uikName": "УИК №2217",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4544022134966",
+    "uikName": "УИК №2218",
     "tikTvd": "2532000487238",
-    "tikName": "Шимская"
+    "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100067796029",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100067796030",
+      "oikName": "Новгородская область – Новгородский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

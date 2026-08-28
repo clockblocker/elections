@@ -92,7 +92,26 @@ def _candidate_registry_source(raw: dict[str, Any]) -> dict[str, Any]:
     return result
 
 
+def _winner_registry_source(raw: dict[str, Any]) -> dict[str, Any]:
+    result = {
+        "url": raw["official_url"],
+        "sha256": raw["sha256"],
+        "resolution": raw["resolution"],
+        "resolutionDate": raw["resolution_date"],
+    }
+    for source_key, output_key in (
+        ("retrieved_at", "retrievedAt"),
+        ("final_url", "finalUrl"),
+        ("provenance", "provenance"),
+    ):
+        if raw.get(source_key) is not None:
+            result[output_key] = raw[source_key]
+    return result
+
+
 def _district_value(raw: dict[str, Any]) -> dict[str, Any]:
+    source = _candidate_registry_source(raw["source"])
+    source["winnerSource"] = _winner_registry_source(raw["winner_source"])
     return {
         "election": "2021-duma",
         "districtNumber": int(raw["district_number"]),
@@ -112,7 +131,7 @@ def _district_value(raw: dict[str, Any]) -> dict[str, Any]:
             }
             for candidate in raw["candidates"]
         ],
-        "source": _candidate_registry_source(raw["source"]),
+        "source": source,
     }
 
 

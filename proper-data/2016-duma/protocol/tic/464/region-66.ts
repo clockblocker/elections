@@ -11,6 +11,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732911",
     "tikName": "Екатеринбург, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 168,
+      "oikTvd": "100100067796076",
+      "oikName": "Свердловская область – Свердловский"
+    },
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 138663,
@@ -140,6 +148,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732912",
     "tikName": "Екатеринбург, Железнодорожная",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 168,
+      "oikTvd": "100100067796076",
+      "oikName": "Свердловская область – Свердловский"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112977,
@@ -260,6 +276,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732913",
     "tikName": "Екатеринбург, Верх-Исетская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 168,
+      "oikTvd": "100100067796076",
+      "oikName": "Свердловская область – Свердловский"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 163339,
@@ -393,6 +417,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732914",
     "tikName": "Среднеуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 168,
+      "oikTvd": "100100067796076",
+      "oikName": "Свердловская область – Свердловский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17414,
@@ -452,6 +484,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732915",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 168,
+      "oikTvd": "100100067796076",
+      "oikName": "Свердловская область – Свердловский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 62263,
@@ -538,6 +578,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732916",
     "tikName": "Сысертская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100067796077",
+      "oikName": "Свердловская область – Каменск-Уральский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51042,
@@ -632,6 +680,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732917",
     "tikName": "Арамильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100067796077",
+      "oikName": "Свердловская область – Каменск-Уральский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16486,
@@ -697,6 +753,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732918",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100067796077",
+      "oikName": "Свердловская область – Каменск-Уральский"
+    },
     "uikCount": 71,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 142217,
@@ -821,6 +885,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732919",
     "tikName": "Екатеринбург, Чкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100067796077",
+      "oikName": "Свердловская область – Каменск-Уральский"
+    },
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 194498,
@@ -968,6 +1040,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732920",
     "tikName": "Богдановичская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100067796077",
+      "oikName": "Свердловская область – Каменск-Уральский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38781,
@@ -1049,6 +1129,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732921",
     "tikName": "Уральская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100067796077",
+      "oikName": "Свердловская область – Каменск-Уральский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1719,
@@ -1103,6 +1191,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732922",
     "tikName": "Каменская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 169,
+      "oikTvd": "100100067796077",
+      "oikName": "Свердловская область – Каменск-Уральский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24157,
@@ -1189,6 +1285,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732927",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 170,
+      "oikTvd": "100100067796078",
+      "oikName": "Свердловская область – Березовский"
+    },
     "uikCount": 103,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 199934,
@@ -1343,6 +1447,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732928",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 170,
+      "oikTvd": "100100067796078",
+      "oikName": "Свердловская область – Березовский"
+    },
     "uikCount": 86,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 157651,
@@ -1480,6 +1592,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732929",
     "tikName": "Березовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 170,
+      "oikTvd": "100100067796078",
+      "oikName": "Свердловская область – Березовский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 55680,
@@ -1569,6 +1689,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732930",
     "tikName": "Режевская ",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 170,
+      "oikTvd": "100100067796078",
+      "oikName": "Свердловская область – Березовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38720,
@@ -1656,6 +1784,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732931",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 170,
+      "oikTvd": "100100067796078",
+      "oikName": "Свердловская область – Березовский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49634,
@@ -1749,6 +1885,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732932",
     "tikName": "Алапаевская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 170,
+      "oikTvd": "100100067796078",
+      "oikName": "Свердловская область – Березовский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21824,
@@ -1835,6 +1979,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732933",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97705,
@@ -1943,6 +2095,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732934",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 88441,
@@ -2049,6 +2209,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732935",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10999,
@@ -2108,6 +2276,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732936",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93900,
@@ -2207,6 +2383,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732937",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27474,
@@ -2296,6 +2480,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732938",
     "tikName": "Кушвинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35780,
@@ -2374,6 +2566,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732939",
     "tikName": "Верхнетуринская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7965,
@@ -2432,6 +2632,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732940",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33878,
@@ -2520,6 +2728,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732941",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23439,
@@ -2585,6 +2801,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732942",
     "tikName": "Верх-Нейвинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3598,
@@ -2639,6 +2863,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732943",
     "tikName": "Алапаевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 171,
+      "oikTvd": "100100067796079",
+      "oikName": "Свердловская область – Нижнетагильский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36642,
@@ -2720,6 +2952,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732944",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18236,
@@ -2803,6 +3043,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732945",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12323,
@@ -2876,6 +3124,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732946",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24468,
@@ -2981,6 +3237,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732947",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32123,
@@ -3052,6 +3316,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732948",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13452,
@@ -3125,6 +3397,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732949",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 109052,
@@ -3233,6 +3513,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732950",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39939,
@@ -3337,6 +3625,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732951",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16846,
@@ -3413,6 +3709,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732952",
     "tikName": "Камышловская ",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20455,
@@ -3488,6 +3792,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732953",
     "tikName": "Камышловская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22019,
@@ -3557,6 +3869,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732954",
     "tikName": "Заречная городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24852,
@@ -3622,6 +3942,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732955",
     "tikName": "Верхнедубровская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3925,
@@ -3675,6 +4003,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732956",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29424,
@@ -3762,6 +4098,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732957",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37727,
@@ -3844,6 +4188,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732958",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12963,
@@ -3901,6 +4253,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732959",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9247,
@@ -3957,6 +4317,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732960",
     "tikName": "Асбестовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 57744,
@@ -4036,6 +4404,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732961",
     "tikName": "Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100067796080",
+      "oikName": "Свердловская область – Асбестовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23594,
@@ -4111,6 +4487,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732962",
     "tikName": "Ревдинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51169,
@@ -4194,6 +4578,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732963",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60392,
@@ -4280,6 +4672,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732964",
     "tikName": "Дегтярская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12840,
@@ -4338,6 +4738,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732965",
     "tikName": "Староуткинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2433,
@@ -4390,6 +4798,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732966",
     "tikName": "Первоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 120644,
@@ -4514,6 +4930,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732967",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9022,
@@ -4571,6 +4995,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732968",
     "tikName": "Шалинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16710,
@@ -4641,6 +5073,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732969",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36740,
@@ -4744,6 +5184,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732970",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23294,
@@ -4847,6 +5295,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732971",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31342,
@@ -4924,6 +5380,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732972",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14087,
@@ -5007,6 +5471,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732973",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24864,
@@ -5103,6 +5575,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732974",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100067796081",
+      "oikName": "Свердловская область – Первоуральский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 76829,
@@ -5198,6 +5678,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732975",
     "tikName": "Серовская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10241,
@@ -5264,6 +5752,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732976",
     "tikName": "Серовская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 70920,
@@ -5375,6 +5871,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732977",
     "tikName": "Новолялинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17569,
@@ -5449,6 +5953,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732978",
     "tikName": "Нижнетуринская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22542,
@@ -5519,6 +6031,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732979",
     "tikName": "Гаринская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2952,
@@ -5583,6 +6103,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732980",
     "tikName": "Верхотурская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12279,
@@ -5654,6 +6182,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732981",
     "tikName": "Свободненская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6509,
@@ -5710,6 +6246,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732982",
     "tikName": "Нижнесалдинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13958,
@@ -5771,6 +6315,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732983",
     "tikName": "Верхнесалдинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 38839,
@@ -5853,6 +6405,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732984",
     "tikName": "Лесная городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44066,
@@ -5928,6 +6488,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732985",
     "tikName": "Красноуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20938,
@@ -5998,6 +6566,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732986",
     "tikName": "Качканарская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34065,
@@ -6069,6 +6645,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732987",
     "tikName": "Североуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 36512,
@@ -6146,6 +6730,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732988",
     "tikName": "Пелымская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3104,
@@ -6201,6 +6793,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732989",
     "tikName": "Краснотурьинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48394,
@@ -6294,6 +6894,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732990",
     "tikName": "Карпинская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24760,
@@ -6363,6 +6971,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732991",
     "tikName": "Ивдельская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15494,
@@ -6432,6 +7048,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732992",
     "tikName": "Волчанская городская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7999,
@@ -6488,6 +7112,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732993",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31906,
@@ -6574,6 +7206,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001732994",
     "tikName": "Таборинская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3048,
@@ -6634,6 +7274,14 @@ export const duma_2016_tic_464_region_66 = [
     "ballot": "single-member",
     "tikTvd": "26620001733009",
     "tikName": "Алапаевская",
+    "regionCode": "66",
+    "regionTvd": "100100067796075",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100067796082",
+      "oikName": "Свердловская область – Серовский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5508,

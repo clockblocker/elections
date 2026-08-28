@@ -11,6 +11,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191498",
     "tikName": "Архангельск, Южная",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 62758,
@@ -97,6 +100,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191499",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25714,
@@ -192,6 +198,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191500",
     "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 169617,
@@ -322,6 +331,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191501",
     "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21886,
@@ -410,6 +422,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191502",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25147,
@@ -478,6 +493,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191503",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 27050,
@@ -566,6 +584,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191504",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 39423,
@@ -650,6 +671,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191505",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22940,
@@ -743,6 +767,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191506",
     "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 33786,
@@ -804,6 +831,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191507",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 25995,
@@ -884,6 +914,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191508",
     "tikName": "Новоземельская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 2619,
@@ -939,6 +972,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191509",
     "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 13719,
@@ -1022,6 +1058,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191510",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 22294,
@@ -1111,6 +1150,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191511",
     "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 72728,
@@ -1195,6 +1237,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191512",
     "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 29800,
@@ -1265,6 +1310,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191513",
     "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 9530,
@@ -1330,6 +1378,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191514",
     "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 15004,
@@ -1401,6 +1452,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191515",
     "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 45492,
@@ -1514,6 +1568,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191516",
     "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 18189,
@@ -1583,6 +1640,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191517",
     "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16065,
@@ -1665,6 +1725,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191518",
     "tikName": "Соловецкая",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 663,
@@ -1713,6 +1776,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191519",
     "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 70348,
@@ -1804,6 +1870,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191521",
     "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 7861,
@@ -1880,6 +1949,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191522",
     "tikName": "Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 11499,
@@ -1948,6 +2020,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191523",
     "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 10104,
@@ -2022,6 +2097,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191524",
     "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 60866,
@@ -2102,6 +2180,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191525",
     "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 32305,
@@ -2162,6 +2243,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191526",
     "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 12103,
@@ -2233,6 +2317,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191527",
     "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 16214,
@@ -2315,6 +2402,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191528",
     "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 21205,
@@ -2399,6 +2489,9 @@ export const president_2008_tic_227_region_29 = [
     "ballot": "presidential",
     "tikTvd": "2292000191530",
     "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100022249968",
+    "regionName": "Архангельская область",
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в списки избирателей": 58964,

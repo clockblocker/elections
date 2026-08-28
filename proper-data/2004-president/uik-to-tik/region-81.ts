@@ -7,1183 +7,2168 @@ export const president_2004_uik_to_tik_region_81 = [
   {
     "uikNumber": 4801,
     "uikTvd": "481400267614",
+    "uikName": "УИК №4801",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4802,
     "uikTvd": "481400267615",
+    "uikName": "УИК №4802",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4803,
     "uikTvd": "481400267616",
+    "uikName": "УИК №4803",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4804,
     "uikTvd": "481400267617",
+    "uikName": "УИК №4804",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4805,
     "uikTvd": "481400267618",
+    "uikName": "УИК №4805",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4806,
     "uikTvd": "481400267619",
+    "uikName": "УИК №4806",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4807,
     "uikTvd": "481400267620",
+    "uikName": "УИК №4807",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4808,
     "uikTvd": "481400267621",
+    "uikName": "УИК №4808",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4809,
     "uikTvd": "481400267622",
+    "uikName": "УИК №4809",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4810,
     "uikTvd": "481400267623",
+    "uikName": "УИК №4810",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4811,
     "uikTvd": "481400267624",
+    "uikName": "УИК №4811",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4812,
     "uikTvd": "481400267625",
+    "uikName": "УИК №4812",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4813,
     "uikTvd": "481400267626",
+    "uikName": "УИК №4813",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4814,
     "uikTvd": "481400267627",
+    "uikName": "УИК №4814",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4815,
     "uikTvd": "481400267628",
+    "uikName": "УИК №4815",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4816,
     "uikTvd": "481400267629",
+    "uikName": "УИК №4816",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4817,
     "uikTvd": "481400267630",
+    "uikName": "УИК №4817",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4818,
     "uikTvd": "481400267631",
+    "uikName": "УИК №4818",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4819,
     "uikTvd": "481400267632",
+    "uikName": "УИК №4819",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4820,
     "uikTvd": "481400267633",
+    "uikName": "УИК №4820",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4821,
     "uikTvd": "481400267634",
+    "uikName": "УИК №4821",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4822,
     "uikTvd": "481400267635",
+    "uikName": "УИК №4822",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4823,
     "uikTvd": "481400267636",
+    "uikName": "УИК №4823",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4824,
     "uikTvd": "481400267637",
+    "uikName": "УИК №4824",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4825,
     "uikTvd": "481400267638",
+    "uikName": "УИК №4825",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4826,
     "uikTvd": "481400267639",
+    "uikName": "УИК №4826",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4827,
     "uikTvd": "481400267640",
+    "uikName": "УИК №4827",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4828,
     "uikTvd": "481400267641",
+    "uikName": "УИК №4828",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4829,
     "uikTvd": "481400267642",
+    "uikName": "УИК №4829",
     "tikTvd": "281200071562",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4901,
     "uikTvd": "481400368503",
+    "uikName": "УИК  4901",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4902,
     "uikTvd": "481400368504",
+    "uikName": "УИК  4902",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4903,
     "uikTvd": "481400368505",
+    "uikName": "УИК  4903",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4904,
     "uikTvd": "481400368506",
+    "uikName": "УИК  4904",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4905,
     "uikTvd": "481400368507",
+    "uikName": "УИК  4905",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4906,
     "uikTvd": "481400368508",
+    "uikName": "УИК  4906",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4907,
     "uikTvd": "481400368509",
+    "uikName": "УИК  4907",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4908,
     "uikTvd": "481400368510",
+    "uikName": "УИК  4908",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4909,
     "uikTvd": "481400368511",
+    "uikName": "УИК  4909",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4910,
     "uikTvd": "481400368512",
+    "uikName": "УИК  4910",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4911,
     "uikTvd": "481400368513",
+    "uikName": "УИК  4911",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4912,
     "uikTvd": "481400368514",
+    "uikName": "УИК  4912",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4913,
     "uikTvd": "481400368515",
+    "uikName": "УИК  4913",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4914,
     "uikTvd": "481400368516",
+    "uikName": "УИК  4914",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4915,
     "uikTvd": "481400368517",
+    "uikName": "УИК  4915",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4916,
     "uikTvd": "481400368518",
+    "uikName": "УИК  4916",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4917,
     "uikTvd": "481400368519",
+    "uikName": "УИК  4917",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4918,
     "uikTvd": "481400368520",
+    "uikName": "УИК  4918",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4919,
     "uikTvd": "481400368521",
+    "uikName": "УИК  4919",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4920,
     "uikTvd": "481400368522",
+    "uikName": "УИК  4920",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4921,
     "uikTvd": "481400368523",
+    "uikName": "УИК  4921",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 4922,
     "uikTvd": "481400368524",
+    "uikName": "УИК  4922",
     "tikTvd": "281200071563",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5001,
     "uikTvd": "481400467632",
+    "uikName": "УИК №5001",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5002,
     "uikTvd": "481400467633",
+    "uikName": "УИК №5002",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5003,
     "uikTvd": "481400467634",
+    "uikName": "УИК №5003",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5004,
     "uikTvd": "481400467635",
+    "uikName": "УИК №5004",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5005,
     "uikTvd": "481400467636",
+    "uikName": "УИК №5005",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5006,
     "uikTvd": "481400467637",
+    "uikName": "УИК №5006",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5007,
     "uikTvd": "481400467638",
+    "uikName": "УИК №5007",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5008,
     "uikTvd": "481400467639",
+    "uikName": "УИК №5008",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5009,
     "uikTvd": "481400467640",
+    "uikName": "УИК №5009",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5010,
     "uikTvd": "481400467641",
+    "uikName": "УИК №5010",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5011,
     "uikTvd": "481400467642",
+    "uikName": "УИК №5011",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5012,
     "uikTvd": "481400467643",
+    "uikName": "УИК №5012",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5013,
     "uikTvd": "481400467644",
+    "uikName": "УИК №5013",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5014,
     "uikTvd": "481400467645",
+    "uikName": "УИК №5014",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5015,
     "uikTvd": "481400467646",
+    "uikName": "УИК №5015",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5016,
     "uikTvd": "481400467647",
+    "uikName": "УИК №5016",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5017,
     "uikTvd": "481400467648",
+    "uikName": "УИК №5017",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5018,
     "uikTvd": "481400467649",
+    "uikName": "УИК №5018",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5019,
     "uikTvd": "481400467650",
+    "uikName": "УИК №5019",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5020,
     "uikTvd": "481400467651",
+    "uikName": "УИК №5020",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5021,
     "uikTvd": "481400467652",
+    "uikName": "УИК №5021",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5022,
     "uikTvd": "481400467653",
+    "uikName": "УИК №5022",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5023,
     "uikTvd": "481400467654",
+    "uikName": "УИК №5023",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5024,
     "uikTvd": "481400467655",
+    "uikName": "УИК №5024",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5025,
     "uikTvd": "481400467656",
+    "uikName": "УИК №5025",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5026,
     "uikTvd": "481400467657",
+    "uikName": "УИК №5026",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5027,
     "uikTvd": "481400467658",
+    "uikName": "УИК №5027",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5028,
     "uikTvd": "481400467659",
+    "uikName": "УИК №5028",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5029,
     "uikTvd": "481400467660",
+    "uikName": "УИК №5029",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5030,
     "uikTvd": "481400467661",
+    "uikName": "УИК №5030",
     "tikTvd": "281200071566",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5101,
     "uikTvd": "481400167859",
+    "uikName": "УИК №5101",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5102,
     "uikTvd": "481400167816",
+    "uikName": "УИК №5102",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5103,
     "uikTvd": "481400167817",
+    "uikName": "УИК №5103",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5104,
     "uikTvd": "481400167818",
+    "uikName": "УИК №5104",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5105,
     "uikTvd": "481400167819",
+    "uikName": "УИК №5105",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5106,
     "uikTvd": "481400167820",
+    "uikName": "УИК №5106",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5107,
     "uikTvd": "481400167821",
+    "uikName": "УИК №5107",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5108,
     "uikTvd": "481400167822",
+    "uikName": "УИК №5108",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5109,
     "uikTvd": "481400167823",
+    "uikName": "УИК №5109",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5110,
     "uikTvd": "481400167824",
+    "uikName": "УИК №5110",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5111,
     "uikTvd": "481400167825",
+    "uikName": "УИК №5111",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5112,
     "uikTvd": "481400167826",
+    "uikName": "УИК №5112",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5113,
     "uikTvd": "481400167827",
+    "uikName": "УИК №5113",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5114,
     "uikTvd": "481400167828",
+    "uikName": "УИК №5114",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5115,
     "uikTvd": "481400167829",
+    "uikName": "УИК №5115",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5116,
     "uikTvd": "481400167830",
+    "uikName": "УИК №5116",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5117,
     "uikTvd": "481400167831",
+    "uikName": "УИК №5117",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5118,
     "uikTvd": "481400167832",
+    "uikName": "УИК №5118",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5119,
     "uikTvd": "481400167833",
+    "uikName": "УИК №5119",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5120,
     "uikTvd": "481400167834",
+    "uikName": "УИК №5120",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5121,
     "uikTvd": "481400167835",
+    "uikName": "УИК №5121",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5122,
     "uikTvd": "481400167836",
+    "uikName": "УИК №5122",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5123,
     "uikTvd": "481400167837",
+    "uikName": "УИК №5123",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5124,
     "uikTvd": "481400167838",
+    "uikName": "УИК №5124",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5125,
     "uikTvd": "481400167839",
+    "uikName": "УИК №5125",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5126,
     "uikTvd": "481400167840",
+    "uikName": "УИК №5126",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5127,
     "uikTvd": "481400167841",
+    "uikName": "УИК №5127",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5128,
     "uikTvd": "481400167842",
+    "uikName": "УИК №5128",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5129,
     "uikTvd": "481400167843",
+    "uikName": "УИК №5129",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5130,
     "uikTvd": "481400167844",
+    "uikName": "УИК №5130",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5131,
     "uikTvd": "481400167845",
+    "uikName": "УИК №5131",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5132,
     "uikTvd": "481400167846",
+    "uikName": "УИК №5132",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5133,
     "uikTvd": "481400167847",
+    "uikName": "УИК №5133",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5134,
     "uikTvd": "481400167848",
+    "uikName": "УИК №5134",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5135,
     "uikTvd": "481400167849",
+    "uikName": "УИК №5135",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5136,
     "uikTvd": "481400167850",
+    "uikName": "УИК №5136",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5137,
     "uikTvd": "481400167851",
+    "uikName": "УИК №5137",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5138,
     "uikTvd": "481400167852",
+    "uikName": "УИК №5138",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5139,
     "uikTvd": "481400167853",
+    "uikName": "УИК №5139",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5140,
     "uikTvd": "481400167854",
+    "uikName": "УИК №5140",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5141,
     "uikTvd": "481400167855",
+    "uikName": "УИК №5141",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5142,
     "uikTvd": "481400167856",
+    "uikName": "УИК №5142",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5143,
     "uikTvd": "481400167857",
+    "uikName": "УИК №5143",
     "tikTvd": "281200071561",
-    "tikName": "Кудымкарский район"
+    "tikName": "Кудымкарский район",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5201,
     "uikTvd": "481400767272",
+    "uikName": "УИК №5201",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5202,
     "uikTvd": "481400767273",
+    "uikName": "УИК №5202",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5203,
     "uikTvd": "481400767274",
+    "uikName": "УИК №5203",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5204,
     "uikTvd": "481400767275",
+    "uikName": "УИК №5204",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5205,
     "uikTvd": "481400767276",
+    "uikName": "УИК №5205",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5206,
     "uikTvd": "481400767277",
+    "uikName": "УИК №5206",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5207,
     "uikTvd": "481400767278",
+    "uikName": "УИК №5207",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5208,
     "uikTvd": "481400767279",
+    "uikName": "УИК №5208",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5209,
     "uikTvd": "481400767280",
+    "uikName": "УИК №5209",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5210,
     "uikTvd": "481400767281",
+    "uikName": "УИК №5210",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5211,
     "uikTvd": "481400767282",
+    "uikName": "УИК №5211",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5212,
     "uikTvd": "481400767283",
+    "uikName": "УИК №5212",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5213,
     "uikTvd": "481400767284",
+    "uikName": "УИК №5213",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5214,
     "uikTvd": "481400767285",
+    "uikName": "УИК №5214",
     "tikTvd": "281200071567",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5301,
     "uikTvd": "481400567573",
+    "uikName": "УИК №5301",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5302,
     "uikTvd": "481400567574",
+    "uikName": "УИК №5302",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5303,
     "uikTvd": "481400567575",
+    "uikName": "УИК №5303",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5304,
     "uikTvd": "481400567576",
+    "uikName": "УИК №5304",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5305,
     "uikTvd": "481400567577",
+    "uikName": "УИК №5305",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5306,
     "uikTvd": "481400567578",
+    "uikName": "УИК №5306",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5307,
     "uikTvd": "481400567579",
+    "uikName": "УИК №5307",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5308,
     "uikTvd": "481400567580",
+    "uikName": "УИК №5308",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5309,
     "uikTvd": "481400567581",
+    "uikName": "УИК №5309",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5310,
     "uikTvd": "481400567582",
+    "uikName": "УИК №5310",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5311,
     "uikTvd": "481400567583",
+    "uikName": "УИК №5311",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5312,
     "uikTvd": "481400567584",
+    "uikName": "УИК №5312",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5313,
     "uikTvd": "481400567585",
+    "uikName": "УИК №5313",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5314,
     "uikTvd": "481400567586",
+    "uikName": "УИК №5314",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5315,
     "uikTvd": "481400567587",
+    "uikName": "УИК №5315",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5316,
     "uikTvd": "481400567588",
+    "uikName": "УИК №5316",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5317,
     "uikTvd": "481400567589",
+    "uikName": "УИК №5317",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5318,
     "uikTvd": "481400567590",
+    "uikName": "УИК №5318",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5319,
     "uikTvd": "481400567591",
+    "uikName": "УИК №5319",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5320,
     "uikTvd": "481400567592",
+    "uikName": "УИК №5320",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5321,
     "uikTvd": "481400567593",
+    "uikName": "УИК №5321",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5322,
     "uikTvd": "481400567594",
+    "uikName": "УИК №5322",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5323,
     "uikTvd": "481400567595",
+    "uikName": "УИК №5323",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5324,
     "uikTvd": "481400567596",
+    "uikName": "УИК №5324",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5325,
     "uikTvd": "481400567597",
+    "uikName": "УИК №5325",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5326,
     "uikTvd": "481400567598",
+    "uikName": "УИК №5326",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5327,
     "uikTvd": "481400567599",
+    "uikName": "УИК №5327",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5328,
     "uikTvd": "481400567600",
+    "uikName": "УИК №5328",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5329,
     "uikTvd": "481400567601",
+    "uikName": "УИК №5329",
     "tikTvd": "281200071564",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5401,
     "uikTvd": "481400669073",
+    "uikName": "УИК №5401",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5402,
     "uikTvd": "481400669074",
+    "uikName": "УИК №5402",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5403,
     "uikTvd": "481400669075",
+    "uikName": "УИК №5403",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5404,
     "uikTvd": "481400669076",
+    "uikName": "УИК №5404",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5405,
     "uikTvd": "481400669077",
+    "uikName": "УИК №5405",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5406,
     "uikTvd": "481400669078",
+    "uikName": "УИК №5406",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5407,
     "uikTvd": "481400669079",
+    "uikName": "УИК №5407",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5408,
     "uikTvd": "481400669080",
+    "uikName": "УИК №5408",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5409,
     "uikTvd": "481400669081",
+    "uikName": "УИК №5409",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5410,
     "uikTvd": "481400669082",
+    "uikName": "УИК №5410",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5411,
     "uikTvd": "481400669083",
+    "uikName": "УИК №5411",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5412,
     "uikTvd": "481400669084",
+    "uikName": "УИК №5412",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5413,
     "uikTvd": "481400669085",
+    "uikName": "УИК №5413",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5414,
     "uikTvd": "481400669086",
+    "uikName": "УИК №5414",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5415,
     "uikTvd": "481400669087",
+    "uikName": "УИК №5415",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5416,
     "uikTvd": "481400669088",
+    "uikName": "УИК №5416",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5417,
     "uikTvd": "481400669089",
+    "uikName": "УИК №5417",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5418,
     "uikTvd": "481400669090",
+    "uikName": "УИК №5418",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5419,
     "uikTvd": "481400669091",
+    "uikName": "УИК №5419",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5420,
     "uikTvd": "481400669092",
+    "uikName": "УИК №5420",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5421,
     "uikTvd": "481400669093",
+    "uikName": "УИК №5421",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5422,
     "uikTvd": "481400669094",
+    "uikName": "УИК №5422",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5423,
     "uikTvd": "481400669095",
+    "uikName": "УИК №5423",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5424,
     "uikTvd": "481400669096",
+    "uikName": "УИК №5424",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5425,
     "uikTvd": "481400669097",
+    "uikName": "УИК №5425",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5426,
     "uikTvd": "481400669098",
+    "uikName": "УИК №5426",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5427,
     "uikTvd": "481400669099",
+    "uikName": "УИК №5427",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5428,
     "uikTvd": "481400669100",
+    "uikName": "УИК №5428",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5429,
     "uikTvd": "481400669101",
+    "uikName": "УИК №5429",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   },
   {
     "uikNumber": 5430,
     "uikTvd": "481400669102",
+    "uikName": "УИК №5430",
     "tikTvd": "281200071565",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "1001000882999",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

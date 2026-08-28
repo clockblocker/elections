@@ -7,4801 +7,12001 @@ export const duma_2016_uik_to_tik_region_37 = [
   {
     "uikNumber": 1,
     "uikTvd": "4374005214025",
+    "uikName": "УИК №1",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4374005214026",
+    "uikName": "УИК №2",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4374005214027",
+    "uikName": "УИК №3",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4374005214028",
+    "uikName": "УИК №4",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4374005214029",
+    "uikName": "УИК №5",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4374005214030",
+    "uikName": "УИК №6",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4374005214031",
+    "uikName": "УИК №7",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4374005214032",
+    "uikName": "УИК №8",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4374005214033",
+    "uikName": "УИК №9",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4374005214034",
+    "uikName": "УИК №10",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4374005214035",
+    "uikName": "УИК №11",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4374005214036",
+    "uikName": "УИК №12",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4374005214037",
+    "uikName": "УИК №13",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4374005214038",
+    "uikName": "УИК №14",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4374005214039",
+    "uikName": "УИК №15",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4374005214040",
+    "uikName": "УИК №16",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4374005214041",
+    "uikName": "УИК №17",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4374005214042",
+    "uikName": "УИК №18",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4374005214043",
+    "uikName": "УИК №19",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4374005214044",
+    "uikName": "УИК №20",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4374005214045",
+    "uikName": "УИК №21",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4374005214046",
+    "uikName": "УИК №22",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4374005214047",
+    "uikName": "УИК №23",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4374005214048",
+    "uikName": "УИК №24",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4374005214049",
+    "uikName": "УИК №25",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4374005214050",
+    "uikName": "УИК №26",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4374005214051",
+    "uikName": "УИК №27",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4374005214052",
+    "uikName": "УИК №28",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4374005214053",
+    "uikName": "УИК №29",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4374005214054",
+    "uikName": "УИК №30",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4374005214055",
+    "uikName": "УИК №31",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4374005214056",
+    "uikName": "УИК №32",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4374005214057",
+    "uikName": "УИК №33",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4374005214058",
+    "uikName": "УИК №34",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4374005214059",
+    "uikName": "УИК №35",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4374005214060",
+    "uikName": "УИК №36",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4374005214061",
+    "uikName": "УИК №37",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4374005214062",
+    "uikName": "УИК №38",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4374005214063",
+    "uikName": "УИК №39",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4374005214064",
+    "uikName": "УИК №40",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4374005214065",
+    "uikName": "УИК №41",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4374005214066",
+    "uikName": "УИК №42",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4374005214067",
+    "uikName": "УИК №43",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4374005214068",
+    "uikName": "УИК №44",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4374005214069",
+    "uikName": "УИК №45",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4374005214070",
+    "uikName": "УИК №46",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4374005214071",
+    "uikName": "УИК №47",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4374005214072",
+    "uikName": "УИК №48",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4374005214073",
+    "uikName": "УИК №49",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4374005214074",
+    "uikName": "УИК №50",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4374005214075",
+    "uikName": "УИК №51",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4374005214076",
+    "uikName": "УИК №52",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4374005214077",
+    "uikName": "УИК №53",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4374005214078",
+    "uikName": "УИК №54",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4374005214079",
+    "uikName": "УИК №55",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4374005214080",
+    "uikName": "УИК №56",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4374005214081",
+    "uikName": "УИК №57",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4374005214082",
+    "uikName": "УИК №58",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4374005214083",
+    "uikName": "УИК №59",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4374005214084",
+    "uikName": "УИК №60",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4374005214085",
+    "uikName": "УИК №61",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4374005214086",
+    "uikName": "УИК №62",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4374005214087",
+    "uikName": "УИК №63",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4374005214088",
+    "uikName": "УИК №64",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4374005214089",
+    "uikName": "УИК №65",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4374005214090",
+    "uikName": "УИК №66",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4374005214091",
+    "uikName": "УИК №67",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4374005214092",
+    "uikName": "УИК №68",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4374005214093",
+    "uikName": "УИК №69",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4374005214094",
+    "uikName": "УИК №70",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4374005214095",
+    "uikName": "УИК №71",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4374005214096",
+    "uikName": "УИК №72",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4374005214097",
+    "uikName": "УИК №73",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4374005214098",
+    "uikName": "УИК №74",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4374005214099",
+    "uikName": "УИК №75",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4374005214100",
+    "uikName": "УИК №76",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4374005214101",
+    "uikName": "УИК №77",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4374005214102",
+    "uikName": "УИК №78",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4374006169498",
+    "uikName": "УИК №79",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4374006169499",
+    "uikName": "УИК №80",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4374006169500",
+    "uikName": "УИК №81",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4374006169501",
+    "uikName": "УИК №82",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4374006169502",
+    "uikName": "УИК №83",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4374006169503",
+    "uikName": "УИК №84",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4374006169504",
+    "uikName": "УИК №85",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4374006169505",
+    "uikName": "УИК №86",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4374006169506",
+    "uikName": "УИК №87",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4374006169507",
+    "uikName": "УИК №88",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4374006169508",
+    "uikName": "УИК №89",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4374006169509",
+    "uikName": "УИК №90",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4374006169510",
+    "uikName": "УИК №91",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4374006169511",
+    "uikName": "УИК №92",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4374006169512",
+    "uikName": "УИК №93",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4374006169513",
+    "uikName": "УИК №94",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4374006169514",
+    "uikName": "УИК №95",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4374006169515",
+    "uikName": "УИК №96",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4374006169516",
+    "uikName": "УИК №97",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4374006169517",
+    "uikName": "УИК №98",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4374006169518",
+    "uikName": "УИК №99",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4374006169519",
+    "uikName": "УИК №100",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4374006169520",
+    "uikName": "УИК №101",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4374006169521",
+    "uikName": "УИК №102",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4374006169522",
+    "uikName": "УИК №103",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4374006169523",
+    "uikName": "УИК №104",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4374006169524",
+    "uikName": "УИК №105",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4374006169525",
+    "uikName": "УИК №106",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4374006169526",
+    "uikName": "УИК №107",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4374006169527",
+    "uikName": "УИК №108",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4374006169528",
+    "uikName": "УИК №109",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4374006169529",
+    "uikName": "УИК №110",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4374006169530",
+    "uikName": "УИК №111",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4374006169531",
+    "uikName": "УИК №112",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4374006169532",
+    "uikName": "УИК №113",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4374006169533",
+    "uikName": "УИК №114",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4374006169534",
+    "uikName": "УИК №115",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4374006169535",
+    "uikName": "УИК №116",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4374006169536",
+    "uikName": "УИК №117",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4374006169537",
+    "uikName": "УИК №118",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4374006169538",
+    "uikName": "УИК №119",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4374006169539",
+    "uikName": "УИК №120",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4374006169540",
+    "uikName": "УИК №121",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4374006169541",
+    "uikName": "УИК №122",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4374006169542",
+    "uikName": "УИК №123",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4374006169543",
+    "uikName": "УИК №124",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4374006169544",
+    "uikName": "УИК №125",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4374006169545",
+    "uikName": "УИК №126",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4374006169546",
+    "uikName": "УИК №127",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4374007202760",
+    "uikName": "УИК №128",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4374007202761",
+    "uikName": "УИК №129",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4374007202762",
+    "uikName": "УИК №130",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4374007202763",
+    "uikName": "УИК №131",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4374007202764",
+    "uikName": "УИК №132",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4374007202765",
+    "uikName": "УИК №133",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4374007202766",
+    "uikName": "УИК №134",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4374007202767",
+    "uikName": "УИК №135",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4374007202768",
+    "uikName": "УИК №136",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4374007202769",
+    "uikName": "УИК №137",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4374007202770",
+    "uikName": "УИК №138",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4374007202771",
+    "uikName": "УИК №139",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4374007202772",
+    "uikName": "УИК №140",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4374007202773",
+    "uikName": "УИК №141",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4374007202774",
+    "uikName": "УИК №142",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4374007202775",
+    "uikName": "УИК №143",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4374007202776",
+    "uikName": "УИК №144",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4374007202777",
+    "uikName": "УИК №145",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4374007202778",
+    "uikName": "УИК №146",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4374007202779",
+    "uikName": "УИК №147",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4374007202780",
+    "uikName": "УИК №148",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4374007202781",
+    "uikName": "УИК №149",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4374007202782",
+    "uikName": "УИК №150",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4374007202783",
+    "uikName": "УИК №151",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4374007202784",
+    "uikName": "УИК №152",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4374007202785",
+    "uikName": "УИК №153",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4374007202786",
+    "uikName": "УИК №154",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4374007202787",
+    "uikName": "УИК №155",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4374007202788",
+    "uikName": "УИК №156",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4374007202789",
+    "uikName": "УИК №157",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4374007202790",
+    "uikName": "УИК №158",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4374007202791",
+    "uikName": "УИК №159",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4374007202792",
+    "uikName": "УИК №160",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4374007202793",
+    "uikName": "УИК №161",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4374007202794",
+    "uikName": "УИК №162",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4374008210826",
+    "uikName": "УИК №163",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4374008210827",
+    "uikName": "УИК №164",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4374008210828",
+    "uikName": "УИК №165",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4374008210829",
+    "uikName": "УИК №166",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4374008210830",
+    "uikName": "УИК №167",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4374008210831",
+    "uikName": "УИК №168",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4374008210832",
+    "uikName": "УИК №169",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4374008210833",
+    "uikName": "УИК №170",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4374008210834",
+    "uikName": "УИК №171",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4374008210835",
+    "uikName": "УИК №172",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4374008210836",
+    "uikName": "УИК №173",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4374008210837",
+    "uikName": "УИК №174",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4374008210838",
+    "uikName": "УИК №175",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4374008210839",
+    "uikName": "УИК №176",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4374008210840",
+    "uikName": "УИК №177",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4374008210841",
+    "uikName": "УИК №178",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4374008210842",
+    "uikName": "УИК №179",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4374008210843",
+    "uikName": "УИК №180",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4374008210844",
+    "uikName": "УИК №181",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4374008210845",
+    "uikName": "УИК №182",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4374008210846",
+    "uikName": "УИК №183",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4374008210847",
+    "uikName": "УИК №184",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4374008210848",
+    "uikName": "УИК №185",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4374008210849",
+    "uikName": "УИК №186",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4374008210850",
+    "uikName": "УИК №187",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4374008210851",
+    "uikName": "УИК №188",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4374008210852",
+    "uikName": "УИК №189",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4374008210853",
+    "uikName": "УИК №190",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4374008210854",
+    "uikName": "УИК №191",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4374008210855",
+    "uikName": "УИК №192",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4374008210856",
+    "uikName": "УИК №193",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4374008210857",
+    "uikName": "УИК №194",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4374008210858",
+    "uikName": "УИК №195",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4374008210859",
+    "uikName": "УИК №196",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4374008210860",
+    "uikName": "УИК №197",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4374008210861",
+    "uikName": "УИК №198",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4374008210862",
+    "uikName": "УИК №199",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4374008210863",
+    "uikName": "УИК №200",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4374008210864",
+    "uikName": "УИК №201",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4374008210865",
+    "uikName": "УИК №202",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4374008210866",
+    "uikName": "УИК №203",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4374008210867",
+    "uikName": "УИК №204",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4374008210868",
+    "uikName": "УИК №205",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4374008210869",
+    "uikName": "УИК №206",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4374008210870",
+    "uikName": "УИК №207",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4374008210871",
+    "uikName": "УИК №208",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4374008210872",
+    "uikName": "УИК №209",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4374008210873",
+    "uikName": "УИК №210",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4374008210874",
+    "uikName": "УИК №211",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4374008210875",
+    "uikName": "УИК №212",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4374008210876",
+    "uikName": "УИК №213",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4374008210877",
+    "uikName": "УИК №214",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4374008210878",
+    "uikName": "УИК №215",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4374008210879",
+    "uikName": "УИК №216",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4374008210880",
+    "uikName": "УИК №217",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4374008210881",
+    "uikName": "УИК №218",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4374008210882",
+    "uikName": "УИК №219",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4374008210883",
+    "uikName": "УИК №220",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4374008210884",
+    "uikName": "УИК №221",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4374008210885",
+    "uikName": "УИК №222",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4374002137793",
+    "uikName": "УИК №223",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4374002137794",
+    "uikName": "УИК №224",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4374002137795",
+    "uikName": "УИК №225",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4374002137796",
+    "uikName": "УИК №226",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4374002137797",
+    "uikName": "УИК №227",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4374002137798",
+    "uikName": "УИК №228",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4374002137799",
+    "uikName": "УИК №229",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4374002137800",
+    "uikName": "УИК №230",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4374002137801",
+    "uikName": "УИК №231",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4374002137802",
+    "uikName": "УИК №232",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4374002137803",
+    "uikName": "УИК №233",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4374002137804",
+    "uikName": "УИК №234",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4374002137805",
+    "uikName": "УИК №235",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4374002137806",
+    "uikName": "УИК №236",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4374002137807",
+    "uikName": "УИК №237",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4374002137808",
+    "uikName": "УИК №238",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4374002137809",
+    "uikName": "УИК №239",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4374002137810",
+    "uikName": "УИК №240",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4374002137811",
+    "uikName": "УИК №241",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4374002137812",
+    "uikName": "УИК №242",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4374002137813",
+    "uikName": "УИК №243",
     "tikTvd": "2372000849601",
-    "tikName": "Вичугская городская"
+    "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4374011160182",
+    "uikName": "УИК №244",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4374011160183",
+    "uikName": "УИК №245",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4374011160184",
+    "uikName": "УИК №246",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4374011160185",
+    "uikName": "УИК №247",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4374011160186",
+    "uikName": "УИК №248",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4374011160187",
+    "uikName": "УИК №249",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4374011160188",
+    "uikName": "УИК №250",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4374011160189",
+    "uikName": "УИК №251",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4374011160190",
+    "uikName": "УИК №252",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4374011160191",
+    "uikName": "УИК №253",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4374011160192",
+    "uikName": "УИК №254",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4374011160193",
+    "uikName": "УИК №255",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4374011160194",
+    "uikName": "УИК №256",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4374011160195",
+    "uikName": "УИК №257",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4374011160196",
+    "uikName": "УИК №258",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4374011160197",
+    "uikName": "УИК №259",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4374011160198",
+    "uikName": "УИК №260",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4374011160199",
+    "uikName": "УИК №261",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4374011160200",
+    "uikName": "УИК №262",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4374011160201",
+    "uikName": "УИК №263",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4374011160202",
+    "uikName": "УИК №264",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4374011160203",
+    "uikName": "УИК №265",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4374011160204",
+    "uikName": "УИК №266",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4374011160205",
+    "uikName": "УИК №267",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4374011160206",
+    "uikName": "УИК №268",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4374011160207",
+    "uikName": "УИК №269",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4374011160208",
+    "uikName": "УИК №270",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4374011160209",
+    "uikName": "УИК №271",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4374011160210",
+    "uikName": "УИК №272",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4374011160211",
+    "uikName": "УИК №273",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4374011160212",
+    "uikName": "УИК №274",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4374011160213",
+    "uikName": "УИК №275",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4374011160214",
+    "uikName": "УИК №276",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4374011160215",
+    "uikName": "УИК №277",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4374011160216",
+    "uikName": "УИК №278",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4374011160217",
+    "uikName": "УИК №279",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4374011160218",
+    "uikName": "УИК №280",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4374011160219",
+    "uikName": "УИК №281",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4374011160220",
+    "uikName": "УИК №282",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4374011160221",
+    "uikName": "УИК №283",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4374011160222",
+    "uikName": "УИК №284",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4374011160223",
+    "uikName": "УИК №285",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4374011160224",
+    "uikName": "УИК №286",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4374011160225",
+    "uikName": "УИК №287",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4374011160226",
+    "uikName": "УИК №288",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4374011160227",
+    "uikName": "УИК №289",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4374030130947",
+    "uikName": "УИК №290",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4374030130948",
+    "uikName": "УИК №291",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4374030130949",
+    "uikName": "УИК №292",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4374030130950",
+    "uikName": "УИК №293",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4374030130951",
+    "uikName": "УИК №294",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4374030130952",
+    "uikName": "УИК №295",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4374030130953",
+    "uikName": "УИК №296",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4374030130954",
+    "uikName": "УИК №297",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4374030130955",
+    "uikName": "УИК №298",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4374030130956",
+    "uikName": "УИК №299",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4374030130957",
+    "uikName": "УИК №300",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4374030130958",
+    "uikName": "УИК №301",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4374030130959",
+    "uikName": "УИК №302",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4374030130960",
+    "uikName": "УИК №303",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4374030130961",
+    "uikName": "УИК №304",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4374030130962",
+    "uikName": "УИК №305",
     "tikTvd": "2372000849576",
-    "tikName": "Кохомская городская"
+    "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4374021151977",
+    "uikName": "УИК №306",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4374021151978",
+    "uikName": "УИК №307",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4374021151979",
+    "uikName": "УИК №308",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4374021151980",
+    "uikName": "УИК №309",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4374021151981",
+    "uikName": "УИК №310",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4374021151982",
+    "uikName": "УИК №311",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4374021151983",
+    "uikName": "УИК №312",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4374021151984",
+    "uikName": "УИК №313",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4374021151985",
+    "uikName": "УИК №314",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4374021151986",
+    "uikName": "УИК №315",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4374021151987",
+    "uikName": "УИК №316",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4374021151988",
+    "uikName": "УИК №317",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4374021151989",
+    "uikName": "УИК №318",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4374021151990",
+    "uikName": "УИК №319",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4374021151991",
+    "uikName": "УИК №320",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4374021151992",
+    "uikName": "УИК №321",
     "tikTvd": "2372000849568",
-    "tikName": "Тейковская городская"
+    "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4374023141718",
+    "uikName": "УИК №322",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4374023141719",
+    "uikName": "УИК №323",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4374023141720",
+    "uikName": "УИК №324",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4374023141721",
+    "uikName": "УИК №325",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4374023141722",
+    "uikName": "УИК №326",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4374023141723",
+    "uikName": "УИК №327",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4374023141724",
+    "uikName": "УИК №328",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4374023141725",
+    "uikName": "УИК №329",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4374023141726",
+    "uikName": "УИК №330",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4374023141727",
+    "uikName": "УИК №331",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4374023141728",
+    "uikName": "УИК №332",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4374023141729",
+    "uikName": "УИК №333",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4374023141730",
+    "uikName": "УИК №334",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4374023141731",
+    "uikName": "УИК №335",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4374023141732",
+    "uikName": "УИК №336",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4374023141733",
+    "uikName": "УИК №337",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4374023141734",
+    "uikName": "УИК №338",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4374023141735",
+    "uikName": "УИК №339",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4374023141736",
+    "uikName": "УИК №340",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4374023141737",
+    "uikName": "УИК №341",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4374023141738",
+    "uikName": "УИК №342",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4374023141739",
+    "uikName": "УИК №343",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4374023141740",
+    "uikName": "УИК №344",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4374023141741",
+    "uikName": "УИК №345",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4374023141742",
+    "uikName": "УИК №346",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4374023141743",
+    "uikName": "УИК №347",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4374023141744",
+    "uikName": "УИК №348",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4374023141745",
+    "uikName": "УИК №349",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4374023141746",
+    "uikName": "УИК №350",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4374023141747",
+    "uikName": "УИК №351",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4374023141748",
+    "uikName": "УИК №352",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4374023141749",
+    "uikName": "УИК №353",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4374023141750",
+    "uikName": "УИК №354",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4374023141751",
+    "uikName": "УИК №355",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4374023141752",
+    "uikName": "УИК №356",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4374023141753",
+    "uikName": "УИК №357",
     "tikTvd": "2372000849566",
-    "tikName": "Шуйская городская"
+    "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4374001133142",
+    "uikName": "УИК №358",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4374001133143",
+    "uikName": "УИК №359",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4374001133144",
+    "uikName": "УИК №360",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4374001133145",
+    "uikName": "УИК №361",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4374001133146",
+    "uikName": "УИК №362",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4374001133147",
+    "uikName": "УИК №363",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4374001133148",
+    "uikName": "УИК №364",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4374001133149",
+    "uikName": "УИК №365",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4374001133150",
+    "uikName": "УИК №366",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4374001133151",
+    "uikName": "УИК №367",
     "tikTvd": "2372000849583",
-    "tikName": "Верхнеландеховская"
+    "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4374026161830",
+    "uikName": "УИК №368",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4374026161831",
+    "uikName": "УИК №369",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4374026161832",
+    "uikName": "УИК №370",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4374026161833",
+    "uikName": "УИК №371",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4374026161834",
+    "uikName": "УИК №372",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4374026161835",
+    "uikName": "УИК №373",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4374026161836",
+    "uikName": "УИК №374",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4374026161837",
+    "uikName": "УИК №375",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4374026161838",
+    "uikName": "УИК №376",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4374026161839",
+    "uikName": "УИК №377",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4374026161840",
+    "uikName": "УИК №378",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4374026161841",
+    "uikName": "УИК №379",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4374026161842",
+    "uikName": "УИК №380",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4374026161843",
+    "uikName": "УИК №381",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4374026161844",
+    "uikName": "УИК №382",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4374026161845",
+    "uikName": "УИК №383",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4374026161846",
+    "uikName": "УИК №384",
     "tikTvd": "2372000849602",
-    "tikName": "Вичугская"
+    "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4374003139257",
+    "uikName": "УИК №385",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4374003139258",
+    "uikName": "УИК №386",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4374003139259",
+    "uikName": "УИК №387",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4374003139260",
+    "uikName": "УИК №388",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4374003139261",
+    "uikName": "УИК №389",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4374003139262",
+    "uikName": "УИК №390",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4374003139263",
+    "uikName": "УИК №391",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4374003139264",
+    "uikName": "УИК №392",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4374003139265",
+    "uikName": "УИК №393",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4374003139266",
+    "uikName": "УИК №394",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4374003139267",
+    "uikName": "УИК №395",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4374003139268",
+    "uikName": "УИК №396",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4374003139269",
+    "uikName": "УИК №397",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4374003139270",
+    "uikName": "УИК №398",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4374003139271",
+    "uikName": "УИК №399",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4374003139272",
+    "uikName": "УИК №400",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4374003139273",
+    "uikName": "УИК №401",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4374003139274",
+    "uikName": "УИК №402",
     "tikTvd": "2372000849582",
-    "tikName": "Гаврилово-Посадская"
+    "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4374004164128",
+    "uikName": "УИК №403",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4374004164129",
+    "uikName": "УИК №404",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4374004164130",
+    "uikName": "УИК №405",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4374004164131",
+    "uikName": "УИК №406",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4374004164132",
+    "uikName": "УИК №407",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4374004164133",
+    "uikName": "УИК №408",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4374004164134",
+    "uikName": "УИК №409",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4374004164135",
+    "uikName": "УИК №410",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4374004164136",
+    "uikName": "УИК №411",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4374004164137",
+    "uikName": "УИК №412",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4374004164138",
+    "uikName": "УИК №413",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4374004164139",
+    "uikName": "УИК №414",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4374004164140",
+    "uikName": "УИК №415",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4374004164141",
+    "uikName": "УИК №416",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4374004164142",
+    "uikName": "УИК №417",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4374004164143",
+    "uikName": "УИК №418",
     "tikTvd": "2372000849600",
-    "tikName": "Заволжская"
+    "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4374009196055",
+    "uikName": "УИК №419",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4374009196057",
+    "uikName": "УИК №420",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4374009196058",
+    "uikName": "УИК №421",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4374009196059",
+    "uikName": "УИК №422",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4374009196060",
+    "uikName": "УИК №423",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4374009196061",
+    "uikName": "УИК №424",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4374009196062",
+    "uikName": "УИК №425",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4374009196063",
+    "uikName": "УИК №426",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4374009196064",
+    "uikName": "УИК №427",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4374009196065",
+    "uikName": "УИК №428",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4374009196066",
+    "uikName": "УИК №429",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4374009196067",
+    "uikName": "УИК №430",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4374009196107",
+    "uikName": "УИК №431",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4374009196108",
+    "uikName": "УИК №432",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4374009196109",
+    "uikName": "УИК №433",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4374009196110",
+    "uikName": "УИК №434",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4374009196111",
+    "uikName": "УИК №435",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4374009196073",
+    "uikName": "УИК №436",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4374009196074",
+    "uikName": "УИК №437",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4374009196075",
+    "uikName": "УИК №438",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4374009196076",
+    "uikName": "УИК №439",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4374009196112",
+    "uikName": "УИК №440",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4374009196113",
+    "uikName": "УИК №441",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4374009196114",
+    "uikName": "УИК №442",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4374009196115",
+    "uikName": "УИК №443",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4374009196116",
+    "uikName": "УИК №444",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4374009196082",
+    "uikName": "УИК №445",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4374009196083",
+    "uikName": "УИК №446",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4374009196084",
+    "uikName": "УИК №447",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4374009196085",
+    "uikName": "УИК №448",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4374009196086",
+    "uikName": "УИК №449",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4374009196087",
+    "uikName": "УИК №450",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4374009196088",
+    "uikName": "УИК №451",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4374009196089",
+    "uikName": "УИК №452",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4374009196090",
+    "uikName": "УИК №453",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4374009196091",
+    "uikName": "УИК №454",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4374009196092",
+    "uikName": "УИК №455",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4374009196117",
+    "uikName": "УИК №456",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4374009196118",
+    "uikName": "УИК №457",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4374009196119",
+    "uikName": "УИК №458",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4374009196120",
+    "uikName": "УИК №459",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4374009196121",
+    "uikName": "УИК №460",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4374009196122",
+    "uikName": "УИК №461",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4374009196123",
+    "uikName": "УИК №462",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4374009196124",
+    "uikName": "УИК №463",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4374009196125",
+    "uikName": "УИК №464",
     "tikTvd": "2372000849597",
-    "tikName": "Ивановская - 92"
+    "tikName": "Ивановская - 92",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4374009196102",
+    "uikName": "УИК №465",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4374009196103",
+    "uikName": "УИК №466",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4374009196104",
+    "uikName": "УИК №467",
     "tikTvd": "2372000849596",
-    "tikName": "Ивановская - 91"
+    "tikName": "Ивановская - 91",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4374010133718",
+    "uikName": "УИК №468",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4374010133719",
+    "uikName": "УИК №469",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4374010133720",
+    "uikName": "УИК №470",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4374010133721",
+    "uikName": "УИК №471",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4374010133722",
+    "uikName": "УИК №472",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4374010133723",
+    "uikName": "УИК №473",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4374010133724",
+    "uikName": "УИК №474",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4374010133725",
+    "uikName": "УИК №475",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4374010133726",
+    "uikName": "УИК №476",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4374010133727",
+    "uikName": "УИК №477",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4374010133728",
+    "uikName": "УИК №478",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4374010133729",
+    "uikName": "УИК №479",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4374010133730",
+    "uikName": "УИК №480",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4374010133731",
+    "uikName": "УИК №481",
     "tikTvd": "2372000849578",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4374027165632",
+    "uikName": "УИК №482",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4374027165634",
+    "uikName": "УИК №483",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4374027165636",
+    "uikName": "УИК №484",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4374027165638",
+    "uikName": "УИК №485",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4374027165640",
+    "uikName": "УИК №486",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4374027165642",
+    "uikName": "УИК №487",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4374027165644",
+    "uikName": "УИК №488",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4374027165646",
+    "uikName": "УИК №489",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4374027165648",
+    "uikName": "УИК №490",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4374027165650",
+    "uikName": "УИК №491",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4374027165652",
+    "uikName": "УИК №492",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4374027165654",
+    "uikName": "УИК №493",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4374027165656",
+    "uikName": "УИК №494",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4374027165658",
+    "uikName": "УИК №495",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4374027165660",
+    "uikName": "УИК №496",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4374027165662",
+    "uikName": "УИК №497",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4374027165664",
+    "uikName": "УИК №498",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4374027165666",
+    "uikName": "УИК №499",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4374027165668",
+    "uikName": "УИК №500",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4374027165670",
+    "uikName": "УИК №501",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4374027165672",
+    "uikName": "УИК №502",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4374027165674",
+    "uikName": "УИК №503",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4374027165676",
+    "uikName": "УИК №504",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4374027165678",
+    "uikName": "УИК №505",
     "tikTvd": "2372000849589",
-    "tikName": "Кинешемская"
+    "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4374012165428",
+    "uikName": "УИК №506",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4374012165429",
+    "uikName": "УИК №507",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4374012165430",
+    "uikName": "УИК №508",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4374012165431",
+    "uikName": "УИК №509",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4374012165432",
+    "uikName": "УИК №510",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4374012165433",
+    "uikName": "УИК №511",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4374012165434",
+    "uikName": "УИК №512",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4374012165435",
+    "uikName": "УИК №513",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4374012165436",
+    "uikName": "УИК №514",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4374012165437",
+    "uikName": "УИК №515",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4374012165438",
+    "uikName": "УИК №516",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4374012165439",
+    "uikName": "УИК №517",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4374012165440",
+    "uikName": "УИК №518",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4374012165441",
+    "uikName": "УИК №519",
     "tikTvd": "2372000849577",
-    "tikName": "Комсомольская"
+    "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4374013141570",
+    "uikName": "УИК №520",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4374013141572",
+    "uikName": "УИК №521",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4374013141574",
+    "uikName": "УИК №522",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4374013141576",
+    "uikName": "УИК №523",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4374013141578",
+    "uikName": "УИК №524",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4374013141580",
+    "uikName": "УИК №525",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4374013141582",
+    "uikName": "УИК №526",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4374013141584",
+    "uikName": "УИК №527",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4374013141586",
+    "uikName": "УИК №528",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4374013141588",
+    "uikName": "УИК №529",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4374013141590",
+    "uikName": "УИК №530",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4374013141592",
+    "uikName": "УИК №531",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4374013141594",
+    "uikName": "УИК №532",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4374013141596",
+    "uikName": "УИК №533",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4374013141598",
+    "uikName": "УИК №534",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4374013141600",
+    "uikName": "УИК №535",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4374013141602",
+    "uikName": "УИК №536",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4374013141604",
+    "uikName": "УИК №537",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4374013141606",
+    "uikName": "УИК №538",
     "tikTvd": "2372000849575",
-    "tikName": "Лежневская"
+    "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4374014144813",
+    "uikName": "УИК №539",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4374014144814",
+    "uikName": "УИК №540",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4374014144815",
+    "uikName": "УИК №541",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4374014144816",
+    "uikName": "УИК №542",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4374014144817",
+    "uikName": "УИК №543",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4374014144818",
+    "uikName": "УИК №544",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4374014144819",
+    "uikName": "УИК №545",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4374014144820",
+    "uikName": "УИК №546",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4374014144821",
+    "uikName": "УИК №547",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4374014144822",
+    "uikName": "УИК №548",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4374014144823",
+    "uikName": "УИК №549",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4374014144824",
+    "uikName": "УИК №550",
     "tikTvd": "2372000849574",
-    "tikName": "Лухская"
+    "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4374015136130",
+    "uikName": "УИК №551",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4374015136131",
+    "uikName": "УИК №552",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4374015136132",
+    "uikName": "УИК №553",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4374015136133",
+    "uikName": "УИК №554",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4374015136134",
+    "uikName": "УИК №555",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4374015136135",
+    "uikName": "УИК №556",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4374015136136",
+    "uikName": "УИК №557",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4374015136137",
+    "uikName": "УИК №558",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4374015136138",
+    "uikName": "УИК №559",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4374015136139",
+    "uikName": "УИК №560",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4374015136140",
+    "uikName": "УИК №561",
     "tikTvd": "2372000849573",
-    "tikName": "Палехская"
+    "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4374016114071",
+    "uikName": "УИК №562",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4374016114072",
+    "uikName": "УИК №563",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4374016114073",
+    "uikName": "УИК №564",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4374016114074",
+    "uikName": "УИК №565",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4374016114075",
+    "uikName": "УИК №566",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4374016114076",
+    "uikName": "УИК №567",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4374016114077",
+    "uikName": "УИК №568",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4374016114078",
+    "uikName": "УИК №569",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4374016114079",
+    "uikName": "УИК №570",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4374016114080",
+    "uikName": "УИК №571",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4374016114081",
+    "uikName": "УИК №572",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4374016114082",
+    "uikName": "УИК №573",
     "tikTvd": "2372000849572",
-    "tikName": "Пестяковская"
+    "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4374017151193",
+    "uikName": "УИК №574",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4374017151194",
+    "uikName": "УИК №575",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4374017151195",
+    "uikName": "УИК №576",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4374017151196",
+    "uikName": "УИК №577",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4374017151197",
+    "uikName": "УИК №578",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4374017151198",
+    "uikName": "УИК №579",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4374017151199",
+    "uikName": "УИК №580",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4374017151200",
+    "uikName": "УИК №581",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4374017151201",
+    "uikName": "УИК №582",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4374017151202",
+    "uikName": "УИК №583",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4374017151203",
+    "uikName": "УИК №584",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4374017151204",
+    "uikName": "УИК №585",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4374017151205",
+    "uikName": "УИК №586",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4374017151206",
+    "uikName": "УИК №587",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4374017151207",
+    "uikName": "УИК №588",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4374017151208",
+    "uikName": "УИК №589",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4374017151209",
+    "uikName": "УИК №590",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4374017151210",
+    "uikName": "УИК №591",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4374017151211",
+    "uikName": "УИК №592",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4374017151212",
+    "uikName": "УИК №593",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4374017151213",
+    "uikName": "УИК №594",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4374017151214",
+    "uikName": "УИК №595",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4374017151215",
+    "uikName": "УИК №596",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4374017151216",
+    "uikName": "УИК №597",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4374017151217",
+    "uikName": "УИК №598",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4374017151218",
+    "uikName": "УИК №599",
     "tikTvd": "2372000849587",
-    "tikName": "Приволжская"
+    "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4374018142979",
+    "uikName": "УИК №600",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4374018142980",
+    "uikName": "УИК №601",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4374018142981",
+    "uikName": "УИК №602",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4374018142982",
+    "uikName": "УИК №603",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4374018142983",
+    "uikName": "УИК №604",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4374018142984",
+    "uikName": "УИК №605",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4374018142985",
+    "uikName": "УИК №606",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4374018142986",
+    "uikName": "УИК №607",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4374018142987",
+    "uikName": "УИК №608",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4374018142988",
+    "uikName": "УИК №609",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4374018142989",
+    "uikName": "УИК №610",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4374018142990",
+    "uikName": "УИК №611",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4374018142991",
+    "uikName": "УИК №612",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4374018142992",
+    "uikName": "УИК №613",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4374018142993",
+    "uikName": "УИК №614",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4374018142994",
+    "uikName": "УИК №615",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4374018142995",
+    "uikName": "УИК №616",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4374018142996",
+    "uikName": "УИК №617",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4374018142997",
+    "uikName": "УИК №618",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4374018142998",
+    "uikName": "УИК №619",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4374018142999",
+    "uikName": "УИК №620",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4374018143000",
+    "uikName": "УИК №621",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4374018143001",
+    "uikName": "УИК №622",
     "tikTvd": "2372000849571",
-    "tikName": "Пучежская"
+    "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4374019147006",
+    "uikName": "УИК №623",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4374019147007",
+    "uikName": "УИК №624",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4374019147008",
+    "uikName": "УИК №625",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4374019147009",
+    "uikName": "УИК №626",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4374019147010",
+    "uikName": "УИК №627",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4374019147011",
+    "uikName": "УИК №628",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4374019147012",
+    "uikName": "УИК №629",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4374019147013",
+    "uikName": "УИК №630",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4374019147014",
+    "uikName": "УИК №631",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4374019147015",
+    "uikName": "УИК №632",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4374019147016",
+    "uikName": "УИК №633",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4374019147017",
+    "uikName": "УИК №634",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4374019147018",
+    "uikName": "УИК №635",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4374019147019",
+    "uikName": "УИК №636",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4374019147020",
+    "uikName": "УИК №637",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4374019147021",
+    "uikName": "УИК №638",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4374019147022",
+    "uikName": "УИК №639",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4374019147023",
+    "uikName": "УИК №640",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4374019147024",
+    "uikName": "УИК №641",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4374019147025",
+    "uikName": "УИК №642",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4374019147026",
+    "uikName": "УИК №643",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4374019147027",
+    "uikName": "УИК №644",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4374019147028",
+    "uikName": "УИК №645",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4374019147029",
+    "uikName": "УИК №646",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4374019147030",
+    "uikName": "УИК №647",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4374019147031",
+    "uikName": "УИК №648",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4374019147032",
+    "uikName": "УИК №649",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4374019147033",
+    "uikName": "УИК №650",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4374020140694",
+    "uikName": "УИК №651",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4374020140695",
+    "uikName": "УИК №652",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4374020140696",
+    "uikName": "УИК №653",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4374020140697",
+    "uikName": "УИК №654",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4374020140698",
+    "uikName": "УИК №655",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4374020140699",
+    "uikName": "УИК №656",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4374020140700",
+    "uikName": "УИК №657",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4374020140701",
+    "uikName": "УИК №658",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4374020140704",
+    "uikName": "УИК №659",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4374020140706",
+    "uikName": "УИК №660",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4374020140707",
+    "uikName": "УИК №661",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4374020140708",
+    "uikName": "УИК №662",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4374020140709",
+    "uikName": "УИК №663",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4374020140710",
+    "uikName": "УИК №664",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4374020140711",
+    "uikName": "УИК №665",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4374020140712",
+    "uikName": "УИК №666",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4374020140713",
+    "uikName": "УИК №667",
     "tikTvd": "2372000849570",
-    "tikName": "Савинская"
+    "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4374028150704",
+    "uikName": "УИК №668",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4374028150705",
+    "uikName": "УИК №669",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4374028150706",
+    "uikName": "УИК №670",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4374028150707",
+    "uikName": "УИК №671",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4374028150708",
+    "uikName": "УИК №672",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4374028150709",
+    "uikName": "УИК №673",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4374028150710",
+    "uikName": "УИК №674",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4374028150711",
+    "uikName": "УИК №675",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4374028150712",
+    "uikName": "УИК №676",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4374028150713",
+    "uikName": "УИК №677",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4374028150714",
+    "uikName": "УИК №678",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4374028150715",
+    "uikName": "УИК №679",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4374028150716",
+    "uikName": "УИК №680",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4374028150717",
+    "uikName": "УИК №681",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4374028150718",
+    "uikName": "УИК №682",
     "tikTvd": "2372000849569",
-    "tikName": "Тейковская"
+    "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4374022153421",
+    "uikName": "УИК №683",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4374022153422",
+    "uikName": "УИК №684",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4374022153423",
+    "uikName": "УИК №685",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4374022153424",
+    "uikName": "УИК №686",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4374022153425",
+    "uikName": "УИК №687",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4374022153426",
+    "uikName": "УИК №688",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4374022153427",
+    "uikName": "УИК №689",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4374022153428",
+    "uikName": "УИК №690",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4374022153429",
+    "uikName": "УИК №691",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4374022153430",
+    "uikName": "УИК №692",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4374022153431",
+    "uikName": "УИК №693",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4374022153432",
+    "uikName": "УИК №694",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4374022153433",
+    "uikName": "УИК №695",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4374022153434",
+    "uikName": "УИК №696",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4374022153435",
+    "uikName": "УИК №697",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4374022153436",
+    "uikName": "УИК №698",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4374022153437",
+    "uikName": "УИК №699",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4374022153438",
+    "uikName": "УИК №700",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4374022153439",
+    "uikName": "УИК №701",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4374022153440",
+    "uikName": "УИК №702",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4374022153441",
+    "uikName": "УИК №703",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4374022153442",
+    "uikName": "УИК №704",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4374022153443",
+    "uikName": "УИК №705",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4374022153444",
+    "uikName": "УИК №706",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4374022153445",
+    "uikName": "УИК №707",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4374022153446",
+    "uikName": "УИК №708",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4374022153447",
+    "uikName": "УИК №709",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4374022153448",
+    "uikName": "УИК №710",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4374022153449",
+    "uikName": "УИК №711",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4374022153450",
+    "uikName": "УИК №712",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4374029136822",
+    "uikName": "УИК №713",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4374029136823",
+    "uikName": "УИК №714",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4374029136824",
+    "uikName": "УИК №715",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4374029136825",
+    "uikName": "УИК №716",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4374029136826",
+    "uikName": "УИК №717",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4374029136827",
+    "uikName": "УИК №718",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4374029136828",
+    "uikName": "УИК №719",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4374029136829",
+    "uikName": "УИК №720",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4374029136830",
+    "uikName": "УИК №721",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4374029136831",
+    "uikName": "УИК №722",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4374029136832",
+    "uikName": "УИК №723",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4374029136833",
+    "uikName": "УИК №724",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4374029136834",
+    "uikName": "УИК №725",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4374029136835",
+    "uikName": "УИК №726",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4374029136836",
+    "uikName": "УИК №727",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4374029136837",
+    "uikName": "УИК №728",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4374029136838",
+    "uikName": "УИК №729",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4374029136839",
+    "uikName": "УИК №730",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4374029136840",
+    "uikName": "УИК №731",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4374029136841",
+    "uikName": "УИК №732",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4374029136842",
+    "uikName": "УИК №733",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4374029136843",
+    "uikName": "УИК №734",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4374029136844",
+    "uikName": "УИК №735",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4374029136845",
+    "uikName": "УИК №736",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4374029136846",
+    "uikName": "УИК №737",
     "tikTvd": "2372000849567",
-    "tikName": "Шуйская"
+    "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4374024162702",
+    "uikName": "УИК №738",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4374024162703",
+    "uikName": "УИК №739",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4374024162704",
+    "uikName": "УИК №740",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4374024162705",
+    "uikName": "УИК №741",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4374024162706",
+    "uikName": "УИК №742",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4374024162707",
+    "uikName": "УИК №743",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4374024162708",
+    "uikName": "УИК №744",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4374024162709",
+    "uikName": "УИК №745",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4374024162710",
+    "uikName": "УИК №746",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4374024162711",
+    "uikName": "УИК №747",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4374024162712",
+    "uikName": "УИК №748",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4374024162713",
+    "uikName": "УИК №749",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4374024162714",
+    "uikName": "УИК №750",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4374024162715",
+    "uikName": "УИК №751",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4374024162716",
+    "uikName": "УИК №752",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4374024162717",
+    "uikName": "УИК №753",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4374024162718",
+    "uikName": "УИК №754",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4374024162719",
+    "uikName": "УИК №755",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4374024162720",
+    "uikName": "УИК №756",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4374024162721",
+    "uikName": "УИК №757",
     "tikTvd": "2372000849565",
-    "tikName": "Южская"
+    "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4374025150751",
+    "uikName": "УИК №758",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4374025150752",
+    "uikName": "УИК №759",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4374025150753",
+    "uikName": "УИК №760",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4374025150754",
+    "uikName": "УИК №761",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4374025150755",
+    "uikName": "УИК №762",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4374025150756",
+    "uikName": "УИК №763",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4374025150757",
+    "uikName": "УИК №764",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4374025150758",
+    "uikName": "УИК №765",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4374025150759",
+    "uikName": "УИК №766",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4374025150760",
+    "uikName": "УИК №767",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4374025150761",
+    "uikName": "УИК №768",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4374025150762",
+    "uikName": "УИК №769",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4374025150763",
+    "uikName": "УИК №770",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4374025150764",
+    "uikName": "УИК №771",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4374025150765",
+    "uikName": "УИК №772",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4374025150766",
+    "uikName": "УИК №773",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4374025150767",
+    "uikName": "УИК №774",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4374025150768",
+    "uikName": "УИК №775",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4374025150769",
+    "uikName": "УИК №776",
     "tikTvd": "2372000849584",
-    "tikName": "Юрьевецкая"
+    "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4374005214103",
+    "uikName": "УИК №777",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4374022153451",
+    "uikName": "УИК №778",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4374005219147",
+    "uikName": "УИК №779",
     "tikTvd": "2372000849599",
-    "tikName": "Иваново, Ленинская"
+    "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4374006173178",
+    "uikName": "УИК №780",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4374007205402",
+    "uikName": "УИК №781",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4374007205404",
+    "uikName": "УИК №782",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4374011162707",
+    "uikName": "УИК №783",
     "tikTvd": "2372000849588",
-    "tikName": "Кинешемская городская"
+    "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8035,
     "uikTvd": "4374008215399",
+    "uikName": "УИК №8035",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8039,
     "uikTvd": "4374022155931",
+    "uikName": "УИК №8039",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8040,
     "uikTvd": "4374022155932",
+    "uikName": "УИК №8040",
     "tikTvd": "2372000849585",
-    "tikName": "Фурмановская"
+    "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8118,
     "uikTvd": "4374019149129",
+    "uikName": "УИК №8118",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8119,
     "uikTvd": "4374019149130",
+    "uikName": "УИК №8119",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8120,
     "uikTvd": "4374019149131",
+    "uikName": "УИК №8120",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8121,
     "uikTvd": "4374019149132",
+    "uikName": "УИК №8121",
     "tikTvd": "2372000849586",
-    "tikName": "Родниковская"
+    "tikName": "Родниковская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8148,
     "uikTvd": "4374006174287",
+    "uikName": "УИК №8148",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8150,
     "uikTvd": "4374006174292",
+    "uikName": "УИК №8150",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8151,
     "uikTvd": "4374006174306",
+    "uikName": "УИК №8151",
     "tikTvd": "2372000849581",
-    "tikName": "Иваново, Октябрьская"
+    "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8287,
     "uikTvd": "4374008215400",
+    "uikName": "УИК №8287",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8288,
     "uikTvd": "4374008215401",
+    "uikName": "УИК №8288",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8290,
     "uikTvd": "4374008215402",
+    "uikName": "УИК №8290",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8291,
     "uikTvd": "4374008215403",
+    "uikName": "УИК №8291",
     "tikTvd": "2372000849580",
-    "tikName": "Иваново, Фрунзенская"
+    "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100067795972",
+      "oikName": "Ивановская область – Ивановский"
+    }
   },
   {
     "uikNumber": 8330,
     "uikTvd": "4374007206299",
+    "uikName": "УИК №8330",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8331,
     "uikTvd": "4374007206300",
+    "uikName": "УИК №8331",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   },
   {
     "uikNumber": 8332,
     "uikTvd": "4374007206301",
+    "uikName": "УИК №8332",
     "tikTvd": "2372000849598",
-    "tikName": "Иваново, Советская"
+    "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100067795971",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100067795973",
+      "oikName": "Ивановская область – Кинешемский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

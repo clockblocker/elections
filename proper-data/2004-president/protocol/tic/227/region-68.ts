@@ -11,6 +11,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079028",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 11268,
@@ -82,6 +85,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079029",
     "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в список": 16905,
@@ -166,6 +172,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079030",
     "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в список": 23264,
@@ -245,6 +254,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079031",
     "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 16911,
@@ -323,6 +335,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079032",
     "tikName": "Мучкапская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в список": 13381,
@@ -395,6 +410,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079033",
     "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в список": 27900,
@@ -505,6 +523,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079034",
     "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в список": 17155,
@@ -592,6 +613,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079035",
     "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 25505,
@@ -690,6 +714,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079036",
     "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список": 68146,
@@ -786,6 +813,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079037",
     "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список": 27781,
@@ -848,6 +878,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079038",
     "tikName": "Кирсановская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в список": 15991,
@@ -928,6 +961,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079039",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 14760,
@@ -1001,6 +1037,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079040",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в список": 20234,
@@ -1091,6 +1130,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079041",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в список": 23195,
@@ -1177,6 +1219,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079042",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 9642,
@@ -1246,6 +1291,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079043",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 13083,
@@ -1310,6 +1358,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079044",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список": 9052,
@@ -1377,6 +1428,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079045",
     "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в список": 15994,
@@ -1455,6 +1509,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079046",
     "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 9156,
@@ -1526,6 +1583,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079047",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в список": 118241,
@@ -1633,6 +1693,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079048",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в список": 73145,
@@ -1746,6 +1809,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079049",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в список": 72756,
@@ -1831,6 +1897,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079050",
     "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в список": 28093,
@@ -1929,6 +1998,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079051",
     "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 31238,
@@ -1999,6 +2071,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079052",
     "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список": 12471,
@@ -2075,6 +2150,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079053",
     "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в список": 11805,
@@ -2145,6 +2223,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079054",
     "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список": 15875,
@@ -2226,6 +2307,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079055",
     "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в список": 35099,
@@ -2295,6 +2379,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079056",
     "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список": 12360,
@@ -2368,6 +2455,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079057",
     "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список": 22826,
@@ -2432,6 +2522,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079058",
     "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в список": 16679,
@@ -2514,6 +2607,9 @@ export const president_2004_tic_227_region_68 = [
     "ballot": "presidential",
     "tikTvd": "268200079059",
     "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "1001000882955",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в список": 32363,

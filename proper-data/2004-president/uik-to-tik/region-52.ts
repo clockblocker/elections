@@ -7,14785 +7,27105 @@ export const president_2004_uik_to_tik_region_52 = [
   {
     "uikNumber": 1,
     "uikTvd": "452400171085",
+    "uikName": "УИК №1",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "452400171087",
+    "uikName": "УИК №2",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "452400171088",
+    "uikName": "УИК №3",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "452400171089",
+    "uikName": "УИК №4",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "452400171090",
+    "uikName": "УИК №5",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "452400171091",
+    "uikName": "УИК №6",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "452400171092",
+    "uikName": "УИК №7",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "452400171093",
+    "uikName": "УИК №8",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "452400171094",
+    "uikName": "УИК №9",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "452400171095",
+    "uikName": "УИК №10",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "452400171096",
+    "uikName": "УИК №11",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "452400171097",
+    "uikName": "УИК №12",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "452400171098",
+    "uikName": "УИК №13",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "452400171099",
+    "uikName": "УИК №14",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "452400171100",
+    "uikName": "УИК №15",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "452400171101",
+    "uikName": "УИК №16",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "452400171102",
+    "uikName": "УИК №17",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "452400171103",
+    "uikName": "УИК №18",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "452400171104",
+    "uikName": "УИК №19",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "452400171105",
+    "uikName": "УИК №20",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "452400171106",
+    "uikName": "УИК №21",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "452400171107",
+    "uikName": "УИК №22",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "452400171108",
+    "uikName": "УИК №23",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "452400171109",
+    "uikName": "УИК №24",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "452400171110",
+    "uikName": "УИК №25",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 26,
     "uikTvd": "452400171111",
+    "uikName": "УИК №26",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 27,
     "uikTvd": "452400171112",
+    "uikName": "УИК №27",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "452400171113",
+    "uikName": "УИК №28",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "452400171114",
+    "uikName": "УИК №29",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "452400171115",
+    "uikName": "УИК №30",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "452400171116",
+    "uikName": "УИК №31",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "452400171117",
+    "uikName": "УИК №32",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "452400171118",
+    "uikName": "УИК №33",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "452400171119",
+    "uikName": "УИК №34",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "452400171120",
+    "uikName": "УИК №35",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "452400171121",
+    "uikName": "УИК №36",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "452400171122",
+    "uikName": "УИК №37",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "452400171123",
+    "uikName": "УИК №38",
     "tikTvd": "252200083264",
-    "tikName": "Ардатовская"
+    "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "452400372532",
+    "uikName": "УИК №41",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "452400372533",
+    "uikName": "УИК №42",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "452400372534",
+    "uikName": "УИК №43",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "452400372535",
+    "uikName": "УИК №44",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "452400372536",
+    "uikName": "УИК №45",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "452400372537",
+    "uikName": "УИК №46",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "452400372538",
+    "uikName": "УИК №47",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 48,
     "uikTvd": "452400372539",
+    "uikName": "УИК №48",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 49,
     "uikTvd": "452400372540",
+    "uikName": "УИК №49",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 50,
     "uikTvd": "452400372541",
+    "uikName": "УИК №50",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 51,
     "uikTvd": "452400372542",
+    "uikName": "УИК №51",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 52,
     "uikTvd": "452400372543",
+    "uikName": "УИК №52",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "452400372544",
+    "uikName": "УИК №53",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "452400372545",
+    "uikName": "УИК №54",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "452400372546",
+    "uikName": "УИК №55",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "452400372547",
+    "uikName": "УИК №56",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "452400372548",
+    "uikName": "УИК №57",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "452400372549",
+    "uikName": "УИК №58",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "452400372550",
+    "uikName": "УИК №59",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "452400372551",
+    "uikName": "УИК №60",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "452400372552",
+    "uikName": "УИК №61",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "452400372553",
+    "uikName": "УИК №62",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "452400372554",
+    "uikName": "УИК №63",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "452400372555",
+    "uikName": "УИК №64",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "452400372556",
+    "uikName": "УИК №65",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "452400372557",
+    "uikName": "УИК №66",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "452400372558",
+    "uikName": "УИК №67",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "452400372559",
+    "uikName": "УИК №68",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "452400372560",
+    "uikName": "УИК №69",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "452400372561",
+    "uikName": "УИК №70",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "452400372562",
+    "uikName": "УИК №71",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "452400372563",
+    "uikName": "УИК №72",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 73,
     "uikTvd": "452400372564",
+    "uikName": "УИК №73",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 74,
     "uikTvd": "452400372565",
+    "uikName": "УИК №74",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 75,
     "uikTvd": "452400372566",
+    "uikName": "УИК №75",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "452400372567",
+    "uikName": "УИК №76",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "452400372568",
+    "uikName": "УИК №77",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "452400372569",
+    "uikName": "УИК №78",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "452400372570",
+    "uikName": "УИК №79",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "452400372571",
+    "uikName": "УИК №80",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "452400372572",
+    "uikName": "УИК №81",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "452400372573",
+    "uikName": "УИК №82",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "452400372574",
+    "uikName": "УИК №83",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "452400372575",
+    "uikName": "УИК №84",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "452400372576",
+    "uikName": "УИК №85",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "452400372577",
+    "uikName": "УИК №86",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "452400372578",
+    "uikName": "УИК №87",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "452400372579",
+    "uikName": "УИК №88",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "452400372580",
+    "uikName": "УИК №89",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "452400372581",
+    "uikName": "УИК №90",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "452400372582",
+    "uikName": "УИК №91",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "452400372583",
+    "uikName": "УИК №92",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "452400372584",
+    "uikName": "УИК №93",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "452400372585",
+    "uikName": "УИК №94",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "452400372586",
+    "uikName": "УИК №95",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "452400372587",
+    "uikName": "УИК №96",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "452400372588",
+    "uikName": "УИК №97",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "452400372589",
+    "uikName": "УИК №98",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "452400372590",
+    "uikName": "УИК №99",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "452400372591",
+    "uikName": "УИК №100",
     "tikTvd": "252200083262",
-    "tikName": "Арзамасская"
+    "tikName": "Арзамасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "452400271620",
+    "uikName": "УИК №108",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "452400271621",
+    "uikName": "УИК №109",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "452400271622",
+    "uikName": "УИК №110",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "452400271623",
+    "uikName": "УИК №111",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "452400271624",
+    "uikName": "УИК №112",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "452400271625",
+    "uikName": "УИК №113",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "452400271626",
+    "uikName": "УИК №114",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "452400271627",
+    "uikName": "УИК №115",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "452400271628",
+    "uikName": "УИК №116",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "452400271629",
+    "uikName": "УИК №117",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "452400271630",
+    "uikName": "УИК №118",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "452400271631",
+    "uikName": "УИК №119",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "452400271632",
+    "uikName": "УИК №120",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "452400271633",
+    "uikName": "УИК №121",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "452400271634",
+    "uikName": "УИК №122",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "452400271635",
+    "uikName": "УИК №123",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "452400271636",
+    "uikName": "УИК №124",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "452400271637",
+    "uikName": "УИК №125",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "452400271638",
+    "uikName": "УИК №126",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "452400271639",
+    "uikName": "УИК №127",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "452400271640",
+    "uikName": "УИК №128",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "452400271641",
+    "uikName": "УИК №129",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "452400271642",
+    "uikName": "УИК №130",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "452400271643",
+    "uikName": "УИК №131",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "452400271644",
+    "uikName": "УИК №132",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "452400271645",
+    "uikName": "УИК №133",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "452400271646",
+    "uikName": "УИК №134",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "452400271647",
+    "uikName": "УИК №135",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "452400271648",
+    "uikName": "УИК №136",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "452400271649",
+    "uikName": "УИК №137",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "452400271650",
+    "uikName": "УИК №138",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "452400271651",
+    "uikName": "УИК №139",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "452400271652",
+    "uikName": "УИК №140",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "452400271653",
+    "uikName": "УИК №141",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "452400271654",
+    "uikName": "УИК №142",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "452400271655",
+    "uikName": "УИК №143",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "452400271656",
+    "uikName": "УИК №144",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "452400271657",
+    "uikName": "УИК №145",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "452400271658",
+    "uikName": "УИК №146",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "452400271659",
+    "uikName": "УИК №147",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "452400271660",
+    "uikName": "УИК №148",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "452400271661",
+    "uikName": "УИК №149",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "452400271662",
+    "uikName": "УИК №150",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "452400271663",
+    "uikName": "УИК №151",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "452400271664",
+    "uikName": "УИК №152",
     "tikTvd": "252200083263",
-    "tikName": "Арзамасская городская"
+    "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "452400470999",
+    "uikName": "УИК №154",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 155,
     "uikTvd": "452400471000",
+    "uikName": "УИК №155",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 156,
     "uikTvd": "452400471001",
+    "uikName": "УИК №156",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "452400471002",
+    "uikName": "УИК №157",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "452400471003",
+    "uikName": "УИК №158",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "452400471004",
+    "uikName": "УИК №159",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "452400471005",
+    "uikName": "УИК №160",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "452400471006",
+    "uikName": "УИК №161",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "452400471007",
+    "uikName": "УИК №162",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "452400471008",
+    "uikName": "УИК №163",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "452400471009",
+    "uikName": "УИК №164",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "452400471010",
+    "uikName": "УИК №165",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "452400471011",
+    "uikName": "УИК №166",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "452400471012",
+    "uikName": "УИК №167",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "452400471013",
+    "uikName": "УИК №168",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "452400471014",
+    "uikName": "УИК №169",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "452400471015",
+    "uikName": "УИК №170",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "452400471016",
+    "uikName": "УИК №171",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "452400471017",
+    "uikName": "УИК №172",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "452400471018",
+    "uikName": "УИК №173",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "452400471019",
+    "uikName": "УИК №174",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "452400471020",
+    "uikName": "УИК №175",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "452400471021",
+    "uikName": "УИК №176",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "452400471022",
+    "uikName": "УИК №177",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "452400471023",
+    "uikName": "УИК №178",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "452400471024",
+    "uikName": "УИК №179",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "452400471025",
+    "uikName": "УИК №180",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "452400471026",
+    "uikName": "УИК №181",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "452400471027",
+    "uikName": "УИК №182",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "452400471028",
+    "uikName": "УИК №183",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 184,
     "uikTvd": "452400471029",
+    "uikName": "УИК №184",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 185,
     "uikTvd": "452400471030",
+    "uikName": "УИК №185",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "452400471031",
+    "uikName": "УИК №186",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "452400471032",
+    "uikName": "УИК №187",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "452400471033",
+    "uikName": "УИК №188",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "452400471034",
+    "uikName": "УИК №189",
     "tikTvd": "252200083265",
-    "tikName": "Балахнинская"
+    "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "452400571991",
+    "uikName": "УИК №194",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "452400571992",
+    "uikName": "УИК №195",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "452400571993",
+    "uikName": "УИК №196",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "452400571994",
+    "uikName": "УИК №197",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "452400571995",
+    "uikName": "УИК №198",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "452400571996",
+    "uikName": "УИК №199",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "452400571997",
+    "uikName": "УИК №200",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "452400571998",
+    "uikName": "УИК №201",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "452400571999",
+    "uikName": "УИК №202",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "452400572000",
+    "uikName": "УИК №203",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "452400572001",
+    "uikName": "УИК №204",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "452400572002",
+    "uikName": "УИК №205",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "452400572003",
+    "uikName": "УИК №206",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "452400572004",
+    "uikName": "УИК №207",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "452400572005",
+    "uikName": "УИК №208",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "452400572006",
+    "uikName": "УИК №209",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "452400572007",
+    "uikName": "УИК №210",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "452400572008",
+    "uikName": "УИК №211",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "452400572009",
+    "uikName": "УИК №212",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "452400572010",
+    "uikName": "УИК №213",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "452400572011",
+    "uikName": "УИК №214",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "452400572012",
+    "uikName": "УИК №215",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "452400572013",
+    "uikName": "УИК №216",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "452400572014",
+    "uikName": "УИК №217",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "452400572015",
+    "uikName": "УИК №218",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "452400572016",
+    "uikName": "УИК №219",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "452400572017",
+    "uikName": "УИК №220",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "452400572018",
+    "uikName": "УИК №221",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "452400572111",
+    "uikName": "УИК №222",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "452400572019",
+    "uikName": "УИК №223",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "452400572020",
+    "uikName": "УИК №224",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "452400572021",
+    "uikName": "УИК №225",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "452400572022",
+    "uikName": "УИК №226",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "452400572023",
+    "uikName": "УИК №227",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "452400572024",
+    "uikName": "УИК №228",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "452400572025",
+    "uikName": "УИК №229",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "452400572026",
+    "uikName": "УИК №230",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "452400572027",
+    "uikName": "УИК №231",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "452400572028",
+    "uikName": "УИК №232",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "452400572029",
+    "uikName": "УИК №233",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "452400572030",
+    "uikName": "УИК №234",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "452400572031",
+    "uikName": "УИК №235",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "452400572032",
+    "uikName": "УИК №236",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "452400572033",
+    "uikName": "УИК №237",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "452400572034",
+    "uikName": "УИК №238",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "452400572035",
+    "uikName": "УИК №239",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "452400572036",
+    "uikName": "УИК №240",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "452400572037",
+    "uikName": "УИК №241",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "452400572038",
+    "uikName": "УИК №242",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "452400572039",
+    "uikName": "УИК №243",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "452400572040",
+    "uikName": "УИК №244",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "452400572041",
+    "uikName": "УИК №245",
     "tikTvd": "252200083259",
-    "tikName": "Богородская"
+    "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "452400671195",
+    "uikName": "УИК №250",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "452400671197",
+    "uikName": "УИК №251",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "452400671198",
+    "uikName": "УИК №252",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "452400671199",
+    "uikName": "УИК №253",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "452400671200",
+    "uikName": "УИК №254",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "452400671201",
+    "uikName": "УИК №255",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "452400671202",
+    "uikName": "УИК №256",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "452400671203",
+    "uikName": "УИК №257",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "452400671204",
+    "uikName": "УИК №258",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "452400671205",
+    "uikName": "УИК №259",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "452400671206",
+    "uikName": "УИК №260",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "452400671207",
+    "uikName": "УИК №261",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "452400671208",
+    "uikName": "УИК №262",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "452400671209",
+    "uikName": "УИК №263",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "452400671210",
+    "uikName": "УИК №264",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "452400671211",
+    "uikName": "УИК №265",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "452400671212",
+    "uikName": "УИК №266",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "452400671213",
+    "uikName": "УИК №267",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "452400671214",
+    "uikName": "УИК №268",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "452400671215",
+    "uikName": "УИК №269",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "452400671216",
+    "uikName": "УИК №270",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "452400671217",
+    "uikName": "УИК №271",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "452400671218",
+    "uikName": "УИК №272",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "452400671219",
+    "uikName": "УИК №273",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "452400671220",
+    "uikName": "УИК №274",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 275,
     "uikTvd": "452400671221",
+    "uikName": "УИК №275",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "452400671222",
+    "uikName": "УИК №276",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "452400671223",
+    "uikName": "УИК №277",
     "tikTvd": "252200083261",
-    "tikName": "Большеболдинская"
+    "tikName": "Большеболдинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "452400770894",
+    "uikName": "УИК  278",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "452400770895",
+    "uikName": "УИК  279",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "452400770896",
+    "uikName": "УИК  280",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "452400770897",
+    "uikName": "УИК  281",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "452400770898",
+    "uikName": "УИК  282",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "452400770899",
+    "uikName": "УИК  283",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "452400770900",
+    "uikName": "УИК  284",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "452400770901",
+    "uikName": "УИК  285",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "452400770902",
+    "uikName": "УИК  286",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "452400770903",
+    "uikName": "УИК  287",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "452400770904",
+    "uikName": "УИК  288",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 289,
     "uikTvd": "452400770905",
+    "uikName": "УИК  289",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 290,
     "uikTvd": "452400770906",
+    "uikName": "УИК  290",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 291,
     "uikTvd": "452400770907",
+    "uikName": "УИК  291",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 292,
     "uikTvd": "452400770908",
+    "uikName": "УИК  292",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 293,
     "uikTvd": "452400770909",
+    "uikName": "УИК  293",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 294,
     "uikTvd": "452400770910",
+    "uikName": "УИК  294",
     "tikTvd": "252200083260",
-    "tikName": "Большемурашкинская"
+    "tikName": "Большемурашкинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "452400874798",
+    "uikName": "УИК №295",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "452400874799",
+    "uikName": "УИК №296",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "452400874800",
+    "uikName": "УИК №297",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "452400874801",
+    "uikName": "УИК №298",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "452400874802",
+    "uikName": "УИК №299",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "452400874803",
+    "uikName": "УИК №300",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "452400874804",
+    "uikName": "УИК №301",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "452400874805",
+    "uikName": "УИК №302",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "452400874806",
+    "uikName": "УИК №303",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "452400874807",
+    "uikName": "УИК №304",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "452400874808",
+    "uikName": "УИК №305",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "452400874809",
+    "uikName": "УИК №306",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "452400874810",
+    "uikName": "УИК №307",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "452400874811",
+    "uikName": "УИК №308",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "452400874812",
+    "uikName": "УИК №309",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "452400874813",
+    "uikName": "УИК №310",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "452400874814",
+    "uikName": "УИК №311",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "452400874815",
+    "uikName": "УИК №312",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "452400874816",
+    "uikName": "УИК №313",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "452400874817",
+    "uikName": "УИК №314",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "452400874818",
+    "uikName": "УИК №315",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "452400874819",
+    "uikName": "УИК №316",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "452400874820",
+    "uikName": "УИК №317",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "452400874821",
+    "uikName": "УИК №318",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "452400874822",
+    "uikName": "УИК №319",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "452400874823",
+    "uikName": "УИК №320",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "452400874824",
+    "uikName": "УИК №321",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "452400874825",
+    "uikName": "УИК №322",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "452400874826",
+    "uikName": "УИК №323",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "452400874827",
+    "uikName": "УИК №324",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "452400874828",
+    "uikName": "УИК №325",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "452400874829",
+    "uikName": "УИК №326",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "452400874830",
+    "uikName": "УИК №327",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "452400874831",
+    "uikName": "УИК №328",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "452400874832",
+    "uikName": "УИК №329",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "452400874833",
+    "uikName": "УИК №330",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "452400874834",
+    "uikName": "УИК №331",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "452400874835",
+    "uikName": "УИК №332",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "452400874836",
+    "uikName": "УИК №333",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "452400874837",
+    "uikName": "УИК №334",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "452400874838",
+    "uikName": "УИК №335",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "452400874839",
+    "uikName": "УИК №336",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "452400874840",
+    "uikName": "УИК №337",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "452400874841",
+    "uikName": "УИК №338",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "452400874842",
+    "uikName": "УИК №339",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "452400874843",
+    "uikName": "УИК №340",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "452400874844",
+    "uikName": "УИК №341",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "452400874845",
+    "uikName": "УИК №342",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "452400874846",
+    "uikName": "УИК №343",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "452400874847",
+    "uikName": "УИК №344",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "452400874848",
+    "uikName": "УИК №345",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "452400874849",
+    "uikName": "УИК №346",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "452400874850",
+    "uikName": "УИК №347",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "452400874851",
+    "uikName": "УИК №348",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "452400874852",
+    "uikName": "УИК №349",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "452400874853",
+    "uikName": "УИК №350",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "452400874854",
+    "uikName": "УИК №351",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "452400874855",
+    "uikName": "УИК №352",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "452400874856",
+    "uikName": "УИК №353",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "452400874857",
+    "uikName": "УИК №354",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "452400874858",
+    "uikName": "УИК №355",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "452400874859",
+    "uikName": "УИК №356",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "452400874860",
+    "uikName": "УИК №357",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 358,
     "uikTvd": "452400874861",
+    "uikName": "УИК №358",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 359,
     "uikTvd": "452400874862",
+    "uikName": "УИК №359",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 360,
     "uikTvd": "452400874863",
+    "uikName": "УИК №360",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "452400874864",
+    "uikName": "УИК №361",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "452400874865",
+    "uikName": "УИК №362",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "452400874866",
+    "uikName": "УИК №363",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "452400874867",
+    "uikName": "УИК №364",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "452400874868",
+    "uikName": "УИК №365",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "452400874869",
+    "uikName": "УИК №366",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "452400874870",
+    "uikName": "УИК №367",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "452400874871",
+    "uikName": "УИК №368",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "452400874872",
+    "uikName": "УИК №369",
     "tikTvd": "252200083258",
-    "tikName": "Борская"
+    "tikName": "Борская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "452400971271",
+    "uikName": "УИК  373",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "452400971272",
+    "uikName": "УИК  374",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "452400971273",
+    "uikName": "УИК  375",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "452400971274",
+    "uikName": "УИК  376",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 377,
     "uikTvd": "452400971275",
+    "uikName": "УИК  377",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 378,
     "uikTvd": "452400971276",
+    "uikName": "УИК  378",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "452400971277",
+    "uikName": "УИК  379",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "452400971278",
+    "uikName": "УИК  380",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "452400971279",
+    "uikName": "УИК  381",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "452400971280",
+    "uikName": "УИК  382",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "452400971281",
+    "uikName": "УИК  383",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "452400971282",
+    "uikName": "УИК  384",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "452400971283",
+    "uikName": "УИК  385",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "452400971284",
+    "uikName": "УИК  386",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "452400971285",
+    "uikName": "УИК  387",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "452400971286",
+    "uikName": "УИК  388",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "452400971287",
+    "uikName": "УИК  389",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "452400971288",
+    "uikName": "УИК  390",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "452400971289",
+    "uikName": "УИК  391",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "452400971290",
+    "uikName": "УИК  392",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "452400971291",
+    "uikName": "УИК  393",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "452400971292",
+    "uikName": "УИК  394",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "452400971293",
+    "uikName": "УИК  395",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "452400971294",
+    "uikName": "УИК  396",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "452400971295",
+    "uikName": "УИК  397",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 398,
     "uikTvd": "452400971296",
+    "uikName": "УИК  398",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 399,
     "uikTvd": "452400971297",
+    "uikName": "УИК  399",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 400,
     "uikTvd": "452400971298",
+    "uikName": "УИК  400",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "452400971299",
+    "uikName": "УИК  401",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "452400971300",
+    "uikName": "УИК  402",
     "tikTvd": "252200083257",
-    "tikName": "Бутурлинская"
+    "tikName": "Бутурлинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "452401071502",
+    "uikName": "УИК  405",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "452401071503",
+    "uikName": "УИК  406",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "452401071504",
+    "uikName": "УИК  407",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "452401071505",
+    "uikName": "УИК  408",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "452401071506",
+    "uikName": "УИК  409",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "452401071507",
+    "uikName": "УИК  410",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "452401071508",
+    "uikName": "УИК  411",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "452401071509",
+    "uikName": "УИК  412",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "452401071510",
+    "uikName": "УИК  413",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "452401071511",
+    "uikName": "УИК  414",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "452401071512",
+    "uikName": "УИК  415",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "452401071513",
+    "uikName": "УИК  416",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "452401071514",
+    "uikName": "УИК  417",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "452401071515",
+    "uikName": "УИК  418",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "452401071516",
+    "uikName": "УИК  419",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "452401071517",
+    "uikName": "УИК  420",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "452401071518",
+    "uikName": "УИК  421",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "452401071519",
+    "uikName": "УИК  422",
     "tikTvd": "252200083256",
-    "tikName": "Вадская"
+    "tikName": "Вадская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "452401170955",
+    "uikName": "УИК №423",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "452401170957",
+    "uikName": "УИК №424",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "452401170959",
+    "uikName": "УИК №425",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "452401170961",
+    "uikName": "УИК №426",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "452401170963",
+    "uikName": "УИК №427",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "452401170965",
+    "uikName": "УИК №428",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "452401170967",
+    "uikName": "УИК №429",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "452401170969",
+    "uikName": "УИК №430",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "452401170971",
+    "uikName": "УИК №431",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "452401170973",
+    "uikName": "УИК №432",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "452401170975",
+    "uikName": "УИК №433",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "452401170977",
+    "uikName": "УИК №434",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "452401170979",
+    "uikName": "УИК №435",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "452401170981",
+    "uikName": "УИК №436",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "452401170983",
+    "uikName": "УИК №437",
     "tikTvd": "252200083274",
-    "tikName": "Варнавинская"
+    "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "452401271339",
+    "uikName": "УИК  438",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "452401271340",
+    "uikName": "УИК  439",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "452401271341",
+    "uikName": "УИК  440",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "452401271342",
+    "uikName": "УИК  441",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "452401271343",
+    "uikName": "УИК  442",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "452401271344",
+    "uikName": "УИК  443",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "452401271345",
+    "uikName": "УИК  444",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "452401271346",
+    "uikName": "УИК  445",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "452401271347",
+    "uikName": "УИК  446",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "452401271348",
+    "uikName": "УИК  447",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "452401271349",
+    "uikName": "УИК  448",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "452401271350",
+    "uikName": "УИК  449",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "452401271351",
+    "uikName": "УИК  450",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 451,
     "uikTvd": "452401271352",
+    "uikName": "УИК  451",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 452,
     "uikTvd": "452401271353",
+    "uikName": "УИК  452",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "452401271354",
+    "uikName": "УИК  453",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "452401271355",
+    "uikName": "УИК  454",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "452401271356",
+    "uikName": "УИК  455",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "452401271357",
+    "uikName": "УИК  456",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "452401271358",
+    "uikName": "УИК  457",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "452401271359",
+    "uikName": "УИК  458",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "452401271360",
+    "uikName": "УИК  459",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "452401271361",
+    "uikName": "УИК  460",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "452401271362",
+    "uikName": "УИК  461",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "452401271363",
+    "uikName": "УИК  462",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "452401271364",
+    "uikName": "УИК  463",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "452401271365",
+    "uikName": "УИК  464",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "452401271366",
+    "uikName": "УИК  465",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "452401271367",
+    "uikName": "УИК  466",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "452401271368",
+    "uikName": "УИК  467",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 468,
     "uikTvd": "452401271369",
+    "uikName": "УИК  468",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 469,
     "uikTvd": "452401271370",
+    "uikName": "УИК  469",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 470,
     "uikTvd": "452401271371",
+    "uikName": "УИК  470",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 471,
     "uikTvd": "452401271372",
+    "uikName": "УИК  471",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "452401271373",
+    "uikName": "УИК  472",
     "tikTvd": "252200083273",
-    "tikName": "Вачская"
+    "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "452401371168",
+    "uikName": "УИК №473",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "452401371169",
+    "uikName": "УИК №474",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "452401371170",
+    "uikName": "УИК №475",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "452401371171",
+    "uikName": "УИК №476",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "452401371172",
+    "uikName": "УИК №477",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "452401371173",
+    "uikName": "УИК №478",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "452401371174",
+    "uikName": "УИК №479",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "452401371175",
+    "uikName": "УИК №480",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "452401371176",
+    "uikName": "УИК №481",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "452401371177",
+    "uikName": "УИК №482",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "452401371178",
+    "uikName": "УИК №483",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "452401371179",
+    "uikName": "УИК №484",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "452401371180",
+    "uikName": "УИК №485",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "452401371181",
+    "uikName": "УИК №486",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "452401371182",
+    "uikName": "УИК №487",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "452401371183",
+    "uikName": "УИК №488",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "452401371184",
+    "uikName": "УИК №489",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "452401371185",
+    "uikName": "УИК №490",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "452401371186",
+    "uikName": "УИК №491",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 492,
     "uikTvd": "452401371187",
+    "uikName": "УИК №492",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "452401371188",
+    "uikName": "УИК №493",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "452401371189",
+    "uikName": "УИК №494",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "452401371190",
+    "uikName": "УИК №495",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "452401371191",
+    "uikName": "УИК №496",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "452401371192",
+    "uikName": "УИК №497",
     "tikTvd": "252200083275",
-    "tikName": "Ветлужская "
+    "tikName": "Ветлужская ",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "452401471124",
+    "uikName": "УИК №498",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "452401471125",
+    "uikName": "УИК №499",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "452401471126",
+    "uikName": "УИК №500",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "452401471127",
+    "uikName": "УИК №501",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "452401471128",
+    "uikName": "УИК №502",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "452401471129",
+    "uikName": "УИК №503",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "452401471130",
+    "uikName": "УИК №504",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "452401471131",
+    "uikName": "УИК №505",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "452401471132",
+    "uikName": "УИК №506",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "452401471133",
+    "uikName": "УИК №507",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "452401471134",
+    "uikName": "УИК №508",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "452401471135",
+    "uikName": "УИК №509",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "452401471136",
+    "uikName": "УИК №510",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "452401471137",
+    "uikName": "УИК №511",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "452401471138",
+    "uikName": "УИК №512",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "452401471139",
+    "uikName": "УИК №513",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "452401471140",
+    "uikName": "УИК №514",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "452401471141",
+    "uikName": "УИК №515",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "452401471142",
+    "uikName": "УИК №516",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "452401471143",
+    "uikName": "УИК №517",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "452401471144",
+    "uikName": "УИК №518",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "452401471145",
+    "uikName": "УИК №519",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "452401471146",
+    "uikName": "УИК №520",
     "tikTvd": "252200083271",
-    "tikName": "Вознесенская"
+    "tikName": "Вознесенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "452401571215",
+    "uikName": "УИК №522",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "452401571216",
+    "uikName": "УИК №523",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "452401571217",
+    "uikName": "УИК №524",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "452401571218",
+    "uikName": "УИК №525",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "452401571219",
+    "uikName": "УИК №526",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "452401571220",
+    "uikName": "УИК №527",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "452401571221",
+    "uikName": "УИК №528",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "452401571222",
+    "uikName": "УИК №529",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "452401571223",
+    "uikName": "УИК №530",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "452401571224",
+    "uikName": "УИК №531",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "452401571225",
+    "uikName": "УИК №532",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "452401571226",
+    "uikName": "УИК №533",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "452401571227",
+    "uikName": "УИК №534",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "452401571228",
+    "uikName": "УИК №535",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "452401571229",
+    "uikName": "УИК №536",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "452401571230",
+    "uikName": "УИК №537",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "452401571231",
+    "uikName": "УИК №538",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "452401571232",
+    "uikName": "УИК №539",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "452401571233",
+    "uikName": "УИК №540",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "452401571234",
+    "uikName": "УИК №541",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "452401571235",
+    "uikName": "УИК №542",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "452401571236",
+    "uikName": "УИК №543",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "452401571237",
+    "uikName": "УИК №544",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "452401571238",
+    "uikName": "УИК №545",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "452401571239",
+    "uikName": "УИК №546",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "452401571240",
+    "uikName": "УИК №547",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "452401571241",
+    "uikName": "УИК №548",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "452401571242",
+    "uikName": "УИК №549",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "452401671452",
+    "uikName": "УИК №550",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "452401671453",
+    "uikName": "УИК №551",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "452401671454",
+    "uikName": "УИК №552",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "452401671455",
+    "uikName": "УИК №553",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "452401671456",
+    "uikName": "УИК №554",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "452401671457",
+    "uikName": "УИК №555",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 556,
     "uikTvd": "452401671458",
+    "uikName": "УИК №556",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 557,
     "uikTvd": "452401671459",
+    "uikName": "УИК №557",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 558,
     "uikTvd": "452401671460",
+    "uikName": "УИК №558",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 559,
     "uikTvd": "452401671461",
+    "uikName": "УИК №559",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 560,
     "uikTvd": "452401671462",
+    "uikName": "УИК №560",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 561,
     "uikTvd": "452401671463",
+    "uikName": "УИК №561",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 562,
     "uikTvd": "452401671464",
+    "uikName": "УИК №562",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 563,
     "uikTvd": "452401671465",
+    "uikName": "УИК №563",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 564,
     "uikTvd": "452401671466",
+    "uikName": "УИК №564",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 565,
     "uikTvd": "452401671467",
+    "uikName": "УИК №565",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 566,
     "uikTvd": "452401671468",
+    "uikName": "УИК №566",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 567,
     "uikTvd": "452401671469",
+    "uikName": "УИК №567",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 568,
     "uikTvd": "452401671470",
+    "uikName": "УИК №568",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 569,
     "uikTvd": "452401671471",
+    "uikName": "УИК №569",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 570,
     "uikTvd": "452401671472",
+    "uikName": "УИК №570",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 571,
     "uikTvd": "452401671473",
+    "uikName": "УИК №571",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 572,
     "uikTvd": "452401671474",
+    "uikName": "УИК №572",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 573,
     "uikTvd": "452401671475",
+    "uikName": "УИК №573",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 574,
     "uikTvd": "452401671476",
+    "uikName": "УИК №574",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 575,
     "uikTvd": "452401671477",
+    "uikName": "УИК №575",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 576,
     "uikTvd": "452401671478",
+    "uikName": "УИК №576",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 577,
     "uikTvd": "452401671479",
+    "uikName": "УИК №577",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 578,
     "uikTvd": "452401671480",
+    "uikName": "УИК №578",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 579,
     "uikTvd": "452401671481",
+    "uikName": "УИК №579",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 580,
     "uikTvd": "452401671482",
+    "uikName": "УИК №580",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 581,
     "uikTvd": "452401671483",
+    "uikName": "УИК №581",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 582,
     "uikTvd": "452401671484",
+    "uikName": "УИК №582",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 583,
     "uikTvd": "452401671485",
+    "uikName": "УИК №583",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 584,
     "uikTvd": "452401671486",
+    "uikName": "УИК №584",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 585,
     "uikTvd": "452401671487",
+    "uikName": "УИК №585",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 586,
     "uikTvd": "452401671488",
+    "uikName": "УИК №586",
     "tikTvd": "252200083272",
-    "tikName": "Воротынская"
+    "tikName": "Воротынская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 587,
     "uikTvd": "452401771034",
+    "uikName": "УИК №587",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 588,
     "uikTvd": "452401771035",
+    "uikName": "УИК №588",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 589,
     "uikTvd": "452401771036",
+    "uikName": "УИК №589",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 590,
     "uikTvd": "452401771037",
+    "uikName": "УИК №590",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 591,
     "uikTvd": "452401771038",
+    "uikName": "УИК №591",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 592,
     "uikTvd": "452401771039",
+    "uikName": "УИК №592",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 593,
     "uikTvd": "452401771040",
+    "uikName": "УИК №593",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 594,
     "uikTvd": "452401771041",
+    "uikName": "УИК №594",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 595,
     "uikTvd": "452401771042",
+    "uikName": "УИК №595",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 596,
     "uikTvd": "452401771043",
+    "uikName": "УИК №596",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 597,
     "uikTvd": "452401771044",
+    "uikName": "УИК №597",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 598,
     "uikTvd": "452401771045",
+    "uikName": "УИК №598",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 599,
     "uikTvd": "452401771046",
+    "uikName": "УИК №599",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 600,
     "uikTvd": "452401771047",
+    "uikName": "УИК №600",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "452401771048",
+    "uikName": "УИК №601",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "452401771049",
+    "uikName": "УИК №602",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "452401771050",
+    "uikName": "УИК №603",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "452401771051",
+    "uikName": "УИК №604",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "452401771052",
+    "uikName": "УИК №605",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "452401771053",
+    "uikName": "УИК №606",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "452401771054",
+    "uikName": "УИК №607",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "452401771055",
+    "uikName": "УИК №608",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "452401771056",
+    "uikName": "УИК №609",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "452401771057",
+    "uikName": "УИК №610",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "452401771058",
+    "uikName": "УИК №611",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "452401771059",
+    "uikName": "УИК №612",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "452401771060",
+    "uikName": "УИК №613",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "452401771061",
+    "uikName": "УИК №614",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "452401771062",
+    "uikName": "УИК №615",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "452401771063",
+    "uikName": "УИК №616",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "452401771064",
+    "uikName": "УИК №617",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "452401771065",
+    "uikName": "УИК №618",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "452401771066",
+    "uikName": "УИК №619",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "452401771067",
+    "uikName": "УИК №620",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "452401771068",
+    "uikName": "УИК №621",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "452401771069",
+    "uikName": "УИК №622",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "452401771070",
+    "uikName": "УИК №623",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "452401771071",
+    "uikName": "УИК №624",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "452401771072",
+    "uikName": "УИК №625",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "452401771073",
+    "uikName": "УИК №626",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "452401771074",
+    "uikName": "УИК №627",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "452401771075",
+    "uikName": "УИК №628",
     "tikTvd": "252200083268",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "452401871803",
+    "uikName": "УИК №632",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "452401871804",
+    "uikName": "УИК №633",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "452401871805",
+    "uikName": "УИК №634",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "452401871806",
+    "uikName": "УИК №635",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "452401871807",
+    "uikName": "УИК №636",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "452401871808",
+    "uikName": "УИК №637",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "452401871809",
+    "uikName": "УИК №638",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "452401871810",
+    "uikName": "УИК №639",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "452401871811",
+    "uikName": "УИК №640",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "452401871812",
+    "uikName": "УИК №641",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "452401871813",
+    "uikName": "УИК №642",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "452401871814",
+    "uikName": "УИК №643",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "452401871815",
+    "uikName": "УИК №644",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "452401871816",
+    "uikName": "УИК №645",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "452401871817",
+    "uikName": "УИК №646",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "452401871818",
+    "uikName": "УИК №647",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 648,
     "uikTvd": "452401871819",
+    "uikName": "УИК №648",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 649,
     "uikTvd": "452401871820",
+    "uikName": "УИК №649",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 650,
     "uikTvd": "452401871821",
+    "uikName": "УИК №650",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 651,
     "uikTvd": "452401871822",
+    "uikName": "УИК №651",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 652,
     "uikTvd": "452401871823",
+    "uikName": "УИК №652",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 653,
     "uikTvd": "452401871824",
+    "uikName": "УИК №653",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 654,
     "uikTvd": "452401871825",
+    "uikName": "УИК №654",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 655,
     "uikTvd": "452401871826",
+    "uikName": "УИК №655",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 656,
     "uikTvd": "452401871827",
+    "uikName": "УИК №656",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 657,
     "uikTvd": "452401871828",
+    "uikName": "УИК №657",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 658,
     "uikTvd": "452401871829",
+    "uikName": "УИК №658",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 659,
     "uikTvd": "452401871830",
+    "uikName": "УИК №659",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 660,
     "uikTvd": "452401871831",
+    "uikName": "УИК №660",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 661,
     "uikTvd": "452401871832",
+    "uikName": "УИК №661",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 662,
     "uikTvd": "452401871833",
+    "uikName": "УИК №662",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 663,
     "uikTvd": "452401871834",
+    "uikName": "УИК №663",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 664,
     "uikTvd": "452401871835",
+    "uikName": "УИК №664",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 665,
     "uikTvd": "452401871836",
+    "uikName": "УИК №665",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 666,
     "uikTvd": "452401871837",
+    "uikName": "УИК №666",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 667,
     "uikTvd": "452401871838",
+    "uikName": "УИК №667",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 668,
     "uikTvd": "452401871839",
+    "uikName": "УИК №668",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 669,
     "uikTvd": "452401871840",
+    "uikName": "УИК №669",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 670,
     "uikTvd": "452401871841",
+    "uikName": "УИК №670",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 671,
     "uikTvd": "452401871842",
+    "uikName": "УИК №671",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 672,
     "uikTvd": "452401871843",
+    "uikName": "УИК №672",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 673,
     "uikTvd": "452401871844",
+    "uikName": "УИК №673",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 674,
     "uikTvd": "452401871845",
+    "uikName": "УИК №674",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 675,
     "uikTvd": "452401871846",
+    "uikName": "УИК №675",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 676,
     "uikTvd": "452401871847",
+    "uikName": "УИК №676",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 677,
     "uikTvd": "452401871848",
+    "uikName": "УИК №677",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 678,
     "uikTvd": "452401871849",
+    "uikName": "УИК №678",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 679,
     "uikTvd": "452401871850",
+    "uikName": "УИК №679",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 680,
     "uikTvd": "452401871851",
+    "uikName": "УИК №680",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 681,
     "uikTvd": "452401871852",
+    "uikName": "УИК №681",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 682,
     "uikTvd": "452401871853",
+    "uikName": "УИК №682",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 683,
     "uikTvd": "452401971672",
+    "uikName": "УИК №683",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 684,
     "uikTvd": "452401971673",
+    "uikName": "УИК №684",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 685,
     "uikTvd": "452401971674",
+    "uikName": "УИК №685",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 686,
     "uikTvd": "452401971675",
+    "uikName": "УИК №686",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 687,
     "uikTvd": "452401971676",
+    "uikName": "УИК №687",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 688,
     "uikTvd": "452401971677",
+    "uikName": "УИК №688",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 689,
     "uikTvd": "452401971678",
+    "uikName": "УИК №689",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 690,
     "uikTvd": "452401971679",
+    "uikName": "УИК №690",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 691,
     "uikTvd": "452401971680",
+    "uikName": "УИК №691",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 692,
     "uikTvd": "452401971681",
+    "uikName": "УИК №692",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 693,
     "uikTvd": "452401971682",
+    "uikName": "УИК №693",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 694,
     "uikTvd": "452401971683",
+    "uikName": "УИК №694",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 695,
     "uikTvd": "452401971684",
+    "uikName": "УИК №695",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 696,
     "uikTvd": "452401971685",
+    "uikName": "УИК №696",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 697,
     "uikTvd": "452401971686",
+    "uikName": "УИК №697",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 698,
     "uikTvd": "452401971687",
+    "uikName": "УИК №698",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 699,
     "uikTvd": "452401971688",
+    "uikName": "УИК №699",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 700,
     "uikTvd": "452401971689",
+    "uikName": "УИК №700",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "452401971690",
+    "uikName": "УИК №701",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "452401971691",
+    "uikName": "УИК №702",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "452401971692",
+    "uikName": "УИК №703",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "452401971693",
+    "uikName": "УИК №704",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "452401971694",
+    "uikName": "УИК №705",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "452401971695",
+    "uikName": "УИК №706",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "452401971696",
+    "uikName": "УИК №707",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "452401971697",
+    "uikName": "УИК №708",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "452401971698",
+    "uikName": "УИК №709",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "452401971699",
+    "uikName": "УИК №710",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "452401971700",
+    "uikName": "УИК №711",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "452401971701",
+    "uikName": "УИК №712",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "452401971702",
+    "uikName": "УИК №713",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "452401971703",
+    "uikName": "УИК №714",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "452401971704",
+    "uikName": "УИК №715",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "452401971705",
+    "uikName": "УИК №716",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "452401971706",
+    "uikName": "УИК №717",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "452401971707",
+    "uikName": "УИК №718",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "452401971708",
+    "uikName": "УИК №719",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "452401971709",
+    "uikName": "УИК №720",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "452401971710",
+    "uikName": "УИК №721",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "452402071490",
+    "uikName": "УИК №722",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "452402071491",
+    "uikName": "УИК №723",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "452402071492",
+    "uikName": "УИК №724",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "452402071493",
+    "uikName": "УИК №725",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "452402071494",
+    "uikName": "УИК №726",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "452402071495",
+    "uikName": "УИК №727",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "452402071496",
+    "uikName": "УИК №728",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "452402071497",
+    "uikName": "УИК №729",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "452402071498",
+    "uikName": "УИК №730",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "452402071499",
+    "uikName": "УИК №731",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "452402071500",
+    "uikName": "УИК №732",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "452402071501",
+    "uikName": "УИК №733",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "452402071502",
+    "uikName": "УИК №734",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "452402071503",
+    "uikName": "УИК №735",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "452402071504",
+    "uikName": "УИК №736",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "452402071505",
+    "uikName": "УИК №737",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "452402071506",
+    "uikName": "УИК №738",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "452402071507",
+    "uikName": "УИК №739",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "452402071508",
+    "uikName": "УИК №740",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "452402071509",
+    "uikName": "УИК №741",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 742,
     "uikTvd": "452402071510",
+    "uikName": "УИК №742",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 743,
     "uikTvd": "452402071511",
+    "uikName": "УИК №743",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 744,
     "uikTvd": "452402071512",
+    "uikName": "УИК №744",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 745,
     "uikTvd": "452402071513",
+    "uikName": "УИК №745",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 746,
     "uikTvd": "452402071514",
+    "uikName": "УИК №746",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 747,
     "uikTvd": "452402071515",
+    "uikName": "УИК №747",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 748,
     "uikTvd": "452402071516",
+    "uikName": "УИК №748",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 749,
     "uikTvd": "452402071517",
+    "uikName": "УИК №749",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 750,
     "uikTvd": "452402071518",
+    "uikName": "УИК №750",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 751,
     "uikTvd": "452402071519",
+    "uikName": "УИК №751",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 752,
     "uikTvd": "452402071520",
+    "uikName": "УИК №752",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 753,
     "uikTvd": "452402071521",
+    "uikName": "УИК №753",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 754,
     "uikTvd": "452402071522",
+    "uikName": "УИК №754",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 755,
     "uikTvd": "452402071523",
+    "uikName": "УИК №755",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 756,
     "uikTvd": "452402071524",
+    "uikName": "УИК №756",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 757,
     "uikTvd": "452402071525",
+    "uikName": "УИК №757",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 758,
     "uikTvd": "452402071526",
+    "uikName": "УИК №758",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 759,
     "uikTvd": "452402071527",
+    "uikName": "УИК №759",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 760,
     "uikTvd": "452402071528",
+    "uikName": "УИК №760",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 761,
     "uikTvd": "452402071529",
+    "uikName": "УИК №761",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 762,
     "uikTvd": "452402071530",
+    "uikName": "УИК №762",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 763,
     "uikTvd": "452402071531",
+    "uikName": "УИК №763",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 764,
     "uikTvd": "452402071532",
+    "uikName": "УИК №764",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 765,
     "uikTvd": "452402071533",
+    "uikName": "УИК №765",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 766,
     "uikTvd": "452402071534",
+    "uikName": "УИК №766",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 767,
     "uikTvd": "452402071535",
+    "uikName": "УИК №767",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 768,
     "uikTvd": "452402071536",
+    "uikName": "УИК №768",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 769,
     "uikTvd": "452402071537",
+    "uikName": "УИК №769",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 770,
     "uikTvd": "452402071538",
+    "uikName": "УИК №770",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 771,
     "uikTvd": "452402071539",
+    "uikName": "УИК №771",
     "tikTvd": "252200083269",
-    "tikName": "Городецкая"
+    "tikName": "Городецкая",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 775,
     "uikTvd": "452402171327",
+    "uikName": "УИК №775",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 776,
     "uikTvd": "452402171328",
+    "uikName": "УИК №776",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 777,
     "uikTvd": "452402171329",
+    "uikName": "УИК №777",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 778,
     "uikTvd": "452402171330",
+    "uikName": "УИК №778",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 779,
     "uikTvd": "452402171331",
+    "uikName": "УИК №779",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 780,
     "uikTvd": "452402171332",
+    "uikName": "УИК №780",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 781,
     "uikTvd": "452402171333",
+    "uikName": "УИК №781",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 782,
     "uikTvd": "452402171334",
+    "uikName": "УИК №782",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 783,
     "uikTvd": "452402171335",
+    "uikName": "УИК №783",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 784,
     "uikTvd": "452402171336",
+    "uikName": "УИК №784",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 785,
     "uikTvd": "452402171337",
+    "uikName": "УИК №785",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 786,
     "uikTvd": "452402171338",
+    "uikName": "УИК №786",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 787,
     "uikTvd": "452402171339",
+    "uikName": "УИК №787",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 788,
     "uikTvd": "452402171340",
+    "uikName": "УИК №788",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 789,
     "uikTvd": "452402171341",
+    "uikName": "УИК №789",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 790,
     "uikTvd": "452402171342",
+    "uikName": "УИК №790",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 791,
     "uikTvd": "452402171343",
+    "uikName": "УИК №791",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 792,
     "uikTvd": "452402171344",
+    "uikName": "УИК №792",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 793,
     "uikTvd": "452402171345",
+    "uikName": "УИК №793",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 794,
     "uikTvd": "452402171346",
+    "uikName": "УИК №794",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 795,
     "uikTvd": "452402171347",
+    "uikName": "УИК №795",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 796,
     "uikTvd": "452402171348",
+    "uikName": "УИК №796",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 797,
     "uikTvd": "452402171349",
+    "uikName": "УИК №797",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 798,
     "uikTvd": "452402171350",
+    "uikName": "УИК №798",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 799,
     "uikTvd": "452402171351",
+    "uikName": "УИК №799",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 800,
     "uikTvd": "452402171352",
+    "uikName": "УИК №800",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "452402171353",
+    "uikName": "УИК №801",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "452402171354",
+    "uikName": "УИК №802",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "452402171355",
+    "uikName": "УИК №803",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "452402171356",
+    "uikName": "УИК №804",
     "tikTvd": "252200083285",
-    "tikName": "Дальнеконстантиновская"
+    "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "452406172321",
+    "uikName": "УИК №809",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "452406172322",
+    "uikName": "УИК №810",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "452406172323",
+    "uikName": "УИК №811",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "452406172324",
+    "uikName": "УИК №812",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "452406172325",
+    "uikName": "УИК №813",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "452406172326",
+    "uikName": "УИК №814",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "452406172327",
+    "uikName": "УИК №815",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "452406172328",
+    "uikName": "УИК №816",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "452406172329",
+    "uikName": "УИК №817",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "452406172330",
+    "uikName": "УИК №818",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "452406172331",
+    "uikName": "УИК №819",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "452402271922",
+    "uikName": "УИК №820",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "452402271923",
+    "uikName": "УИК №821",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "452406172332",
+    "uikName": "УИК №822",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "452406172333",
+    "uikName": "УИК №823",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 824,
     "uikTvd": "452406172334",
+    "uikName": "УИК №824",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 825,
     "uikTvd": "452406172335",
+    "uikName": "УИК №825",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 826,
     "uikTvd": "452406172336",
+    "uikName": "УИК №826",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 827,
     "uikTvd": "452402271924",
+    "uikName": "УИК №827",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 828,
     "uikTvd": "452402271925",
+    "uikName": "УИК №828",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 829,
     "uikTvd": "452406172337",
+    "uikName": "УИК №829",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 830,
     "uikTvd": "452406172338",
+    "uikName": "УИК №830",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 831,
     "uikTvd": "452406172339",
+    "uikName": "УИК №831",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 832,
     "uikTvd": "452406172340",
+    "uikName": "УИК №832",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 833,
     "uikTvd": "452406172341",
+    "uikName": "УИК №833",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 834,
     "uikTvd": "452406172342",
+    "uikName": "УИК №834",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 835,
     "uikTvd": "452406172343",
+    "uikName": "УИК №835",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 836,
     "uikTvd": "452406172344",
+    "uikName": "УИК №836",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 837,
     "uikTvd": "452406172345",
+    "uikName": "УИК №837",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 838,
     "uikTvd": "452406172346",
+    "uikName": "УИК №838",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 839,
     "uikTvd": "452406172347",
+    "uikName": "УИК №839",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 840,
     "uikTvd": "452406172348",
+    "uikName": "УИК №840",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 841,
     "uikTvd": "452406172349",
+    "uikName": "УИК №841",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 842,
     "uikTvd": "452406172350",
+    "uikName": "УИК №842",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 843,
     "uikTvd": "452406172351",
+    "uikName": "УИК №843",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 844,
     "uikTvd": "452406172352",
+    "uikName": "УИК №844",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 845,
     "uikTvd": "452406172353",
+    "uikName": "УИК №845",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 846,
     "uikTvd": "452406172354",
+    "uikName": "УИК №846",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 847,
     "uikTvd": "452406172355",
+    "uikName": "УИК №847",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 848,
     "uikTvd": "452406172356",
+    "uikName": "УИК №848",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 849,
     "uikTvd": "452406172357",
+    "uikName": "УИК №849",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 850,
     "uikTvd": "452406172358",
+    "uikName": "УИК №850",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 851,
     "uikTvd": "452406172359",
+    "uikName": "УИК №851",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 852,
     "uikTvd": "452406172360",
+    "uikName": "УИК №852",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 853,
     "uikTvd": "452406172361",
+    "uikName": "УИК №853",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 854,
     "uikTvd": "452406172362",
+    "uikName": "УИК №854",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 855,
     "uikTvd": "452406172363",
+    "uikName": "УИК №855",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 856,
     "uikTvd": "452406172364",
+    "uikName": "УИК №856",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 857,
     "uikTvd": "452406172365",
+    "uikName": "УИК №857",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 858,
     "uikTvd": "452406172366",
+    "uikName": "УИК №858",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 859,
     "uikTvd": "452406172367",
+    "uikName": "УИК №859",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 860,
     "uikTvd": "452406172368",
+    "uikName": "УИК №860",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 861,
     "uikTvd": "452406172369",
+    "uikName": "УИК №861",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 862,
     "uikTvd": "452406172370",
+    "uikName": "УИК №862",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 863,
     "uikTvd": "452406172371",
+    "uikName": "УИК №863",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 864,
     "uikTvd": "452406172372",
+    "uikName": "УИК №864",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 865,
     "uikTvd": "452406172373",
+    "uikName": "УИК №865",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 866,
     "uikTvd": "452406172374",
+    "uikName": "УИК №866",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 867,
     "uikTvd": "452406172375",
+    "uikName": "УИК №867",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 868,
     "uikTvd": "452406172376",
+    "uikName": "УИК №868",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 869,
     "uikTvd": "452406172377",
+    "uikName": "УИК №869",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 870,
     "uikTvd": "452402271926",
+    "uikName": "УИК №870",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 871,
     "uikTvd": "452402271927",
+    "uikName": "УИК №871",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 872,
     "uikTvd": "452402271928",
+    "uikName": "УИК №872",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 873,
     "uikTvd": "452402271929",
+    "uikName": "УИК №873",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 874,
     "uikTvd": "452402271930",
+    "uikName": "УИК №874",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 875,
     "uikTvd": "452402271931",
+    "uikName": "УИК №875",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 876,
     "uikTvd": "452402271932",
+    "uikName": "УИК №876",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 877,
     "uikTvd": "452402271933",
+    "uikName": "УИК №877",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 878,
     "uikTvd": "452406172378",
+    "uikName": "УИК №878",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 879,
     "uikTvd": "452402271934",
+    "uikName": "УИК №879",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 880,
     "uikTvd": "452402271935",
+    "uikName": "УИК №880",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 881,
     "uikTvd": "452406172379",
+    "uikName": "УИК №881",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 882,
     "uikTvd": "452402271936",
+    "uikName": "УИК №882",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 883,
     "uikTvd": "452402271937",
+    "uikName": "УИК №883",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 884,
     "uikTvd": "452402271938",
+    "uikName": "УИК №884",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 885,
     "uikTvd": "452402271939",
+    "uikName": "УИК №885",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 886,
     "uikTvd": "452402271940",
+    "uikName": "УИК №886",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 887,
     "uikTvd": "452402271941",
+    "uikName": "УИК №887",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 888,
     "uikTvd": "452402271942",
+    "uikName": "УИК №888",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 889,
     "uikTvd": "452402271943",
+    "uikName": "УИК №889",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 890,
     "uikTvd": "452402271944",
+    "uikName": "УИК №890",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 891,
     "uikTvd": "452402271945",
+    "uikName": "УИК №891",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 892,
     "uikTvd": "452402271946",
+    "uikName": "УИК №892",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 893,
     "uikTvd": "452402271947",
+    "uikName": "УИК №893",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 894,
     "uikTvd": "452402271948",
+    "uikName": "УИК №894",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 895,
     "uikTvd": "452402271949",
+    "uikName": "УИК №895",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 896,
     "uikTvd": "452402271950",
+    "uikName": "УИК №896",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 897,
     "uikTvd": "452402271951",
+    "uikName": "УИК №897",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 898,
     "uikTvd": "452402271952",
+    "uikName": "УИК №898",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 899,
     "uikTvd": "452402271953",
+    "uikName": "УИК №899",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 900,
     "uikTvd": "452402271954",
+    "uikName": "УИК №900",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "452402271955",
+    "uikName": "УИК №901",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "452402271956",
+    "uikName": "УИК №902",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "452402271957",
+    "uikName": "УИК №903",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "452402271958",
+    "uikName": "УИК №904",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "452406172380",
+    "uikName": "УИК №905",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "452406172381",
+    "uikName": "УИК №906",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "452406172382",
+    "uikName": "УИК №907",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "452406172383",
+    "uikName": "УИК №908",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "452406172384",
+    "uikName": "УИК №909",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "452402271959",
+    "uikName": "УИК №910",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "452406172385",
+    "uikName": "УИК №911",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "452406172386",
+    "uikName": "УИК №912",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "452406172387",
+    "uikName": "УИК №913",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "452402271960",
+    "uikName": "УИК №914",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "452402271961",
+    "uikName": "УИК №915",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "452402271962",
+    "uikName": "УИК №916",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "452402271963",
+    "uikName": "УИК №917",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "452406172388",
+    "uikName": "УИК №918",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "452402271964",
+    "uikName": "УИК №919",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "452402271965",
+    "uikName": "УИК №920",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "452402271966",
+    "uikName": "УИК №921",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "452402271967",
+    "uikName": "УИК №922",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "452402271968",
+    "uikName": "УИК №923",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "452402271969",
+    "uikName": "УИК №924",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "452402271970",
+    "uikName": "УИК №925",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "452402271971",
+    "uikName": "УИК №926",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "452402271972",
+    "uikName": "УИК №927",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "452402271973",
+    "uikName": "УИК №928",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "452402271974",
+    "uikName": "УИК №929",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "452402271975",
+    "uikName": "УИК №930",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "452402271976",
+    "uikName": "УИК №931",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "452402271977",
+    "uikName": "УИК №932",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "452402271978",
+    "uikName": "УИК №933",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "452402271979",
+    "uikName": "УИК №934",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "452406172389",
+    "uikName": "УИК №935",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "452402271980",
+    "uikName": "УИК №936",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "452402271981",
+    "uikName": "УИК №937",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "452402271982",
+    "uikName": "УИК №938",
     "tikTvd": "252200083282",
-    "tikName": "Дзержинская, Свердловская"
+    "tikName": "Дзержинская, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "452406172392",
+    "uikName": "УИК №939",
     "tikTvd": "252200083316",
-    "tikName": "Дзержинская, Калининская"
+    "tikName": "Дзержинская, Калининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "452402371010",
+    "uikName": "УИК №942",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "452402371011",
+    "uikName": "УИК №943",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "452402371012",
+    "uikName": "УИК №944",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "452402371013",
+    "uikName": "УИК №945",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "452402371014",
+    "uikName": "УИК №946",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "452402371015",
+    "uikName": "УИК №947",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "452402371016",
+    "uikName": "УИК №948",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "452402371017",
+    "uikName": "УИК №949",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "452402371018",
+    "uikName": "УИК №950",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "452402371019",
+    "uikName": "УИК №951",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "452402371020",
+    "uikName": "УИК №952",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "452402371021",
+    "uikName": "УИК №953",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 954,
     "uikTvd": "452402371022",
+    "uikName": "УИК №954",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 955,
     "uikTvd": "452402371023",
+    "uikName": "УИК №955",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 956,
     "uikTvd": "452402371024",
+    "uikName": "УИК №956",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 957,
     "uikTvd": "452402371025",
+    "uikName": "УИК №957",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 958,
     "uikTvd": "452402371026",
+    "uikName": "УИК №958",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 959,
     "uikTvd": "452402371027",
+    "uikName": "УИК №959",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 960,
     "uikTvd": "452402371028",
+    "uikName": "УИК №960",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 961,
     "uikTvd": "452402371029",
+    "uikName": "УИК №961",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 962,
     "uikTvd": "452402371030",
+    "uikName": "УИК №962",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 963,
     "uikTvd": "452402371031",
+    "uikName": "УИК №963",
     "tikTvd": "252200083283",
-    "tikName": "Дивеевская"
+    "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 965,
     "uikTvd": "452402571088",
+    "uikName": "УИК  965",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 966,
     "uikTvd": "452402571089",
+    "uikName": "УИК  966",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 967,
     "uikTvd": "452402571090",
+    "uikName": "УИК  967",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 968,
     "uikTvd": "452402571091",
+    "uikName": "УИК  968",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 969,
     "uikTvd": "452402571092",
+    "uikName": "УИК  969",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 970,
     "uikTvd": "452402571093",
+    "uikName": "УИК  970",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 971,
     "uikTvd": "452402571094",
+    "uikName": "УИК  971",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 972,
     "uikTvd": "452402571095",
+    "uikName": "УИК  972",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 973,
     "uikTvd": "452402571096",
+    "uikName": "УИК  973",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 974,
     "uikTvd": "452402571097",
+    "uikName": "УИК  974",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 975,
     "uikTvd": "452402571098",
+    "uikName": "УИК  975",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 976,
     "uikTvd": "452402571099",
+    "uikName": "УИК  976",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 977,
     "uikTvd": "452402571100",
+    "uikName": "УИК  977",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 978,
     "uikTvd": "452402571101",
+    "uikName": "УИК  978",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 979,
     "uikTvd": "452402571102",
+    "uikName": "УИК  979",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 980,
     "uikTvd": "452402571103",
+    "uikName": "УИК  980",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 981,
     "uikTvd": "452402571104",
+    "uikName": "УИК  981",
     "tikTvd": "252200083279",
-    "tikName": "Княгининская"
+    "tikName": "Княгининская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 982,
     "uikTvd": "452402671202",
+    "uikName": "УИК  982",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 983,
     "uikTvd": "452402671203",
+    "uikName": "УИК  983",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 984,
     "uikTvd": "452402671204",
+    "uikName": "УИК  984",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 985,
     "uikTvd": "452402671205",
+    "uikName": "УИК  985",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 986,
     "uikTvd": "452402671206",
+    "uikName": "УИК  986",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 987,
     "uikTvd": "452402671207",
+    "uikName": "УИК  987",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 988,
     "uikTvd": "452402671208",
+    "uikName": "УИК  988",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 989,
     "uikTvd": "452402671209",
+    "uikName": "УИК  989",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 990,
     "uikTvd": "452402671210",
+    "uikName": "УИК  990",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 991,
     "uikTvd": "452402671211",
+    "uikName": "УИК  991",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 992,
     "uikTvd": "452402671212",
+    "uikName": "УИК  992",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 993,
     "uikTvd": "452402671213",
+    "uikName": "УИК  993",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 994,
     "uikTvd": "452402671214",
+    "uikName": "УИК  994",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 995,
     "uikTvd": "452402671215",
+    "uikName": "УИК  995",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 996,
     "uikTvd": "452402671216",
+    "uikName": "УИК  996",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 997,
     "uikTvd": "452402671217",
+    "uikName": "УИК  997",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 998,
     "uikTvd": "452402671218",
+    "uikName": "УИК  998",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 999,
     "uikTvd": "452402671219",
+    "uikName": "УИК  999",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1000,
     "uikTvd": "452402671220",
+    "uikName": "УИК  1000",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "452402671221",
+    "uikName": "УИК  1001",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "452402671222",
+    "uikName": "УИК  1002",
     "tikTvd": "252200083278",
-    "tikName": "Ковернинская"
+    "tikName": "Ковернинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "452402771302",
+    "uikName": "УИК №1003",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "452402771303",
+    "uikName": "УИК №1004",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "452402771304",
+    "uikName": "УИК №1005",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "452402771305",
+    "uikName": "УИК №1006",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "452402771306",
+    "uikName": "УИК №1007",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "452402771307",
+    "uikName": "УИК №1008",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "452402771308",
+    "uikName": "УИК №1009",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "452402771309",
+    "uikName": "УИК №1010",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "452402771310",
+    "uikName": "УИК №1011",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "452402771311",
+    "uikName": "УИК №1012",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "452402771312",
+    "uikName": "УИК №1013",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "452402771313",
+    "uikName": "УИК №1014",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "452402771314",
+    "uikName": "УИК №1015",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "452402771315",
+    "uikName": "УИК №1016",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "452402771316",
+    "uikName": "УИК №1017",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "452402771317",
+    "uikName": "УИК №1018",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "452402771318",
+    "uikName": "УИК №1019",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "452402771319",
+    "uikName": "УИК №1020",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "452402771320",
+    "uikName": "УИК №1021",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "452402771321",
+    "uikName": "УИК №1022",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "452402771322",
+    "uikName": "УИК №1023",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "452402771323",
+    "uikName": "УИК №1024",
     "tikTvd": "252200083277",
-    "tikName": "Краснобаковская"
+    "tikName": "Краснобаковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "452402871458",
+    "uikName": "УИК №1025",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "452402871459",
+    "uikName": "УИК №1026",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "452402871460",
+    "uikName": "УИК №1027",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1028,
     "uikTvd": "452402871461",
+    "uikName": "УИК №1028",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1029,
     "uikTvd": "452402871462",
+    "uikName": "УИК №1029",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1030,
     "uikTvd": "452402871463",
+    "uikName": "УИК №1030",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1031,
     "uikTvd": "452402871464",
+    "uikName": "УИК №1031",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1032,
     "uikTvd": "452402871465",
+    "uikName": "УИК №1032",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1033,
     "uikTvd": "452402871466",
+    "uikName": "УИК №1033",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1034,
     "uikTvd": "452402871467",
+    "uikName": "УИК №1034",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1035,
     "uikTvd": "452402871468",
+    "uikName": "УИК №1035",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1036,
     "uikTvd": "452402871469",
+    "uikName": "УИК №1036",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1037,
     "uikTvd": "452402871470",
+    "uikName": "УИК №1037",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1038,
     "uikTvd": "452402871471",
+    "uikName": "УИК №1038",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1039,
     "uikTvd": "452402871472",
+    "uikName": "УИК №1039",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1040,
     "uikTvd": "452402871473",
+    "uikName": "УИК №1040",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1041,
     "uikTvd": "452402871474",
+    "uikName": "УИК №1041",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1042,
     "uikTvd": "452402871475",
+    "uikName": "УИК №1042",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1043,
     "uikTvd": "452402871476",
+    "uikName": "УИК №1043",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1044,
     "uikTvd": "452402871477",
+    "uikName": "УИК №1044",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1045,
     "uikTvd": "452402871478",
+    "uikName": "УИК №1045",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1046,
     "uikTvd": "452402871479",
+    "uikName": "УИК №1046",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1047,
     "uikTvd": "452402871480",
+    "uikName": "УИК №1047",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1048,
     "uikTvd": "452402871481",
+    "uikName": "УИК №1048",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1049,
     "uikTvd": "452402871482",
+    "uikName": "УИК №1049",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1050,
     "uikTvd": "452402871483",
+    "uikName": "УИК №1050",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1051,
     "uikTvd": "452402871484",
+    "uikName": "УИК №1051",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1052,
     "uikTvd": "452402871485",
+    "uikName": "УИК №1052",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1053,
     "uikTvd": "452402871486",
+    "uikName": "УИК №1053",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1054,
     "uikTvd": "452402871487",
+    "uikName": "УИК №1054",
     "tikTvd": "252200083280",
-    "tikName": "Краснооктябрьская"
+    "tikName": "Краснооктябрьская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1055,
     "uikTvd": "452402972392",
+    "uikName": "УИК №1055",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1056,
     "uikTvd": "452402972393",
+    "uikName": "УИК №1056",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1057,
     "uikTvd": "452402972394",
+    "uikName": "УИК №1057",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1058,
     "uikTvd": "452402972395",
+    "uikName": "УИК №1058",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1059,
     "uikTvd": "452402972396",
+    "uikName": "УИК №1059",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1060,
     "uikTvd": "452402972397",
+    "uikName": "УИК №1060",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1061,
     "uikTvd": "452402972398",
+    "uikName": "УИК №1061",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1062,
     "uikTvd": "452402972399",
+    "uikName": "УИК №1062",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1063,
     "uikTvd": "452402972400",
+    "uikName": "УИК №1063",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1064,
     "uikTvd": "452402972401",
+    "uikName": "УИК №1064",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1065,
     "uikTvd": "452402972402",
+    "uikName": "УИК №1065",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1066,
     "uikTvd": "452402972403",
+    "uikName": "УИК №1066",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1067,
     "uikTvd": "452402972404",
+    "uikName": "УИК №1067",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1068,
     "uikTvd": "452402972405",
+    "uikName": "УИК №1068",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1069,
     "uikTvd": "452402972406",
+    "uikName": "УИК №1069",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1070,
     "uikTvd": "452402972407",
+    "uikName": "УИК №1070",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1071,
     "uikTvd": "452402972408",
+    "uikName": "УИК №1071",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1072,
     "uikTvd": "452402972409",
+    "uikName": "УИК №1072",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1073,
     "uikTvd": "452402972410",
+    "uikName": "УИК №1073",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1074,
     "uikTvd": "452402972411",
+    "uikName": "УИК №1074",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1075,
     "uikTvd": "452402972412",
+    "uikName": "УИК №1075",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1076,
     "uikTvd": "452402972413",
+    "uikName": "УИК №1076",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1077,
     "uikTvd": "452402972414",
+    "uikName": "УИК №1077",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1078,
     "uikTvd": "452402972415",
+    "uikName": "УИК №1078",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1079,
     "uikTvd": "452402972416",
+    "uikName": "УИК №1079",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1080,
     "uikTvd": "452402972417",
+    "uikName": "УИК №1080",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1081,
     "uikTvd": "452402972418",
+    "uikName": "УИК №1081",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1082,
     "uikTvd": "452402972419",
+    "uikName": "УИК №1082",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1083,
     "uikTvd": "452402972420",
+    "uikName": "УИК №1083",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1084,
     "uikTvd": "452402972421",
+    "uikName": "УИК №1084",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1085,
     "uikTvd": "452402972422",
+    "uikName": "УИК №1085",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1086,
     "uikTvd": "452402972423",
+    "uikName": "УИК №1086",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1087,
     "uikTvd": "452402972424",
+    "uikName": "УИК №1087",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1088,
     "uikTvd": "452402972425",
+    "uikName": "УИК №1088",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1089,
     "uikTvd": "452402972426",
+    "uikName": "УИК №1089",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1090,
     "uikTvd": "452402972427",
+    "uikName": "УИК №1090",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1091,
     "uikTvd": "452402972428",
+    "uikName": "УИК №1091",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1092,
     "uikTvd": "452402972429",
+    "uikName": "УИК №1092",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1093,
     "uikTvd": "452402972430",
+    "uikName": "УИК №1093",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1094,
     "uikTvd": "452402972431",
+    "uikName": "УИК №1094",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1095,
     "uikTvd": "452402972432",
+    "uikName": "УИК №1095",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1096,
     "uikTvd": "452402972433",
+    "uikName": "УИК №1096",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1097,
     "uikTvd": "452402972434",
+    "uikName": "УИК №1097",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1098,
     "uikTvd": "452402972435",
+    "uikName": "УИК №1098",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1099,
     "uikTvd": "452402972436",
+    "uikName": "УИК №1099",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1100,
     "uikTvd": "452402972437",
+    "uikName": "УИК №1100",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "452402972438",
+    "uikName": "УИК №1101",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "452402972439",
+    "uikName": "УИК №1102",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "452402972440",
+    "uikName": "УИК №1103",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "452402972441",
+    "uikName": "УИК №1104",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "452402972442",
+    "uikName": "УИК №1105",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "452402972443",
+    "uikName": "УИК №1106",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "452402972444",
+    "uikName": "УИК №1107",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "452402972445",
+    "uikName": "УИК №1108",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "452402972446",
+    "uikName": "УИК №1109",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "452402972447",
+    "uikName": "УИК №1110",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "452402972448",
+    "uikName": "УИК №1111",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "452402972449",
+    "uikName": "УИК №1112",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "452402972450",
+    "uikName": "УИК №1113",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "452402972451",
+    "uikName": "УИК №1114",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "452402972452",
+    "uikName": "УИК №1115",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "452402972453",
+    "uikName": "УИК №1116",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "452402972454",
+    "uikName": "УИК №1117",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "452402972455",
+    "uikName": "УИК №1118",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "452402972456",
+    "uikName": "УИК №1119",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "452402972457",
+    "uikName": "УИК №1120",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "452402972458",
+    "uikName": "УИК №1121",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "452402972459",
+    "uikName": "УИК №1122",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "452402972460",
+    "uikName": "УИК №1123",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "452402972461",
+    "uikName": "УИК №1124",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "452402972462",
+    "uikName": "УИК №1125",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "452402972463",
+    "uikName": "УИК №1126",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "452402972464",
+    "uikName": "УИК №1127",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "452402972465",
+    "uikName": "УИК №1128",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "452402972466",
+    "uikName": "УИК №1129",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "452402972467",
+    "uikName": "УИК №1130",
     "tikTvd": "252200083276",
-    "tikName": "Кстовская"
+    "tikName": "Кстовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "452403071436",
+    "uikName": "УИК №1136",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "452403071437",
+    "uikName": "УИК №1137",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "452403071438",
+    "uikName": "УИК №1138",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "452403071439",
+    "uikName": "УИК №1139",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "452403071440",
+    "uikName": "УИК №1140",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "452403071441",
+    "uikName": "УИК №1141",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1142,
     "uikTvd": "452403071442",
+    "uikName": "УИК №1142",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1143,
     "uikTvd": "452403071443",
+    "uikName": "УИК №1143",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1144,
     "uikTvd": "452403071444",
+    "uikName": "УИК №1144",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1145,
     "uikTvd": "452403071445",
+    "uikName": "УИК №1145",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1146,
     "uikTvd": "452403071446",
+    "uikName": "УИК №1146",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1147,
     "uikTvd": "452403071447",
+    "uikName": "УИК №1147",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1148,
     "uikTvd": "452403071448",
+    "uikName": "УИК №1148",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1149,
     "uikTvd": "452403071449",
+    "uikName": "УИК №1149",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1150,
     "uikTvd": "452403071450",
+    "uikName": "УИК №1150",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1151,
     "uikTvd": "452403071451",
+    "uikName": "УИК №1151",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1152,
     "uikTvd": "452403071452",
+    "uikName": "УИК №1152",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1153,
     "uikTvd": "452403071453",
+    "uikName": "УИК №1153",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1154,
     "uikTvd": "452403071454",
+    "uikName": "УИК №1154",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1155,
     "uikTvd": "452403071455",
+    "uikName": "УИК №1155",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1156,
     "uikTvd": "452403071456",
+    "uikName": "УИК №1156",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1157,
     "uikTvd": "452403071457",
+    "uikName": "УИК №1157",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1158,
     "uikTvd": "452403071458",
+    "uikName": "УИК №1158",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1159,
     "uikTvd": "452403071459",
+    "uikName": "УИК №1159",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1160,
     "uikTvd": "452403071460",
+    "uikName": "УИК №1160",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1161,
     "uikTvd": "452403071461",
+    "uikName": "УИК №1161",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1162,
     "uikTvd": "452403071462",
+    "uikName": "УИК №1162",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1163,
     "uikTvd": "452403071463",
+    "uikName": "УИК №1163",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1164,
     "uikTvd": "452403071464",
+    "uikName": "УИК №1164",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1165,
     "uikTvd": "452403071465",
+    "uikName": "УИК №1165",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1166,
     "uikTvd": "452403071466",
+    "uikName": "УИК №1166",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1167,
     "uikTvd": "452403071467",
+    "uikName": "УИК №1167",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1168,
     "uikTvd": "452403071468",
+    "uikName": "УИК №1168",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1169,
     "uikTvd": "452403071469",
+    "uikName": "УИК №1169",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1170,
     "uikTvd": "452403071470",
+    "uikName": "УИК №1170",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1171,
     "uikTvd": "452403071471",
+    "uikName": "УИК №1171",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1172,
     "uikTvd": "452403071472",
+    "uikName": "УИК №1172",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1173,
     "uikTvd": "452403071473",
+    "uikName": "УИК №1173",
     "tikTvd": "252200083292",
-    "tikName": "Кулебакская"
+    "tikName": "Кулебакская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1175,
     "uikTvd": "452403171538",
+    "uikName": "УИК №1175",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1176,
     "uikTvd": "452403171539",
+    "uikName": "УИК №1176",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1177,
     "uikTvd": "452403171540",
+    "uikName": "УИК №1177",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1178,
     "uikTvd": "452403171541",
+    "uikName": "УИК №1178",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1179,
     "uikTvd": "452403171542",
+    "uikName": "УИК №1179",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1180,
     "uikTvd": "452403171543",
+    "uikName": "УИК №1180",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1181,
     "uikTvd": "452403171544",
+    "uikName": "УИК №1181",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1182,
     "uikTvd": "452403171545",
+    "uikName": "УИК №1182",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1183,
     "uikTvd": "452403171546",
+    "uikName": "УИК №1183",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1184,
     "uikTvd": "452403171547",
+    "uikName": "УИК №1184",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1185,
     "uikTvd": "452403171548",
+    "uikName": "УИК №1185",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1186,
     "uikTvd": "452403171549",
+    "uikName": "УИК №1186",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1187,
     "uikTvd": "452403171550",
+    "uikName": "УИК №1187",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1188,
     "uikTvd": "452403171551",
+    "uikName": "УИК №1188",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1189,
     "uikTvd": "452403171552",
+    "uikName": "УИК №1189",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1190,
     "uikTvd": "452403171553",
+    "uikName": "УИК №1190",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1191,
     "uikTvd": "452403171554",
+    "uikName": "УИК №1191",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1192,
     "uikTvd": "452403171555",
+    "uikName": "УИК №1192",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1193,
     "uikTvd": "452403171556",
+    "uikName": "УИК №1193",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1194,
     "uikTvd": "452403171557",
+    "uikName": "УИК №1194",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1195,
     "uikTvd": "452403171558",
+    "uikName": "УИК №1195",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1196,
     "uikTvd": "452403171559",
+    "uikName": "УИК №1196",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1197,
     "uikTvd": "452403171560",
+    "uikName": "УИК №1197",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1198,
     "uikTvd": "452403171561",
+    "uikName": "УИК №1198",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1199,
     "uikTvd": "452403171562",
+    "uikName": "УИК №1199",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1200,
     "uikTvd": "452403171563",
+    "uikName": "УИК №1200",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "452403171564",
+    "uikName": "УИК №1201",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "452403171565",
+    "uikName": "УИК №1202",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "452403171566",
+    "uikName": "УИК №1203",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "452403171567",
+    "uikName": "УИК №1204",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "452403171568",
+    "uikName": "УИК №1205",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "452403171569",
+    "uikName": "УИК №1206",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "452403171570",
+    "uikName": "УИК №1207",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "452403171571",
+    "uikName": "УИК №1208",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "452403171572",
+    "uikName": "УИК №1209",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "452403171573",
+    "uikName": "УИК №1210",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "452403171574",
+    "uikName": "УИК №1211",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "452403171575",
+    "uikName": "УИК №1212",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "452403171576",
+    "uikName": "УИК №1213",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "452403171577",
+    "uikName": "УИК №1214",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "452403171578",
+    "uikName": "УИК №1215",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "452403171579",
+    "uikName": "УИК №1216",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "452403171580",
+    "uikName": "УИК №1217",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "452403171581",
+    "uikName": "УИК №1218",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "452403171582",
+    "uikName": "УИК №1219",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "452403171583",
+    "uikName": "УИК №1220",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "452403171584",
+    "uikName": "УИК №1221",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "452403171585",
+    "uikName": "УИК №1222",
     "tikTvd": "252200083291",
-    "tikName": "Лукояновская"
+    "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "452403271934",
+    "uikName": "УИК  1227",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "452403271935",
+    "uikName": "УИК  1228",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "452403271936",
+    "uikName": "УИК  1229",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "452403271937",
+    "uikName": "УИК  1230",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "452403271938",
+    "uikName": "УИК  1231",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "452403271939",
+    "uikName": "УИК  1232",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1233,
     "uikTvd": "452403271940",
+    "uikName": "УИК  1233",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "452403271941",
+    "uikName": "УИК  1234",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "452403271942",
+    "uikName": "УИК  1235",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "452403271943",
+    "uikName": "УИК  1236",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "452403271944",
+    "uikName": "УИК  1237",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "452403271945",
+    "uikName": "УИК  1238",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "452403271946",
+    "uikName": "УИК  1239",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "452403271947",
+    "uikName": "УИК  1240",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "452403271948",
+    "uikName": "УИК  1241",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "452403271949",
+    "uikName": "УИК  1242",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "452403271950",
+    "uikName": "УИК  1243",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "452403271951",
+    "uikName": "УИК  1244",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1245,
     "uikTvd": "452403271952",
+    "uikName": "УИК  1245",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "452403271953",
+    "uikName": "УИК  1246",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "452403271954",
+    "uikName": "УИК  1247",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "452403271955",
+    "uikName": "УИК  1248",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "452403271956",
+    "uikName": "УИК  1249",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "452403271957",
+    "uikName": "УИК  1250",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "452403271958",
+    "uikName": "УИК  1251",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1252,
     "uikTvd": "452403271959",
+    "uikName": "УИК  1252",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1253,
     "uikTvd": "452403271960",
+    "uikName": "УИК  1253",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1254,
     "uikTvd": "452403271961",
+    "uikName": "УИК  1254",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1255,
     "uikTvd": "452403271962",
+    "uikName": "УИК  1255",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1256,
     "uikTvd": "452403271963",
+    "uikName": "УИК  1256",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1257,
     "uikTvd": "452403271964",
+    "uikName": "УИК  1257",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1258,
     "uikTvd": "452403271965",
+    "uikName": "УИК  1258",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1259,
     "uikTvd": "452403271966",
+    "uikName": "УИК  1259",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1260,
     "uikTvd": "452403271967",
+    "uikName": "УИК  1260",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1261,
     "uikTvd": "452403271968",
+    "uikName": "УИК  1261",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1262,
     "uikTvd": "452403271969",
+    "uikName": "УИК  1262",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1263,
     "uikTvd": "452403271970",
+    "uikName": "УИК  1263",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1264,
     "uikTvd": "452403271971",
+    "uikName": "УИК  1264",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1265,
     "uikTvd": "452403271972",
+    "uikName": "УИК  1265",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1266,
     "uikTvd": "452403271973",
+    "uikName": "УИК  1266",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1267,
     "uikTvd": "452403271974",
+    "uikName": "УИК  1267",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1268,
     "uikTvd": "452403271975",
+    "uikName": "УИК  1268",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1269,
     "uikTvd": "452403271976",
+    "uikName": "УИК  1269",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1270,
     "uikTvd": "452403271977",
+    "uikName": "УИК  1270",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1271,
     "uikTvd": "452403271978",
+    "uikName": "УИК  1271",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1272,
     "uikTvd": "452403271979",
+    "uikName": "УИК  1272",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1273,
     "uikTvd": "452403271980",
+    "uikName": "УИК  1273",
     "tikTvd": "252200083293",
-    "tikName": "Лысковская"
+    "tikName": "Лысковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1277,
     "uikTvd": "452403371053",
+    "uikName": "УИК №1277",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1278,
     "uikTvd": "452403371054",
+    "uikName": "УИК №1278",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1279,
     "uikTvd": "452403371055",
+    "uikName": "УИК №1279",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1280,
     "uikTvd": "452403371056",
+    "uikName": "УИК №1280",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1281,
     "uikTvd": "452403371057",
+    "uikName": "УИК №1281",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1282,
     "uikTvd": "452403371058",
+    "uikName": "УИК №1282",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1283,
     "uikTvd": "452403371059",
+    "uikName": "УИК №1283",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1284,
     "uikTvd": "452403371060",
+    "uikName": "УИК №1284",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1285,
     "uikTvd": "452403371061",
+    "uikName": "УИК №1285",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1286,
     "uikTvd": "452403371062",
+    "uikName": "УИК №1286",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1287,
     "uikTvd": "452403371063",
+    "uikName": "УИК №1287",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1288,
     "uikTvd": "452403371064",
+    "uikName": "УИК №1288",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1289,
     "uikTvd": "452403371065",
+    "uikName": "УИК №1289",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1290,
     "uikTvd": "452403371066",
+    "uikName": "УИК №1290",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1291,
     "uikTvd": "452403371067",
+    "uikName": "УИК №1291",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1292,
     "uikTvd": "452403371068",
+    "uikName": "УИК №1292",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1293,
     "uikTvd": "452403371069",
+    "uikName": "УИК №1293",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1294,
     "uikTvd": "452403371070",
+    "uikName": "УИК №1294",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1295,
     "uikTvd": "452403371071",
+    "uikName": "УИК №1295",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1296,
     "uikTvd": "452403371072",
+    "uikName": "УИК №1296",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1297,
     "uikTvd": "452403371073",
+    "uikName": "УИК №1297",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1298,
     "uikTvd": "452403371074",
+    "uikName": "УИК №1298",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1299,
     "uikTvd": "452403371075",
+    "uikName": "УИК №1299",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1300,
     "uikTvd": "452403371076",
+    "uikName": "УИК №1300",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "452406071839",
+    "uikName": "УИК №1301",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "452406071840",
+    "uikName": "УИК №1302",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "452406071841",
+    "uikName": "УИК №1303",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "452406071842",
+    "uikName": "УИК №1304",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "452406071843",
+    "uikName": "УИК №1305",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "452406071844",
+    "uikName": "УИК №1306",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "452406071845",
+    "uikName": "УИК №1307",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "452406071846",
+    "uikName": "УИК №1308",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "452406071847",
+    "uikName": "УИК №1309",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "452406071848",
+    "uikName": "УИК №1310",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "452406071849",
+    "uikName": "УИК №1311",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "452406071850",
+    "uikName": "УИК №1312",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "452406071851",
+    "uikName": "УИК №1313",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "452406071852",
+    "uikName": "УИК №1314",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "452406071853",
+    "uikName": "УИК №1315",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "452406071854",
+    "uikName": "УИК №1316",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "452406071855",
+    "uikName": "УИК №1317",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "452406071856",
+    "uikName": "УИК №1318",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "452406071857",
+    "uikName": "УИК №1319",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "452406071858",
+    "uikName": "УИК №1320",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "452406071859",
+    "uikName": "УИК №1321",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "452406071860",
+    "uikName": "УИК №1322",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "452406071861",
+    "uikName": "УИК №1323",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "452406071862",
+    "uikName": "УИК №1324",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "452406071863",
+    "uikName": "УИК №1325",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "452406071864",
+    "uikName": "УИК №1326",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "452406071865",
+    "uikName": "УИК №1327",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1328,
     "uikTvd": "452403571770",
+    "uikName": "УИК  1328",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1329,
     "uikTvd": "452406071866",
+    "uikName": "УИК №1329",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1330,
     "uikTvd": "452406071867",
+    "uikName": "УИК №1330",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1331,
     "uikTvd": "452406071868",
+    "uikName": "УИК №1331",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1332,
     "uikTvd": "452406071869",
+    "uikName": "УИК №1332",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1333,
     "uikTvd": "452406071870",
+    "uikName": "УИК №1333",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1334,
     "uikTvd": "452406071871",
+    "uikName": "УИК №1334",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1335,
     "uikTvd": "452406071872",
+    "uikName": "УИК №1335",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1336,
     "uikTvd": "452406071873",
+    "uikName": "УИК №1336",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1337,
     "uikTvd": "452406071874",
+    "uikName": "УИК №1337",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1338,
     "uikTvd": "452406071875",
+    "uikName": "УИК №1338",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1339,
     "uikTvd": "452406071876",
+    "uikName": "УИК №1339",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1340,
     "uikTvd": "452406071877",
+    "uikName": "УИК №1340",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1341,
     "uikTvd": "452406071878",
+    "uikName": "УИК №1341",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1342,
     "uikTvd": "452406071879",
+    "uikName": "УИК №1342",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1343,
     "uikTvd": "452406071880",
+    "uikName": "УИК №1343",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1344,
     "uikTvd": "452406071881",
+    "uikName": "УИК №1344",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1345,
     "uikTvd": "452406071882",
+    "uikName": "УИК №1345",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1346,
     "uikTvd": "452406071883",
+    "uikName": "УИК №1346",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1347,
     "uikTvd": "452406071884",
+    "uikName": "УИК №1347",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1348,
     "uikTvd": "452406071885",
+    "uikName": "УИК №1348",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1349,
     "uikTvd": "452406071886",
+    "uikName": "УИК №1349",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1350,
     "uikTvd": "452406071887",
+    "uikName": "УИК №1350",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1351,
     "uikTvd": "452406071888",
+    "uikName": "УИК №1351",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1352,
     "uikTvd": "452406071889",
+    "uikName": "УИК №1352",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1353,
     "uikTvd": "452406071890",
+    "uikName": "УИК №1353",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1354,
     "uikTvd": "452406071891",
+    "uikName": "УИК №1354",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1355,
     "uikTvd": "452406071892",
+    "uikName": "УИК №1355",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1356,
     "uikTvd": "452406071893",
+    "uikName": "УИК №1356",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1357,
     "uikTvd": "452406071894",
+    "uikName": "УИК №1357",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1358,
     "uikTvd": "452406071895",
+    "uikName": "УИК №1358",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1359,
     "uikTvd": "452406071896",
+    "uikName": "УИК №1359",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1360,
     "uikTvd": "452403571771",
+    "uikName": "УИК  1360",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1361,
     "uikTvd": "452403571772",
+    "uikName": "УИК  1361",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1362,
     "uikTvd": "452403571773",
+    "uikName": "УИК  1362",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1363,
     "uikTvd": "452406071897",
+    "uikName": "УИК №1363",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1364,
     "uikTvd": "452403571774",
+    "uikName": "УИК  1364",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1365,
     "uikTvd": "452406071898",
+    "uikName": "УИК №1365",
     "tikTvd": "252200083315",
-    "tikName": "Нижний Новгород, Автозаводская Южная"
+    "tikName": "Нижний Новгород, Автозаводская Южная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1366,
     "uikTvd": "452403571775",
+    "uikName": "УИК  1366",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1367,
     "uikTvd": "452403571776",
+    "uikName": "УИК  1367",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1368,
     "uikTvd": "452403571777",
+    "uikName": "УИК  1368",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1369,
     "uikTvd": "452403571778",
+    "uikName": "УИК  1369",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1370,
     "uikTvd": "452403571779",
+    "uikName": "УИК  1370",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1371,
     "uikTvd": "452403571780",
+    "uikName": "УИК  1371",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1372,
     "uikTvd": "452403571781",
+    "uikName": "УИК  1372",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1373,
     "uikTvd": "452403571782",
+    "uikName": "УИК  1373",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1374,
     "uikTvd": "452403571783",
+    "uikName": "УИК  1374",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1375,
     "uikTvd": "452403571784",
+    "uikName": "УИК  1375",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1376,
     "uikTvd": "452403571785",
+    "uikName": "УИК  1376",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1377,
     "uikTvd": "452403571786",
+    "uikName": "УИК  1377",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1378,
     "uikTvd": "452403571787",
+    "uikName": "УИК  1378",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1379,
     "uikTvd": "452403571788",
+    "uikName": "УИК  1379",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1380,
     "uikTvd": "452403571789",
+    "uikName": "УИК  1380",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1381,
     "uikTvd": "452403571790",
+    "uikName": "УИК  1381",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1382,
     "uikTvd": "452403571791",
+    "uikName": "УИК  1382",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1383,
     "uikTvd": "452403571792",
+    "uikName": "УИК  1383",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1384,
     "uikTvd": "452403571793",
+    "uikName": "УИК  1384",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1385,
     "uikTvd": "452403571794",
+    "uikName": "УИК  1385",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1386,
     "uikTvd": "452403571795",
+    "uikName": "УИК  1386",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1387,
     "uikTvd": "452403571796",
+    "uikName": "УИК  1387",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1388,
     "uikTvd": "452403571797",
+    "uikName": "УИК  1388",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1389,
     "uikTvd": "452403571798",
+    "uikName": "УИК  1389",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1390,
     "uikTvd": "452403571799",
+    "uikName": "УИК  1390",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1391,
     "uikTvd": "452403571800",
+    "uikName": "УИК  1391",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1392,
     "uikTvd": "452403571801",
+    "uikName": "УИК  1392",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1393,
     "uikTvd": "452403571802",
+    "uikName": "УИК  1393",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1394,
     "uikTvd": "452403571803",
+    "uikName": "УИК  1394",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1395,
     "uikTvd": "452403571804",
+    "uikName": "УИК  1395",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1396,
     "uikTvd": "452403571805",
+    "uikName": "УИК  1396",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1397,
     "uikTvd": "452403571806",
+    "uikName": "УИК  1397",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1398,
     "uikTvd": "452403571807",
+    "uikName": "УИК  1398",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1399,
     "uikTvd": "452403571808",
+    "uikName": "УИК  1399",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1400,
     "uikTvd": "452403571809",
+    "uikName": "УИК  1400",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "452403571810",
+    "uikName": "УИК  1401",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "452403571811",
+    "uikName": "УИК  1402",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "452403571812",
+    "uikName": "УИК  1403",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "452403571813",
+    "uikName": "УИК  1404",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "452403571814",
+    "uikName": "УИК  1405",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "452403571815",
+    "uikName": "УИК  1406",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "452403571816",
+    "uikName": "УИК  1407",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "452403571817",
+    "uikName": "УИК  1408",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "452403571818",
+    "uikName": "УИК  1409",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "452403571819",
+    "uikName": "УИК  1410",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "452403571820",
+    "uikName": "УИК  1411",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "452403571821",
+    "uikName": "УИК  1412",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "452403571822",
+    "uikName": "УИК  1413",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "452403571823",
+    "uikName": "УИК  1414",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "452403571824",
+    "uikName": "УИК  1415",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "452403571825",
+    "uikName": "УИК  1416",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "452403571826",
+    "uikName": "УИК  1417",
     "tikTvd": "252200083287",
-    "tikName": "Нижний Новгород, Автозаводская северная"
+    "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "452403672072",
+    "uikName": "УИК №1420",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "452403672073",
+    "uikName": "УИК №1421",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "452403672074",
+    "uikName": "УИК №1422",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "452403672075",
+    "uikName": "УИК №1423",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "452403672076",
+    "uikName": "УИК №1424",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1425,
     "uikTvd": "452403672077",
+    "uikName": "УИК №1425",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "452403672078",
+    "uikName": "УИК №1426",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1427,
     "uikTvd": "452403672079",
+    "uikName": "УИК №1427",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "452403672080",
+    "uikName": "УИК №1428",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1429,
     "uikTvd": "452403672081",
+    "uikName": "УИК №1429",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "452403672082",
+    "uikName": "УИК №1430",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "452403672083",
+    "uikName": "УИК №1431",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "452403672084",
+    "uikName": "УИК №1432",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1433,
     "uikTvd": "452403672085",
+    "uikName": "УИК №1433",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "452403672086",
+    "uikName": "УИК №1434",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "452403672087",
+    "uikName": "УИК №1435",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "452403672088",
+    "uikName": "УИК №1436",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "452403672089",
+    "uikName": "УИК №1437",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "452403672090",
+    "uikName": "УИК №1438",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "452403672091",
+    "uikName": "УИК №1439",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1440,
     "uikTvd": "452403672092",
+    "uikName": "УИК №1440",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "452403672093",
+    "uikName": "УИК №1441",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "452403672094",
+    "uikName": "УИК №1442",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "452403672095",
+    "uikName": "УИК №1443",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "452403672096",
+    "uikName": "УИК №1444",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "452403672097",
+    "uikName": "УИК №1445",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "452403672098",
+    "uikName": "УИК №1446",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1447,
     "uikTvd": "452403672099",
+    "uikName": "УИК №1447",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "452403672100",
+    "uikName": "УИК №1448",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1449,
     "uikTvd": "452403672101",
+    "uikName": "УИК №1449",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1450,
     "uikTvd": "452403672102",
+    "uikName": "УИК №1450",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1451,
     "uikTvd": "452403672103",
+    "uikName": "УИК №1451",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1452,
     "uikTvd": "452403672104",
+    "uikName": "УИК №1452",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1453,
     "uikTvd": "452403672105",
+    "uikName": "УИК №1453",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1454,
     "uikTvd": "452403672106",
+    "uikName": "УИК №1454",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1455,
     "uikTvd": "452403672107",
+    "uikName": "УИК №1455",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1456,
     "uikTvd": "452403672108",
+    "uikName": "УИК №1456",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1457,
     "uikTvd": "452403672109",
+    "uikName": "УИК №1457",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1458,
     "uikTvd": "452403672110",
+    "uikName": "УИК №1458",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1459,
     "uikTvd": "452403672111",
+    "uikName": "УИК №1459",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1460,
     "uikTvd": "452403672112",
+    "uikName": "УИК №1460",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1461,
     "uikTvd": "452403672113",
+    "uikName": "УИК №1461",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1462,
     "uikTvd": "452403672114",
+    "uikName": "УИК №1462",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1463,
     "uikTvd": "452403672115",
+    "uikName": "УИК №1463",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1464,
     "uikTvd": "452403672116",
+    "uikName": "УИК №1464",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1465,
     "uikTvd": "452403672117",
+    "uikName": "УИК №1465",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1466,
     "uikTvd": "452403672118",
+    "uikName": "УИК №1466",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1467,
     "uikTvd": "452403672119",
+    "uikName": "УИК №1467",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1468,
     "uikTvd": "452403672120",
+    "uikName": "УИК №1468",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1469,
     "uikTvd": "452403672121",
+    "uikName": "УИК №1469",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1470,
     "uikTvd": "452403672122",
+    "uikName": "УИК №1470",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1471,
     "uikTvd": "452403672123",
+    "uikName": "УИК №1471",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1472,
     "uikTvd": "452403672124",
+    "uikName": "УИК №1472",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1473,
     "uikTvd": "452403672125",
+    "uikName": "УИК №1473",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1474,
     "uikTvd": "452403672126",
+    "uikName": "УИК №1474",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1475,
     "uikTvd": "452403672127",
+    "uikName": "УИК №1475",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1476,
     "uikTvd": "452403672128",
+    "uikName": "УИК №1476",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1477,
     "uikTvd": "452403672129",
+    "uikName": "УИК №1477",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1478,
     "uikTvd": "452403672130",
+    "uikName": "УИК №1478",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1479,
     "uikTvd": "452403672131",
+    "uikName": "УИК №1479",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1480,
     "uikTvd": "452403672132",
+    "uikName": "УИК №1480",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1481,
     "uikTvd": "452403672133",
+    "uikName": "УИК №1481",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1482,
     "uikTvd": "452403672134",
+    "uikName": "УИК №1482",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1483,
     "uikTvd": "452403672135",
+    "uikName": "УИК №1483",
     "tikTvd": "252200083290",
-    "tikName": "Нижний Новгород, Канавинская"
+    "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1486,
     "uikTvd": "452403771501",
+    "uikName": "УИК №1486",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1487,
     "uikTvd": "452403771502",
+    "uikName": "УИК №1487",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1488,
     "uikTvd": "452403771503",
+    "uikName": "УИК №1488",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1489,
     "uikTvd": "452403771504",
+    "uikName": "УИК №1489",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1490,
     "uikTvd": "452403771505",
+    "uikName": "УИК №1490",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1491,
     "uikTvd": "452403771506",
+    "uikName": "УИК №1491",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1492,
     "uikTvd": "452403771507",
+    "uikName": "УИК №1492",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1493,
     "uikTvd": "452403771508",
+    "uikName": "УИК №1493",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1494,
     "uikTvd": "452403771509",
+    "uikName": "УИК №1494",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1495,
     "uikTvd": "452403771510",
+    "uikName": "УИК №1495",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1496,
     "uikTvd": "452403771511",
+    "uikName": "УИК №1496",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1497,
     "uikTvd": "452403771512",
+    "uikName": "УИК №1497",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1498,
     "uikTvd": "452403771513",
+    "uikName": "УИК №1498",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1499,
     "uikTvd": "452403771514",
+    "uikName": "УИК №1499",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1500,
     "uikTvd": "452403771515",
+    "uikName": "УИК №1500",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "452403771516",
+    "uikName": "УИК №1501",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "452403771517",
+    "uikName": "УИК №1502",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "452403771518",
+    "uikName": "УИК №1503",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "452403771519",
+    "uikName": "УИК №1504",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "452403771520",
+    "uikName": "УИК №1505",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "452403771521",
+    "uikName": "УИК №1506",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "452403771522",
+    "uikName": "УИК №1507",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "452403771523",
+    "uikName": "УИК №1508",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "452403771524",
+    "uikName": "УИК №1509",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "452403771525",
+    "uikName": "УИК №1510",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "452403771526",
+    "uikName": "УИК №1511",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "452403771527",
+    "uikName": "УИК №1512",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "452403771528",
+    "uikName": "УИК №1513",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "452403771529",
+    "uikName": "УИК №1514",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "452403771530",
+    "uikName": "УИК №1515",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "452403771531",
+    "uikName": "УИК №1516",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "452403771532",
+    "uikName": "УИК №1517",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "452403771533",
+    "uikName": "УИК №1518",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "452403771534",
+    "uikName": "УИК №1519",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "452403771535",
+    "uikName": "УИК №1520",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "452403771536",
+    "uikName": "УИК №1521",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "452403771537",
+    "uikName": "УИК №1522",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "452403771538",
+    "uikName": "УИК №1523",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "452403771539",
+    "uikName": "УИК №1524",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "452403771540",
+    "uikName": "УИК №1525",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "452403771541",
+    "uikName": "УИК №1526",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "452403771542",
+    "uikName": "УИК №1527",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "452403771543",
+    "uikName": "УИК №1528",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "452403771544",
+    "uikName": "УИК №1529",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "452403771545",
+    "uikName": "УИК №1530",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1531,
     "uikTvd": "452403771546",
+    "uikName": "УИК №1531",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1532,
     "uikTvd": "452403771547",
+    "uikName": "УИК №1532",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1533,
     "uikTvd": "452403771548",
+    "uikName": "УИК №1533",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1534,
     "uikTvd": "452403771549",
+    "uikName": "УИК №1534",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1535,
     "uikTvd": "452403771550",
+    "uikName": "УИК №1535",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1536,
     "uikTvd": "452403771551",
+    "uikName": "УИК №1536",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1537,
     "uikTvd": "452403771552",
+    "uikName": "УИК №1537",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1538,
     "uikTvd": "452403771553",
+    "uikName": "УИК №1538",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1539,
     "uikTvd": "452403771554",
+    "uikName": "УИК №1539",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1540,
     "uikTvd": "452403771555",
+    "uikName": "УИК №1540",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1541,
     "uikTvd": "452403771556",
+    "uikName": "УИК №1541",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1542,
     "uikTvd": "452403771557",
+    "uikName": "УИК №1542",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1543,
     "uikTvd": "452403771558",
+    "uikName": "УИК №1543",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1544,
     "uikTvd": "452403771559",
+    "uikName": "УИК №1544",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1545,
     "uikTvd": "452403771560",
+    "uikName": "УИК №1545",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1546,
     "uikTvd": "452403771561",
+    "uikName": "УИК №1546",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1547,
     "uikTvd": "452403771562",
+    "uikName": "УИК №1547",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1548,
     "uikTvd": "452403771563",
+    "uikName": "УИК №1548",
     "tikTvd": "252200083284",
-    "tikName": "Нижний Новгород, Ленинская"
+    "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1554,
     "uikTvd": "452403871898",
+    "uikName": "УИК  1554",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1555,
     "uikTvd": "452403871899",
+    "uikName": "УИК  1555",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1556,
     "uikTvd": "452403871900",
+    "uikName": "УИК  1556",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1557,
     "uikTvd": "452403871901",
+    "uikName": "УИК  1557",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1558,
     "uikTvd": "452403871902",
+    "uikName": "УИК  1558",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1559,
     "uikTvd": "452403871903",
+    "uikName": "УИК  1559",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1560,
     "uikTvd": "452403871904",
+    "uikName": "УИК  1560",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1561,
     "uikTvd": "452403871905",
+    "uikName": "УИК  1561",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1562,
     "uikTvd": "452403871906",
+    "uikName": "УИК  1562",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1563,
     "uikTvd": "452403871907",
+    "uikName": "УИК  1563",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1564,
     "uikTvd": "452403871908",
+    "uikName": "УИК  1564",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1565,
     "uikTvd": "452403871909",
+    "uikName": "УИК  1565",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1566,
     "uikTvd": "452403871910",
+    "uikName": "УИК  1566",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1567,
     "uikTvd": "452403871911",
+    "uikName": "УИК  1567",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1568,
     "uikTvd": "452403871912",
+    "uikName": "УИК  1568",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1569,
     "uikTvd": "452403871913",
+    "uikName": "УИК  1569",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1570,
     "uikTvd": "452403871914",
+    "uikName": "УИК  1570",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1571,
     "uikTvd": "452403871915",
+    "uikName": "УИК  1571",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1572,
     "uikTvd": "452403871916",
+    "uikName": "УИК  1572",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1573,
     "uikTvd": "452403871917",
+    "uikName": "УИК  1573",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1574,
     "uikTvd": "452403871918",
+    "uikName": "УИК  1574",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1575,
     "uikTvd": "452403871919",
+    "uikName": "УИК  1575",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1576,
     "uikTvd": "452403871920",
+    "uikName": "УИК  1576",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1577,
     "uikTvd": "452403871921",
+    "uikName": "УИК  1577",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1578,
     "uikTvd": "452403871922",
+    "uikName": "УИК  1578",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1579,
     "uikTvd": "452403871923",
+    "uikName": "УИК  1579",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1580,
     "uikTvd": "452403871924",
+    "uikName": "УИК  1580",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1581,
     "uikTvd": "452403871925",
+    "uikName": "УИК  1581",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1582,
     "uikTvd": "452403871926",
+    "uikName": "УИК  1582",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1583,
     "uikTvd": "452403871927",
+    "uikName": "УИК  1583",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1584,
     "uikTvd": "452403871928",
+    "uikName": "УИК  1584",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1585,
     "uikTvd": "452403871929",
+    "uikName": "УИК  1585",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1586,
     "uikTvd": "452403871930",
+    "uikName": "УИК  1586",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1587,
     "uikTvd": "452403871931",
+    "uikName": "УИК  1587",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1588,
     "uikTvd": "452403871932",
+    "uikName": "УИК  1588",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1589,
     "uikTvd": "452403871933",
+    "uikName": "УИК  1589",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1590,
     "uikTvd": "452403871934",
+    "uikName": "УИК  1590",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1591,
     "uikTvd": "452403871935",
+    "uikName": "УИК  1591",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1592,
     "uikTvd": "452403871936",
+    "uikName": "УИК  1592",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1593,
     "uikTvd": "452403871937",
+    "uikName": "УИК  1593",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1594,
     "uikTvd": "452403871938",
+    "uikName": "УИК  1594",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1595,
     "uikTvd": "452403871939",
+    "uikName": "УИК  1595",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1596,
     "uikTvd": "452403871940",
+    "uikName": "УИК  1596",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1597,
     "uikTvd": "452403871941",
+    "uikName": "УИК  1597",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1598,
     "uikTvd": "452403871942",
+    "uikName": "УИК  1598",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1599,
     "uikTvd": "452403871943",
+    "uikName": "УИК  1599",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1600,
     "uikTvd": "452403871944",
+    "uikName": "УИК  1600",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "452403871945",
+    "uikName": "УИК  1601",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "452403871946",
+    "uikName": "УИК  1602",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "452403871947",
+    "uikName": "УИК  1603",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "452403871948",
+    "uikName": "УИК  1604",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "452403871949",
+    "uikName": "УИК  1605",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "452403871950",
+    "uikName": "УИК  1606",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "452403871951",
+    "uikName": "УИК  1607",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "452403871952",
+    "uikName": "УИК  1608",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "452403871953",
+    "uikName": "УИК  1609",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "452403871954",
+    "uikName": "УИК  1610",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "452403871955",
+    "uikName": "УИК  1611",
     "tikTvd": "252200083286",
-    "tikName": "Нижний Новгород, Московская"
+    "tikName": "Нижний Новгород, Московская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "452403973768",
+    "uikName": "УИК №1614",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "452403973769",
+    "uikName": "УИК №1615",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "452403973770",
+    "uikName": "УИК №1616",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "452403973771",
+    "uikName": "УИК №1617",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "452403973772",
+    "uikName": "УИК №1618",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "452403973773",
+    "uikName": "УИК №1619",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "452403973774",
+    "uikName": "УИК №1620",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "452403973775",
+    "uikName": "УИК №1621",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1622,
     "uikTvd": "452403973776",
+    "uikName": "УИК №1622",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "452403973777",
+    "uikName": "УИК №1623",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "452403973778",
+    "uikName": "УИК №1624",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "452403973779",
+    "uikName": "УИК №1625",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "452403973780",
+    "uikName": "УИК №1626",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "452403973781",
+    "uikName": "УИК №1627",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "452403973782",
+    "uikName": "УИК №1628",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "452403973783",
+    "uikName": "УИК №1629",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1630,
     "uikTvd": "452403973784",
+    "uikName": "УИК №1630",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1631,
     "uikTvd": "452403973785",
+    "uikName": "УИК №1631",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1632,
     "uikTvd": "452403973786",
+    "uikName": "УИК №1632",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1633,
     "uikTvd": "452403973787",
+    "uikName": "УИК №1633",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1634,
     "uikTvd": "452403973788",
+    "uikName": "УИК №1634",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1635,
     "uikTvd": "452403973789",
+    "uikName": "УИК №1635",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1636,
     "uikTvd": "452403973790",
+    "uikName": "УИК №1636",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1637,
     "uikTvd": "452403973791",
+    "uikName": "УИК №1637",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1638,
     "uikTvd": "452403973792",
+    "uikName": "УИК №1638",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1639,
     "uikTvd": "452403973793",
+    "uikName": "УИК №1639",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1640,
     "uikTvd": "452403973794",
+    "uikName": "УИК №1640",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1641,
     "uikTvd": "452403973795",
+    "uikName": "УИК №1641",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1642,
     "uikTvd": "452403973796",
+    "uikName": "УИК №1642",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1643,
     "uikTvd": "452403973797",
+    "uikName": "УИК №1643",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1644,
     "uikTvd": "452403973798",
+    "uikName": "УИК №1644",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1645,
     "uikTvd": "452403973799",
+    "uikName": "УИК №1645",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1646,
     "uikTvd": "452403973800",
+    "uikName": "УИК №1646",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1647,
     "uikTvd": "452403973801",
+    "uikName": "УИК №1647",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1648,
     "uikTvd": "452403973802",
+    "uikName": "УИК №1648",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1649,
     "uikTvd": "452403973803",
+    "uikName": "УИК №1649",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1650,
     "uikTvd": "452403973804",
+    "uikName": "УИК №1650",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1651,
     "uikTvd": "452403973805",
+    "uikName": "УИК №1651",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1652,
     "uikTvd": "452403973806",
+    "uikName": "УИК №1652",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1653,
     "uikTvd": "452403973807",
+    "uikName": "УИК №1653",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1654,
     "uikTvd": "452403973808",
+    "uikName": "УИК №1654",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1655,
     "uikTvd": "452403973809",
+    "uikName": "УИК №1655",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1656,
     "uikTvd": "452403973810",
+    "uikName": "УИК №1656",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1657,
     "uikTvd": "452403973811",
+    "uikName": "УИК №1657",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1658,
     "uikTvd": "452403973812",
+    "uikName": "УИК №1658",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1659,
     "uikTvd": "452403973813",
+    "uikName": "УИК №1659",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1660,
     "uikTvd": "452403973814",
+    "uikName": "УИК №1660",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1661,
     "uikTvd": "452403973815",
+    "uikName": "УИК №1661",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1662,
     "uikTvd": "452403973816",
+    "uikName": "УИК №1662",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1663,
     "uikTvd": "452403973817",
+    "uikName": "УИК №1663",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1664,
     "uikTvd": "452403973818",
+    "uikName": "УИК №1664",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1665,
     "uikTvd": "452403973819",
+    "uikName": "УИК №1665",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1666,
     "uikTvd": "452403973820",
+    "uikName": "УИК №1666",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1668,
     "uikTvd": "452404071319",
+    "uikName": "УИК №1668",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1669,
     "uikTvd": "452404071320",
+    "uikName": "УИК №1669",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1670,
     "uikTvd": "452404071321",
+    "uikName": "УИК №1670",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1671,
     "uikTvd": "452404071322",
+    "uikName": "УИК №1671",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1672,
     "uikTvd": "452404071323",
+    "uikName": "УИК №1672",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1673,
     "uikTvd": "452404071324",
+    "uikName": "УИК №1673",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1674,
     "uikTvd": "452404071325",
+    "uikName": "УИК №1674",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1675,
     "uikTvd": "452404071326",
+    "uikName": "УИК №1675",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1676,
     "uikTvd": "452404071327",
+    "uikName": "УИК №1676",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1677,
     "uikTvd": "452404071328",
+    "uikName": "УИК №1677",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1678,
     "uikTvd": "452404071329",
+    "uikName": "УИК №1678",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1679,
     "uikTvd": "452404071330",
+    "uikName": "УИК №1679",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1680,
     "uikTvd": "452404071331",
+    "uikName": "УИК №1680",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1681,
     "uikTvd": "452404071332",
+    "uikName": "УИК №1681",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1682,
     "uikTvd": "452404071333",
+    "uikName": "УИК №1682",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1683,
     "uikTvd": "452404071334",
+    "uikName": "УИК №1683",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1684,
     "uikTvd": "452404071335",
+    "uikName": "УИК №1684",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1685,
     "uikTvd": "452404071336",
+    "uikName": "УИК №1685",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1686,
     "uikTvd": "452404071337",
+    "uikName": "УИК №1686",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1687,
     "uikTvd": "452404071338",
+    "uikName": "УИК №1687",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1688,
     "uikTvd": "452404071339",
+    "uikName": "УИК №1688",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1689,
     "uikTvd": "452404071340",
+    "uikName": "УИК №1689",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1690,
     "uikTvd": "452404071341",
+    "uikName": "УИК №1690",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1691,
     "uikTvd": "452404071342",
+    "uikName": "УИК №1691",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1692,
     "uikTvd": "452404071343",
+    "uikName": "УИК №1692",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1693,
     "uikTvd": "452404071344",
+    "uikName": "УИК №1693",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1694,
     "uikTvd": "452404071345",
+    "uikName": "УИК №1694",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1695,
     "uikTvd": "452404071346",
+    "uikName": "УИК №1695",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1696,
     "uikTvd": "452404071347",
+    "uikName": "УИК №1696",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1697,
     "uikTvd": "452404071348",
+    "uikName": "УИК №1697",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1698,
     "uikTvd": "452404071349",
+    "uikName": "УИК №1698",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1699,
     "uikTvd": "452404071350",
+    "uikName": "УИК №1699",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1700,
     "uikTvd": "452404071351",
+    "uikName": "УИК №1700",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "452404071352",
+    "uikName": "УИК №1701",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "452404071353",
+    "uikName": "УИК №1702",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "452404071354",
+    "uikName": "УИК №1703",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "452404071355",
+    "uikName": "УИК №1704",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "452404071356",
+    "uikName": "УИК №1705",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "452404071357",
+    "uikName": "УИК №1706",
     "tikTvd": "252200083304",
-    "tikName": "Нижний Новгород, Приокская"
+    "tikName": "Нижний Новгород, Приокская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "452404172447",
+    "uikName": "УИК  1709",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "452404172448",
+    "uikName": "УИК  1710",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "452404172449",
+    "uikName": "УИК  1711",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "452404172450",
+    "uikName": "УИК  1712",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "452404172451",
+    "uikName": "УИК  1713",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "452404172452",
+    "uikName": "УИК  1714",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "452404172453",
+    "uikName": "УИК  1715",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "452404172454",
+    "uikName": "УИК  1716",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "452404172455",
+    "uikName": "УИК  1717",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "452404172456",
+    "uikName": "УИК  1718",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "452404172457",
+    "uikName": "УИК  1719",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "452404172458",
+    "uikName": "УИК  1720",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "452404172459",
+    "uikName": "УИК  1721",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "452404172460",
+    "uikName": "УИК  1722",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "452404172461",
+    "uikName": "УИК  1723",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "452404172462",
+    "uikName": "УИК  1724",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "452404172463",
+    "uikName": "УИК  1725",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "452404172464",
+    "uikName": "УИК  1726",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "452404172465",
+    "uikName": "УИК  1727",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "452404172466",
+    "uikName": "УИК  1728",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "452404172467",
+    "uikName": "УИК  1729",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "452404172468",
+    "uikName": "УИК  1730",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "452404172469",
+    "uikName": "УИК  1731",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "452404172470",
+    "uikName": "УИК  1732",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "452404172471",
+    "uikName": "УИК  1733",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "452404172472",
+    "uikName": "УИК  1734",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "452404172473",
+    "uikName": "УИК  1735",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "452404172474",
+    "uikName": "УИК  1736",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "452404172475",
+    "uikName": "УИК  1737",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "452404172476",
+    "uikName": "УИК  1738",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "452404172477",
+    "uikName": "УИК  1739",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "452404172478",
+    "uikName": "УИК  1740",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "452404172479",
+    "uikName": "УИК  1741",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1742,
     "uikTvd": "452404172480",
+    "uikName": "УИК  1742",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1743,
     "uikTvd": "452404172481",
+    "uikName": "УИК  1743",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1744,
     "uikTvd": "452404172482",
+    "uikName": "УИК  1744",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "452404172483",
+    "uikName": "УИК  1745",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1746,
     "uikTvd": "452404172484",
+    "uikName": "УИК  1746",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "452404172485",
+    "uikName": "УИК  1747",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "452404172486",
+    "uikName": "УИК  1748",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1749,
     "uikTvd": "452404172487",
+    "uikName": "УИК  1749",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "452404172488",
+    "uikName": "УИК  1750",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1751,
     "uikTvd": "452404172489",
+    "uikName": "УИК  1751",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "452404172490",
+    "uikName": "УИК  1752",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "452404172491",
+    "uikName": "УИК  1753",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1754,
     "uikTvd": "452404172492",
+    "uikName": "УИК  1754",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1755,
     "uikTvd": "452404172493",
+    "uikName": "УИК  1755",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1756,
     "uikTvd": "452404172494",
+    "uikName": "УИК  1756",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1757,
     "uikTvd": "452404172495",
+    "uikName": "УИК  1757",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1758,
     "uikTvd": "452404172496",
+    "uikName": "УИК  1758",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1759,
     "uikTvd": "452404172497",
+    "uikName": "УИК  1759",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1760,
     "uikTvd": "452404172498",
+    "uikName": "УИК  1760",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1761,
     "uikTvd": "452404172499",
+    "uikName": "УИК  1761",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1762,
     "uikTvd": "452404172500",
+    "uikName": "УИК  1762",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1763,
     "uikTvd": "452404172501",
+    "uikName": "УИК  1763",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1764,
     "uikTvd": "452404172502",
+    "uikName": "УИК  1764",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1765,
     "uikTvd": "452404172503",
+    "uikName": "УИК  1765",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1766,
     "uikTvd": "452404172504",
+    "uikName": "УИК  1766",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1767,
     "uikTvd": "452404172508",
+    "uikName": "УИК  1767",
     "tikTvd": "252200083299",
-    "tikName": "Нижний Новгород, Советская"
+    "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1772,
     "uikTvd": "452404271555",
+    "uikName": "УИК №1772",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1773,
     "uikTvd": "452404271556",
+    "uikName": "УИК №1773",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1774,
     "uikTvd": "452404271557",
+    "uikName": "УИК №1774",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1775,
     "uikTvd": "452404271558",
+    "uikName": "УИК №1775",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1776,
     "uikTvd": "452404271559",
+    "uikName": "УИК №1776",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1777,
     "uikTvd": "452404271560",
+    "uikName": "УИК №1777",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1778,
     "uikTvd": "452404271561",
+    "uikName": "УИК №1778",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1779,
     "uikTvd": "452404271562",
+    "uikName": "УИК №1779",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1780,
     "uikTvd": "452404271563",
+    "uikName": "УИК №1780",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1781,
     "uikTvd": "452404271564",
+    "uikName": "УИК №1781",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1782,
     "uikTvd": "452404271565",
+    "uikName": "УИК №1782",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1783,
     "uikTvd": "452404271566",
+    "uikName": "УИК №1783",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1784,
     "uikTvd": "452404271567",
+    "uikName": "УИК №1784",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1785,
     "uikTvd": "452404271568",
+    "uikName": "УИК №1785",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1786,
     "uikTvd": "452404271569",
+    "uikName": "УИК №1786",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1787,
     "uikTvd": "452404271570",
+    "uikName": "УИК №1787",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1788,
     "uikTvd": "452404271571",
+    "uikName": "УИК №1788",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1789,
     "uikTvd": "452404271572",
+    "uikName": "УИК №1789",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1790,
     "uikTvd": "452404271573",
+    "uikName": "УИК №1790",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1791,
     "uikTvd": "452404271574",
+    "uikName": "УИК №1791",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1792,
     "uikTvd": "452404271575",
+    "uikName": "УИК №1792",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1793,
     "uikTvd": "452404271576",
+    "uikName": "УИК №1793",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1794,
     "uikTvd": "452404271577",
+    "uikName": "УИК №1794",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1795,
     "uikTvd": "452404271578",
+    "uikName": "УИК №1795",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1796,
     "uikTvd": "452404271579",
+    "uikName": "УИК №1796",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1797,
     "uikTvd": "452404271580",
+    "uikName": "УИК №1797",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1798,
     "uikTvd": "452404271581",
+    "uikName": "УИК №1798",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1799,
     "uikTvd": "452404271582",
+    "uikName": "УИК №1799",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1800,
     "uikTvd": "452404271583",
+    "uikName": "УИК №1800",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "452404271584",
+    "uikName": "УИК №1801",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "452404271585",
+    "uikName": "УИК №1802",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "452404271586",
+    "uikName": "УИК №1803",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "452404271587",
+    "uikName": "УИК №1804",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "452404271588",
+    "uikName": "УИК №1805",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "452404271589",
+    "uikName": "УИК №1806",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "452404271590",
+    "uikName": "УИК №1807",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "452404271591",
+    "uikName": "УИК №1808",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "452404271592",
+    "uikName": "УИК №1809",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "452404271593",
+    "uikName": "УИК №1810",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "452404271594",
+    "uikName": "УИК №1811",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "452404271595",
+    "uikName": "УИК №1812",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "452404271596",
+    "uikName": "УИК №1813",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "452404271597",
+    "uikName": "УИК №1814",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "452404271598",
+    "uikName": "УИК №1815",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "452404271599",
+    "uikName": "УИК №1816",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "452404271600",
+    "uikName": "УИК №1817",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "452404271601",
+    "uikName": "УИК №1818",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "452404271602",
+    "uikName": "УИК №1819",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "452404271603",
+    "uikName": "УИК №1820",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "452404271604",
+    "uikName": "УИК №1821",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "452404271605",
+    "uikName": "УИК №1822",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "452404271606",
+    "uikName": "УИК №1823",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "452404271607",
+    "uikName": "УИК №1824",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "452404271608",
+    "uikName": "УИК №1825",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "452404271609",
+    "uikName": "УИК №1826",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "452404271610",
+    "uikName": "УИК №1827",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "452404271611",
+    "uikName": "УИК №1828",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "452404271612",
+    "uikName": "УИК №1829",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "452404271613",
+    "uikName": "УИК №1830",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "452404271614",
+    "uikName": "УИК №1831",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "452404271615",
+    "uikName": "УИК №1832",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "452404271616",
+    "uikName": "УИК №1833",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "452404271617",
+    "uikName": "УИК №1834",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "452404271618",
+    "uikName": "УИК №1835",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "452404271619",
+    "uikName": "УИК №1836",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "452404271620",
+    "uikName": "УИК №1837",
     "tikTvd": "252200083298",
-    "tikName": "Нижний Новгород, Сормовская"
+    "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1841,
     "uikTvd": "452404372082",
+    "uikName": "УИК №1841",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "452404372083",
+    "uikName": "УИК №1842",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1843,
     "uikTvd": "452404372084",
+    "uikName": "УИК №1843",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "452404372085",
+    "uikName": "УИК №1844",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "452404372086",
+    "uikName": "УИК №1845",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "452404372087",
+    "uikName": "УИК №1846",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "452404372088",
+    "uikName": "УИК №1847",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "452404372089",
+    "uikName": "УИК №1848",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1849,
     "uikTvd": "452404372090",
+    "uikName": "УИК №1849",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1850,
     "uikTvd": "452404372091",
+    "uikName": "УИК №1850",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1851,
     "uikTvd": "452404372092",
+    "uikName": "УИК №1851",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1852,
     "uikTvd": "452404372093",
+    "uikName": "УИК №1852",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1853,
     "uikTvd": "452404372094",
+    "uikName": "УИК №1853",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1854,
     "uikTvd": "452404372095",
+    "uikName": "УИК №1854",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1855,
     "uikTvd": "452404372096",
+    "uikName": "УИК №1855",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1856,
     "uikTvd": "452404372097",
+    "uikName": "УИК №1856",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1857,
     "uikTvd": "452404372098",
+    "uikName": "УИК №1857",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1858,
     "uikTvd": "452404372099",
+    "uikName": "УИК №1858",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1859,
     "uikTvd": "452404372100",
+    "uikName": "УИК №1859",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1860,
     "uikTvd": "452404372101",
+    "uikName": "УИК №1860",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1861,
     "uikTvd": "452404372102",
+    "uikName": "УИК №1861",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1862,
     "uikTvd": "452404372103",
+    "uikName": "УИК №1862",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1863,
     "uikTvd": "452404372104",
+    "uikName": "УИК №1863",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1864,
     "uikTvd": "452404372105",
+    "uikName": "УИК №1864",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1865,
     "uikTvd": "452404372106",
+    "uikName": "УИК №1865",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1866,
     "uikTvd": "452404372107",
+    "uikName": "УИК №1866",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1867,
     "uikTvd": "452404372108",
+    "uikName": "УИК №1867",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1868,
     "uikTvd": "452404372109",
+    "uikName": "УИК №1868",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1869,
     "uikTvd": "452404372110",
+    "uikName": "УИК №1869",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1870,
     "uikTvd": "452404372111",
+    "uikName": "УИК №1870",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1871,
     "uikTvd": "452404372112",
+    "uikName": "УИК №1871",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1872,
     "uikTvd": "452404372113",
+    "uikName": "УИК №1872",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1873,
     "uikTvd": "452404372114",
+    "uikName": "УИК №1873",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1874,
     "uikTvd": "452404372115",
+    "uikName": "УИК №1874",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1875,
     "uikTvd": "452404372116",
+    "uikName": "УИК №1875",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1876,
     "uikTvd": "452404372117",
+    "uikName": "УИК №1876",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1877,
     "uikTvd": "452404372118",
+    "uikName": "УИК №1877",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1878,
     "uikTvd": "452404372119",
+    "uikName": "УИК №1878",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1879,
     "uikTvd": "452404372120",
+    "uikName": "УИК №1879",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1880,
     "uikTvd": "452404372121",
+    "uikName": "УИК №1880",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1881,
     "uikTvd": "452404372122",
+    "uikName": "УИК №1881",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1882,
     "uikTvd": "452404372123",
+    "uikName": "УИК №1882",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1883,
     "uikTvd": "452404372124",
+    "uikName": "УИК №1883",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1884,
     "uikTvd": "452404372125",
+    "uikName": "УИК №1884",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1885,
     "uikTvd": "452404372126",
+    "uikName": "УИК №1885",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1886,
     "uikTvd": "452404372127",
+    "uikName": "УИК №1886",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1887,
     "uikTvd": "452404372128",
+    "uikName": "УИК №1887",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1888,
     "uikTvd": "452404372129",
+    "uikName": "УИК №1888",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1889,
     "uikTvd": "452404372130",
+    "uikName": "УИК №1889",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1890,
     "uikTvd": "452404372131",
+    "uikName": "УИК №1890",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1891,
     "uikTvd": "452404372132",
+    "uikName": "УИК №1891",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1892,
     "uikTvd": "452404372133",
+    "uikName": "УИК №1892",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1893,
     "uikTvd": "452404372134",
+    "uikName": "УИК №1893",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1894,
     "uikTvd": "452404372135",
+    "uikName": "УИК №1894",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1895,
     "uikTvd": "452404372136",
+    "uikName": "УИК №1895",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1896,
     "uikTvd": "452404372137",
+    "uikName": "УИК №1896",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1897,
     "uikTvd": "452404372138",
+    "uikName": "УИК №1897",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1898,
     "uikTvd": "452404372139",
+    "uikName": "УИК №1898",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1899,
     "uikTvd": "452404372140",
+    "uikName": "УИК №1899",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1900,
     "uikTvd": "452404372141",
+    "uikName": "УИК №1900",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "452404372142",
+    "uikName": "УИК №1901",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "452404372143",
+    "uikName": "УИК №1902",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "452404372144",
+    "uikName": "УИК №1903",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "452404372145",
+    "uikName": "УИК №1904",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "452404372146",
+    "uikName": "УИК №1905",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "452404372147",
+    "uikName": "УИК №1906",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "452404372148",
+    "uikName": "УИК №1907",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "452404372149",
+    "uikName": "УИК №1908",
     "tikTvd": "252200083300",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "452404472930",
+    "uikName": "УИК №1909",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "452404472931",
+    "uikName": "УИК №1910",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "452404472932",
+    "uikName": "УИК №1911",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "452404472933",
+    "uikName": "УИК №1912",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "452404472934",
+    "uikName": "УИК №1913",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "452404472935",
+    "uikName": "УИК №1914",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "452404472936",
+    "uikName": "УИК №1915",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "452404472937",
+    "uikName": "УИК №1916",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "452404472938",
+    "uikName": "УИК №1917",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "452404472939",
+    "uikName": "УИК №1918",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "452404472940",
+    "uikName": "УИК №1919",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "452404472941",
+    "uikName": "УИК №1920",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "452404472942",
+    "uikName": "УИК №1921",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "452404472943",
+    "uikName": "УИК №1922",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "452404472944",
+    "uikName": "УИК №1923",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "452404472945",
+    "uikName": "УИК №1924",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "452404472946",
+    "uikName": "УИК №1925",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "452404472947",
+    "uikName": "УИК №1926",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "452404472948",
+    "uikName": "УИК №1927",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "452404472949",
+    "uikName": "УИК №1928",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "452404472950",
+    "uikName": "УИК №1929",
     "tikTvd": "252200083294",
-    "tikName": "Первомайская"
+    "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "452404571784",
+    "uikName": "УИК №1931",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "452404571785",
+    "uikName": "УИК №1932",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "452404571786",
+    "uikName": "УИК №1933",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "452404571787",
+    "uikName": "УИК №1934",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "452404571788",
+    "uikName": "УИК №1935",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "452404571789",
+    "uikName": "УИК №1936",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1937,
     "uikTvd": "452404571790",
+    "uikName": "УИК №1937",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1938,
     "uikTvd": "452404571791",
+    "uikName": "УИК №1938",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1939,
     "uikTvd": "452404571792",
+    "uikName": "УИК №1939",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1940,
     "uikTvd": "452404571793",
+    "uikName": "УИК №1940",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1941,
     "uikTvd": "452404571794",
+    "uikName": "УИК №1941",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1942,
     "uikTvd": "452404571795",
+    "uikName": "УИК №1942",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1943,
     "uikTvd": "452404571796",
+    "uikName": "УИК №1943",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1944,
     "uikTvd": "452404571797",
+    "uikName": "УИК №1944",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1945,
     "uikTvd": "452404571798",
+    "uikName": "УИК №1945",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1946,
     "uikTvd": "452404571799",
+    "uikName": "УИК №1946",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1947,
     "uikTvd": "452404571800",
+    "uikName": "УИК №1947",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1948,
     "uikTvd": "452404571801",
+    "uikName": "УИК №1948",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1949,
     "uikTvd": "452404571802",
+    "uikName": "УИК №1949",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1950,
     "uikTvd": "452404571803",
+    "uikName": "УИК №1950",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1951,
     "uikTvd": "452404571804",
+    "uikName": "УИК №1951",
     "tikTvd": "252200083297",
-    "tikName": "Перевозская"
+    "tikName": "Перевозская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1952,
     "uikTvd": "452404675062",
+    "uikName": "УИК №1952",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1953,
     "uikTvd": "452404675064",
+    "uikName": "УИК №1953",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1954,
     "uikTvd": "452404675066",
+    "uikName": "УИК №1954",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1955,
     "uikTvd": "452404675068",
+    "uikName": "УИК №1955",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1956,
     "uikTvd": "452404675070",
+    "uikName": "УИК №1956",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1957,
     "uikTvd": "452404675072",
+    "uikName": "УИК №1957",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1958,
     "uikTvd": "452404675074",
+    "uikName": "УИК №1958",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1959,
     "uikTvd": "452404675076",
+    "uikName": "УИК №1959",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1960,
     "uikTvd": "452404675078",
+    "uikName": "УИК №1960",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1961,
     "uikTvd": "452404675080",
+    "uikName": "УИК №1961",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1962,
     "uikTvd": "452404675082",
+    "uikName": "УИК №1962",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1963,
     "uikTvd": "452404675084",
+    "uikName": "УИК №1963",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1964,
     "uikTvd": "452404675086",
+    "uikName": "УИК №1964",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1965,
     "uikTvd": "452404675088",
+    "uikName": "УИК №1965",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1966,
     "uikTvd": "452404675090",
+    "uikName": "УИК №1966",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1967,
     "uikTvd": "452404675092",
+    "uikName": "УИК №1967",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1968,
     "uikTvd": "452404675094",
+    "uikName": "УИК №1968",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1969,
     "uikTvd": "452404675096",
+    "uikName": "УИК №1969",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1970,
     "uikTvd": "452404675098",
+    "uikName": "УИК №1970",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1971,
     "uikTvd": "452404675100",
+    "uikName": "УИК №1971",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1972,
     "uikTvd": "452404675102",
+    "uikName": "УИК №1972",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1973,
     "uikTvd": "452404675104",
+    "uikName": "УИК №1973",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1974,
     "uikTvd": "452404675106",
+    "uikName": "УИК №1974",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1975,
     "uikTvd": "452404675108",
+    "uikName": "УИК №1975",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1976,
     "uikTvd": "452404675110",
+    "uikName": "УИК №1976",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1977,
     "uikTvd": "452404675112",
+    "uikName": "УИК №1977",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1978,
     "uikTvd": "452404675114",
+    "uikName": "УИК №1978",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1979,
     "uikTvd": "452404675116",
+    "uikName": "УИК №1979",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1980,
     "uikTvd": "452404675118",
+    "uikName": "УИК №1980",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1981,
     "uikTvd": "452404675120",
+    "uikName": "УИК №1981",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1982,
     "uikTvd": "452404675122",
+    "uikName": "УИК №1982",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1983,
     "uikTvd": "452404675124",
+    "uikName": "УИК №1983",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1984,
     "uikTvd": "452404675126",
+    "uikName": "УИК №1984",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1985,
     "uikTvd": "452404675128",
+    "uikName": "УИК №1985",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1986,
     "uikTvd": "452404675130",
+    "uikName": "УИК №1986",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1987,
     "uikTvd": "452404675132",
+    "uikName": "УИК №1987",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1988,
     "uikTvd": "452404675134",
+    "uikName": "УИК №1988",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1989,
     "uikTvd": "452404675136",
+    "uikName": "УИК №1989",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1990,
     "uikTvd": "452404675138",
+    "uikName": "УИК №1990",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1991,
     "uikTvd": "452404675140",
+    "uikName": "УИК №1991",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1992,
     "uikTvd": "452404675142",
+    "uikName": "УИК №1992",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1993,
     "uikTvd": "452404771461",
+    "uikName": "УИК №1993",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1994,
     "uikTvd": "452404771462",
+    "uikName": "УИК №1994",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1995,
     "uikTvd": "452404771463",
+    "uikName": "УИК №1995",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1996,
     "uikTvd": "452404771464",
+    "uikName": "УИК №1996",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1997,
     "uikTvd": "452404771465",
+    "uikName": "УИК №1997",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1998,
     "uikTvd": "452404771466",
+    "uikName": "УИК №1998",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 1999,
     "uikTvd": "452404771467",
+    "uikName": "УИК №1999",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2000,
     "uikTvd": "452404771468",
+    "uikName": "УИК №2000",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "452404771469",
+    "uikName": "УИК №2001",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "452404771470",
+    "uikName": "УИК №2002",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "452404771471",
+    "uikName": "УИК №2003",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "452404771472",
+    "uikName": "УИК №2004",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "452404771473",
+    "uikName": "УИК №2005",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "452404771474",
+    "uikName": "УИК №2006",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "452404771475",
+    "uikName": "УИК №2007",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "452404771476",
+    "uikName": "УИК №2008",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "452404771477",
+    "uikName": "УИК №2009",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "452404771478",
+    "uikName": "УИК №2010",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "452404771479",
+    "uikName": "УИК №2011",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "452404771480",
+    "uikName": "УИК №2012",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "452404771481",
+    "uikName": "УИК №2013",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "452404771482",
+    "uikName": "УИК №2014",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "452404771483",
+    "uikName": "УИК №2015",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "452404771484",
+    "uikName": "УИК №2016",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "452404771485",
+    "uikName": "УИК №2017",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "452404771486",
+    "uikName": "УИК №2018",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "452404771487",
+    "uikName": "УИК №2019",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "452404771488",
+    "uikName": "УИК №2020",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "452404771489",
+    "uikName": "УИК №2021",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "452404771490",
+    "uikName": "УИК №2022",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2023,
     "uikTvd": "452404771491",
+    "uikName": "УИК №2023",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2024,
     "uikTvd": "452404771492",
+    "uikName": "УИК №2024",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2025,
     "uikTvd": "452404771493",
+    "uikName": "УИК №2025",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2026,
     "uikTvd": "452404771494",
+    "uikName": "УИК №2026",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2027,
     "uikTvd": "452404771495",
+    "uikName": "УИК №2027",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2028,
     "uikTvd": "452404771496",
+    "uikName": "УИК №2028",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2029,
     "uikTvd": "452404771497",
+    "uikName": "УИК №2029",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2030,
     "uikTvd": "452404771498",
+    "uikName": "УИК №2030",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2031,
     "uikTvd": "452404771499",
+    "uikName": "УИК №2031",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2032,
     "uikTvd": "452404771500",
+    "uikName": "УИК №2032",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2033,
     "uikTvd": "452404771501",
+    "uikName": "УИК №2033",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2034,
     "uikTvd": "452404771502",
+    "uikName": "УИК №2034",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2035,
     "uikTvd": "452404771503",
+    "uikName": "УИК №2035",
     "tikTvd": "252200083295",
-    "tikName": "Починковская"
+    "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2037,
     "uikTvd": "452402471729",
+    "uikName": "УИК №2037",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2038,
     "uikTvd": "452402471730",
+    "uikName": "УИК №2038",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2039,
     "uikTvd": "452402471731",
+    "uikName": "УИК №2039",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2040,
     "uikTvd": "452402471732",
+    "uikName": "УИК №2040",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2041,
     "uikTvd": "452402471733",
+    "uikName": "УИК №2041",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2042,
     "uikTvd": "452402471734",
+    "uikName": "УИК №2042",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2043,
     "uikTvd": "452402471735",
+    "uikName": "УИК №2043",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2044,
     "uikTvd": "452402471736",
+    "uikName": "УИК №2044",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2045,
     "uikTvd": "452402471737",
+    "uikName": "УИК №2045",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2046,
     "uikTvd": "452402471738",
+    "uikName": "УИК №2046",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2047,
     "uikTvd": "452402471739",
+    "uikName": "УИК №2047",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2048,
     "uikTvd": "452402471740",
+    "uikName": "УИК №2048",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2049,
     "uikTvd": "452402471741",
+    "uikName": "УИК №2049",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2050,
     "uikTvd": "452402471742",
+    "uikName": "УИК №2050",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2051,
     "uikTvd": "452402471743",
+    "uikName": "УИК №2051",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2052,
     "uikTvd": "452402471744",
+    "uikName": "УИК №2052",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2053,
     "uikTvd": "452402471745",
+    "uikName": "УИК №2053",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2054,
     "uikTvd": "452402471746",
+    "uikName": "УИК №2054",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2055,
     "uikTvd": "452402471747",
+    "uikName": "УИК №2055",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2056,
     "uikTvd": "452402471748",
+    "uikName": "УИК №2056",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2057,
     "uikTvd": "452402471749",
+    "uikName": "УИК №2057",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2058,
     "uikTvd": "452402471750",
+    "uikName": "УИК №2058",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2059,
     "uikTvd": "452402471751",
+    "uikName": "УИК №2059",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2060,
     "uikTvd": "452402471752",
+    "uikName": "УИК №2060",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2061,
     "uikTvd": "452402471753",
+    "uikName": "УИК №2061",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2062,
     "uikTvd": "452402471754",
+    "uikName": "УИК №2062",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2063,
     "uikTvd": "452402471755",
+    "uikName": "УИК №2063",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2064,
     "uikTvd": "452402471756",
+    "uikName": "УИК №2064",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2065,
     "uikTvd": "452402471757",
+    "uikName": "УИК №2065",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2066,
     "uikTvd": "452402471758",
+    "uikName": "УИК №2066",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2067,
     "uikTvd": "452402471759",
+    "uikName": "УИК №2067",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2068,
     "uikTvd": "452402471760",
+    "uikName": "УИК №2068",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2069,
     "uikTvd": "452402471761",
+    "uikName": "УИК №2069",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2070,
     "uikTvd": "452402471762",
+    "uikName": "УИК №2070",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2071,
     "uikTvd": "452402471763",
+    "uikName": "УИК №2071",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2072,
     "uikTvd": "452402471764",
+    "uikName": "УИК №2072",
     "tikTvd": "252200083281",
-    "tikName": "Саровская городская"
+    "tikName": "Саровская городская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2073,
     "uikTvd": "452404871777",
+    "uikName": "УИК №2073",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2074,
     "uikTvd": "452404871778",
+    "uikName": "УИК №2074",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2075,
     "uikTvd": "452404871779",
+    "uikName": "УИК №2075",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2076,
     "uikTvd": "452404871780",
+    "uikName": "УИК №2076",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2077,
     "uikTvd": "452404871781",
+    "uikName": "УИК №2077",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2078,
     "uikTvd": "452404871782",
+    "uikName": "УИК №2078",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2079,
     "uikTvd": "452404871783",
+    "uikName": "УИК №2079",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2080,
     "uikTvd": "452404871784",
+    "uikName": "УИК №2080",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2081,
     "uikTvd": "452404871785",
+    "uikName": "УИК №2081",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2082,
     "uikTvd": "452404871786",
+    "uikName": "УИК №2082",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2083,
     "uikTvd": "452404871787",
+    "uikName": "УИК №2083",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2084,
     "uikTvd": "452404871788",
+    "uikName": "УИК №2084",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2085,
     "uikTvd": "452404871789",
+    "uikName": "УИК №2085",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2086,
     "uikTvd": "452404871790",
+    "uikName": "УИК №2086",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2087,
     "uikTvd": "452404871791",
+    "uikName": "УИК №2087",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2088,
     "uikTvd": "452404871792",
+    "uikName": "УИК №2088",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2089,
     "uikTvd": "452404871793",
+    "uikName": "УИК №2089",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2090,
     "uikTvd": "452404871794",
+    "uikName": "УИК №2090",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2091,
     "uikTvd": "452404871795",
+    "uikName": "УИК №2091",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2092,
     "uikTvd": "452404871796",
+    "uikName": "УИК №2092",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2093,
     "uikTvd": "452404871797",
+    "uikName": "УИК №2093",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2094,
     "uikTvd": "452404871798",
+    "uikName": "УИК №2094",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2095,
     "uikTvd": "452404871799",
+    "uikName": "УИК №2095",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2096,
     "uikTvd": "452404871800",
+    "uikName": "УИК №2096",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2097,
     "uikTvd": "452404871801",
+    "uikName": "УИК №2097",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2098,
     "uikTvd": "452404871802",
+    "uikName": "УИК №2098",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2099,
     "uikTvd": "452404871803",
+    "uikName": "УИК №2099",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2100,
     "uikTvd": "452404871804",
+    "uikName": "УИК №2100",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "452404871805",
+    "uikName": "УИК №2101",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "452404871806",
+    "uikName": "УИК №2102",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "452404871807",
+    "uikName": "УИК №2103",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "452404871808",
+    "uikName": "УИК №2104",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "452404871809",
+    "uikName": "УИК №2105",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "452404871810",
+    "uikName": "УИК №2106",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "452404871811",
+    "uikName": "УИК №2107",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "452404871812",
+    "uikName": "УИК №2108",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "452404871813",
+    "uikName": "УИК №2109",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "452404871814",
+    "uikName": "УИК №2110",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "452404871815",
+    "uikName": "УИК №2111",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "452404871816",
+    "uikName": "УИК №2112",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "452404871817",
+    "uikName": "УИК №2113",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "452404871818",
+    "uikName": "УИК №2114",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "452404871819",
+    "uikName": "УИК №2115",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "452404871820",
+    "uikName": "УИК №2116",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "452404871821",
+    "uikName": "УИК №2117",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "452404871822",
+    "uikName": "УИК №2118",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "452404871823",
+    "uikName": "УИК №2119",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "452404972096",
+    "uikName": "УИК №2120",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "452404972097",
+    "uikName": "УИК №2121",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "452404972098",
+    "uikName": "УИК №2122",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "452404972099",
+    "uikName": "УИК №2123",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "452404972100",
+    "uikName": "УИК №2124",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "452404972101",
+    "uikName": "УИК №2125",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "452404972102",
+    "uikName": "УИК №2126",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "452404972103",
+    "uikName": "УИК №2127",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "452404972104",
+    "uikName": "УИК №2128",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "452404972105",
+    "uikName": "УИК №2129",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "452404972106",
+    "uikName": "УИК №2130",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "452404972107",
+    "uikName": "УИК №2131",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2132,
     "uikTvd": "452404972108",
+    "uikName": "УИК №2132",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2133,
     "uikTvd": "452404972109",
+    "uikName": "УИК №2133",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2134,
     "uikTvd": "452404972110",
+    "uikName": "УИК №2134",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2135,
     "uikTvd": "452404972111",
+    "uikName": "УИК №2135",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2136,
     "uikTvd": "452404972112",
+    "uikName": "УИК №2136",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2137,
     "uikTvd": "452404972113",
+    "uikName": "УИК №2137",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2138,
     "uikTvd": "452404972114",
+    "uikName": "УИК №2138",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2139,
     "uikTvd": "452404972115",
+    "uikName": "УИК №2139",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2140,
     "uikTvd": "452404972116",
+    "uikName": "УИК №2140",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2141,
     "uikTvd": "452404972117",
+    "uikName": "УИК №2141",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2142,
     "uikTvd": "452404972118",
+    "uikName": "УИК №2142",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2143,
     "uikTvd": "452404972119",
+    "uikName": "УИК №2143",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2144,
     "uikTvd": "452404972120",
+    "uikName": "УИК №2144",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2145,
     "uikTvd": "452404972121",
+    "uikName": "УИК №2145",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2146,
     "uikTvd": "452404972122",
+    "uikName": "УИК №2146",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2147,
     "uikTvd": "452404972123",
+    "uikName": "УИК №2147",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2148,
     "uikTvd": "452404972124",
+    "uikName": "УИК №2148",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2149,
     "uikTvd": "452404972125",
+    "uikName": "УИК №2149",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2150,
     "uikTvd": "452404972126",
+    "uikName": "УИК №2150",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2151,
     "uikTvd": "452404972127",
+    "uikName": "УИК №2151",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2152,
     "uikTvd": "452404972128",
+    "uikName": "УИК №2152",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2153,
     "uikTvd": "452404972129",
+    "uikName": "УИК №2153",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2154,
     "uikTvd": "452404972130",
+    "uikName": "УИК №2154",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2155,
     "uikTvd": "452404972131",
+    "uikName": "УИК №2155",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2156,
     "uikTvd": "452404972132",
+    "uikName": "УИК №2156",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2157,
     "uikTvd": "452404972133",
+    "uikName": "УИК №2157",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2158,
     "uikTvd": "452404972134",
+    "uikName": "УИК №2158",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2159,
     "uikTvd": "452404972135",
+    "uikName": "УИК №2159",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2160,
     "uikTvd": "452404972136",
+    "uikName": "УИК №2160",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2161,
     "uikTvd": "452404972137",
+    "uikName": "УИК №2161",
     "tikTvd": "252200083311",
-    "tikName": "Сергачская"
+    "tikName": "Сергачская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2165,
     "uikTvd": "452405071390",
+    "uikName": "УИК №2165",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2166,
     "uikTvd": "452405071391",
+    "uikName": "УИК №2166",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2167,
     "uikTvd": "452405071392",
+    "uikName": "УИК №2167",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2168,
     "uikTvd": "452405071393",
+    "uikName": "УИК №2168",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2169,
     "uikTvd": "452405071394",
+    "uikName": "УИК №2169",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2170,
     "uikTvd": "452405071395",
+    "uikName": "УИК №2170",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2171,
     "uikTvd": "452405071396",
+    "uikName": "УИК №2171",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2172,
     "uikTvd": "452405071397",
+    "uikName": "УИК №2172",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2173,
     "uikTvd": "452405071398",
+    "uikName": "УИК №2173",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2174,
     "uikTvd": "452405071399",
+    "uikName": "УИК №2174",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2175,
     "uikTvd": "452405071400",
+    "uikName": "УИК №2175",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2176,
     "uikTvd": "452405071401",
+    "uikName": "УИК №2176",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2177,
     "uikTvd": "452405071402",
+    "uikName": "УИК №2177",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2178,
     "uikTvd": "452405071403",
+    "uikName": "УИК №2178",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2179,
     "uikTvd": "452405071404",
+    "uikName": "УИК №2179",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2180,
     "uikTvd": "452405071405",
+    "uikName": "УИК №2180",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2181,
     "uikTvd": "452405071406",
+    "uikName": "УИК №2181",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2182,
     "uikTvd": "452405071407",
+    "uikName": "УИК №2182",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2183,
     "uikTvd": "452405071408",
+    "uikName": "УИК №2183",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2184,
     "uikTvd": "452405071409",
+    "uikName": "УИК №2184",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2185,
     "uikTvd": "452405071410",
+    "uikName": "УИК №2185",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2186,
     "uikTvd": "452405071411",
+    "uikName": "УИК №2186",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2187,
     "uikTvd": "452405071412",
+    "uikName": "УИК №2187",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2188,
     "uikTvd": "452405071413",
+    "uikName": "УИК №2188",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2189,
     "uikTvd": "452405071414",
+    "uikName": "УИК №2189",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2190,
     "uikTvd": "452405071415",
+    "uikName": "УИК №2190",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2191,
     "uikTvd": "452405071416",
+    "uikName": "УИК №2191",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2192,
     "uikTvd": "452405071417",
+    "uikName": "УИК №2192",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2193,
     "uikTvd": "452405071418",
+    "uikName": "УИК №2193",
     "tikTvd": "252200083310",
-    "tikName": "Сеченовская"
+    "tikName": "Сеченовская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2197,
     "uikTvd": "452403471686",
+    "uikName": "УИК №2197",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2198,
     "uikTvd": "452403471687",
+    "uikName": "УИК №2198",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2199,
     "uikTvd": "452403471688",
+    "uikName": "УИК №2199",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2200,
     "uikTvd": "452403471689",
+    "uikName": "УИК №2200",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "452403471690",
+    "uikName": "УИК №2201",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "452403471691",
+    "uikName": "УИК №2202",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "452403471692",
+    "uikName": "УИК №2203",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "452403471693",
+    "uikName": "УИК №2204",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "452403471694",
+    "uikName": "УИК №2205",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "452403471695",
+    "uikName": "УИК №2206",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "452403471696",
+    "uikName": "УИК №2207",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "452403471697",
+    "uikName": "УИК №2208",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "452403471698",
+    "uikName": "УИК №2209",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "452403471699",
+    "uikName": "УИК №2210",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "452403471700",
+    "uikName": "УИК №2211",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "452403471701",
+    "uikName": "УИК №2212",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "452403471702",
+    "uikName": "УИК №2213",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "452403471703",
+    "uikName": "УИК №2214",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "452403471704",
+    "uikName": "УИК №2215",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "452403471705",
+    "uikName": "УИК №2216",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "452403471706",
+    "uikName": "УИК №2217",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "452403471707",
+    "uikName": "УИК №2218",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "452403471708",
+    "uikName": "УИК №2219",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "452403471709",
+    "uikName": "УИК №2220",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "452403471710",
+    "uikName": "УИК №2221",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "452403471711",
+    "uikName": "УИК №2222",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "452403471712",
+    "uikName": "УИК №2223",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "452403471713",
+    "uikName": "УИК №2224",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "452403471714",
+    "uikName": "УИК №2225",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2226,
     "uikTvd": "452403471715",
+    "uikName": "УИК №2226",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2227,
     "uikTvd": "452403471716",
+    "uikName": "УИК №2227",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2228,
     "uikTvd": "452403471717",
+    "uikName": "УИК №2228",
     "tikTvd": "252200083288",
-    "tikName": "Сокольская"
+    "tikName": "Сокольская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2229,
     "uikTvd": "452405171245",
+    "uikName": "УИК №2229",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2230,
     "uikTvd": "452405171246",
+    "uikName": "УИК №2230",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2231,
     "uikTvd": "452405171247",
+    "uikName": "УИК №2231",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2232,
     "uikTvd": "452405171248",
+    "uikName": "УИК №2232",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2233,
     "uikTvd": "452405171249",
+    "uikName": "УИК №2233",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2234,
     "uikTvd": "452405171250",
+    "uikName": "УИК №2234",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2235,
     "uikTvd": "452405171251",
+    "uikName": "УИК №2235",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2236,
     "uikTvd": "452405171252",
+    "uikName": "УИК №2236",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2237,
     "uikTvd": "452405171253",
+    "uikName": "УИК №2237",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2238,
     "uikTvd": "452405171254",
+    "uikName": "УИК №2238",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2239,
     "uikTvd": "452405171255",
+    "uikName": "УИК №2239",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2240,
     "uikTvd": "452405171256",
+    "uikName": "УИК №2240",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2241,
     "uikTvd": "452405171257",
+    "uikName": "УИК №2241",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2242,
     "uikTvd": "452405171258",
+    "uikName": "УИК №2242",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2243,
     "uikTvd": "452405171259",
+    "uikName": "УИК №2243",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2244,
     "uikTvd": "452405171260",
+    "uikName": "УИК №2244",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2245,
     "uikTvd": "452405171261",
+    "uikName": "УИК №2245",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2246,
     "uikTvd": "452405171262",
+    "uikName": "УИК №2246",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2247,
     "uikTvd": "452405171263",
+    "uikName": "УИК №2247",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2248,
     "uikTvd": "452405171264",
+    "uikName": "УИК №2248",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2249,
     "uikTvd": "452405171265",
+    "uikName": "УИК №2249",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2250,
     "uikTvd": "452405171266",
+    "uikName": "УИК №2250",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2251,
     "uikTvd": "452405171267",
+    "uikName": "УИК №2251",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2252,
     "uikTvd": "452405171268",
+    "uikName": "УИК №2252",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2253,
     "uikTvd": "452405171269",
+    "uikName": "УИК №2253",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2254,
     "uikTvd": "452405171270",
+    "uikName": "УИК №2254",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2255,
     "uikTvd": "452405171271",
+    "uikName": "УИК №2255",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2256,
     "uikTvd": "452405171272",
+    "uikName": "УИК №2256",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2257,
     "uikTvd": "452405171273",
+    "uikName": "УИК №2257",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2258,
     "uikTvd": "452405171274",
+    "uikName": "УИК №2258",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2259,
     "uikTvd": "452405171275",
+    "uikName": "УИК №2259",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2260,
     "uikTvd": "452405171276",
+    "uikName": "УИК №2260",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2261,
     "uikTvd": "452405171277",
+    "uikName": "УИК №2261",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2262,
     "uikTvd": "452405171278",
+    "uikName": "УИК №2262",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2263,
     "uikTvd": "452405171279",
+    "uikName": "УИК №2263",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2264,
     "uikTvd": "452405271123",
+    "uikName": "УИК  2264",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2265,
     "uikTvd": "452405271124",
+    "uikName": "УИК  2265",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2266,
     "uikTvd": "452405271125",
+    "uikName": "УИК  2266",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2267,
     "uikTvd": "452405271126",
+    "uikName": "УИК  2267",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2268,
     "uikTvd": "452405271127",
+    "uikName": "УИК  2268",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2269,
     "uikTvd": "452405271128",
+    "uikName": "УИК  2269",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2270,
     "uikTvd": "452405271129",
+    "uikName": "УИК  2270",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2271,
     "uikTvd": "452405271130",
+    "uikName": "УИК  2271",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2272,
     "uikTvd": "452405271354",
+    "uikName": "УИК №2272",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2273,
     "uikTvd": "452405271355",
+    "uikName": "УИК №2273",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2274,
     "uikTvd": "452405271356",
+    "uikName": "УИК №2274",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2275,
     "uikTvd": "452405271357",
+    "uikName": "УИК №2275",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2276,
     "uikTvd": "452405271358",
+    "uikName": "УИК №2276",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2277,
     "uikTvd": "452405271359",
+    "uikName": "УИК №2277",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2278,
     "uikTvd": "452405271360",
+    "uikName": "УИК №2278",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2279,
     "uikTvd": "452405271361",
+    "uikName": "УИК №2279",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2280,
     "uikTvd": "452405271362",
+    "uikName": "УИК №2280",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2281,
     "uikTvd": "452405271363",
+    "uikName": "УИК №2281",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2282,
     "uikTvd": "452405271364",
+    "uikName": "УИК №2282",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2283,
     "uikTvd": "452405271365",
+    "uikName": "УИК №2283",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2284,
     "uikTvd": "452405271366",
+    "uikName": "УИК №2284",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2285,
     "uikTvd": "452405271367",
+    "uikName": "УИК №2285",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2286,
     "uikTvd": "452405271368",
+    "uikName": "УИК №2286",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2287,
     "uikTvd": "452405271369",
+    "uikName": "УИК №2287",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2288,
     "uikTvd": "452405271370",
+    "uikName": "УИК №2288",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2289,
     "uikTvd": "452405271371",
+    "uikName": "УИК №2289",
     "tikTvd": "252200083308",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2293,
     "uikTvd": "452405370818",
+    "uikName": "УИК №2293",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2294,
     "uikTvd": "452405370819",
+    "uikName": "УИК №2294",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2295,
     "uikTvd": "452405370820",
+    "uikName": "УИК №2295",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2296,
     "uikTvd": "452405370821",
+    "uikName": "УИК №2296",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2297,
     "uikTvd": "452405370822",
+    "uikName": "УИК №2297",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2298,
     "uikTvd": "452405370823",
+    "uikName": "УИК №2298",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2299,
     "uikTvd": "452405370824",
+    "uikName": "УИК №2299",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2300,
     "uikTvd": "452405370825",
+    "uikName": "УИК №2300",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "452405370826",
+    "uikName": "УИК №2301",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "452405370827",
+    "uikName": "УИК №2302",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "452405370828",
+    "uikName": "УИК №2303",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "452405370829",
+    "uikName": "УИК №2304",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "452405370830",
+    "uikName": "УИК №2305",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "452405471047",
+    "uikName": "УИК №2306",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "452405471048",
+    "uikName": "УИК №2307",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "452405471049",
+    "uikName": "УИК №2308",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "452405471050",
+    "uikName": "УИК №2309",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "452405471051",
+    "uikName": "УИК №2310",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "452405471052",
+    "uikName": "УИК №2311",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "452405471053",
+    "uikName": "УИК №2312",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "452405471054",
+    "uikName": "УИК №2313",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "452405471055",
+    "uikName": "УИК №2314",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "452405471056",
+    "uikName": "УИК №2315",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "452405471057",
+    "uikName": "УИК №2316",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "452405471058",
+    "uikName": "УИК №2317",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "452405471059",
+    "uikName": "УИК №2318",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "452405471060",
+    "uikName": "УИК №2319",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "452405471061",
+    "uikName": "УИК №2320",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "452405471062",
+    "uikName": "УИК №2321",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "452405471063",
+    "uikName": "УИК №2322",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "452405471064",
+    "uikName": "УИК №2323",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "452405471065",
+    "uikName": "УИК №2324",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2325,
     "uikTvd": "452405471066",
+    "uikName": "УИК №2325",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2326,
     "uikTvd": "452405471067",
+    "uikName": "УИК №2326",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2327,
     "uikTvd": "452405471068",
+    "uikName": "УИК №2327",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2328,
     "uikTvd": "452405471069",
+    "uikName": "УИК №2328",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2329,
     "uikTvd": "452405471070",
+    "uikName": "УИК №2329",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2330,
     "uikTvd": "452405471071",
+    "uikName": "УИК №2330",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2331,
     "uikTvd": "452405571288",
+    "uikName": "УИК №2331",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2332,
     "uikTvd": "452405571289",
+    "uikName": "УИК №2332",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2333,
     "uikTvd": "452405571290",
+    "uikName": "УИК №2333",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2334,
     "uikTvd": "452405571291",
+    "uikName": "УИК №2334",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2335,
     "uikTvd": "452405571292",
+    "uikName": "УИК №2335",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2336,
     "uikTvd": "452405571293",
+    "uikName": "УИК №2336",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2337,
     "uikTvd": "452405571294",
+    "uikName": "УИК №2337",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2338,
     "uikTvd": "452405571295",
+    "uikName": "УИК №2338",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2339,
     "uikTvd": "452405571296",
+    "uikName": "УИК №2339",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2340,
     "uikTvd": "452405571297",
+    "uikName": "УИК №2340",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2341,
     "uikTvd": "452405571298",
+    "uikName": "УИК №2341",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2342,
     "uikTvd": "452405571299",
+    "uikName": "УИК №2342",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2343,
     "uikTvd": "452405571300",
+    "uikName": "УИК №2343",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2344,
     "uikTvd": "452405571301",
+    "uikName": "УИК №2344",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2345,
     "uikTvd": "452405571302",
+    "uikName": "УИК №2345",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2346,
     "uikTvd": "452405571303",
+    "uikName": "УИК №2346",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2347,
     "uikTvd": "452405571304",
+    "uikName": "УИК №2347",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2348,
     "uikTvd": "452405571305",
+    "uikName": "УИК №2348",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2349,
     "uikTvd": "452405571306",
+    "uikName": "УИК №2349",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2350,
     "uikTvd": "452405571307",
+    "uikName": "УИК №2350",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2351,
     "uikTvd": "452405571308",
+    "uikName": "УИК №2351",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2352,
     "uikTvd": "452405571309",
+    "uikName": "УИК №2352",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2353,
     "uikTvd": "452405571310",
+    "uikName": "УИК №2353",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2354,
     "uikTvd": "452405571311",
+    "uikName": "УИК №2354",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2355,
     "uikTvd": "452405571312",
+    "uikName": "УИК №2355",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2356,
     "uikTvd": "452405571313",
+    "uikName": "УИК №2356",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2357,
     "uikTvd": "452405571314",
+    "uikName": "УИК №2357",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2358,
     "uikTvd": "452405571315",
+    "uikName": "УИК №2358",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2359,
     "uikTvd": "452405571316",
+    "uikName": "УИК №2359",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2360,
     "uikTvd": "452405571317",
+    "uikName": "УИК №2360",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2361,
     "uikTvd": "452405571318",
+    "uikName": "УИК №2361",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2362,
     "uikTvd": "452405571319",
+    "uikName": "УИК №2362",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2363,
     "uikTvd": "452405571320",
+    "uikName": "УИК №2363",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2364,
     "uikTvd": "452405571321",
+    "uikName": "УИК №2364",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2365,
     "uikTvd": "452405571322",
+    "uikName": "УИК №2365",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2366,
     "uikTvd": "452405571323",
+    "uikName": "УИК №2366",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2367,
     "uikTvd": "452405571324",
+    "uikName": "УИК №2367",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2368,
     "uikTvd": "452405571325",
+    "uikName": "УИК №2368",
     "tikTvd": "252200083305",
-    "tikName": "Уренская"
+    "tikName": "Уренская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2369,
     "uikTvd": "452405670816",
+    "uikName": "УИК №2369",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2370,
     "uikTvd": "452405670817",
+    "uikName": "УИК №2370",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2371,
     "uikTvd": "452405670818",
+    "uikName": "УИК №2371",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2372,
     "uikTvd": "452405670819",
+    "uikName": "УИК №2372",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2373,
     "uikTvd": "452405670820",
+    "uikName": "УИК №2373",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2374,
     "uikTvd": "452405670821",
+    "uikName": "УИК №2374",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2375,
     "uikTvd": "452405670822",
+    "uikName": "УИК №2375",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2376,
     "uikTvd": "452405670823",
+    "uikName": "УИК №2376",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2377,
     "uikTvd": "452405670824",
+    "uikName": "УИК №2377",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2378,
     "uikTvd": "452405670825",
+    "uikName": "УИК №2378",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2379,
     "uikTvd": "452405670826",
+    "uikName": "УИК №2379",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2380,
     "uikTvd": "452405670827",
+    "uikName": "УИК №2380",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2381,
     "uikTvd": "452405670828",
+    "uikName": "УИК №2381",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2382,
     "uikTvd": "452405670829",
+    "uikName": "УИК №2382",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2383,
     "uikTvd": "452405670830",
+    "uikName": "УИК №2383",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2384,
     "uikTvd": "452405670831",
+    "uikName": "УИК №2384",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2385,
     "uikTvd": "452405670832",
+    "uikName": "УИК №2385",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2386,
     "uikTvd": "452405670833",
+    "uikName": "УИК №2386",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2387,
     "uikTvd": "452405670834",
+    "uikName": "УИК №2387",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2388,
     "uikTvd": "452405670835",
+    "uikName": "УИК №2388",
     "tikTvd": "252200083303",
-    "tikName": "Чкаловская"
+    "tikName": "Чкаловская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2389,
     "uikTvd": "452405770831",
+    "uikName": "УИК №2389",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2390,
     "uikTvd": "452405770832",
+    "uikName": "УИК №2390",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2391,
     "uikTvd": "452405770833",
+    "uikName": "УИК №2391",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2392,
     "uikTvd": "452405770834",
+    "uikName": "УИК №2392",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2393,
     "uikTvd": "452405770835",
+    "uikName": "УИК №2393",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2394,
     "uikTvd": "452405770836",
+    "uikName": "УИК №2394",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2395,
     "uikTvd": "452405770837",
+    "uikName": "УИК №2395",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2396,
     "uikTvd": "452405770838",
+    "uikName": "УИК №2396",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2397,
     "uikTvd": "452405770839",
+    "uikName": "УИК №2397",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2398,
     "uikTvd": "452405770840",
+    "uikName": "УИК №2398",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2399,
     "uikTvd": "452405770841",
+    "uikName": "УИК №2399",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2400,
     "uikTvd": "452405770842",
+    "uikName": "УИК №2400",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "452405770843",
+    "uikName": "УИК №2401",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "452405770844",
+    "uikName": "УИК №2402",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "452405770845",
+    "uikName": "УИК №2403",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "452405770846",
+    "uikName": "УИК №2404",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "452405770847",
+    "uikName": "УИК №2405",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "452405770848",
+    "uikName": "УИК №2406",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "452405770849",
+    "uikName": "УИК №2407",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "452405770850",
+    "uikName": "УИК №2408",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "452405770851",
+    "uikName": "УИК №2409",
     "tikTvd": "252200083302",
-    "tikName": "Шарангская"
+    "tikName": "Шарангская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "452405871297",
+    "uikName": "УИК №2410",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "452405871298",
+    "uikName": "УИК №2411",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "452405871299",
+    "uikName": "УИК №2412",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "452405871300",
+    "uikName": "УИК №2413",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "452405871301",
+    "uikName": "УИК №2414",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "452405871302",
+    "uikName": "УИК №2415",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "452405871303",
+    "uikName": "УИК №2416",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "452405871304",
+    "uikName": "УИК №2417",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "452405871305",
+    "uikName": "УИК №2418",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "452405871306",
+    "uikName": "УИК №2419",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "452405871307",
+    "uikName": "УИК №2420",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "452405871308",
+    "uikName": "УИК №2421",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "452405871309",
+    "uikName": "УИК №2422",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "452405871310",
+    "uikName": "УИК №2423",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2424,
     "uikTvd": "452405871311",
+    "uikName": "УИК №2424",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "452405871312",
+    "uikName": "УИК №2425",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "452405871313",
+    "uikName": "УИК №2426",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "452405871314",
+    "uikName": "УИК №2427",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2428,
     "uikTvd": "452405871315",
+    "uikName": "УИК №2428",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2429,
     "uikTvd": "452405871316",
+    "uikName": "УИК №2429",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2430,
     "uikTvd": "452405871317",
+    "uikName": "УИК №2430",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2431,
     "uikTvd": "452405871318",
+    "uikName": "УИК №2431",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2432,
     "uikTvd": "452405871319",
+    "uikName": "УИК №2432",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2433,
     "uikTvd": "452405871320",
+    "uikName": "УИК №2433",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2434,
     "uikTvd": "452405871321",
+    "uikName": "УИК №2434",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2435,
     "uikTvd": "452405871322",
+    "uikName": "УИК №2435",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2436,
     "uikTvd": "452405871323",
+    "uikName": "УИК №2436",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2437,
     "uikTvd": "452405871324",
+    "uikName": "УИК №2437",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2438,
     "uikTvd": "452405871325",
+    "uikName": "УИК №2438",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2439,
     "uikTvd": "452405871326",
+    "uikName": "УИК №2439",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2440,
     "uikTvd": "452405871327",
+    "uikName": "УИК №2440",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2441,
     "uikTvd": "452405871328",
+    "uikName": "УИК №2441",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2442,
     "uikTvd": "452405871329",
+    "uikName": "УИК №2442",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2443,
     "uikTvd": "452405871330",
+    "uikName": "УИК №2443",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2444,
     "uikTvd": "452405871331",
+    "uikName": "УИК №2444",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2445,
     "uikTvd": "452405871332",
+    "uikName": "УИК №2445",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2446,
     "uikTvd": "452405871333",
+    "uikName": "УИК №2446",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2447,
     "uikTvd": "452405871334",
+    "uikName": "УИК №2447",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2448,
     "uikTvd": "452405871335",
+    "uikName": "УИК №2448",
     "tikTvd": "252200083314",
-    "tikName": "Шатковская"
+    "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2450,
     "uikTvd": "452405972115",
+    "uikName": "УИК №2450",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2451,
     "uikTvd": "452405972116",
+    "uikName": "УИК №2451",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2452,
     "uikTvd": "452405972117",
+    "uikName": "УИК №2452",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2453,
     "uikTvd": "452405972118",
+    "uikName": "УИК №2453",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2454,
     "uikTvd": "452405972119",
+    "uikName": "УИК №2454",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2455,
     "uikTvd": "452405972120",
+    "uikName": "УИК №2455",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2456,
     "uikTvd": "452405972121",
+    "uikName": "УИК №2456",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2457,
     "uikTvd": "452405972122",
+    "uikName": "УИК №2457",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2458,
     "uikTvd": "452405972123",
+    "uikName": "УИК №2458",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2459,
     "uikTvd": "452405972124",
+    "uikName": "УИК №2459",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2460,
     "uikTvd": "452405972125",
+    "uikName": "УИК №2460",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2461,
     "uikTvd": "452405972126",
+    "uikName": "УИК №2461",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2462,
     "uikTvd": "452405972127",
+    "uikName": "УИК №2462",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2463,
     "uikTvd": "452405972128",
+    "uikName": "УИК №2463",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2464,
     "uikTvd": "452405972129",
+    "uikName": "УИК №2464",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2465,
     "uikTvd": "452405972130",
+    "uikName": "УИК №2465",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2466,
     "uikTvd": "452405972131",
+    "uikName": "УИК №2466",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2467,
     "uikTvd": "452405972132",
+    "uikName": "УИК №2467",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2468,
     "uikTvd": "452405972133",
+    "uikName": "УИК №2468",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2469,
     "uikTvd": "452405972134",
+    "uikName": "УИК №2469",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2470,
     "uikTvd": "452405972135",
+    "uikName": "УИК №2470",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2471,
     "uikTvd": "452405972136",
+    "uikName": "УИК №2471",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2472,
     "uikTvd": "452405972137",
+    "uikName": "УИК №2472",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2473,
     "uikTvd": "452405972138",
+    "uikName": "УИК №2473",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2474,
     "uikTvd": "452405972139",
+    "uikName": "УИК №2474",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2475,
     "uikTvd": "452405972140",
+    "uikName": "УИК №2475",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2476,
     "uikTvd": "452405972141",
+    "uikName": "УИК №2476",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2477,
     "uikTvd": "452405972142",
+    "uikName": "УИК №2477",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2478,
     "uikTvd": "452405972143",
+    "uikName": "УИК №2478",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2479,
     "uikTvd": "452405972144",
+    "uikName": "УИК №2479",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2480,
     "uikTvd": "452405972145",
+    "uikName": "УИК №2480",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2481,
     "uikTvd": "452405972146",
+    "uikName": "УИК №2481",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2482,
     "uikTvd": "452405972147",
+    "uikName": "УИК №2482",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2483,
     "uikTvd": "452405972148",
+    "uikName": "УИК №2483",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2484,
     "uikTvd": "452405972149",
+    "uikName": "УИК №2484",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2485,
     "uikTvd": "452405972150",
+    "uikName": "УИК №2485",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2486,
     "uikTvd": "452405972151",
+    "uikName": "УИК №2486",
     "tikTvd": "252200083313",
-    "tikName": "Шахунская"
+    "tikName": "Шахунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2488,
     "uikTvd": "452404871824",
+    "uikName": "УИК №2488",
     "tikTvd": "252200083312",
-    "tikName": "Семеновская"
+    "tikName": "Семеновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2490,
     "uikTvd": "452401871854",
+    "uikName": "УИК №2490",
     "tikTvd": "252200083267",
-    "tikName": "Выксунская"
+    "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2492,
     "uikTvd": "452405471072",
+    "uikName": "УИК №2492",
     "tikTvd": "252200083306",
-    "tikName": "Тоншаевская"
+    "tikName": "Тоншаевская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2493,
     "uikTvd": "452403371081",
+    "uikName": "УИК №2493",
     "tikTvd": "252200083289",
-    "tikName": "Навашинская"
+    "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2494,
     "uikTvd": "452404675144",
+    "uikName": "УИК №2494",
     "tikTvd": "252200083296",
-    "tikName": "Пильнинская"
+    "tikName": "Пильнинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2495,
     "uikTvd": "452405370831",
+    "uikName": "УИК №2495",
     "tikTvd": "252200083307",
-    "tikName": "Тонкинская ТИК"
+    "tikName": "Тонкинская ТИК",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2497,
     "uikTvd": "452401571243",
+    "uikName": "УИК №2497",
     "tikTvd": "252200083270",
-    "tikName": "Володарская"
+    "tikName": "Володарская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2498,
     "uikTvd": "452405171280",
+    "uikName": "УИК №2498",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2499,
     "uikTvd": "452405171285",
+    "uikName": "УИК №2499",
     "tikTvd": "252200083309",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2500,
     "uikTvd": "452401971711",
+    "uikName": "УИК №2500",
     "tikTvd": "252200083266",
-    "tikName": "Гагинская"
+    "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "452403973821",
+    "uikName": "УИК №2501",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "452403973822",
+    "uikName": "УИК №2502",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "452403973823",
+    "uikName": "УИК №2503",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "452403973824",
+    "uikName": "УИК №2504",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "452403973825",
+    "uikName": "УИК №2505",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "452403973826",
+    "uikName": "УИК №2506",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "452403973827",
+    "uikName": "УИК №2507",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "452403973828",
+    "uikName": "УИК №2508",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "452403973829",
+    "uikName": "УИК №2509",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "452403973830",
+    "uikName": "УИК №2510",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "452403973831",
+    "uikName": "УИК №2511",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "452403973832",
+    "uikName": "УИК №2512",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "452403973833",
+    "uikName": "УИК №2513",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "452403973834",
+    "uikName": "УИК №2514",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "452403973835",
+    "uikName": "УИК №2515",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "452403973836",
+    "uikName": "УИК №2516",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "452403973837",
+    "uikName": "УИК №2517",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "452403973838",
+    "uikName": "УИК №2518",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "452403973839",
+    "uikName": "УИК №2519",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "452403973840",
+    "uikName": "УИК №2520",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "452403973841",
+    "uikName": "УИК №2521",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "452403973842",
+    "uikName": "УИК №2522",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "452403973843",
+    "uikName": "УИК №2523",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "452403973844",
+    "uikName": "УИК №2524",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "452403973845",
+    "uikName": "УИК №2525",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "452403973846",
+    "uikName": "УИК №2526",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "452403973847",
+    "uikName": "УИК №2527",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "452403973848",
+    "uikName": "УИК №2528",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2529,
     "uikTvd": "452403973849",
+    "uikName": "УИК №2529",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "452403973850",
+    "uikName": "УИК №2530",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2531,
     "uikTvd": "452403973851",
+    "uikName": "УИК №2531",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "452403973852",
+    "uikName": "УИК №2532",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2533,
     "uikTvd": "452403973853",
+    "uikName": "УИК №2533",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2534,
     "uikTvd": "452403973854",
+    "uikName": "УИК №2534",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "452403973855",
+    "uikName": "УИК №2535",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "452403973856",
+    "uikName": "УИК №2536",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2537,
     "uikTvd": "452403973857",
+    "uikName": "УИК №2537",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2538,
     "uikTvd": "452403973858",
+    "uikName": "УИК №2538",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2539,
     "uikTvd": "452403973859",
+    "uikName": "УИК №2539",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2540,
     "uikTvd": "452403973860",
+    "uikName": "УИК №2540",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2541,
     "uikTvd": "452403973861",
+    "uikName": "УИК №2541",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2542,
     "uikTvd": "452403973862",
+    "uikName": "УИК №2542",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2543,
     "uikTvd": "452403973863",
+    "uikName": "УИК №2543",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2544,
     "uikTvd": "452403973864",
+    "uikName": "УИК №2544",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2545,
     "uikTvd": "452403973865",
+    "uikName": "УИК №2545",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2546,
     "uikTvd": "452403973866",
+    "uikName": "УИК №2546",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2547,
     "uikTvd": "452403973867",
+    "uikName": "УИК №2547",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2548,
     "uikTvd": "452403973868",
+    "uikName": "УИК №2548",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2549,
     "uikTvd": "452403973869",
+    "uikName": "УИК №2549",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2550,
     "uikTvd": "452403973870",
+    "uikName": "УИК №2550",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   },
   {
     "uikNumber": 2551,
     "uikTvd": "452403973871",
+    "uikName": "УИК №2551",
     "tikTvd": "252200083301",
-    "tikName": "Нижний Новгород, Нижегородская"
+    "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "1001000883011",
+    "regionName": "Нижегородская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

@@ -7,3211 +7,5886 @@ export const duma_2007_uik_to_tik_region_39 = [
   {
     "uikNumber": 1,
     "uikTvd": "439400188422",
+    "uikName": "УИК №1",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 2,
     "uikTvd": "439400188423",
+    "uikName": "УИК №2",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 3,
     "uikTvd": "439400188424",
+    "uikName": "УИК №3",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 4,
     "uikTvd": "439400188425",
+    "uikName": "УИК №4",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 5,
     "uikTvd": "439400188426",
+    "uikName": "УИК №5",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 6,
     "uikTvd": "439400188427",
+    "uikName": "УИК №6",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 7,
     "uikTvd": "439400188428",
+    "uikName": "УИК №7",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 8,
     "uikTvd": "439400188429",
+    "uikName": "УИК №8",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 9,
     "uikTvd": "439400188430",
+    "uikName": "УИК №9",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 10,
     "uikTvd": "439400188431",
+    "uikName": "УИК №10",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 11,
     "uikTvd": "439400188432",
+    "uikName": "УИК №11",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 12,
     "uikTvd": "439400188433",
+    "uikName": "УИК №12",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 13,
     "uikTvd": "439400188434",
+    "uikName": "УИК №13",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 14,
     "uikTvd": "439400188435",
+    "uikName": "УИК №14",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 15,
     "uikTvd": "439400188436",
+    "uikName": "УИК №15",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 16,
     "uikTvd": "439400188437",
+    "uikName": "УИК №16",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 17,
     "uikTvd": "439400188438",
+    "uikName": "УИК №17",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 18,
     "uikTvd": "439400188439",
+    "uikName": "УИК №18",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 19,
     "uikTvd": "439400188440",
+    "uikName": "УИК №19",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 20,
     "uikTvd": "439400188441",
+    "uikName": "УИК №20",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 21,
     "uikTvd": "439400188442",
+    "uikName": "УИК №21",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 22,
     "uikTvd": "439400188443",
+    "uikName": "УИК №22",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 23,
     "uikTvd": "439400188444",
+    "uikName": "УИК №23",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 24,
     "uikTvd": "439400188445",
+    "uikName": "УИК №24",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 25,
     "uikTvd": "439400188446",
+    "uikName": "УИК №25",
     "tikTvd": "2392000134284",
-    "tikName": "Багратионовская"
+    "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 28,
     "uikTvd": "439400283357",
+    "uikName": "УИК №28",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 29,
     "uikTvd": "439400283358",
+    "uikName": "УИК №29",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 30,
     "uikTvd": "439400283375",
+    "uikName": "УИК №30",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 31,
     "uikTvd": "439400283359",
+    "uikName": "УИК №31",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 32,
     "uikTvd": "439400283360",
+    "uikName": "УИК №32",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 33,
     "uikTvd": "439400283361",
+    "uikName": "УИК №33",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 34,
     "uikTvd": "439400283362",
+    "uikName": "УИК №34",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 35,
     "uikTvd": "439400283363",
+    "uikName": "УИК №35",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 36,
     "uikTvd": "439400283364",
+    "uikName": "УИК №36",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 37,
     "uikTvd": "439400283365",
+    "uikName": "УИК №37",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 38,
     "uikTvd": "439400283366",
+    "uikName": "УИК №38",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 39,
     "uikTvd": "439400283367",
+    "uikName": "УИК №39",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 40,
     "uikTvd": "439400283368",
+    "uikName": "УИК №40",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 41,
     "uikTvd": "439400283369",
+    "uikName": "УИК №41",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 42,
     "uikTvd": "439400283370",
+    "uikName": "УИК №42",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 43,
     "uikTvd": "439400283371",
+    "uikName": "УИК №43",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 44,
     "uikTvd": "439400283372",
+    "uikName": "УИК №44",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 45,
     "uikTvd": "439400283373",
+    "uikName": "УИК №45",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 46,
     "uikTvd": "439400283374",
+    "uikName": "УИК №46",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 47,
     "uikTvd": "439400283376",
+    "uikName": "УИК №47",
     "tikTvd": "2392000134285",
-    "tikName": "Балтийская"
+    "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 53,
     "uikTvd": "439400392675",
+    "uikName": "УИК №53",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 54,
     "uikTvd": "439400392676",
+    "uikName": "УИК №54",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 55,
     "uikTvd": "439400392677",
+    "uikName": "УИК №55",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 56,
     "uikTvd": "439400392678",
+    "uikName": "УИК №56",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 57,
     "uikTvd": "439400392679",
+    "uikName": "УИК №57",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 58,
     "uikTvd": "439400392680",
+    "uikName": "УИК №58",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 59,
     "uikTvd": "439400392681",
+    "uikName": "УИК №59",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 60,
     "uikTvd": "439400392682",
+    "uikName": "УИК №60",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 61,
     "uikTvd": "439400392683",
+    "uikName": "УИК №61",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 62,
     "uikTvd": "439400392684",
+    "uikName": "УИК №62",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 63,
     "uikTvd": "439400392685",
+    "uikName": "УИК №63",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 64,
     "uikTvd": "439400392686",
+    "uikName": "УИК №64",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 65,
     "uikTvd": "439400392687",
+    "uikName": "УИК №65",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 66,
     "uikTvd": "439400392688",
+    "uikName": "УИК №66",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 67,
     "uikTvd": "439400392689",
+    "uikName": "УИК №67",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 68,
     "uikTvd": "439400392690",
+    "uikName": "УИК №68",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 69,
     "uikTvd": "439400392691",
+    "uikName": "УИК №69",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 70,
     "uikTvd": "439400392692",
+    "uikName": "УИК №70",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 71,
     "uikTvd": "439400392693",
+    "uikName": "УИК №71",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 72,
     "uikTvd": "439400392694",
+    "uikName": "УИК №72",
     "tikTvd": "2392000134281",
-    "tikName": "Гвардейская"
+    "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 76,
     "uikTvd": "439400483412",
+    "uikName": "УИК №76",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 77,
     "uikTvd": "439400483413",
+    "uikName": "УИК №77",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 78,
     "uikTvd": "439400483414",
+    "uikName": "УИК №78",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 79,
     "uikTvd": "439400483415",
+    "uikName": "УИК №79",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 80,
     "uikTvd": "439400483416",
+    "uikName": "УИК №80",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 81,
     "uikTvd": "439400483417",
+    "uikName": "УИК №81",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 82,
     "uikTvd": "439400483418",
+    "uikName": "УИК №82",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 83,
     "uikTvd": "439400483419",
+    "uikName": "УИК №83",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 84,
     "uikTvd": "439400483420",
+    "uikName": "УИК №84",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 85,
     "uikTvd": "439400483421",
+    "uikName": "УИК №85",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 86,
     "uikTvd": "439400483422",
+    "uikName": "УИК №86",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 87,
     "uikTvd": "439400483423",
+    "uikName": "УИК №87",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 88,
     "uikTvd": "439400483424",
+    "uikName": "УИК №88",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 89,
     "uikTvd": "439400483425",
+    "uikName": "УИК №89",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 90,
     "uikTvd": "439400483426",
+    "uikName": "УИК №90",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 91,
     "uikTvd": "439400483427",
+    "uikName": "УИК №91",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 92,
     "uikTvd": "439400483428",
+    "uikName": "УИК №92",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 93,
     "uikTvd": "439400483429",
+    "uikName": "УИК №93",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 94,
     "uikTvd": "439400483430",
+    "uikName": "УИК №94",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 95,
     "uikTvd": "439400483431",
+    "uikName": "УИК №95",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 96,
     "uikTvd": "439400483432",
+    "uikName": "УИК №96",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 97,
     "uikTvd": "439400483433",
+    "uikName": "УИК №97",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 98,
     "uikTvd": "439400483434",
+    "uikName": "УИК №98",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 99,
     "uikTvd": "439400483435",
+    "uikName": "УИК №99",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 100,
     "uikTvd": "439400483436",
+    "uikName": "УИК №100",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 101,
     "uikTvd": "439400483437",
+    "uikName": "УИК №101",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "439400483438",
+    "uikName": "УИК №102",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "439400483439",
+    "uikName": "УИК №103",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "439400483440",
+    "uikName": "УИК №104",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "439400483441",
+    "uikName": "УИК №105",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "439400483442",
+    "uikName": "УИК №106",
     "tikTvd": "2392000134283",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "439400588496",
+    "uikName": "УИК №109",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "439400588498",
+    "uikName": "УИК №110",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "439400588500",
+    "uikName": "УИК №111",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "439400588501",
+    "uikName": "УИК №112",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "439400588502",
+    "uikName": "УИК №113",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "439400588503",
+    "uikName": "УИК №114",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "439400588504",
+    "uikName": "УИК №115",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "439400588505",
+    "uikName": "УИК №116",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "439400588506",
+    "uikName": "УИК №117",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "439400588507",
+    "uikName": "УИК №118",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "439400588508",
+    "uikName": "УИК №119",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "439400588509",
+    "uikName": "УИК №120",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "439400588510",
+    "uikName": "УИК №121",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "439400588511",
+    "uikName": "УИК №122",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "439400588512",
+    "uikName": "УИК №123",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "439400588513",
+    "uikName": "УИК №124",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "439400588514",
+    "uikName": "УИК №125",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "439400588515",
+    "uikName": "УИК №126",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "439400588516",
+    "uikName": "УИК №127",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "439400588517",
+    "uikName": "УИК №128",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "439400588518",
+    "uikName": "УИК №129",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "439400588519",
+    "uikName": "УИК №130",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "439400588520",
+    "uikName": "УИК №131",
     "tikTvd": "2392000134280",
-    "tikName": "Гусевская"
+    "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "439400695532",
+    "uikName": "УИК №132",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "439400695534",
+    "uikName": "УИК №133",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "439400695535",
+    "uikName": "УИК №134",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "439400695536",
+    "uikName": "УИК №135",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "439400695537",
+    "uikName": "УИК №136",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "439400695538",
+    "uikName": "УИК №137",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "439400695539",
+    "uikName": "УИК №138",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "439400695540",
+    "uikName": "УИК №139",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "439400695541",
+    "uikName": "УИК №140",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "439400695542",
+    "uikName": "УИК №141",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "439400695543",
+    "uikName": "УИК №142",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "439400695544",
+    "uikName": "УИК №143",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "439400695545",
+    "uikName": "УИК №144",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "439400695546",
+    "uikName": "УИК №145",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "439400695547",
+    "uikName": "УИК №146",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "439400695548",
+    "uikName": "УИК №147",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "439400695549",
+    "uikName": "УИК №148",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "439400695550",
+    "uikName": "УИК №149",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "439400695551",
+    "uikName": "УИК №150",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "439400695552",
+    "uikName": "УИК №151",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "439400695553",
+    "uikName": "УИК №152",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "439400695554",
+    "uikName": "УИК №153",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 154,
     "uikTvd": "439400695555",
+    "uikName": "УИК №154",
     "tikTvd": "2392000134282",
-    "tikName": "Зеленоградская"
+    "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 157,
     "uikTvd": "439400784832",
+    "uikName": "УИК №157",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 158,
     "uikTvd": "439400784833",
+    "uikName": "УИК №158",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 159,
     "uikTvd": "439400784834",
+    "uikName": "УИК №159",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 160,
     "uikTvd": "439400784835",
+    "uikName": "УИК №160",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 161,
     "uikTvd": "439400784836",
+    "uikName": "УИК №161",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 162,
     "uikTvd": "439400784837",
+    "uikName": "УИК №162",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 163,
     "uikTvd": "439400784838",
+    "uikName": "УИК №163",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 164,
     "uikTvd": "439400784839",
+    "uikName": "УИК №164",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 165,
     "uikTvd": "439400784840",
+    "uikName": "УИК №165",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 166,
     "uikTvd": "439400784841",
+    "uikName": "УИК №166",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 167,
     "uikTvd": "439400784842",
+    "uikName": "УИК №167",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 168,
     "uikTvd": "439400784843",
+    "uikName": "УИК №168",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 169,
     "uikTvd": "439400784844",
+    "uikName": "УИК №169",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 170,
     "uikTvd": "439400784845",
+    "uikName": "УИК №170",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 171,
     "uikTvd": "439400784846",
+    "uikName": "УИК №171",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 172,
     "uikTvd": "439400784847",
+    "uikName": "УИК №172",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 173,
     "uikTvd": "439400784848",
+    "uikName": "УИК №173",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 174,
     "uikTvd": "439400784849",
+    "uikName": "УИК №174",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 175,
     "uikTvd": "439400784850",
+    "uikName": "УИК №175",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 176,
     "uikTvd": "439400784851",
+    "uikName": "УИК №176",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 177,
     "uikTvd": "439400784852",
+    "uikName": "УИК №177",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 178,
     "uikTvd": "439400784853",
+    "uikName": "УИК №178",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 179,
     "uikTvd": "439400784854",
+    "uikName": "УИК №179",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 180,
     "uikTvd": "439400784855",
+    "uikName": "УИК №180",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 181,
     "uikTvd": "439400784856",
+    "uikName": "УИК №181",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 182,
     "uikTvd": "439400784857",
+    "uikName": "УИК №182",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 183,
     "uikTvd": "439400784858",
+    "uikName": "УИК №183",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 186,
     "uikTvd": "439400885002",
+    "uikName": "УИК №186",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 187,
     "uikTvd": "439400885003",
+    "uikName": "УИК №187",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 188,
     "uikTvd": "439400885004",
+    "uikName": "УИК №188",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 189,
     "uikTvd": "439400885005",
+    "uikName": "УИК №189",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 190,
     "uikTvd": "439400885006",
+    "uikName": "УИК №190",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 191,
     "uikTvd": "439400885007",
+    "uikName": "УИК №191",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 192,
     "uikTvd": "439400885008",
+    "uikName": "УИК №192",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 193,
     "uikTvd": "439400885009",
+    "uikName": "УИК №193",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 194,
     "uikTvd": "439400885010",
+    "uikName": "УИК №194",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 195,
     "uikTvd": "439400885011",
+    "uikName": "УИК №195",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 196,
     "uikTvd": "439400885012",
+    "uikName": "УИК №196",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 197,
     "uikTvd": "439400885013",
+    "uikName": "УИК №197",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 198,
     "uikTvd": "439400885014",
+    "uikName": "УИК №198",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 199,
     "uikTvd": "439400885015",
+    "uikName": "УИК №199",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 200,
     "uikTvd": "439400885016",
+    "uikName": "УИК №200",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "439400885017",
+    "uikName": "УИК №201",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "439400885018",
+    "uikName": "УИК №202",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "439400885019",
+    "uikName": "УИК №203",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "439400885020",
+    "uikName": "УИК №204",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "439400885021",
+    "uikName": "УИК №205",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "439400885022",
+    "uikName": "УИК №206",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "439400885023",
+    "uikName": "УИК №207",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "439400885024",
+    "uikName": "УИК №208",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "439400885025",
+    "uikName": "УИК №209",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "439400885026",
+    "uikName": "УИК №210",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "439400885027",
+    "uikName": "УИК №211",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "439400885029",
+    "uikName": "УИК №213",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "439400885030",
+    "uikName": "УИК №214",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "439400885031",
+    "uikName": "УИК №216",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "439400885032",
+    "uikName": "УИК №217",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "439400885033",
+    "uikName": "УИК №218",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "439400885034",
+    "uikName": "УИК №219",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "439400885035",
+    "uikName": "УИК №220",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "439400885036",
+    "uikName": "УИК №223",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "439400885037",
+    "uikName": "УИК №224",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "439400885038",
+    "uikName": "УИК №225",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "439400885039",
+    "uikName": "УИК №226",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "439400885040",
+    "uikName": "УИК №227",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "439400885041",
+    "uikName": "УИК №228",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "439400885042",
+    "uikName": "УИК №229",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "439400885043",
+    "uikName": "УИК №230",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "439400885044",
+    "uikName": "УИК №231",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "439400885045",
+    "uikName": "УИК №232",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "439400885046",
+    "uikName": "УИК №233",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "439400885047",
+    "uikName": "УИК №234",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "439400885048",
+    "uikName": "УИК №235",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "439400885049",
+    "uikName": "УИК №236",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "439400885050",
+    "uikName": "УИК №237",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "439400885051",
+    "uikName": "УИК №238",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "439400885052",
+    "uikName": "УИК №239",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "439400885053",
+    "uikName": "УИК №240",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "439400885054",
+    "uikName": "УИК №241",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "439400885055",
+    "uikName": "УИК №242",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "439400885056",
+    "uikName": "УИК №243",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "439400885057",
+    "uikName": "УИК №244",
     "tikTvd": "2392000134278",
-    "tikName": "Калининград, Ленинградская"
+    "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "439400982291",
+    "uikName": "УИК №246",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "439400982292",
+    "uikName": "УИК №247",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "439400982293",
+    "uikName": "УИК №248",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "439400982294",
+    "uikName": "УИК №249",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 250,
     "uikTvd": "439400982295",
+    "uikName": "УИК №250",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 251,
     "uikTvd": "439400982296",
+    "uikName": "УИК №251",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 252,
     "uikTvd": "439400982297",
+    "uikName": "УИК №252",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 253,
     "uikTvd": "439400982298",
+    "uikName": "УИК №253",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 254,
     "uikTvd": "439400982299",
+    "uikName": "УИК №254",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 255,
     "uikTvd": "439400982300",
+    "uikName": "УИК №255",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 256,
     "uikTvd": "439400982301",
+    "uikName": "УИК №256",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 257,
     "uikTvd": "439400982302",
+    "uikName": "УИК №257",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 258,
     "uikTvd": "439400982303",
+    "uikName": "УИК №258",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 259,
     "uikTvd": "439400982304",
+    "uikName": "УИК №259",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 260,
     "uikTvd": "439400982305",
+    "uikName": "УИК №260",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 261,
     "uikTvd": "439400982306",
+    "uikName": "УИК №261",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 262,
     "uikTvd": "439400982307",
+    "uikName": "УИК №262",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 263,
     "uikTvd": "439400982308",
+    "uikName": "УИК №263",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 264,
     "uikTvd": "439400982309",
+    "uikName": "УИК №264",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 265,
     "uikTvd": "439400982310",
+    "uikName": "УИК №265",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 266,
     "uikTvd": "439400982311",
+    "uikName": "УИК №266",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 267,
     "uikTvd": "439400982312",
+    "uikName": "УИК №267",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 268,
     "uikTvd": "439400982313",
+    "uikName": "УИК №268",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 269,
     "uikTvd": "439400982314",
+    "uikName": "УИК №269",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 270,
     "uikTvd": "439400982315",
+    "uikName": "УИК №270",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 271,
     "uikTvd": "439400982316",
+    "uikName": "УИК №271",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 272,
     "uikTvd": "439400982317",
+    "uikName": "УИК №272",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 273,
     "uikTvd": "439400982318",
+    "uikName": "УИК №273",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 274,
     "uikTvd": "439400982319",
+    "uikName": "УИК №274",
     "tikTvd": "2392000134294",
-    "tikName": "Калининград, Московская"
+    "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 276,
     "uikTvd": "439401079019",
+    "uikName": "УИК №276",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 277,
     "uikTvd": "439401079020",
+    "uikName": "УИК №277",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 278,
     "uikTvd": "439401079021",
+    "uikName": "УИК №278",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 279,
     "uikTvd": "439401079022",
+    "uikName": "УИК №279",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 280,
     "uikTvd": "439401079023",
+    "uikName": "УИК №280",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 281,
     "uikTvd": "439401079024",
+    "uikName": "УИК №281",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 282,
     "uikTvd": "439401079025",
+    "uikName": "УИК №282",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 283,
     "uikTvd": "439401079026",
+    "uikName": "УИК №283",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 284,
     "uikTvd": "439401079027",
+    "uikName": "УИК №284",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 285,
     "uikTvd": "439401079028",
+    "uikName": "УИК №285",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 286,
     "uikTvd": "439401079029",
+    "uikName": "УИК №286",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 287,
     "uikTvd": "439401079030",
+    "uikName": "УИК №287",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 288,
     "uikTvd": "439401079031",
+    "uikName": "УИК №288",
     "tikTvd": "2392000134295",
-    "tikName": "Калининград, Октябрьская ТИК"
+    "tikName": "Калининград, Октябрьская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 295,
     "uikTvd": "439401183007",
+    "uikName": "УИК №295",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 296,
     "uikTvd": "439401183008",
+    "uikName": "УИК №296",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 297,
     "uikTvd": "439401183009",
+    "uikName": "УИК №297",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 298,
     "uikTvd": "439401183010",
+    "uikName": "УИК №298",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 299,
     "uikTvd": "439401183011",
+    "uikName": "УИК №299",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 300,
     "uikTvd": "439401183012",
+    "uikName": "УИК №300",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "439401183013",
+    "uikName": "УИК №301",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "439401183014",
+    "uikName": "УИК №302",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "439401183015",
+    "uikName": "УИК №303",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "439401183016",
+    "uikName": "УИК №304",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "439401183017",
+    "uikName": "УИК №305",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "439401183018",
+    "uikName": "УИК №306",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "439401183019",
+    "uikName": "УИК №307",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "439401183020",
+    "uikName": "УИК №308",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "439401183021",
+    "uikName": "УИК №309",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "439401183022",
+    "uikName": "УИК №310",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "439401183023",
+    "uikName": "УИК №311",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "439401183024",
+    "uikName": "УИК №312",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "439401183025",
+    "uikName": "УИК №313",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "439401183026",
+    "uikName": "УИК №314",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "439401183027",
+    "uikName": "УИК №315",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "439401183028",
+    "uikName": "УИК №316",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "439401183029",
+    "uikName": "УИК №317",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "439401183030",
+    "uikName": "УИК №318",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "439401183031",
+    "uikName": "УИК №319",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "439401183032",
+    "uikName": "УИК №320",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "439401183033",
+    "uikName": "УИК №321",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "439401183034",
+    "uikName": "УИК №322",
     "tikTvd": "2392000134290",
-    "tikName": "Калининград, Центральная"
+    "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "439401281400",
+    "uikName": "УИК №323",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "439401281401",
+    "uikName": "УИК №324",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "439401281402",
+    "uikName": "УИК №325",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "439401281403",
+    "uikName": "УИК №326",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "439401281404",
+    "uikName": "УИК №327",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "439401281405",
+    "uikName": "УИК №328",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "439401281406",
+    "uikName": "УИК №329",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "439401281407",
+    "uikName": "УИК №330",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "439401281408",
+    "uikName": "УИК №331",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "439401281409",
+    "uikName": "УИК №332",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "439401281410",
+    "uikName": "УИК №333",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "439401281411",
+    "uikName": "УИК №334",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "439401281412",
+    "uikName": "УИК №335",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "439401281413",
+    "uikName": "УИК №336",
     "tikTvd": "2392000134293",
-    "tikName": "Краснознаменская"
+    "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "439401382973",
+    "uikName": "УИК №338",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "439401382974",
+    "uikName": "УИК №339",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "439401382975",
+    "uikName": "УИК №340",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "439401382976",
+    "uikName": "УИК №341",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "439401382977",
+    "uikName": "УИК №342",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "439401382978",
+    "uikName": "УИК №343",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "439401382979",
+    "uikName": "УИК №344",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "439401382980",
+    "uikName": "УИК №345",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "439401382981",
+    "uikName": "УИК №346",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "439401382982",
+    "uikName": "УИК №347",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "439401382983",
+    "uikName": "УИК №348",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "439401382984",
+    "uikName": "УИК №349",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "439401382985",
+    "uikName": "УИК №350",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "439401382986",
+    "uikName": "УИК №351",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "439401382987",
+    "uikName": "УИК №352",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "439401382988",
+    "uikName": "УИК №353",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "439401382989",
+    "uikName": "УИК №354",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "439401382990",
+    "uikName": "УИК №355",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "439401382991",
+    "uikName": "УИК №356",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 357,
     "uikTvd": "439401382992",
+    "uikName": "УИК №357",
     "tikTvd": "2392000134291",
-    "tikName": "Неманская"
+    "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 361,
     "uikTvd": "439401481327",
+    "uikName": "УИК №361",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 362,
     "uikTvd": "439401481328",
+    "uikName": "УИК №362",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 363,
     "uikTvd": "439401481329",
+    "uikName": "УИК №363",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 364,
     "uikTvd": "439401481330",
+    "uikName": "УИК №364",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 365,
     "uikTvd": "439401481331",
+    "uikName": "УИК №365",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 366,
     "uikTvd": "439401481332",
+    "uikName": "УИК №366",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 367,
     "uikTvd": "439401481333",
+    "uikName": "УИК №367",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 368,
     "uikTvd": "439401481334",
+    "uikName": "УИК №368",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 369,
     "uikTvd": "439401481335",
+    "uikName": "УИК №369",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 370,
     "uikTvd": "439401481336",
+    "uikName": "УИК №370",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 371,
     "uikTvd": "439401481337",
+    "uikName": "УИК №371",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 372,
     "uikTvd": "439401481338",
+    "uikName": "УИК №372",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 373,
     "uikTvd": "439401481339",
+    "uikName": "УИК №373",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 374,
     "uikTvd": "439401481340",
+    "uikName": "УИК №374",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 375,
     "uikTvd": "439401481341",
+    "uikName": "УИК №375",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 376,
     "uikTvd": "439401481342",
+    "uikName": "УИК №376",
     "tikTvd": "2392000134292",
-    "tikName": "Нестеровская"
+    "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 379,
     "uikTvd": "439401580100",
+    "uikName": "УИК №379",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 380,
     "uikTvd": "439401580101",
+    "uikName": "УИК №380",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 381,
     "uikTvd": "439401580102",
+    "uikName": "УИК №381",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 382,
     "uikTvd": "439401580103",
+    "uikName": "УИК №382",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 383,
     "uikTvd": "439401580104",
+    "uikName": "УИК №383",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 384,
     "uikTvd": "439401580105",
+    "uikName": "УИК №384",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 385,
     "uikTvd": "439401580106",
+    "uikName": "УИК №385",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 386,
     "uikTvd": "439401580107",
+    "uikName": "УИК №386",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 387,
     "uikTvd": "439401580108",
+    "uikName": "УИК №387",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 388,
     "uikTvd": "439401580109",
+    "uikName": "УИК №388",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 389,
     "uikTvd": "439401580110",
+    "uikName": "УИК №389",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 390,
     "uikTvd": "439401580111",
+    "uikName": "УИК №390",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 391,
     "uikTvd": "439401580112",
+    "uikName": "УИК №391",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 392,
     "uikTvd": "439401580113",
+    "uikName": "УИК №392",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 393,
     "uikTvd": "439401580114",
+    "uikName": "УИК №393",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 394,
     "uikTvd": "439401580115",
+    "uikName": "УИК №394",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 395,
     "uikTvd": "439401580116",
+    "uikName": "УИК №395",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 396,
     "uikTvd": "439401580117",
+    "uikName": "УИК №396",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 397,
     "uikTvd": "439401580118",
+    "uikName": "УИК №397",
     "tikTvd": "2392000134286",
-    "tikName": "Озерская"
+    "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "439401681738",
+    "uikName": "УИК №401",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "439401681739",
+    "uikName": "УИК №402",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "439401681740",
+    "uikName": "УИК №403",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "439401681741",
+    "uikName": "УИК №404",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "439401681742",
+    "uikName": "УИК №405",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "439401681743",
+    "uikName": "УИК №406",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "439401681744",
+    "uikName": "УИК №407",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "439401681736",
+    "uikName": "УИК №408",
     "tikTvd": "2392000134289",
-    "tikName": "Пионерская ТИК"
+    "tikName": "Пионерская ТИК",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "439401785094",
+    "uikName": "УИК №409",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "439401785095",
+    "uikName": "УИК №410",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "439401785096",
+    "uikName": "УИК №411",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "439401785097",
+    "uikName": "УИК №412",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "439401785098",
+    "uikName": "УИК №413",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "439401785099",
+    "uikName": "УИК №414",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "439401785100",
+    "uikName": "УИК №415",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "439401785101",
+    "uikName": "УИК №416",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "439401785102",
+    "uikName": "УИК №417",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "439401785103",
+    "uikName": "УИК №418",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "439401785104",
+    "uikName": "УИК №419",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "439401785105",
+    "uikName": "УИК №420",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "439401785106",
+    "uikName": "УИК №421",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "439401785107",
+    "uikName": "УИК №422",
     "tikTvd": "2392000134287",
-    "tikName": "Полесская"
+    "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "439401884881",
+    "uikName": "УИК №425",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "439401884882",
+    "uikName": "УИК №426",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "439401884883",
+    "uikName": "УИК №427",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "439401884884",
+    "uikName": "УИК №428",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "439401884885",
+    "uikName": "УИК №429",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "439401884886",
+    "uikName": "УИК №430",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "439401884887",
+    "uikName": "УИК №431",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "439401884888",
+    "uikName": "УИК №432",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "439401884889",
+    "uikName": "УИК №433",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "439401884890",
+    "uikName": "УИК №434",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "439401884891",
+    "uikName": "УИК №435",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "439401884892",
+    "uikName": "УИК №436",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "439401884893",
+    "uikName": "УИК №437",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "439401884894",
+    "uikName": "УИК №438",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "439401884895",
+    "uikName": "УИК №439",
     "tikTvd": "2392000134288",
-    "tikName": "Правдинская"
+    "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "7407000135579",
+    "uikName": "УИК №442",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "7407000135580",
+    "uikName": "УИК №443",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "7407000135581",
+    "uikName": "УИК №444",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "7407000135582",
+    "uikName": "УИК №445",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "7407000135583",
+    "uikName": "УИК №446",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "7407000135584",
+    "uikName": "УИК №447",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "7407000135585",
+    "uikName": "УИК №448",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 449,
     "uikTvd": "7407000135586",
+    "uikName": "УИК №449",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 450,
     "uikTvd": "7407000135587",
+    "uikName": "УИК №450",
     "tikTvd": "2392000134300",
-    "tikName": "Светлогорская"
+    "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 453,
     "uikTvd": "439402081507",
+    "uikName": "УИК №453",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 454,
     "uikTvd": "439402081508",
+    "uikName": "УИК №454",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 455,
     "uikTvd": "439402081509",
+    "uikName": "УИК №455",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 456,
     "uikTvd": "439402081510",
+    "uikName": "УИК №456",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 457,
     "uikTvd": "439402081511",
+    "uikName": "УИК №457",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 458,
     "uikTvd": "439402081512",
+    "uikName": "УИК №458",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 459,
     "uikTvd": "439402081513",
+    "uikName": "УИК №459",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 460,
     "uikTvd": "439402081514",
+    "uikName": "УИК №460",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 461,
     "uikTvd": "439402081515",
+    "uikName": "УИК №461",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 462,
     "uikTvd": "439402081516",
+    "uikName": "УИК №462",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 463,
     "uikTvd": "439402081517",
+    "uikName": "УИК №463",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 464,
     "uikTvd": "439402081518",
+    "uikName": "УИК №464",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 465,
     "uikTvd": "439402081519",
+    "uikName": "УИК №465",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 466,
     "uikTvd": "439402081520",
+    "uikName": "УИК №466",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 467,
     "uikTvd": "439402081521",
+    "uikName": "УИК №467",
     "tikTvd": "2392000134299",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 472,
     "uikTvd": "439402181785",
+    "uikName": "УИК №472",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 473,
     "uikTvd": "439402181786",
+    "uikName": "УИК №473",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 474,
     "uikTvd": "439402181787",
+    "uikName": "УИК №474",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 475,
     "uikTvd": "439402181788",
+    "uikName": "УИК №475",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 476,
     "uikTvd": "439402181789",
+    "uikName": "УИК №476",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 477,
     "uikTvd": "439402181790",
+    "uikName": "УИК №477",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 478,
     "uikTvd": "439402181791",
+    "uikName": "УИК №478",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 479,
     "uikTvd": "439402181792",
+    "uikName": "УИК №479",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 480,
     "uikTvd": "439402181793",
+    "uikName": "УИК №480",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 481,
     "uikTvd": "439402181794",
+    "uikName": "УИК №481",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 482,
     "uikTvd": "439402181795",
+    "uikName": "УИК №482",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 483,
     "uikTvd": "439402181796",
+    "uikName": "УИК №483",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 484,
     "uikTvd": "439402181797",
+    "uikName": "УИК №484",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 485,
     "uikTvd": "439402181798",
+    "uikName": "УИК №485",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 486,
     "uikTvd": "439402181799",
+    "uikName": "УИК №486",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 487,
     "uikTvd": "439402181800",
+    "uikName": "УИК №487",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 488,
     "uikTvd": "439402181801",
+    "uikName": "УИК №488",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 489,
     "uikTvd": "439402181802",
+    "uikName": "УИК №489",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 490,
     "uikTvd": "439402181803",
+    "uikName": "УИК №490",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 491,
     "uikTvd": "439402181804",
+    "uikName": "УИК №491",
     "tikTvd": "2392000134298",
-    "tikName": "Славская"
+    "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 493,
     "uikTvd": "439402285439",
+    "uikName": "УИК №493",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 494,
     "uikTvd": "439402285440",
+    "uikName": "УИК №494",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 495,
     "uikTvd": "439402285441",
+    "uikName": "УИК №495",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 496,
     "uikTvd": "439402285442",
+    "uikName": "УИК №496",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 497,
     "uikTvd": "439402285443",
+    "uikName": "УИК №497",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 498,
     "uikTvd": "439402285444",
+    "uikName": "УИК №498",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 499,
     "uikTvd": "439402285445",
+    "uikName": "УИК №499",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 500,
     "uikTvd": "439402285446",
+    "uikName": "УИК №500",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "439402285447",
+    "uikName": "УИК №501",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "439402285448",
+    "uikName": "УИК №502",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "439402285449",
+    "uikName": "УИК №503",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "439402285450",
+    "uikName": "УИК №504",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "439402285451",
+    "uikName": "УИК №505",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "439402285452",
+    "uikName": "УИК №506",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "439402285453",
+    "uikName": "УИК №507",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "439402285454",
+    "uikName": "УИК №508",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "439402285455",
+    "uikName": "УИК №509",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "439402285456",
+    "uikName": "УИК №510",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "439402285457",
+    "uikName": "УИК №511",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "439402285458",
+    "uikName": "УИК №512",
     "tikTvd": "2392000134297",
-    "tikName": "Советская городская"
+    "tikName": "Советская городская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "439402386116",
+    "uikName": "УИК №516",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "439402386117",
+    "uikName": "УИК №517",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "439402386118",
+    "uikName": "УИК №518",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "439402386119",
+    "uikName": "УИК №519",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "439402386120",
+    "uikName": "УИК №520",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "439402386121",
+    "uikName": "УИК №521",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "439402386122",
+    "uikName": "УИК №522",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "439402386123",
+    "uikName": "УИК №523",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "439402386124",
+    "uikName": "УИК №524",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "439402386125",
+    "uikName": "УИК №525",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "439402386126",
+    "uikName": "УИК №526",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "439402386127",
+    "uikName": "УИК №527",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "439402386128",
+    "uikName": "УИК №528",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "439402386129",
+    "uikName": "УИК №529",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "439402386130",
+    "uikName": "УИК №530",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "439402386131",
+    "uikName": "УИК №531",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "439402386132",
+    "uikName": "УИК №532",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "439402386133",
+    "uikName": "УИК №533",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "439402386134",
+    "uikName": "УИК №538",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "439402386135",
+    "uikName": "УИК №539",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "439402386136",
+    "uikName": "УИК №540",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "439402386137",
+    "uikName": "УИК №541",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "439402386138",
+    "uikName": "УИК №542",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "439402386139",
+    "uikName": "УИК №543",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "439402386140",
+    "uikName": "УИК №544",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "439402386141",
+    "uikName": "УИК №545",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "439402386142",
+    "uikName": "УИК №546",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "439402386143",
+    "uikName": "УИК №547",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "439402386144",
+    "uikName": "УИК №548",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "439402386145",
+    "uikName": "УИК №549",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "439402386146",
+    "uikName": "УИК №550",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "439402386147",
+    "uikName": "УИК №551",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "439402386148",
+    "uikName": "УИК №552",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "439402386149",
+    "uikName": "УИК №553",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "439402386150",
+    "uikName": "УИК №554",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 555,
     "uikTvd": "439402386151",
+    "uikName": "УИК №555",
     "tikTvd": "2392000134296",
-    "tikName": "Черняховская территориальная избирательная комиссия"
+    "tikName": "Черняховская территориальная избирательная комиссия",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "439400784860",
+    "uikName": "УИК №701",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "439400784861",
+    "uikName": "УИК №702",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "439400784862",
+    "uikName": "УИК №703",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "439400784863",
+    "uikName": "УИК №704",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "439400784864",
+    "uikName": "УИК №705",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "439400784865",
+    "uikName": "УИК №706",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "439400784866",
+    "uikName": "УИК №707",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "439400784867",
+    "uikName": "УИК №708",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "439400784868",
+    "uikName": "УИК №709",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "439400784869",
+    "uikName": "УИК №710",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "439400785385",
+    "uikName": "УИК №711",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "439400785386",
+    "uikName": "УИК №712",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "439400785387",
+    "uikName": "УИК №713",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "439400785388",
+    "uikName": "УИК №714",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "439400785389",
+    "uikName": "УИК №715",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "439400785390",
+    "uikName": "УИК №716",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "439400785391",
+    "uikName": "УИК №717",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "439400785393",
+    "uikName": "УИК №719",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "439400785394",
+    "uikName": "УИК №720",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "439400785395",
+    "uikName": "УИК №721",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "439400785396",
+    "uikName": "УИК №722",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "439400785397",
+    "uikName": "УИК №723",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "439400785398",
+    "uikName": "УИК №724",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "439400785399",
+    "uikName": "УИК №725",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "439400785400",
+    "uikName": "УИК №726",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "439400785401",
+    "uikName": "УИК №727",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "439400785402",
+    "uikName": "УИК №728",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "439400785403",
+    "uikName": "УИК №729",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "439400785404",
+    "uikName": "УИК №730",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "439400785405",
+    "uikName": "УИК №731",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "439400785406",
+    "uikName": "УИК №732",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "439400785407",
+    "uikName": "УИК №733",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "439400785408",
+    "uikName": "УИК №734",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "439400785410",
+    "uikName": "УИК №740",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "439400785411",
+    "uikName": "УИК №741",
     "tikTvd": "2392000134279",
-    "tikName": "Калининград, Балтийская"
+    "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100021960257",
+    "regionName": "Калининградская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

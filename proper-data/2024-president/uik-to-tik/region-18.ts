@@ -7,6745 +7,12365 @@ export const president_2024_uik_to_tik_region_18 = [
   {
     "uikNumber": 101,
     "uikTvd": "4184010469087",
+    "uikName": "УИК №101",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 102,
     "uikTvd": "4184010469088",
+    "uikName": "УИК №102",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 103,
     "uikTvd": "4184010469089",
+    "uikName": "УИК №103",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 104,
     "uikTvd": "4184010469090",
+    "uikName": "УИК №104",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 105,
     "uikTvd": "4184010469091",
+    "uikName": "УИК №105",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 106,
     "uikTvd": "4184010469092",
+    "uikName": "УИК №106",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 107,
     "uikTvd": "4184010469093",
+    "uikName": "УИК №107",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 108,
     "uikTvd": "4184010469094",
+    "uikName": "УИК №108",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 109,
     "uikTvd": "4184010469095",
+    "uikName": "УИК №109",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 110,
     "uikTvd": "4184010469096",
+    "uikName": "УИК №110",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 111,
     "uikTvd": "4184010469097",
+    "uikName": "УИК №111",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 112,
     "uikTvd": "4184010469098",
+    "uikName": "УИК №112",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 113,
     "uikTvd": "4184010469099",
+    "uikName": "УИК №113",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 114,
     "uikTvd": "4184010469100",
+    "uikName": "УИК №114",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 115,
     "uikTvd": "4184010469101",
+    "uikName": "УИК №115",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 116,
     "uikTvd": "4184010469102",
+    "uikName": "УИК №116",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 117,
     "uikTvd": "4184010469103",
+    "uikName": "УИК №117",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 118,
     "uikTvd": "4184010469104",
+    "uikName": "УИК №118",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 119,
     "uikTvd": "4184010469105",
+    "uikName": "УИК №119",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 120,
     "uikTvd": "4184010469106",
+    "uikName": "УИК №120",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 121,
     "uikTvd": "4184010469107",
+    "uikName": "УИК №121",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 122,
     "uikTvd": "4184010469108",
+    "uikName": "УИК №122",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 123,
     "uikTvd": "4184010469109",
+    "uikName": "УИК №123",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 124,
     "uikTvd": "4184010469110",
+    "uikName": "УИК №124",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 125,
     "uikTvd": "4184010469111",
+    "uikName": "УИК №125",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 126,
     "uikTvd": "4184010469112",
+    "uikName": "УИК №126",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 127,
     "uikTvd": "4184010469113",
+    "uikName": "УИК №127",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 128,
     "uikTvd": "4184010469114",
+    "uikName": "УИК №128",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 129,
     "uikTvd": "4184010469115",
+    "uikName": "УИК №129",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 130,
     "uikTvd": "4184010469116",
+    "uikName": "УИК №130",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 131,
     "uikTvd": "4184010469117",
+    "uikName": "УИК №131",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 132,
     "uikTvd": "4184010469118",
+    "uikName": "УИК №132",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 133,
     "uikTvd": "4184010469119",
+    "uikName": "УИК №133",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 134,
     "uikTvd": "4184010469120",
+    "uikName": "УИК №134",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 135,
     "uikTvd": "4184010469121",
+    "uikName": "УИК №135",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 136,
     "uikTvd": "4184010469122",
+    "uikName": "УИК №136",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 137,
     "uikTvd": "4184010469123",
+    "uikName": "УИК №137",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 138,
     "uikTvd": "4184010469124",
+    "uikName": "УИК №138",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 139,
     "uikTvd": "4184010469125",
+    "uikName": "УИК №139",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 140,
     "uikTvd": "4184010469126",
+    "uikName": "УИК №140",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 141,
     "uikTvd": "4184010469127",
+    "uikName": "УИК №141",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 142,
     "uikTvd": "4184010469128",
+    "uikName": "УИК №142",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 143,
     "uikTvd": "4184010469129",
+    "uikName": "УИК №143",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 144,
     "uikTvd": "4184010469130",
+    "uikName": "УИК №144",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 145,
     "uikTvd": "4184010469131",
+    "uikName": "УИК №145",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 146,
     "uikTvd": "4184010469132",
+    "uikName": "УИК №146",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 147,
     "uikTvd": "4184010469133",
+    "uikName": "УИК №147",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 148,
     "uikTvd": "4184010469134",
+    "uikName": "УИК №148",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 149,
     "uikTvd": "4184010469279",
+    "uikName": "УИК №149",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 150,
     "uikTvd": "4184010469280",
+    "uikName": "УИК №150",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 151,
     "uikTvd": "4184010469281",
+    "uikName": "УИК №151",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 152,
     "uikTvd": "4184010469282",
+    "uikName": "УИК №152",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 153,
     "uikTvd": "4184010469283",
+    "uikName": "УИК №153",
     "tikTvd": "21820001338829",
-    "tikName": "Ижевск, Индустриальная"
+    "tikName": "Ижевск, Индустриальная",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 201,
     "uikTvd": "4184011392495",
+    "uikName": "УИК №201",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 202,
     "uikTvd": "4184011392496",
+    "uikName": "УИК №202",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 203,
     "uikTvd": "4184011392497",
+    "uikName": "УИК №203",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 204,
     "uikTvd": "4184011392498",
+    "uikName": "УИК №204",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 205,
     "uikTvd": "4184011392499",
+    "uikName": "УИК №205",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 206,
     "uikTvd": "4184011392500",
+    "uikName": "УИК №206",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 207,
     "uikTvd": "4184011392501",
+    "uikName": "УИК №207",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 208,
     "uikTvd": "4184011392502",
+    "uikName": "УИК №208",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 209,
     "uikTvd": "4184011392503",
+    "uikName": "УИК №209",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 210,
     "uikTvd": "4184011392504",
+    "uikName": "УИК №210",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 211,
     "uikTvd": "4184011392505",
+    "uikName": "УИК №211",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 212,
     "uikTvd": "4184011392506",
+    "uikName": "УИК №212",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 213,
     "uikTvd": "4184011392507",
+    "uikName": "УИК №213",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 214,
     "uikTvd": "4184011392508",
+    "uikName": "УИК №214",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 215,
     "uikTvd": "4184011392509",
+    "uikName": "УИК №215",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 216,
     "uikTvd": "4184011392510",
+    "uikName": "УИК №216",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 217,
     "uikTvd": "4184011392511",
+    "uikName": "УИК №217",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 218,
     "uikTvd": "4184011392512",
+    "uikName": "УИК №218",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 219,
     "uikTvd": "4184011392513",
+    "uikName": "УИК №219",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 220,
     "uikTvd": "4184011392514",
+    "uikName": "УИК №220",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 221,
     "uikTvd": "4184011392515",
+    "uikName": "УИК №221",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 222,
     "uikTvd": "4184011392516",
+    "uikName": "УИК №222",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 223,
     "uikTvd": "4184011392517",
+    "uikName": "УИК №223",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 224,
     "uikTvd": "4184011392518",
+    "uikName": "УИК №224",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 225,
     "uikTvd": "4184011392519",
+    "uikName": "УИК №225",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 226,
     "uikTvd": "4184011392520",
+    "uikName": "УИК №226",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 227,
     "uikTvd": "4184011392521",
+    "uikName": "УИК №227",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 228,
     "uikTvd": "4184011392522",
+    "uikName": "УИК №228",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 229,
     "uikTvd": "4184011392523",
+    "uikName": "УИК №229",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 230,
     "uikTvd": "4184011392524",
+    "uikName": "УИК №230",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 231,
     "uikTvd": "4184011392525",
+    "uikName": "УИК №231",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 232,
     "uikTvd": "4184011392526",
+    "uikName": "УИК №232",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 233,
     "uikTvd": "4184011392527",
+    "uikName": "УИК №233",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 234,
     "uikTvd": "4184011392528",
+    "uikName": "УИК №234",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 235,
     "uikTvd": "4184011392529",
+    "uikName": "УИК №235",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 236,
     "uikTvd": "4184011392530",
+    "uikName": "УИК №236",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 237,
     "uikTvd": "4184011392531",
+    "uikName": "УИК №237",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 238,
     "uikTvd": "4184011392532",
+    "uikName": "УИК №238",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 239,
     "uikTvd": "4184011392533",
+    "uikName": "УИК №239",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 240,
     "uikTvd": "4184011392534",
+    "uikName": "УИК №240",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 241,
     "uikTvd": "4184011392535",
+    "uikName": "УИК №241",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 242,
     "uikTvd": "4184011392536",
+    "uikName": "УИК №242",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 243,
     "uikTvd": "4184011392537",
+    "uikName": "УИК №243",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 244,
     "uikTvd": "4184011392538",
+    "uikName": "УИК №244",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 245,
     "uikTvd": "4184011392539",
+    "uikName": "УИК №245",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 246,
     "uikTvd": "4184011392540",
+    "uikName": "УИК №246",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 247,
     "uikTvd": "4184011392541",
+    "uikName": "УИК №247",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 248,
     "uikTvd": "4184011392542",
+    "uikName": "УИК №248",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 249,
     "uikTvd": "4184011392543",
+    "uikName": "УИК №249",
     "tikTvd": "21820001338828",
-    "tikName": "Ижевск, Ленинская"
+    "tikName": "Ижевск, Ленинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 301,
     "uikTvd": "4184012363950",
+    "uikName": "УИК №301",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 302,
     "uikTvd": "4184012363951",
+    "uikName": "УИК №302",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 303,
     "uikTvd": "4184012363952",
+    "uikName": "УИК №303",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 304,
     "uikTvd": "4184012363953",
+    "uikName": "УИК №304",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 305,
     "uikTvd": "4184012363954",
+    "uikName": "УИК №305",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 306,
     "uikTvd": "4184012363955",
+    "uikName": "УИК №306",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 307,
     "uikTvd": "4184012363956",
+    "uikName": "УИК №307",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 308,
     "uikTvd": "4184012363957",
+    "uikName": "УИК №308",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 309,
     "uikTvd": "4184012363958",
+    "uikName": "УИК №309",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 310,
     "uikTvd": "4184012363959",
+    "uikName": "УИК №310",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 311,
     "uikTvd": "4184012363960",
+    "uikName": "УИК №311",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 312,
     "uikTvd": "4184012363961",
+    "uikName": "УИК №312",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 313,
     "uikTvd": "4184012363962",
+    "uikName": "УИК №313",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 314,
     "uikTvd": "4184012363963",
+    "uikName": "УИК №314",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 315,
     "uikTvd": "4184012363964",
+    "uikName": "УИК №315",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 316,
     "uikTvd": "4184012363965",
+    "uikName": "УИК №316",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 317,
     "uikTvd": "4184012363966",
+    "uikName": "УИК №317",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 318,
     "uikTvd": "4184012363967",
+    "uikName": "УИК №318",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 319,
     "uikTvd": "4184012363968",
+    "uikName": "УИК №319",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 320,
     "uikTvd": "4184012363969",
+    "uikName": "УИК №320",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 321,
     "uikTvd": "4184012363970",
+    "uikName": "УИК №321",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 322,
     "uikTvd": "4184012363971",
+    "uikName": "УИК №322",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 323,
     "uikTvd": "4184012363972",
+    "uikName": "УИК №323",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 324,
     "uikTvd": "4184012363973",
+    "uikName": "УИК №324",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 325,
     "uikTvd": "4184012363974",
+    "uikName": "УИК №325",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 326,
     "uikTvd": "4184012363975",
+    "uikName": "УИК №326",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 327,
     "uikTvd": "4184012363976",
+    "uikName": "УИК №327",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 328,
     "uikTvd": "4184012363977",
+    "uikName": "УИК №328",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 329,
     "uikTvd": "4184012363978",
+    "uikName": "УИК №329",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 330,
     "uikTvd": "4184012363979",
+    "uikName": "УИК №330",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 331,
     "uikTvd": "4184012363980",
+    "uikName": "УИК №331",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 332,
     "uikTvd": "4184012363981",
+    "uikName": "УИК №332",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 333,
     "uikTvd": "4184012363982",
+    "uikName": "УИК №333",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 334,
     "uikTvd": "4184012363983",
+    "uikName": "УИК №334",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 335,
     "uikTvd": "4184012363984",
+    "uikName": "УИК №335",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 336,
     "uikTvd": "4184012363985",
+    "uikName": "УИК №336",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 337,
     "uikTvd": "4184012363986",
+    "uikName": "УИК №337",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 338,
     "uikTvd": "4184012363987",
+    "uikName": "УИК №338",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 339,
     "uikTvd": "4184012363988",
+    "uikName": "УИК №339",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 340,
     "uikTvd": "4184012363989",
+    "uikName": "УИК №340",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 341,
     "uikTvd": "4184012363990",
+    "uikName": "УИК №341",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 342,
     "uikTvd": "4184012363991",
+    "uikName": "УИК №342",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 343,
     "uikTvd": "4184012363992",
+    "uikName": "УИК №343",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 344,
     "uikTvd": "4184012363993",
+    "uikName": "УИК №344",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 345,
     "uikTvd": "4184012363994",
+    "uikName": "УИК №345",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 346,
     "uikTvd": "4184012363995",
+    "uikName": "УИК №346",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 347,
     "uikTvd": "4184012363996",
+    "uikName": "УИК №347",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 348,
     "uikTvd": "4184012363997",
+    "uikName": "УИК №348",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 349,
     "uikTvd": "4184012363998",
+    "uikName": "УИК №349",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 350,
     "uikTvd": "4184012363999",
+    "uikName": "УИК №350",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 351,
     "uikTvd": "4184012364000",
+    "uikName": "УИК №351",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 352,
     "uikTvd": "4184012364001",
+    "uikName": "УИК №352",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 353,
     "uikTvd": "4184012364002",
+    "uikName": "УИК №353",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 354,
     "uikTvd": "4184012365348",
+    "uikName": "УИК №354",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 355,
     "uikTvd": "4184012365349",
+    "uikName": "УИК №355",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 356,
     "uikTvd": "4184012365350",
+    "uikName": "УИК №356",
     "tikTvd": "21820001338827",
-    "tikName": "Ижевск, Октябрьская"
+    "tikName": "Ижевск, Октябрьская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 401,
     "uikTvd": "4184013347180",
+    "uikName": "УИК №401",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 402,
     "uikTvd": "4184013347181",
+    "uikName": "УИК №402",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 403,
     "uikTvd": "4184013347182",
+    "uikName": "УИК №403",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 404,
     "uikTvd": "4184013347183",
+    "uikName": "УИК №404",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 405,
     "uikTvd": "4184013347184",
+    "uikName": "УИК №405",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 406,
     "uikTvd": "4184013347185",
+    "uikName": "УИК №406",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 407,
     "uikTvd": "4184013347186",
+    "uikName": "УИК №407",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 408,
     "uikTvd": "4184013347187",
+    "uikName": "УИК №408",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 409,
     "uikTvd": "4184013347188",
+    "uikName": "УИК №409",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 410,
     "uikTvd": "4184013347189",
+    "uikName": "УИК №410",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 411,
     "uikTvd": "4184013347190",
+    "uikName": "УИК №411",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 412,
     "uikTvd": "4184013347191",
+    "uikName": "УИК №412",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 413,
     "uikTvd": "4184013347192",
+    "uikName": "УИК №413",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 414,
     "uikTvd": "4184013347193",
+    "uikName": "УИК №414",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 415,
     "uikTvd": "4184013347194",
+    "uikName": "УИК №415",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 416,
     "uikTvd": "4184013347195",
+    "uikName": "УИК №416",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 417,
     "uikTvd": "4184013347196",
+    "uikName": "УИК №417",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 418,
     "uikTvd": "4184013347197",
+    "uikName": "УИК №418",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 419,
     "uikTvd": "4184013347198",
+    "uikName": "УИК №419",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 420,
     "uikTvd": "4184013347199",
+    "uikName": "УИК №420",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 421,
     "uikTvd": "4184013347200",
+    "uikName": "УИК №421",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 422,
     "uikTvd": "4184013347201",
+    "uikName": "УИК №422",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 423,
     "uikTvd": "4184013347202",
+    "uikName": "УИК №423",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 424,
     "uikTvd": "4184013347203",
+    "uikName": "УИК №424",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 425,
     "uikTvd": "4184013347204",
+    "uikName": "УИК №425",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 426,
     "uikTvd": "4184013347205",
+    "uikName": "УИК №426",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 427,
     "uikTvd": "4184013347206",
+    "uikName": "УИК №427",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 428,
     "uikTvd": "4184013347207",
+    "uikName": "УИК №428",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 429,
     "uikTvd": "4184013347208",
+    "uikName": "УИК №429",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 430,
     "uikTvd": "4184013347209",
+    "uikName": "УИК №430",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 431,
     "uikTvd": "4184013347210",
+    "uikName": "УИК №431",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 432,
     "uikTvd": "4184013347211",
+    "uikName": "УИК №432",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 433,
     "uikTvd": "4184013347212",
+    "uikName": "УИК №433",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 434,
     "uikTvd": "4184013347213",
+    "uikName": "УИК №434",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 435,
     "uikTvd": "4184013347214",
+    "uikName": "УИК №435",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 436,
     "uikTvd": "4184013347215",
+    "uikName": "УИК №436",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 437,
     "uikTvd": "4184013347216",
+    "uikName": "УИК №437",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 438,
     "uikTvd": "4184013347217",
+    "uikName": "УИК №438",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 439,
     "uikTvd": "4184013347218",
+    "uikName": "УИК №439",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 440,
     "uikTvd": "4184013347219",
+    "uikName": "УИК №440",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 441,
     "uikTvd": "4184013347220",
+    "uikName": "УИК №441",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 442,
     "uikTvd": "4184013347221",
+    "uikName": "УИК №442",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 443,
     "uikTvd": "4184013347222",
+    "uikName": "УИК №443",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 444,
     "uikTvd": "4184013347223",
+    "uikName": "УИК №444",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 445,
     "uikTvd": "4184013347224",
+    "uikName": "УИК №445",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 446,
     "uikTvd": "4184013347225",
+    "uikName": "УИК №446",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 447,
     "uikTvd": "4184013347226",
+    "uikName": "УИК №447",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 448,
     "uikTvd": "4184013347227",
+    "uikName": "УИК №448",
     "tikTvd": "21820001338826",
-    "tikName": "Ижевск, Первомайская"
+    "tikName": "Ижевск, Первомайская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 501,
     "uikTvd": "4184014340545",
+    "uikName": "УИК №501",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 502,
     "uikTvd": "4184014340546",
+    "uikName": "УИК №502",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 503,
     "uikTvd": "4184014340547",
+    "uikName": "УИК №503",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 504,
     "uikTvd": "4184014340548",
+    "uikName": "УИК №504",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 505,
     "uikTvd": "4184014340549",
+    "uikName": "УИК №505",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 506,
     "uikTvd": "4184014340550",
+    "uikName": "УИК №506",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 507,
     "uikTvd": "4184014340551",
+    "uikName": "УИК №507",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 508,
     "uikTvd": "4184014340552",
+    "uikName": "УИК №508",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 509,
     "uikTvd": "4184014340553",
+    "uikName": "УИК №509",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 510,
     "uikTvd": "4184014340554",
+    "uikName": "УИК №510",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 511,
     "uikTvd": "4184014340555",
+    "uikName": "УИК №511",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 512,
     "uikTvd": "4184014340556",
+    "uikName": "УИК №512",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 513,
     "uikTvd": "4184014340557",
+    "uikName": "УИК №513",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 514,
     "uikTvd": "4184014340558",
+    "uikName": "УИК №514",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 515,
     "uikTvd": "4184014340559",
+    "uikName": "УИК №515",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 516,
     "uikTvd": "4184014340560",
+    "uikName": "УИК №516",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 517,
     "uikTvd": "4184014340561",
+    "uikName": "УИК №517",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 518,
     "uikTvd": "4184014340562",
+    "uikName": "УИК №518",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 519,
     "uikTvd": "4184014340563",
+    "uikName": "УИК №519",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 520,
     "uikTvd": "4184014340564",
+    "uikName": "УИК №520",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 521,
     "uikTvd": "4184014340565",
+    "uikName": "УИК №521",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 522,
     "uikTvd": "4184014340566",
+    "uikName": "УИК №522",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 523,
     "uikTvd": "4184014340567",
+    "uikName": "УИК №523",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 524,
     "uikTvd": "4184014340568",
+    "uikName": "УИК №524",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 525,
     "uikTvd": "4184014340569",
+    "uikName": "УИК №525",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 526,
     "uikTvd": "4184014340570",
+    "uikName": "УИК №526",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 527,
     "uikTvd": "4184014340571",
+    "uikName": "УИК №527",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 528,
     "uikTvd": "4184014340572",
+    "uikName": "УИК №528",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 529,
     "uikTvd": "4184014340573",
+    "uikName": "УИК №529",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 530,
     "uikTvd": "4184014340574",
+    "uikName": "УИК №530",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 531,
     "uikTvd": "4184014340575",
+    "uikName": "УИК №531",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 532,
     "uikTvd": "4184014340576",
+    "uikName": "УИК №532",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 533,
     "uikTvd": "4184014340577",
+    "uikName": "УИК №533",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 534,
     "uikTvd": "4184014340578",
+    "uikName": "УИК №534",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 535,
     "uikTvd": "4184014340579",
+    "uikName": "УИК №535",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 536,
     "uikTvd": "4184014340580",
+    "uikName": "УИК №536",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 537,
     "uikTvd": "4184014340581",
+    "uikName": "УИК №537",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 538,
     "uikTvd": "4184014340582",
+    "uikName": "УИК №538",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 539,
     "uikTvd": "4184014340583",
+    "uikName": "УИК №539",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 540,
     "uikTvd": "4184014340584",
+    "uikName": "УИК №540",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 541,
     "uikTvd": "4184014340585",
+    "uikName": "УИК №541",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 542,
     "uikTvd": "4184014340586",
+    "uikName": "УИК №542",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 543,
     "uikTvd": "4184014340587",
+    "uikName": "УИК №543",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 544,
     "uikTvd": "4184014340588",
+    "uikName": "УИК №544",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 545,
     "uikTvd": "4184014340589",
+    "uikName": "УИК №545",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 546,
     "uikTvd": "4184014340590",
+    "uikName": "УИК №546",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 547,
     "uikTvd": "4184014340591",
+    "uikName": "УИК №547",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 548,
     "uikTvd": "4184014340592",
+    "uikName": "УИК №548",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 549,
     "uikTvd": "4184014340593",
+    "uikName": "УИК №549",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 550,
     "uikTvd": "4184014340594",
+    "uikName": "УИК №550",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 551,
     "uikTvd": "4184014340595",
+    "uikName": "УИК №551",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 552,
     "uikTvd": "4184014340876",
+    "uikName": "УИК №552",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 553,
     "uikTvd": "4184014340877",
+    "uikName": "УИК №553",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 554,
     "uikTvd": "4184014340878",
+    "uikName": "УИК №554",
     "tikTvd": "21820001338825",
-    "tikName": "Ижевск, Устиновская"
+    "tikName": "Ижевск, Устиновская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 601,
     "uikTvd": "4184032317827",
+    "uikName": "УИК №601",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 602,
     "uikTvd": "4184032317828",
+    "uikName": "УИК №602",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 603,
     "uikTvd": "4184032317829",
+    "uikName": "УИК №603",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 604,
     "uikTvd": "4184032317830",
+    "uikName": "УИК №604",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 605,
     "uikTvd": "4184032317831",
+    "uikName": "УИК №605",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 606,
     "uikTvd": "4184032317832",
+    "uikName": "УИК №606",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 607,
     "uikTvd": "4184032317833",
+    "uikName": "УИК №607",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 608,
     "uikTvd": "4184032317834",
+    "uikName": "УИК №608",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 609,
     "uikTvd": "4184032317835",
+    "uikName": "УИК №609",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 610,
     "uikTvd": "4184032317836",
+    "uikName": "УИК №610",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 611,
     "uikTvd": "4184032317837",
+    "uikName": "УИК №611",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 612,
     "uikTvd": "4184032317838",
+    "uikName": "УИК №612",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 613,
     "uikTvd": "4184032317839",
+    "uikName": "УИК №613",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 614,
     "uikTvd": "4184032317840",
+    "uikName": "УИК №614",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 615,
     "uikTvd": "4184032317841",
+    "uikName": "УИК №615",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 616,
     "uikTvd": "4184032317842",
+    "uikName": "УИК №616",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 617,
     "uikTvd": "4184032317843",
+    "uikName": "УИК №617",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 618,
     "uikTvd": "4184032317844",
+    "uikName": "УИК №618",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 619,
     "uikTvd": "4184032317845",
+    "uikName": "УИК №619",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 620,
     "uikTvd": "4184032317846",
+    "uikName": "УИК №620",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 621,
     "uikTvd": "4184032317847",
+    "uikName": "УИК №621",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 622,
     "uikTvd": "4184032317848",
+    "uikName": "УИК №622",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 623,
     "uikTvd": "4184032317849",
+    "uikName": "УИК №623",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 624,
     "uikTvd": "4184032317850",
+    "uikName": "УИК №624",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 625,
     "uikTvd": "4184032317851",
+    "uikName": "УИК №625",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 626,
     "uikTvd": "4184032317852",
+    "uikName": "УИК №626",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 627,
     "uikTvd": "4184032317853",
+    "uikName": "УИК №627",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 628,
     "uikTvd": "4184032317854",
+    "uikName": "УИК №628",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 629,
     "uikTvd": "4184032317855",
+    "uikName": "УИК №629",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 630,
     "uikTvd": "4184032317856",
+    "uikName": "УИК №630",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 631,
     "uikTvd": "4184032317857",
+    "uikName": "УИК №631",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 632,
     "uikTvd": "4184032317858",
+    "uikName": "УИК №632",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 633,
     "uikTvd": "4184032317859",
+    "uikName": "УИК №633",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 634,
     "uikTvd": "4184032317860",
+    "uikName": "УИК №634",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 635,
     "uikTvd": "4184032317861",
+    "uikName": "УИК №635",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 636,
     "uikTvd": "4184032317862",
+    "uikName": "УИК №636",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 637,
     "uikTvd": "4184032317863",
+    "uikName": "УИК №637",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 638,
     "uikTvd": "4184032317864",
+    "uikName": "УИК №638",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 639,
     "uikTvd": "4184032317865",
+    "uikName": "УИК №639",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 640,
     "uikTvd": "4184032317866",
+    "uikName": "УИК №640",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 641,
     "uikTvd": "4184032317867",
+    "uikName": "УИК №641",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 642,
     "uikTvd": "4184032317868",
+    "uikName": "УИК №642",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 643,
     "uikTvd": "4184032317869",
+    "uikName": "УИК №643",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 644,
     "uikTvd": "4184032317870",
+    "uikName": "УИК №644",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 645,
     "uikTvd": "4184032317871",
+    "uikName": "УИК №645",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 646,
     "uikTvd": "4184032317872",
+    "uikName": "УИК №646",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 647,
     "uikTvd": "4184032317873",
+    "uikName": "УИК №647",
     "tikTvd": "21820001338836",
-    "tikName": "Воткинская городская"
+    "tikName": "Воткинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 701,
     "uikTvd": "4184005352068",
+    "uikName": "УИК №701",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 702,
     "uikTvd": "4184005352069",
+    "uikName": "УИК №702",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 703,
     "uikTvd": "4184005352070",
+    "uikName": "УИК №703",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 704,
     "uikTvd": "4184005352071",
+    "uikName": "УИК №704",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 705,
     "uikTvd": "4184005352072",
+    "uikName": "УИК №705",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 706,
     "uikTvd": "4184005352073",
+    "uikName": "УИК №706",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 707,
     "uikTvd": "4184005352074",
+    "uikName": "УИК №707",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 708,
     "uikTvd": "4184005352075",
+    "uikName": "УИК №708",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 709,
     "uikTvd": "4184005352076",
+    "uikName": "УИК №709",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 710,
     "uikTvd": "4184005352077",
+    "uikName": "УИК №710",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 711,
     "uikTvd": "4184005352078",
+    "uikName": "УИК №711",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 712,
     "uikTvd": "4184005352079",
+    "uikName": "УИК №712",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 713,
     "uikTvd": "4184005352080",
+    "uikName": "УИК №713",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 714,
     "uikTvd": "4184005352081",
+    "uikName": "УИК №714",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 715,
     "uikTvd": "4184005352082",
+    "uikName": "УИК №715",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 716,
     "uikTvd": "4184005352083",
+    "uikName": "УИК №716",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 717,
     "uikTvd": "4184005352084",
+    "uikName": "УИК №717",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 718,
     "uikTvd": "4184005352085",
+    "uikName": "УИК №718",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 719,
     "uikTvd": "4184005352086",
+    "uikName": "УИК №719",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 720,
     "uikTvd": "4184005352087",
+    "uikName": "УИК №720",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 721,
     "uikTvd": "4184005352088",
+    "uikName": "УИК №721",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 722,
     "uikTvd": "4184005352089",
+    "uikName": "УИК №722",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 723,
     "uikTvd": "4184005352090",
+    "uikName": "УИК №723",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 724,
     "uikTvd": "4184005352091",
+    "uikName": "УИК №724",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 725,
     "uikTvd": "4184005352092",
+    "uikName": "УИК №725",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 726,
     "uikTvd": "4184005352093",
+    "uikName": "УИК №726",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 727,
     "uikTvd": "4184005352094",
+    "uikName": "УИК №727",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 728,
     "uikTvd": "4184005352095",
+    "uikName": "УИК №728",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 729,
     "uikTvd": "4184005352096",
+    "uikName": "УИК №729",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 730,
     "uikTvd": "4184005352097",
+    "uikName": "УИК №730",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 731,
     "uikTvd": "4184005352098",
+    "uikName": "УИК №731",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 732,
     "uikTvd": "4184005352099",
+    "uikName": "УИК №732",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 733,
     "uikTvd": "4184005352100",
+    "uikName": "УИК №733",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 734,
     "uikTvd": "4184005352101",
+    "uikName": "УИК №734",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 735,
     "uikTvd": "4184005352102",
+    "uikName": "УИК №735",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 736,
     "uikTvd": "4184005352103",
+    "uikName": "УИК №736",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 737,
     "uikTvd": "4184005352104",
+    "uikName": "УИК №737",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 738,
     "uikTvd": "4184005352105",
+    "uikName": "УИК №738",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 739,
     "uikTvd": "4184005352106",
+    "uikName": "УИК №739",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 740,
     "uikTvd": "4184005352568",
+    "uikName": "УИК №740",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 741,
     "uikTvd": "4184005352577",
+    "uikName": "УИК №741",
     "tikTvd": "21820001338834",
-    "tikName": "Глазовская городская"
+    "tikName": "Глазовская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 801,
     "uikTvd": "4184034275937",
+    "uikName": "УИК №801",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 802,
     "uikTvd": "4184034275938",
+    "uikName": "УИК №802",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 803,
     "uikTvd": "4184034275939",
+    "uikName": "УИК №803",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 804,
     "uikTvd": "4184034275940",
+    "uikName": "УИК №804",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 805,
     "uikTvd": "4184034275941",
+    "uikName": "УИК №805",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 806,
     "uikTvd": "4184034275942",
+    "uikName": "УИК №806",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 807,
     "uikTvd": "4184034275943",
+    "uikName": "УИК №807",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 808,
     "uikTvd": "4184034275944",
+    "uikName": "УИК №808",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 809,
     "uikTvd": "4184034275945",
+    "uikName": "УИК №809",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 810,
     "uikTvd": "4184034275946",
+    "uikName": "УИК №810",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 811,
     "uikTvd": "4184034275947",
+    "uikName": "УИК №811",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 812,
     "uikTvd": "4184034275948",
+    "uikName": "УИК №812",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 813,
     "uikTvd": "4184034275949",
+    "uikName": "УИК №813",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 814,
     "uikTvd": "4184034275950",
+    "uikName": "УИК №814",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 815,
     "uikTvd": "4184034275951",
+    "uikName": "УИК №815",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 816,
     "uikTvd": "4184034275952",
+    "uikName": "УИК №816",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 817,
     "uikTvd": "4184034275953",
+    "uikName": "УИК №817",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 818,
     "uikTvd": "4184034275954",
+    "uikName": "УИК №818",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 819,
     "uikTvd": "4184034275955",
+    "uikName": "УИК №819",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 820,
     "uikTvd": "4184034275956",
+    "uikName": "УИК №820",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 821,
     "uikTvd": "4184034275957",
+    "uikName": "УИК №821",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 822,
     "uikTvd": "4184034275958",
+    "uikName": "УИК №822",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 823,
     "uikTvd": "4184034276759",
+    "uikName": "УИК №823",
     "tikTvd": "21820001338816",
-    "tikName": "Можгинская городская"
+    "tikName": "Можгинская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 901,
     "uikTvd": "4184023349641",
+    "uikName": "УИК №901",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 902,
     "uikTvd": "4184023349642",
+    "uikName": "УИК №902",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 903,
     "uikTvd": "4184023349643",
+    "uikName": "УИК №903",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 904,
     "uikTvd": "4184023349644",
+    "uikName": "УИК №904",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 905,
     "uikTvd": "4184023349645",
+    "uikName": "УИК №905",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 906,
     "uikTvd": "4184023349646",
+    "uikName": "УИК №906",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 907,
     "uikTvd": "4184023349647",
+    "uikName": "УИК №907",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 908,
     "uikTvd": "4184023349648",
+    "uikName": "УИК №908",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 909,
     "uikTvd": "4184023349649",
+    "uikName": "УИК №909",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 910,
     "uikTvd": "4184023349650",
+    "uikName": "УИК №910",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 911,
     "uikTvd": "4184023349651",
+    "uikName": "УИК №911",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 912,
     "uikTvd": "4184023349652",
+    "uikName": "УИК №912",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 913,
     "uikTvd": "4184023349653",
+    "uikName": "УИК №913",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 914,
     "uikTvd": "4184023349654",
+    "uikName": "УИК №914",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 915,
     "uikTvd": "4184023349655",
+    "uikName": "УИК №915",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 916,
     "uikTvd": "4184023349656",
+    "uikName": "УИК №916",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 917,
     "uikTvd": "4184023349657",
+    "uikName": "УИК №917",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 918,
     "uikTvd": "4184023349658",
+    "uikName": "УИК №918",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 919,
     "uikTvd": "4184023349659",
+    "uikName": "УИК №919",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 920,
     "uikTvd": "4184023349660",
+    "uikName": "УИК №920",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 921,
     "uikTvd": "4184023349661",
+    "uikName": "УИК №921",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 922,
     "uikTvd": "4184023349662",
+    "uikName": "УИК №922",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 923,
     "uikTvd": "4184023349663",
+    "uikName": "УИК №923",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 924,
     "uikTvd": "4184023349664",
+    "uikName": "УИК №924",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 925,
     "uikTvd": "4184023349665",
+    "uikName": "УИК №925",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 926,
     "uikTvd": "4184023349666",
+    "uikName": "УИК №926",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 927,
     "uikTvd": "4184023349667",
+    "uikName": "УИК №927",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 928,
     "uikTvd": "4184023349668",
+    "uikName": "УИК №928",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 929,
     "uikTvd": "4184023349669",
+    "uikName": "УИК №929",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 930,
     "uikTvd": "4184023349670",
+    "uikName": "УИК №930",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 931,
     "uikTvd": "4184023349671",
+    "uikName": "УИК №931",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 932,
     "uikTvd": "4184023349672",
+    "uikName": "УИК №932",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 933,
     "uikTvd": "4184023349673",
+    "uikName": "УИК №933",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 934,
     "uikTvd": "4184023349674",
+    "uikName": "УИК №934",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 935,
     "uikTvd": "4184023349675",
+    "uikName": "УИК №935",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 936,
     "uikTvd": "4184023349676",
+    "uikName": "УИК №936",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 937,
     "uikTvd": "4184023349677",
+    "uikName": "УИК №937",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 938,
     "uikTvd": "4184023349678",
+    "uikName": "УИК №938",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 939,
     "uikTvd": "4184023349679",
+    "uikName": "УИК №939",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 940,
     "uikTvd": "4184023349680",
+    "uikName": "УИК №940",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 941,
     "uikTvd": "4184023349681",
+    "uikName": "УИК №941",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 942,
     "uikTvd": "4184023349682",
+    "uikName": "УИК №942",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 943,
     "uikTvd": "4184023349683",
+    "uikName": "УИК №943",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 944,
     "uikTvd": "4184023349684",
+    "uikName": "УИК №944",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 945,
     "uikTvd": "4184023349685",
+    "uikName": "УИК №945",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 946,
     "uikTvd": "4184023349686",
+    "uikName": "УИК №946",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 947,
     "uikTvd": "4184023349687",
+    "uikName": "УИК №947",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 948,
     "uikTvd": "4184023349688",
+    "uikName": "УИК №948",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 949,
     "uikTvd": "4184023349689",
+    "uikName": "УИК №949",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 950,
     "uikTvd": "4184023349690",
+    "uikName": "УИК №950",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 951,
     "uikTvd": "4184023349691",
+    "uikName": "УИК №951",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 952,
     "uikTvd": "4184023349692",
+    "uikName": "УИК №952",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 953,
     "uikTvd": "4184023349693",
+    "uikName": "УИК №953",
     "tikTvd": "21820001338814",
-    "tikName": "Сарапульская городская"
+    "tikName": "Сарапульская городская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4184001352954",
+    "uikName": "УИК №1001",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4184001352955",
+    "uikName": "УИК №1002",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4184001352956",
+    "uikName": "УИК №1003",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4184001352957",
+    "uikName": "УИК №1004",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4184001352958",
+    "uikName": "УИК №1005",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4184001352959",
+    "uikName": "УИК №1006",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4184001352960",
+    "uikName": "УИК №1007",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4184001352961",
+    "uikName": "УИК №1008",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4184001352962",
+    "uikName": "УИК №1009",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4184001352963",
+    "uikName": "УИК №1010",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4184001352964",
+    "uikName": "УИК №1011",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4184001352965",
+    "uikName": "УИК №1012",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4184001352966",
+    "uikName": "УИК №1013",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4184001352967",
+    "uikName": "УИК №1014",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4184001352968",
+    "uikName": "УИК №1015",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4184001352969",
+    "uikName": "УИК №1016",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4184001352970",
+    "uikName": "УИК №1017",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4184001352971",
+    "uikName": "УИК №1018",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4184001352972",
+    "uikName": "УИК №1019",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4184001352973",
+    "uikName": "УИК №1020",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4184001352974",
+    "uikName": "УИК №1021",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4184001352975",
+    "uikName": "УИК №1022",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4184001352976",
+    "uikName": "УИК №1023",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4184001352977",
+    "uikName": "УИК №1024",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4184001352978",
+    "uikName": "УИК №1025",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4184001352979",
+    "uikName": "УИК №1026",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4184001352980",
+    "uikName": "УИК №1027",
     "tikTvd": "21820001338840",
-    "tikName": "Алнашская"
+    "tikName": "Алнашская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4184002424927",
+    "uikName": "УИК №1101",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4184002424928",
+    "uikName": "УИК №1102",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4184002424929",
+    "uikName": "УИК №1103",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4184002424930",
+    "uikName": "УИК №1104",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4184002424931",
+    "uikName": "УИК №1105",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4184002424932",
+    "uikName": "УИК №1106",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4184002424933",
+    "uikName": "УИК №1107",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4184002424934",
+    "uikName": "УИК №1108",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4184002424935",
+    "uikName": "УИК №1109",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4184002424936",
+    "uikName": "УИК №1110",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4184002424937",
+    "uikName": "УИК №1111",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4184002424938",
+    "uikName": "УИК №1112",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4184002424939",
+    "uikName": "УИК №1113",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4184002424940",
+    "uikName": "УИК №1114",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4184002424941",
+    "uikName": "УИК №1115",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4184002424942",
+    "uikName": "УИК №1116",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4184002424943",
+    "uikName": "УИК №1117",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4184002424944",
+    "uikName": "УИК №1118",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4184002424945",
+    "uikName": "УИК №1119",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4184002424946",
+    "uikName": "УИК №1120",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4184002424947",
+    "uikName": "УИК №1121",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4184002424948",
+    "uikName": "УИК №1122",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4184002424949",
+    "uikName": "УИК №1123",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4184002424950",
+    "uikName": "УИК №1124",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4184002424951",
+    "uikName": "УИК №1125",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4184002424952",
+    "uikName": "УИК №1126",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4184002424953",
+    "uikName": "УИК №1127",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4184002424954",
+    "uikName": "УИК №1128",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4184002424955",
+    "uikName": "УИК №1129",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4184002424956",
+    "uikName": "УИК №1130",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4184002424957",
+    "uikName": "УИК №1131",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4184002424958",
+    "uikName": "УИК №1132",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4184002424959",
+    "uikName": "УИК №1133",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4184002424960",
+    "uikName": "УИК №1134",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4184002424961",
+    "uikName": "УИК №1135",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4184002424962",
+    "uikName": "УИК №1136",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4184002424963",
+    "uikName": "УИК №1137",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4184002424964",
+    "uikName": "УИК №1138",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4184002424965",
+    "uikName": "УИК №1139",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4184002424966",
+    "uikName": "УИК №1140",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4184002424967",
+    "uikName": "УИК №1141",
     "tikTvd": "21820001338839",
-    "tikName": "Балезинская"
+    "tikName": "Балезинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4184003299735",
+    "uikName": "УИК №1201",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4184003299736",
+    "uikName": "УИК №1202",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4184003299737",
+    "uikName": "УИК №1203",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4184003299738",
+    "uikName": "УИК №1204",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4184003299739",
+    "uikName": "УИК №1205",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4184003299740",
+    "uikName": "УИК №1206",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4184003299741",
+    "uikName": "УИК №1207",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4184003299742",
+    "uikName": "УИК №1208",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4184003299743",
+    "uikName": "УИК №1209",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4184003299744",
+    "uikName": "УИК №1210",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4184003299745",
+    "uikName": "УИК №1211",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4184003299746",
+    "uikName": "УИК №1212",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4184003299747",
+    "uikName": "УИК №1213",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4184003299748",
+    "uikName": "УИК №1214",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4184003299749",
+    "uikName": "УИК №1215",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4184003299750",
+    "uikName": "УИК №1216",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4184003299751",
+    "uikName": "УИК №1217",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4184003299752",
+    "uikName": "УИК №1218",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4184003299753",
+    "uikName": "УИК №1219",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4184003299754",
+    "uikName": "УИК №1220",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4184003299755",
+    "uikName": "УИК №1221",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4184003299756",
+    "uikName": "УИК №1222",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4184003299757",
+    "uikName": "УИК №1223",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4184003299758",
+    "uikName": "УИК №1224",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4184003299759",
+    "uikName": "УИК №1225",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4184003299760",
+    "uikName": "УИК №1226",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4184003299761",
+    "uikName": "УИК №1227",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4184003299762",
+    "uikName": "УИК №1228",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4184003299763",
+    "uikName": "УИК №1229",
     "tikTvd": "21820001338838",
-    "tikName": "Вавожская"
+    "tikName": "Вавожская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4184004333138",
+    "uikName": "УИК №1301",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4184004333139",
+    "uikName": "УИК №1302",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4184004333140",
+    "uikName": "УИК №1303",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4184004333141",
+    "uikName": "УИК №1304",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4184004333142",
+    "uikName": "УИК №1305",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4184004333143",
+    "uikName": "УИК №1306",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4184004333144",
+    "uikName": "УИК №1307",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4184004333145",
+    "uikName": "УИК №1308",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4184004333146",
+    "uikName": "УИК №1309",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4184004333147",
+    "uikName": "УИК №1310",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4184004333148",
+    "uikName": "УИК №1311",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4184004333149",
+    "uikName": "УИК №1312",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4184004333150",
+    "uikName": "УИК №1313",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4184004333151",
+    "uikName": "УИК №1314",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4184004333152",
+    "uikName": "УИК №1315",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4184004333153",
+    "uikName": "УИК №1316",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4184004333154",
+    "uikName": "УИК №1317",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4184004333155",
+    "uikName": "УИК №1318",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4184004333156",
+    "uikName": "УИК №1319",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4184004333157",
+    "uikName": "УИК №1320",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4184004333158",
+    "uikName": "УИК №1321",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4184004333159",
+    "uikName": "УИК №1322",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4184004333160",
+    "uikName": "УИК №1323",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4184004333161",
+    "uikName": "УИК №1324",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4184004333162",
+    "uikName": "УИК №1325",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4184004333163",
+    "uikName": "УИК №1326",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4184004333164",
+    "uikName": "УИК №1327",
     "tikTvd": "21820001338837",
-    "tikName": "Воткинская"
+    "tikName": "Воткинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4184033316828",
+    "uikName": "УИК №1401",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4184033316829",
+    "uikName": "УИК №1402",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4184033316830",
+    "uikName": "УИК №1403",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4184033316831",
+    "uikName": "УИК №1404",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4184033316832",
+    "uikName": "УИК №1405",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4184033316833",
+    "uikName": "УИК №1406",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4184033316834",
+    "uikName": "УИК №1407",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4184033316835",
+    "uikName": "УИК №1408",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4184033316836",
+    "uikName": "УИК №1409",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4184033316837",
+    "uikName": "УИК №1410",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4184033316838",
+    "uikName": "УИК №1411",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4184033316839",
+    "uikName": "УИК №1412",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4184033316840",
+    "uikName": "УИК №1413",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4184033316841",
+    "uikName": "УИК №1414",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4184033316842",
+    "uikName": "УИК №1415",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4184033316843",
+    "uikName": "УИК №1416",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4184033316844",
+    "uikName": "УИК №1417",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4184033316845",
+    "uikName": "УИК №1418",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4184033316846",
+    "uikName": "УИК №1419",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4184033316847",
+    "uikName": "УИК №1420",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4184033316848",
+    "uikName": "УИК №1421",
     "tikTvd": "21820001338835",
-    "tikName": "Глазовская"
+    "tikName": "Глазовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4184006259402",
+    "uikName": "УИК №1501",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4184006259403",
+    "uikName": "УИК №1502",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4184006259404",
+    "uikName": "УИК №1503",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4184006259405",
+    "uikName": "УИК №1504",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4184006259406",
+    "uikName": "УИК №1505",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4184006259407",
+    "uikName": "УИК №1506",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4184006259408",
+    "uikName": "УИК №1507",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4184006259409",
+    "uikName": "УИК №1508",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4184006259410",
+    "uikName": "УИК №1509",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4184006259411",
+    "uikName": "УИК №1510",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4184006259412",
+    "uikName": "УИК №1511",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4184006259413",
+    "uikName": "УИК №1512",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4184006259414",
+    "uikName": "УИК №1513",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4184006259415",
+    "uikName": "УИК №1514",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4184006259416",
+    "uikName": "УИК №1515",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4184006259417",
+    "uikName": "УИК №1516",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4184006259418",
+    "uikName": "УИК №1517",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4184006259419",
+    "uikName": "УИК №1518",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4184006259420",
+    "uikName": "УИК №1519",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4184006259421",
+    "uikName": "УИК №1520",
     "tikTvd": "21820001338833",
-    "tikName": "Граховская"
+    "tikName": "Граховская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4184007274496",
+    "uikName": "УИК №1601",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4184007274497",
+    "uikName": "УИК №1602",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4184007274498",
+    "uikName": "УИК №1603",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4184007274499",
+    "uikName": "УИК №1604",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4184007274500",
+    "uikName": "УИК №1605",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4184007274501",
+    "uikName": "УИК №1606",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4184007274502",
+    "uikName": "УИК №1607",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4184007274503",
+    "uikName": "УИК №1608",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4184007274504",
+    "uikName": "УИК №1609",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4184007274505",
+    "uikName": "УИК №1610",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4184007274506",
+    "uikName": "УИК №1611",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4184007274507",
+    "uikName": "УИК №1612",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4184007274508",
+    "uikName": "УИК №1613",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4184007274509",
+    "uikName": "УИК №1614",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4184007274510",
+    "uikName": "УИК №1615",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4184007274511",
+    "uikName": "УИК №1616",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4184007274512",
+    "uikName": "УИК №1617",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4184007274513",
+    "uikName": "УИК №1618",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4184007274514",
+    "uikName": "УИК №1619",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4184007274515",
+    "uikName": "УИК №1620",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4184007274516",
+    "uikName": "УИК №1621",
     "tikTvd": "21820001338832",
-    "tikName": "Дебесская"
+    "tikName": "Дебесская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4184008604134",
+    "uikName": "УИК №1701",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4184008604135",
+    "uikName": "УИК №1702",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4184008604136",
+    "uikName": "УИК №1703",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4184008604137",
+    "uikName": "УИК №1704",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4184008604138",
+    "uikName": "УИК №1705",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4184008604139",
+    "uikName": "УИК №1706",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4184008604140",
+    "uikName": "УИК №1707",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4184008604141",
+    "uikName": "УИК №1708",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4184008604142",
+    "uikName": "УИК №1709",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4184008604143",
+    "uikName": "УИК №1710",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4184008604144",
+    "uikName": "УИК №1711",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4184008604145",
+    "uikName": "УИК №1712",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4184008604146",
+    "uikName": "УИК №1713",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4184008604147",
+    "uikName": "УИК №1714",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4184008604148",
+    "uikName": "УИК №1715",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4184008604149",
+    "uikName": "УИК №1716",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4184008604150",
+    "uikName": "УИК №1717",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4184008604151",
+    "uikName": "УИК №1718",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4184008604152",
+    "uikName": "УИК №1719",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4184008604153",
+    "uikName": "УИК №1720",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4184008604154",
+    "uikName": "УИК №1721",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4184008604155",
+    "uikName": "УИК №1722",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4184008604156",
+    "uikName": "УИК №1723",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4184008604157",
+    "uikName": "УИК №1724",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4184008604158",
+    "uikName": "УИК №1725",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4184008604159",
+    "uikName": "УИК №1726",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4184008604160",
+    "uikName": "УИК №1727",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4184008604161",
+    "uikName": "УИК №1728",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4184008604162",
+    "uikName": "УИК №1729",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4184008604163",
+    "uikName": "УИК №1730",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4184008604164",
+    "uikName": "УИК №1731",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4184008604165",
+    "uikName": "УИК №1732",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4184008604166",
+    "uikName": "УИК №1733",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4184008604167",
+    "uikName": "УИК №1734",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4184008604168",
+    "uikName": "УИК №1735",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4184008604169",
+    "uikName": "УИК №1736",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4184008604170",
+    "uikName": "УИК №1737",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4184008604171",
+    "uikName": "УИК №1738",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4184008604172",
+    "uikName": "УИК №1739",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4184008604173",
+    "uikName": "УИК №1740",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4184008604174",
+    "uikName": "УИК №1741",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4184008604175",
+    "uikName": "УИК №1742",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4184008604176",
+    "uikName": "УИК №1743",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4184008604177",
+    "uikName": "УИК №1744",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4184008604178",
+    "uikName": "УИК №1745",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4184008604179",
+    "uikName": "УИК №1746",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4184008604180",
+    "uikName": "УИК №1747",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4184008604181",
+    "uikName": "УИК №1748",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4184008604182",
+    "uikName": "УИК №1749",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4184008604183",
+    "uikName": "УИК №1750",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4184008604184",
+    "uikName": "УИК №1751",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4184008604185",
+    "uikName": "УИК №1752",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4184008604186",
+    "uikName": "УИК №1753",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4184008604187",
+    "uikName": "УИК №1754",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4184008604188",
+    "uikName": "УИК №1755",
     "tikTvd": "21820001338831",
-    "tikName": "Завьяловская"
+    "tikName": "Завьяловская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4184009526678",
+    "uikName": "УИК №1801",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4184009526679",
+    "uikName": "УИК №1802",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4184009526680",
+    "uikName": "УИК №1803",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4184009526681",
+    "uikName": "УИК №1804",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4184009526682",
+    "uikName": "УИК №1805",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4184009526683",
+    "uikName": "УИК №1806",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4184009526684",
+    "uikName": "УИК №1807",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4184009526685",
+    "uikName": "УИК №1808",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4184009526686",
+    "uikName": "УИК №1809",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4184009526687",
+    "uikName": "УИК №1810",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4184009526688",
+    "uikName": "УИК №1811",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4184009526689",
+    "uikName": "УИК №1812",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4184009526690",
+    "uikName": "УИК №1813",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4184009526691",
+    "uikName": "УИК №1814",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4184009526692",
+    "uikName": "УИК №1815",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4184009526693",
+    "uikName": "УИК №1816",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4184009526694",
+    "uikName": "УИК №1817",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4184009526695",
+    "uikName": "УИК №1818",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4184009526696",
+    "uikName": "УИК №1819",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4184009526697",
+    "uikName": "УИК №1820",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4184009526698",
+    "uikName": "УИК №1821",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4184009526699",
+    "uikName": "УИК №1822",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4184009526700",
+    "uikName": "УИК №1823",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4184009526701",
+    "uikName": "УИК №1824",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4184009526702",
+    "uikName": "УИК №1825",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4184009526703",
+    "uikName": "УИК №1826",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4184009526704",
+    "uikName": "УИК №1827",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4184009526705",
+    "uikName": "УИК №1828",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4184009526706",
+    "uikName": "УИК №1829",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4184009526707",
+    "uikName": "УИК №1830",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4184009526708",
+    "uikName": "УИК №1831",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4184009526709",
+    "uikName": "УИК №1832",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4184009526710",
+    "uikName": "УИК №1833",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4184009526711",
+    "uikName": "УИК №1834",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4184009526712",
+    "uikName": "УИК №1835",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4184009526713",
+    "uikName": "УИК №1836",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4184009526714",
+    "uikName": "УИК №1837",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4184009526715",
+    "uikName": "УИК №1838",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4184009526716",
+    "uikName": "УИК №1839",
     "tikTvd": "21820001338830",
-    "tikName": "Игринская"
+    "tikName": "Игринская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4184015402753",
+    "uikName": "УИК №1901",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4184015402754",
+    "uikName": "УИК №1902",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4184015402755",
+    "uikName": "УИК №1903",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4184015402756",
+    "uikName": "УИК №1904",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4184015402757",
+    "uikName": "УИК №1905",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4184015402758",
+    "uikName": "УИК №1906",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4184015402759",
+    "uikName": "УИК №1907",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4184015402760",
+    "uikName": "УИК №1908",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4184015402761",
+    "uikName": "УИК №1909",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4184015402762",
+    "uikName": "УИК №1910",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4184015402763",
+    "uikName": "УИК №1911",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4184015402764",
+    "uikName": "УИК №1912",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4184015402765",
+    "uikName": "УИК №1913",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4184015402766",
+    "uikName": "УИК №1914",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4184015402767",
+    "uikName": "УИК №1915",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4184015402768",
+    "uikName": "УИК №1916",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4184015402769",
+    "uikName": "УИК №1917",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4184015402770",
+    "uikName": "УИК №1918",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4184015402771",
+    "uikName": "УИК №1919",
     "tikTvd": "21820001338824",
-    "tikName": "Камбарская"
+    "tikName": "Камбарская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4184016265242",
+    "uikName": "УИК №2001",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4184016265243",
+    "uikName": "УИК №2002",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4184016265244",
+    "uikName": "УИК №2003",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4184016265245",
+    "uikName": "УИК №2004",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4184016265246",
+    "uikName": "УИК №2005",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4184016265247",
+    "uikName": "УИК №2006",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4184016265248",
+    "uikName": "УИК №2007",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4184016265249",
+    "uikName": "УИК №2008",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4184016265250",
+    "uikName": "УИК №2009",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4184016265251",
+    "uikName": "УИК №2010",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4184016265252",
+    "uikName": "УИК №2011",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4184016265253",
+    "uikName": "УИК №2012",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4184016265254",
+    "uikName": "УИК №2013",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4184016265255",
+    "uikName": "УИК №2014",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4184016265256",
+    "uikName": "УИК №2015",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4184016265257",
+    "uikName": "УИК №2016",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4184016265258",
+    "uikName": "УИК №2017",
     "tikTvd": "21820001338823",
-    "tikName": "Каракулинская"
+    "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4184017386814",
+    "uikName": "УИК №2101",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4184017386815",
+    "uikName": "УИК №2102",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4184017386816",
+    "uikName": "УИК №2103",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4184017386817",
+    "uikName": "УИК №2104",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4184017386818",
+    "uikName": "УИК №2105",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4184017386819",
+    "uikName": "УИК №2106",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4184017386820",
+    "uikName": "УИК №2107",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4184017386821",
+    "uikName": "УИК №2108",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4184017386822",
+    "uikName": "УИК №2109",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4184017386823",
+    "uikName": "УИК №2110",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4184017386824",
+    "uikName": "УИК №2111",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4184017386825",
+    "uikName": "УИК №2112",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4184017386826",
+    "uikName": "УИК №2113",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4184017386827",
+    "uikName": "УИК №2114",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4184017386828",
+    "uikName": "УИК №2115",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4184017386829",
+    "uikName": "УИК №2116",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4184017386830",
+    "uikName": "УИК №2117",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4184017386831",
+    "uikName": "УИК №2118",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4184017386832",
+    "uikName": "УИК №2119",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4184017386833",
+    "uikName": "УИК №2120",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4184017386834",
+    "uikName": "УИК №2121",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4184017386835",
+    "uikName": "УИК №2122",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4184017386836",
+    "uikName": "УИК №2123",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4184017386837",
+    "uikName": "УИК №2124",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4184017386838",
+    "uikName": "УИК №2125",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4184017386839",
+    "uikName": "УИК №2126",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4184017386840",
+    "uikName": "УИК №2127",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4184017386841",
+    "uikName": "УИК №2128",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4184017386842",
+    "uikName": "УИК №2129",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4184017386843",
+    "uikName": "УИК №2130",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4184017386844",
+    "uikName": "УИК №2131",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4184017386845",
+    "uikName": "УИК №2132",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4184017386846",
+    "uikName": "УИК №2133",
     "tikTvd": "21820001338822",
-    "tikName": "Кезская"
+    "tikName": "Кезская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4184018294405",
+    "uikName": "УИК №2201",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4184018294406",
+    "uikName": "УИК №2202",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4184018294407",
+    "uikName": "УИК №2203",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4184018294408",
+    "uikName": "УИК №2204",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4184018294409",
+    "uikName": "УИК №2205",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4184018294410",
+    "uikName": "УИК №2206",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4184018294411",
+    "uikName": "УИК №2207",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4184018294412",
+    "uikName": "УИК №2208",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4184018294413",
+    "uikName": "УИК №2209",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4184018294414",
+    "uikName": "УИК №2210",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4184018294415",
+    "uikName": "УИК №2211",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4184018294416",
+    "uikName": "УИК №2212",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4184018294417",
+    "uikName": "УИК №2213",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4184018294418",
+    "uikName": "УИК №2214",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4184018294419",
+    "uikName": "УИК №2215",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4184018294420",
+    "uikName": "УИК №2216",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4184018294421",
+    "uikName": "УИК №2217",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4184018294422",
+    "uikName": "УИК №2218",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4184018294423",
+    "uikName": "УИК №2219",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4184018294424",
+    "uikName": "УИК №2220",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4184018294425",
+    "uikName": "УИК №2221",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4184018294426",
+    "uikName": "УИК №2222",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4184018294427",
+    "uikName": "УИК №2223",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4184018294428",
+    "uikName": "УИК №2224",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4184018294429",
+    "uikName": "УИК №2225",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4184018294430",
+    "uikName": "УИК №2226",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4184018294431",
+    "uikName": "УИК №2227",
     "tikTvd": "21820001338821",
-    "tikName": "Кизнерская"
+    "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4184019278518",
+    "uikName": "УИК №2301",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4184019278519",
+    "uikName": "УИК №2302",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4184019278520",
+    "uikName": "УИК №2303",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4184019278521",
+    "uikName": "УИК №2304",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4184019278522",
+    "uikName": "УИК №2305",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4184019278523",
+    "uikName": "УИК №2306",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4184019278524",
+    "uikName": "УИК №2307",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4184019278525",
+    "uikName": "УИК №2308",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4184019278526",
+    "uikName": "УИК №2309",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4184019278527",
+    "uikName": "УИК №2310",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4184019278528",
+    "uikName": "УИК №2311",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4184019278529",
+    "uikName": "УИК №2312",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4184019278530",
+    "uikName": "УИК №2313",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4184019278531",
+    "uikName": "УИК №2314",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4184019278532",
+    "uikName": "УИК №2315",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4184019278533",
+    "uikName": "УИК №2316",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4184019278534",
+    "uikName": "УИК №2317",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4184019278535",
+    "uikName": "УИК №2318",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4184019278536",
+    "uikName": "УИК №2319",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4184019278537",
+    "uikName": "УИК №2320",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2321,
     "uikTvd": "4184019278538",
+    "uikName": "УИК №2321",
     "tikTvd": "21820001338820",
-    "tikName": "Киясовская"
+    "tikName": "Киясовская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4184020252730",
+    "uikName": "УИК №2401",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4184020252731",
+    "uikName": "УИК №2402",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4184020252732",
+    "uikName": "УИК №2403",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4184020252733",
+    "uikName": "УИК №2404",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4184020252734",
+    "uikName": "УИК №2405",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4184020252735",
+    "uikName": "УИК №2406",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4184020252736",
+    "uikName": "УИК №2407",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4184020252737",
+    "uikName": "УИК №2408",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4184020252738",
+    "uikName": "УИК №2409",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4184020252739",
+    "uikName": "УИК №2410",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4184020252740",
+    "uikName": "УИК №2411",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4184020252741",
+    "uikName": "УИК №2412",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4184020252742",
+    "uikName": "УИК №2413",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4184020252743",
+    "uikName": "УИК №2414",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4184020252744",
+    "uikName": "УИК №2415",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4184020252745",
+    "uikName": "УИК №2416",
     "tikTvd": "21820001338819",
-    "tikName": "Красногорская"
+    "tikName": "Красногорская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4184021336073",
+    "uikName": "УИК №2501",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4184021336074",
+    "uikName": "УИК №2502",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4184021336075",
+    "uikName": "УИК №2503",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4184021336076",
+    "uikName": "УИК №2504",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4184021336077",
+    "uikName": "УИК №2505",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4184021336078",
+    "uikName": "УИК №2506",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4184021336079",
+    "uikName": "УИК №2507",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4184021336080",
+    "uikName": "УИК №2508",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4184021336081",
+    "uikName": "УИК №2509",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4184021336082",
+    "uikName": "УИК №2510",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4184021336083",
+    "uikName": "УИК №2511",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4184021336084",
+    "uikName": "УИК №2512",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4184021336085",
+    "uikName": "УИК №2513",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4184021336086",
+    "uikName": "УИК №2514",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4184021336087",
+    "uikName": "УИК №2515",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4184021336088",
+    "uikName": "УИК №2516",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4184021336089",
+    "uikName": "УИК №2517",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4184021336090",
+    "uikName": "УИК №2518",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4184021336091",
+    "uikName": "УИК №2519",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4184021336092",
+    "uikName": "УИК №2520",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2521,
     "uikTvd": "4184021336093",
+    "uikName": "УИК №2521",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2522,
     "uikTvd": "4184021336094",
+    "uikName": "УИК №2522",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2523,
     "uikTvd": "4184021336095",
+    "uikName": "УИК №2523",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2524,
     "uikTvd": "4184021336096",
+    "uikName": "УИК №2524",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2525,
     "uikTvd": "4184021336097",
+    "uikName": "УИК №2525",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2526,
     "uikTvd": "4184021336098",
+    "uikName": "УИК №2526",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2527,
     "uikTvd": "4184021336099",
+    "uikName": "УИК №2527",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2528,
     "uikTvd": "4184021336100",
+    "uikName": "УИК №2528",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2529,
     "uikTvd": "4184021336101",
+    "uikName": "УИК №2529",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2530,
     "uikTvd": "4184021336102",
+    "uikName": "УИК №2530",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2531,
     "uikTvd": "4184021336103",
+    "uikName": "УИК №2531",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2532,
     "uikTvd": "4184021336104",
+    "uikName": "УИК №2532",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2533,
     "uikTvd": "4184021336105",
+    "uikName": "УИК №2533",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2534,
     "uikTvd": "4184021336106",
+    "uikName": "УИК №2534",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2535,
     "uikTvd": "4184021336107",
+    "uikName": "УИК №2535",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2536,
     "uikTvd": "4184021336108",
+    "uikName": "УИК №2536",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2537,
     "uikTvd": "4184021336109",
+    "uikName": "УИК №2537",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2538,
     "uikTvd": "4184021336110",
+    "uikName": "УИК №2538",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2539,
     "uikTvd": "4184021336111",
+    "uikName": "УИК №2539",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2540,
     "uikTvd": "4184021336112",
+    "uikName": "УИК №2540",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2541,
     "uikTvd": "4184021336113",
+    "uikName": "УИК №2541",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2542,
     "uikTvd": "4184021336114",
+    "uikName": "УИК №2542",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2543,
     "uikTvd": "4184021336115",
+    "uikName": "УИК №2543",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2544,
     "uikTvd": "4184021336116",
+    "uikName": "УИК №2544",
     "tikTvd": "21820001338818",
-    "tikName": "Малопургинская"
+    "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4184022298453",
+    "uikName": "УИК №2601",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4184022298454",
+    "uikName": "УИК №2602",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4184022298455",
+    "uikName": "УИК №2603",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4184022298456",
+    "uikName": "УИК №2604",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4184022298457",
+    "uikName": "УИК №2605",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4184022298458",
+    "uikName": "УИК №2606",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4184022298459",
+    "uikName": "УИК №2607",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4184022298460",
+    "uikName": "УИК №2608",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4184022298461",
+    "uikName": "УИК №2609",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4184022298462",
+    "uikName": "УИК №2610",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4184022298463",
+    "uikName": "УИК №2611",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4184022298464",
+    "uikName": "УИК №2612",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4184022298465",
+    "uikName": "УИК №2613",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4184022298466",
+    "uikName": "УИК №2614",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4184022298467",
+    "uikName": "УИК №2615",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4184022298468",
+    "uikName": "УИК №2616",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4184022298469",
+    "uikName": "УИК №2617",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4184022298470",
+    "uikName": "УИК №2618",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4184022298471",
+    "uikName": "УИК №2619",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4184022298472",
+    "uikName": "УИК №2620",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4184022298473",
+    "uikName": "УИК №2621",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4184022298474",
+    "uikName": "УИК №2622",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4184022298475",
+    "uikName": "УИК №2623",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4184022298476",
+    "uikName": "УИК №2624",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4184022298477",
+    "uikName": "УИК №2625",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4184022298478",
+    "uikName": "УИК №2626",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2627,
     "uikTvd": "4184022298479",
+    "uikName": "УИК №2627",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2628,
     "uikTvd": "4184022298480",
+    "uikName": "УИК №2628",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2629,
     "uikTvd": "4184022298481",
+    "uikName": "УИК №2629",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2630,
     "uikTvd": "4184022298482",
+    "uikName": "УИК №2630",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2631,
     "uikTvd": "4184022298483",
+    "uikName": "УИК №2631",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2632,
     "uikTvd": "4184022298484",
+    "uikName": "УИК №2632",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2633,
     "uikTvd": "4184022298485",
+    "uikName": "УИК №2633",
     "tikTvd": "21820001338817",
-    "tikName": "Можгинская"
+    "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4184024372408",
+    "uikName": "УИК №2701",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4184024372409",
+    "uikName": "УИК №2702",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4184024372410",
+    "uikName": "УИК №2703",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4184024372411",
+    "uikName": "УИК №2704",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4184024372412",
+    "uikName": "УИК №2705",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4184024372413",
+    "uikName": "УИК №2706",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4184024372414",
+    "uikName": "УИК №2707",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4184024372415",
+    "uikName": "УИК №2708",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4184024372416",
+    "uikName": "УИК №2709",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4184024372417",
+    "uikName": "УИК №2710",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4184024372418",
+    "uikName": "УИК №2711",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4184024372419",
+    "uikName": "УИК №2712",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4184024372420",
+    "uikName": "УИК №2713",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4184024372421",
+    "uikName": "УИК №2714",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4184024372422",
+    "uikName": "УИК №2715",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4184024372423",
+    "uikName": "УИК №2716",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4184024372424",
+    "uikName": "УИК №2717",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4184024372425",
+    "uikName": "УИК №2718",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4184024372426",
+    "uikName": "УИК №2719",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4184024372427",
+    "uikName": "УИК №2720",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4184024372428",
+    "uikName": "УИК №2721",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4184024372429",
+    "uikName": "УИК №2722",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4184024372430",
+    "uikName": "УИК №2723",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4184024372431",
+    "uikName": "УИК №2724",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2725,
     "uikTvd": "4184024372432",
+    "uikName": "УИК №2725",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2726,
     "uikTvd": "4184024372433",
+    "uikName": "УИК №2726",
     "tikTvd": "21820001338815",
-    "tikName": "Сарапульская"
+    "tikName": "Сарапульская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4184025255341",
+    "uikName": "УИК №2801",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4184025255342",
+    "uikName": "УИК №2802",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4184025255343",
+    "uikName": "УИК №2803",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4184025255344",
+    "uikName": "УИК №2804",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4184025255345",
+    "uikName": "УИК №2805",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4184025255346",
+    "uikName": "УИК №2806",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4184025255347",
+    "uikName": "УИК №2807",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4184025255348",
+    "uikName": "УИК №2808",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4184025255349",
+    "uikName": "УИК №2809",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4184025255350",
+    "uikName": "УИК №2810",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4184025255351",
+    "uikName": "УИК №2811",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4184025255352",
+    "uikName": "УИК №2812",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4184025255353",
+    "uikName": "УИК №2813",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4184025255354",
+    "uikName": "УИК №2814",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4184025255355",
+    "uikName": "УИК №2815",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4184025255356",
+    "uikName": "УИК №2816",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4184025255357",
+    "uikName": "УИК №2817",
     "tikTvd": "21820001338813",
-    "tikName": "Селтинская"
+    "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4184026301762",
+    "uikName": "УИК №2901",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4184026301763",
+    "uikName": "УИК №2902",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4184026301764",
+    "uikName": "УИК №2903",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4184026301765",
+    "uikName": "УИК №2904",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4184026301766",
+    "uikName": "УИК №2905",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4184026301767",
+    "uikName": "УИК №2906",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4184026301768",
+    "uikName": "УИК №2907",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4184026301769",
+    "uikName": "УИК №2908",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4184026301770",
+    "uikName": "УИК №2909",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4184026301771",
+    "uikName": "УИК №2910",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4184026301772",
+    "uikName": "УИК №2911",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4184026301773",
+    "uikName": "УИК №2912",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4184026301774",
+    "uikName": "УИК №2913",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4184026301775",
+    "uikName": "УИК №2914",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4184026301776",
+    "uikName": "УИК №2915",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4184026301777",
+    "uikName": "УИК №2916",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4184026301778",
+    "uikName": "УИК №2917",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2918,
     "uikTvd": "4184026301779",
+    "uikName": "УИК №2918",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4184026301780",
+    "uikName": "УИК №2919",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4184026301781",
+    "uikName": "УИК №2920",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4184026301782",
+    "uikName": "УИК №2921",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4184026301783",
+    "uikName": "УИК №2922",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4184026301784",
+    "uikName": "УИК №2923",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2924,
     "uikTvd": "4184026301785",
+    "uikName": "УИК №2924",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 2925,
     "uikTvd": "4184026301786",
+    "uikName": "УИК №2925",
     "tikTvd": "21820001338812",
-    "tikName": "Сюмсинская"
+    "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4184027480932",
+    "uikName": "УИК №3001",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4184027480933",
+    "uikName": "УИК №3002",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4184027480934",
+    "uikName": "УИК №3003",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4184027480935",
+    "uikName": "УИК №3004",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4184027480936",
+    "uikName": "УИК №3005",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4184027480937",
+    "uikName": "УИК №3006",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4184027480938",
+    "uikName": "УИК №3007",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3008,
     "uikTvd": "4184027480939",
+    "uikName": "УИК №3008",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4184027480940",
+    "uikName": "УИК №3009",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4184027480941",
+    "uikName": "УИК №3010",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3011,
     "uikTvd": "4184027480942",
+    "uikName": "УИК №3011",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4184027480943",
+    "uikName": "УИК №3012",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4184027480944",
+    "uikName": "УИК №3013",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4184027480945",
+    "uikName": "УИК №3014",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3015,
     "uikTvd": "4184027480946",
+    "uikName": "УИК №3015",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3016,
     "uikTvd": "4184027480947",
+    "uikName": "УИК №3016",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4184027480948",
+    "uikName": "УИК №3017",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3018,
     "uikTvd": "4184027480949",
+    "uikName": "УИК №3018",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3019,
     "uikTvd": "4184027480950",
+    "uikName": "УИК №3019",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4184027480951",
+    "uikName": "УИК №3020",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3021,
     "uikTvd": "4184027480952",
+    "uikName": "УИК №3021",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3022,
     "uikTvd": "4184027480953",
+    "uikName": "УИК №3022",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3023,
     "uikTvd": "4184027480954",
+    "uikName": "УИК №3023",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3024,
     "uikTvd": "4184027480955",
+    "uikName": "УИК №3024",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3025,
     "uikTvd": "4184027480956",
+    "uikName": "УИК №3025",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3026,
     "uikTvd": "4184027480957",
+    "uikName": "УИК №3026",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3027,
     "uikTvd": "4184027480958",
+    "uikName": "УИК №3027",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3028,
     "uikTvd": "4184027480959",
+    "uikName": "УИК №3028",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3029,
     "uikTvd": "4184027480960",
+    "uikName": "УИК №3029",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3030,
     "uikTvd": "4184027480961",
+    "uikName": "УИК №3030",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3031,
     "uikTvd": "4184027480962",
+    "uikName": "УИК №3031",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3032,
     "uikTvd": "4184027480963",
+    "uikName": "УИК №3032",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3033,
     "uikTvd": "4184027480964",
+    "uikName": "УИК №3033",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3034,
     "uikTvd": "4184027480965",
+    "uikName": "УИК №3034",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3035,
     "uikTvd": "4184027480966",
+    "uikName": "УИК №3035",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3036,
     "uikTvd": "4184027480967",
+    "uikName": "УИК №3036",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3037,
     "uikTvd": "4184027480968",
+    "uikName": "УИК №3037",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3038,
     "uikTvd": "4184027480969",
+    "uikName": "УИК №3038",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3039,
     "uikTvd": "4184027480970",
+    "uikName": "УИК №3039",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3040,
     "uikTvd": "4184027480971",
+    "uikName": "УИК №3040",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3041,
     "uikTvd": "4184027480972",
+    "uikName": "УИК №3041",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3042,
     "uikTvd": "4184027480973",
+    "uikName": "УИК №3042",
     "tikTvd": "21820001338811",
-    "tikName": "Увинская"
+    "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4184028349215",
+    "uikName": "УИК №3101",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3102,
     "uikTvd": "4184028349216",
+    "uikName": "УИК №3102",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4184028349217",
+    "uikName": "УИК №3103",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3104,
     "uikTvd": "4184028349218",
+    "uikName": "УИК №3104",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4184028349219",
+    "uikName": "УИК №3105",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4184028349220",
+    "uikName": "УИК №3106",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4184028349221",
+    "uikName": "УИК №3107",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3108,
     "uikTvd": "4184028349222",
+    "uikName": "УИК №3108",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4184028349223",
+    "uikName": "УИК №3109",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3110,
     "uikTvd": "4184028349224",
+    "uikName": "УИК №3110",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3111,
     "uikTvd": "4184028349225",
+    "uikName": "УИК №3111",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4184028349226",
+    "uikName": "УИК №3112",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4184028349227",
+    "uikName": "УИК №3113",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4184028349228",
+    "uikName": "УИК №3114",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4184028349229",
+    "uikName": "УИК №3115",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3116,
     "uikTvd": "4184028349230",
+    "uikName": "УИК №3116",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4184028349231",
+    "uikName": "УИК №3117",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3118,
     "uikTvd": "4184028349232",
+    "uikName": "УИК №3118",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3119,
     "uikTvd": "4184028349233",
+    "uikName": "УИК №3119",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3120,
     "uikTvd": "4184028349234",
+    "uikName": "УИК №3120",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4184028349235",
+    "uikName": "УИК №3121",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3122,
     "uikTvd": "4184028349236",
+    "uikName": "УИК №3122",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3123,
     "uikTvd": "4184028349237",
+    "uikName": "УИК №3123",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3124,
     "uikTvd": "4184028349238",
+    "uikName": "УИК №3124",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3125,
     "uikTvd": "4184028349239",
+    "uikName": "УИК №3125",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3126,
     "uikTvd": "4184028349240",
+    "uikName": "УИК №3126",
     "tikTvd": "21820001338810",
-    "tikName": "Шарканская"
+    "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4184029265270",
+    "uikName": "УИК №3201",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3202,
     "uikTvd": "4184029265271",
+    "uikName": "УИК №3202",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4184029265272",
+    "uikName": "УИК №3203",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3204,
     "uikTvd": "4184029265273",
+    "uikName": "УИК №3204",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3205,
     "uikTvd": "4184029265274",
+    "uikName": "УИК №3205",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3206,
     "uikTvd": "4184029265275",
+    "uikName": "УИК №3206",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4184029265276",
+    "uikName": "УИК №3207",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3208,
     "uikTvd": "4184029265277",
+    "uikName": "УИК №3208",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3209,
     "uikTvd": "4184029265278",
+    "uikName": "УИК №3209",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4184029265279",
+    "uikName": "УИК №3210",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3211,
     "uikTvd": "4184029265280",
+    "uikName": "УИК №3211",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4184029265281",
+    "uikName": "УИК №3212",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3213,
     "uikTvd": "4184029265282",
+    "uikName": "УИК №3213",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4184029265283",
+    "uikName": "УИК №3214",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3215,
     "uikTvd": "4184029265284",
+    "uikName": "УИК №3215",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3216,
     "uikTvd": "4184029265285",
+    "uikName": "УИК №3216",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3217,
     "uikTvd": "4184029265286",
+    "uikName": "УИК №3217",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3218,
     "uikTvd": "4184029265287",
+    "uikName": "УИК №3218",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4184029265288",
+    "uikName": "УИК №3219",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3220,
     "uikTvd": "4184029265289",
+    "uikName": "УИК №3220",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4184029265290",
+    "uikName": "УИК №3221",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3222,
     "uikTvd": "4184029265291",
+    "uikName": "УИК №3222",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4184029265292",
+    "uikName": "УИК №3223",
     "tikTvd": "21820001338809",
-    "tikName": "Юкаменская"
+    "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4184030356775",
+    "uikName": "УИК №3301",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4184030356776",
+    "uikName": "УИК №3302",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4184030356777",
+    "uikName": "УИК №3303",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4184030356778",
+    "uikName": "УИК №3304",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4184030356779",
+    "uikName": "УИК №3305",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4184030356780",
+    "uikName": "УИК №3306",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4184030356781",
+    "uikName": "УИК №3307",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4184030356782",
+    "uikName": "УИК №3308",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4184030356783",
+    "uikName": "УИК №3309",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4184030356784",
+    "uikName": "УИК №3310",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3311,
     "uikTvd": "4184030356785",
+    "uikName": "УИК №3311",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4184030356786",
+    "uikName": "УИК №3312",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4184030356787",
+    "uikName": "УИК №3313",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3314,
     "uikTvd": "4184030356788",
+    "uikName": "УИК №3314",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3315,
     "uikTvd": "4184030356789",
+    "uikName": "УИК №3315",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3316,
     "uikTvd": "4184030356790",
+    "uikName": "УИК №3316",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3317,
     "uikTvd": "4184030356791",
+    "uikName": "УИК №3317",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3318,
     "uikTvd": "4184030356792",
+    "uikName": "УИК №3318",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3319,
     "uikTvd": "4184030356793",
+    "uikName": "УИК №3319",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3320,
     "uikTvd": "4184030356794",
+    "uikName": "УИК №3320",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3321,
     "uikTvd": "4184030356795",
+    "uikName": "УИК №3321",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3322,
     "uikTvd": "4184030356796",
+    "uikName": "УИК №3322",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3323,
     "uikTvd": "4184030356797",
+    "uikName": "УИК №3323",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3324,
     "uikTvd": "4184030356798",
+    "uikName": "УИК №3324",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3325,
     "uikTvd": "4184030356799",
+    "uikName": "УИК №3325",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3326,
     "uikTvd": "4184030356800",
+    "uikName": "УИК №3326",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3327,
     "uikTvd": "4184030356801",
+    "uikName": "УИК №3327",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3328,
     "uikTvd": "4184030356802",
+    "uikName": "УИК №3328",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3329,
     "uikTvd": "4184030356803",
+    "uikName": "УИК №3329",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3330,
     "uikTvd": "4184030356804",
+    "uikName": "УИК №3330",
     "tikTvd": "21820001338808",
-    "tikName": "Якшур-Бодьинская"
+    "tikName": "Якшур-Бодьинская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4184031311914",
+    "uikName": "УИК №3401",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4184031311915",
+    "uikName": "УИК №3402",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4184031311916",
+    "uikName": "УИК №3403",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4184031311917",
+    "uikName": "УИК №3404",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4184031311918",
+    "uikName": "УИК №3405",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4184031311919",
+    "uikName": "УИК №3406",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4184031311920",
+    "uikName": "УИК №3407",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4184031311921",
+    "uikName": "УИК №3408",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4184031311922",
+    "uikName": "УИК №3409",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4184031311923",
+    "uikName": "УИК №3410",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4184031311924",
+    "uikName": "УИК №3411",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4184031311925",
+    "uikName": "УИК №3412",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4184031311926",
+    "uikName": "УИК №3413",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3414,
     "uikTvd": "4184031311927",
+    "uikName": "УИК №3414",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4184031311928",
+    "uikName": "УИК №3415",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3416,
     "uikTvd": "4184031311929",
+    "uikName": "УИК №3416",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3417,
     "uikTvd": "4184031311931",
+    "uikName": "УИК №3417",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3418,
     "uikTvd": "4184031311932",
+    "uikName": "УИК №3418",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3419,
     "uikTvd": "4184031311933",
+    "uikName": "УИК №3419",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3420,
     "uikTvd": "4184031311934",
+    "uikName": "УИК №3420",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   },
   {
     "uikNumber": 3421,
     "uikTvd": "4184031311935",
+    "uikName": "УИК №3421",
     "tikTvd": "21820001338807",
-    "tikName": "Ярская"
+    "tikName": "Ярская",
+    "regionCode": "18",
+    "regionTvd": "100100339411212",
+    "regionName": "Удмуртская Республика",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];

@@ -7,5641 +7,10341 @@ export const president_2024_uik_to_tik_region_73 = [
   {
     "uikNumber": 1101,
     "uikTvd": "4734001250493",
+    "uikName": "УИК №1101",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4734001250494",
+    "uikName": "УИК №1102",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4734001250495",
+    "uikName": "УИК №1103",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4734001250496",
+    "uikName": "УИК №1104",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4734001250497",
+    "uikName": "УИК №1105",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4734001250498",
+    "uikName": "УИК №1106",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4734001250499",
+    "uikName": "УИК №1107",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4734001250500",
+    "uikName": "УИК №1109",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4734001250501",
+    "uikName": "УИК №1110",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4734001250502",
+    "uikName": "УИК №1112",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4734001250503",
+    "uikName": "УИК №1113",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4734001250504",
+    "uikName": "УИК №1114",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4734001250505",
+    "uikName": "УИК №1116",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4734001250506",
+    "uikName": "УИК №1118",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4734001250507",
+    "uikName": "УИК №1119",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4734001250508",
+    "uikName": "УИК №1120",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4734001252067",
+    "uikName": "УИК №1121",
     "tikTvd": "27320001575897",
-    "tikName": "Базарносызганская"
+    "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4734026327164",
+    "uikName": "УИК №1201",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4734026327165",
+    "uikName": "УИК №1202",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4734026327166",
+    "uikName": "УИК №1203",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4734026327167",
+    "uikName": "УИК №1204",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4734026327168",
+    "uikName": "УИК №1205",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4734026327169",
+    "uikName": "УИК №1206",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4734026327170",
+    "uikName": "УИК №1207",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4734026327171",
+    "uikName": "УИК №1208",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4734026327172",
+    "uikName": "УИК №1209",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4734026327173",
+    "uikName": "УИК №1210",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4734026327174",
+    "uikName": "УИК №1211",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4734026327175",
+    "uikName": "УИК №1212",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4734026327176",
+    "uikName": "УИК №1213",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4734026327177",
+    "uikName": "УИК №1214",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4734026327178",
+    "uikName": "УИК №1215",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4734026327179",
+    "uikName": "УИК №1216",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4734026327180",
+    "uikName": "УИК №1217",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4734026327181",
+    "uikName": "УИК №1218",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4734026327182",
+    "uikName": "УИК №1219",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4734026327183",
+    "uikName": "УИК №1221",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4734026327184",
+    "uikName": "УИК №1222",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4734026327185",
+    "uikName": "УИК №1223",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4734026327186",
+    "uikName": "УИК №1224",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4734026327187",
+    "uikName": "УИК №1226",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4734026327188",
+    "uikName": "УИК №1227",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4734026327189",
+    "uikName": "УИК №1228",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4734026327190",
+    "uikName": "УИК №1229",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4734026327191",
+    "uikName": "УИК №1230",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4734026327192",
+    "uikName": "УИК №1231",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4734026327193",
+    "uikName": "УИК №1232",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4734026327194",
+    "uikName": "УИК №1234",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4734026327195",
+    "uikName": "УИК №1235",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4734026327196",
+    "uikName": "УИК №1236",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4734026327197",
+    "uikName": "УИК №1237",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4734026327198",
+    "uikName": "УИК №1238",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4734026327199",
+    "uikName": "УИК №1239",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4734026327200",
+    "uikName": "УИК №1240",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4734026327201",
+    "uikName": "УИК №1241",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4734026327202",
+    "uikName": "УИК №1242",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4734026327203",
+    "uikName": "УИК №1243",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4734026327204",
+    "uikName": "УИК №1244",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4734026327205",
+    "uikName": "УИК №1246",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4734026327206",
+    "uikName": "УИК №1247",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4734026327207",
+    "uikName": "УИК №1248",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4734026327208",
+    "uikName": "УИК №1249",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4734026327209",
+    "uikName": "УИК №1250",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4734026327210",
+    "uikName": "УИК №1251",
     "tikTvd": "27320001575896",
-    "tikName": "Барышская"
+    "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4734003257675",
+    "uikName": "УИК №1301",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4734003257676",
+    "uikName": "УИК №1302",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4734003257677",
+    "uikName": "УИК №1303",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4734003257678",
+    "uikName": "УИК №1304",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4734003257679",
+    "uikName": "УИК №1306",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4734003257680",
+    "uikName": "УИК №1307",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4734003257681",
+    "uikName": "УИК №1308",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4734003257682",
+    "uikName": "УИК №1309",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4734003257683",
+    "uikName": "УИК №1310",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4734003257684",
+    "uikName": "УИК №1311",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4734003257685",
+    "uikName": "УИК №1312",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4734003257686",
+    "uikName": "УИК №1313",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4734003257687",
+    "uikName": "УИК №1314",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4734003257688",
+    "uikName": "УИК №1315",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4734003257689",
+    "uikName": "УИК №1316",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4734003257690",
+    "uikName": "УИК №1317",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4734003257691",
+    "uikName": "УИК №1318",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4734003257692",
+    "uikName": "УИК №1319",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4734003257693",
+    "uikName": "УИК №1321",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4734003257694",
+    "uikName": "УИК №1322",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4734003257695",
+    "uikName": "УИК №1323",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4734003257696",
+    "uikName": "УИК №1325",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4734003257697",
+    "uikName": "УИК №1326",
     "tikTvd": "27320001575895",
-    "tikName": "Вешкаймская"
+    "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4734005286930",
+    "uikName": "УИК №1401",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4734005286931",
+    "uikName": "УИК №1402",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4734005286932",
+    "uikName": "УИК №1403",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4734005286933",
+    "uikName": "УИК №1404",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4734005286934",
+    "uikName": "УИК №1405",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4734005286935",
+    "uikName": "УИК №1406",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4734005286936",
+    "uikName": "УИК №1407",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4734005286937",
+    "uikName": "УИК №1408",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4734005286938",
+    "uikName": "УИК №1409",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4734005286939",
+    "uikName": "УИК №1410",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4734005286940",
+    "uikName": "УИК №1411",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4734005286941",
+    "uikName": "УИК №1412",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4734005286942",
+    "uikName": "УИК №1413",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4734005286943",
+    "uikName": "УИК №1414",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4734005286944",
+    "uikName": "УИК №1415",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4734005286945",
+    "uikName": "УИК №1416",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4734005286946",
+    "uikName": "УИК №1417",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4734005286947",
+    "uikName": "УИК №1418",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4734005286948",
+    "uikName": "УИК №1419",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4734005286949",
+    "uikName": "УИК №1420",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4734005286950",
+    "uikName": "УИК №1421",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4734005286951",
+    "uikName": "УИК №1422",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4734005286952",
+    "uikName": "УИК №1423",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4734005286953",
+    "uikName": "УИК №1424",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4734005286954",
+    "uikName": "УИК №1426",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4734005286955",
+    "uikName": "УИК №1428",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4734005286956",
+    "uikName": "УИК №1430",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4734005286957",
+    "uikName": "УИК №1431",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4734005286958",
+    "uikName": "УИК №1432",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4734005286959",
+    "uikName": "УИК №1434",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4734005286960",
+    "uikName": "УИК №1435",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4734005286961",
+    "uikName": "УИК №1436",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1437,
     "uikTvd": "4734005286962",
+    "uikName": "УИК №1437",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4734005286963",
+    "uikName": "УИК №1438",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4734005286964",
+    "uikName": "УИК №1439",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4734005286965",
+    "uikName": "УИК №1441",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1442,
     "uikTvd": "4734005286966",
+    "uikName": "УИК №1442",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4734005286967",
+    "uikName": "УИК №1443",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4734005286968",
+    "uikName": "УИК №1444",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1445,
     "uikTvd": "4734005286969",
+    "uikName": "УИК №1445",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4734005286970",
+    "uikName": "УИК №1446",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1447,
     "uikTvd": "4734005286971",
+    "uikName": "УИК №1447",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1448,
     "uikTvd": "4734005286972",
+    "uikName": "УИК №1448",
     "tikTvd": "27320001575893",
-    "tikName": "Инзенская"
+    "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4734006312174",
+    "uikName": "УИК №1501",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4734006312175",
+    "uikName": "УИК №1502",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4734006312176",
+    "uikName": "УИК №1503",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4734006312177",
+    "uikName": "УИК №1504",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4734006312178",
+    "uikName": "УИК №1505",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4734006312179",
+    "uikName": "УИК №1506",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4734006312180",
+    "uikName": "УИК №1507",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4734006312181",
+    "uikName": "УИК №1508",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4734006312182",
+    "uikName": "УИК №1509",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4734006312183",
+    "uikName": "УИК №1510",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4734006312184",
+    "uikName": "УИК №1511",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4734006312185",
+    "uikName": "УИК №1512",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4734006312186",
+    "uikName": "УИК №1513",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4734006312187",
+    "uikName": "УИК №1514",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4734006312188",
+    "uikName": "УИК №1515",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4734006312189",
+    "uikName": "УИК №1516",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4734006312190",
+    "uikName": "УИК №1517",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4734006312191",
+    "uikName": "УИК №1518",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4734006312192",
+    "uikName": "УИК №1519",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4734006312193",
+    "uikName": "УИК №1520",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4734006312194",
+    "uikName": "УИК №1521",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4734006312195",
+    "uikName": "УИК №1522",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4734006312196",
+    "uikName": "УИК №1523",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4734006312197",
+    "uikName": "УИК №1524",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4734006312198",
+    "uikName": "УИК №1525",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4734006312199",
+    "uikName": "УИК №1526",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4734006312200",
+    "uikName": "УИК №1527",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4734006312201",
+    "uikName": "УИК №1528",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4734006312202",
+    "uikName": "УИК №1529",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4734006312203",
+    "uikName": "УИК №1530",
     "tikTvd": "27320001575892",
-    "tikName": "Карсунская"
+    "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4734007260881",
+    "uikName": "УИК №1601",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4734007260882",
+    "uikName": "УИК №1602",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4734007260883",
+    "uikName": "УИК №1603",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4734007260884",
+    "uikName": "УИК №1605",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4734007260885",
+    "uikName": "УИК №1606",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4734007260886",
+    "uikName": "УИК №1607",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4734007260887",
+    "uikName": "УИК №1608",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4734007260888",
+    "uikName": "УИК №1610",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4734007260889",
+    "uikName": "УИК №1611",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4734007260890",
+    "uikName": "УИК №1612",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4734007260891",
+    "uikName": "УИК №1613",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4734007260892",
+    "uikName": "УИК №1614",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4734007260893",
+    "uikName": "УИК №1615",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4734007260894",
+    "uikName": "УИК №1616",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4734007260895",
+    "uikName": "УИК №1617",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4734007260896",
+    "uikName": "УИК №1618",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4734007260897",
+    "uikName": "УИК №1619",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4734007260898",
+    "uikName": "УИК №1620",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4734007260899",
+    "uikName": "УИК №1621",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4734007260900",
+    "uikName": "УИК №1623",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4734007260901",
+    "uikName": "УИК №1624",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4734007260902",
+    "uikName": "УИК №1625",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4734007260903",
+    "uikName": "УИК №1626",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4734007260904",
+    "uikName": "УИК №1627",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4734007260905",
+    "uikName": "УИК №1628",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4734007260906",
+    "uikName": "УИК №1629",
     "tikTvd": "27320001575891",
-    "tikName": "Кузоватовская"
+    "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4734008247843",
+    "uikName": "УИК №1701",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4734008247844",
+    "uikName": "УИК №1702",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4734008247845",
+    "uikName": "УИК №1703",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4734008247846",
+    "uikName": "УИК №1704",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4734008247847",
+    "uikName": "УИК №1705",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4734008247848",
+    "uikName": "УИК №1706",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4734008247849",
+    "uikName": "УИК №1707",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4734008247850",
+    "uikName": "УИК №1708",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4734008247851",
+    "uikName": "УИК №1709",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4734008247852",
+    "uikName": "УИК №1710",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4734008247853",
+    "uikName": "УИК №1711",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4734008247854",
+    "uikName": "УИК №1712",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4734008247855",
+    "uikName": "УИК №1713",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4734008247856",
+    "uikName": "УИК №1714",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4734008247857",
+    "uikName": "УИК №1715",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4734008247858",
+    "uikName": "УИК №1716",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4734008247859",
+    "uikName": "УИК №1717",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4734008247860",
+    "uikName": "УИК №1718",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4734008247861",
+    "uikName": "УИК №1719",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4734008247862",
+    "uikName": "УИК №1720",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4734008247863",
+    "uikName": "УИК №1721",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4734008247864",
+    "uikName": "УИК №1722",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4734008247865",
+    "uikName": "УИК №1723",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4734008247866",
+    "uikName": "УИК №1724",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4734008247867",
+    "uikName": "УИК №1725",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4734008247868",
+    "uikName": "УИК №1726",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4734008247869",
+    "uikName": "УИК №1727",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4734008247870",
+    "uikName": "УИК №1728",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4734008247871",
+    "uikName": "УИК №1729",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4734008247872",
+    "uikName": "УИК №1730",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4734008247873",
+    "uikName": "УИК №1731",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4734008247874",
+    "uikName": "УИК №1732",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4734008247875",
+    "uikName": "УИК №1733",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4734008247876",
+    "uikName": "УИК №1734",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4734008247877",
+    "uikName": "УИК №1735",
     "tikTvd": "27320001575890",
-    "tikName": "Майнская"
+    "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4734027271358",
+    "uikName": "УИК №1801",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4734027271359",
+    "uikName": "УИК №1802",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4734027271360",
+    "uikName": "УИК №1803",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4734027271361",
+    "uikName": "УИК №1804",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4734027271362",
+    "uikName": "УИК №1805",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4734027271363",
+    "uikName": "УИК №1806",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4734027271364",
+    "uikName": "УИК №1807",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4734027271365",
+    "uikName": "УИК №1808",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4734027271366",
+    "uikName": "УИК №1809",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4734027271367",
+    "uikName": "УИК №1810",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4734027271368",
+    "uikName": "УИК №1811",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4734027271369",
+    "uikName": "УИК №1812",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4734027271370",
+    "uikName": "УИК №1813",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4734027271371",
+    "uikName": "УИК №1814",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4734027271372",
+    "uikName": "УИК №1815",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4734027271373",
+    "uikName": "УИК №1816",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4734027271374",
+    "uikName": "УИК №1817",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4734027271375",
+    "uikName": "УИК №1818",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4734027271376",
+    "uikName": "УИК №1819",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4734027271377",
+    "uikName": "УИК №1820",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4734027271378",
+    "uikName": "УИК №1821",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4734027271379",
+    "uikName": "УИК №1822",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4734027271380",
+    "uikName": "УИК №1823",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4734027271381",
+    "uikName": "УИК №1824",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4734027271382",
+    "uikName": "УИК №1825",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4734027271383",
+    "uikName": "УИК №1826",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4734027271384",
+    "uikName": "УИК №1827",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4734027271385",
+    "uikName": "УИК №1828",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4734027271386",
+    "uikName": "УИК №1829",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4734027271387",
+    "uikName": "УИК №1830",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4734027271388",
+    "uikName": "УИК №1831",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4734027271389",
+    "uikName": "УИК №1832",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4734027271390",
+    "uikName": "УИК №1833",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4734027271391",
+    "uikName": "УИК №1835",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4734027271392",
+    "uikName": "УИК №1836",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4734027271393",
+    "uikName": "УИК №1837",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4734027271394",
+    "uikName": "УИК №1838",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4734027271395",
+    "uikName": "УИК №1839",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4734027271396",
+    "uikName": "УИК №1840",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4734027271397",
+    "uikName": "УИК №1842",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4734027271398",
+    "uikName": "УИК №1844",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4734027271399",
+    "uikName": "УИК №1845",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4734027271400",
+    "uikName": "УИК №1846",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4734027271401",
+    "uikName": "УИК №1847",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4734027271402",
+    "uikName": "УИК №1848",
     "tikTvd": "27320001575889",
-    "tikName": "Мелекесская"
+    "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4734009335571",
+    "uikName": "УИК №1901",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4734009335572",
+    "uikName": "УИК №1902",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4734009335573",
+    "uikName": "УИК №1903",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4734009335574",
+    "uikName": "УИК №1904",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4734009335575",
+    "uikName": "УИК №1905",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4734009335576",
+    "uikName": "УИК №1906",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4734009335577",
+    "uikName": "УИК №1907",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4734009335578",
+    "uikName": "УИК №1908",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4734009335579",
+    "uikName": "УИК №1909",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4734009335580",
+    "uikName": "УИК №1910",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4734009335581",
+    "uikName": "УИК №1913",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4734009335582",
+    "uikName": "УИК №1914",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4734009335583",
+    "uikName": "УИК №1915",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4734009335584",
+    "uikName": "УИК №1916",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4734009335585",
+    "uikName": "УИК №1917",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4734009335586",
+    "uikName": "УИК №1918",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4734009335587",
+    "uikName": "УИК №1919",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4734009335588",
+    "uikName": "УИК №1920",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4734009335589",
+    "uikName": "УИК №1921",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4734009335590",
+    "uikName": "УИК №1922",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4734009335591",
+    "uikName": "УИК №1923",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4734009335592",
+    "uikName": "УИК №1924",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4734009335593",
+    "uikName": "УИК №1925",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4734009335594",
+    "uikName": "УИК №1926",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4734009335595",
+    "uikName": "УИК №1927",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4734009335596",
+    "uikName": "УИК №1928",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4734009335597",
+    "uikName": "УИК №1929",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4734009335598",
+    "uikName": "УИК №1930",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4734009335599",
+    "uikName": "УИК №1931",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4734009335600",
+    "uikName": "УИК №1932",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4734009335601",
+    "uikName": "УИК №1933",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4734009335602",
+    "uikName": "УИК №1934",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1935,
     "uikTvd": "4734009335603",
+    "uikName": "УИК №1935",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 1936,
     "uikTvd": "4734009335604",
+    "uikName": "УИК №1936",
     "tikTvd": "27320001575888",
-    "tikName": "Николаевская"
+    "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4734010220772",
+    "uikName": "УИК №2001",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4734010220773",
+    "uikName": "УИК №2002",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4734010220774",
+    "uikName": "УИК №2003",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4734010220775",
+    "uikName": "УИК №2004",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4734010220776",
+    "uikName": "УИК №2005",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4734010220777",
+    "uikName": "УИК №2006",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4734010220778",
+    "uikName": "УИК №2007",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4734010220779",
+    "uikName": "УИК №2008",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4734010220780",
+    "uikName": "УИК №2009",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4734010220781",
+    "uikName": "УИК №2010",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4734010220782",
+    "uikName": "УИК №2011",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4734010220783",
+    "uikName": "УИК №2012",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4734010220784",
+    "uikName": "УИК №2013",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4734010220785",
+    "uikName": "УИК №2014",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4734010220786",
+    "uikName": "УИК №2015",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4734010220787",
+    "uikName": "УИК №2016",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4734010220788",
+    "uikName": "УИК №2017",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4734010220789",
+    "uikName": "УИК №2018",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4734010220790",
+    "uikName": "УИК №2019",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4734010220791",
+    "uikName": "УИК №2020",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4734010220792",
+    "uikName": "УИК №2021",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4734010220793",
+    "uikName": "УИК №2022",
     "tikTvd": "27320001575887",
-    "tikName": "Новомалыклинская"
+    "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4734011271385",
+    "uikName": "УИК №2101",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4734011271386",
+    "uikName": "УИК №2102",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4734011271387",
+    "uikName": "УИК №2103",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4734011271388",
+    "uikName": "УИК №2104",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4734011271389",
+    "uikName": "УИК №2105",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4734011271390",
+    "uikName": "УИК №2106",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2107,
     "uikTvd": "4734011271391",
+    "uikName": "УИК №2107",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4734011271392",
+    "uikName": "УИК №2108",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2109,
     "uikTvd": "4734011271393",
+    "uikName": "УИК №2109",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4734011271394",
+    "uikName": "УИК №2110",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4734011271395",
+    "uikName": "УИК №2111",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4734011271396",
+    "uikName": "УИК №2112",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4734011271397",
+    "uikName": "УИК №2113",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4734011271398",
+    "uikName": "УИК №2114",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4734011271399",
+    "uikName": "УИК №2115",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4734011271400",
+    "uikName": "УИК №2116",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4734011271401",
+    "uikName": "УИК №2117",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4734011271402",
+    "uikName": "УИК №2118",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4734011271403",
+    "uikName": "УИК №2119",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4734011271404",
+    "uikName": "УИК №2120",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4734011271405",
+    "uikName": "УИК №2121",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4734011271406",
+    "uikName": "УИК №2122",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4734011271407",
+    "uikName": "УИК №2123",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4734011271408",
+    "uikName": "УИК №2124",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2125,
     "uikTvd": "4734011271409",
+    "uikName": "УИК №2125",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4734011271410",
+    "uikName": "УИК №2126",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4734011271411",
+    "uikName": "УИК №2127",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4734011271412",
+    "uikName": "УИК №2128",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4734011271413",
+    "uikName": "УИК №2129",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4734011271414",
+    "uikName": "УИК №2130",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4734011271415",
+    "uikName": "УИК №2131",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4734011271416",
+    "uikName": "УИК №2132",
     "tikTvd": "27320001575886",
-    "tikName": "Новоспасская"
+    "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4734012221375",
+    "uikName": "УИК №2201",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4734012221376",
+    "uikName": "УИК №2202",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4734012221377",
+    "uikName": "УИК №2203",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4734012221378",
+    "uikName": "УИК №2204",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4734012221379",
+    "uikName": "УИК №2205",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4734012221380",
+    "uikName": "УИК №2206",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2207,
     "uikTvd": "4734012221381",
+    "uikName": "УИК №2207",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4734012221382",
+    "uikName": "УИК №2208",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4734012221383",
+    "uikName": "УИК №2209",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4734012221384",
+    "uikName": "УИК №2210",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4734012221385",
+    "uikName": "УИК №2212",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4734012221386",
+    "uikName": "УИК №2214",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4734012221387",
+    "uikName": "УИК №2215",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4734012221388",
+    "uikName": "УИК №2216",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4734012221389",
+    "uikName": "УИК №2218",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4734012221390",
+    "uikName": "УИК №2219",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4734012221391",
+    "uikName": "УИК №2220",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4734012221392",
+    "uikName": "УИК №2221",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4734012221393",
+    "uikName": "УИК №2222",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4734012221394",
+    "uikName": "УИК №2223",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4734012221395",
+    "uikName": "УИК №2224",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4734012221396",
+    "uikName": "УИК №2225",
     "tikTvd": "27320001575885",
-    "tikName": "Павловская"
+    "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4734013272498",
+    "uikName": "УИК №2301",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4734013272499",
+    "uikName": "УИК №2302",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4734013272500",
+    "uikName": "УИК №2303",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4734013272501",
+    "uikName": "УИК №2304",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4734013272502",
+    "uikName": "УИК №2305",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4734013272503",
+    "uikName": "УИК №2306",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4734013272504",
+    "uikName": "УИК №2308",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4734013272505",
+    "uikName": "УИК №2309",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4734013272506",
+    "uikName": "УИК №2310",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4734013272507",
+    "uikName": "УИК №2311",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4734013272508",
+    "uikName": "УИК №2313",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4734013272509",
+    "uikName": "УИК №2314",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4734013272510",
+    "uikName": "УИК №2317",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4734013272511",
+    "uikName": "УИК №2318",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4734013272512",
+    "uikName": "УИК №2319",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4734013272513",
+    "uikName": "УИК №2320",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2322,
     "uikTvd": "4734013272514",
+    "uikName": "УИК №2322",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2323,
     "uikTvd": "4734013272515",
+    "uikName": "УИК №2323",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2324,
     "uikTvd": "4734013272516",
+    "uikName": "УИК №2324",
     "tikTvd": "27320001575884",
-    "tikName": "Радищевская"
+    "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4734014281845",
+    "uikName": "УИК №2401",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4734014281846",
+    "uikName": "УИК №2402",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4734014281847",
+    "uikName": "УИК №2403",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4734014281848",
+    "uikName": "УИК №2404",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4734014281849",
+    "uikName": "УИК №2405",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4734014281850",
+    "uikName": "УИК №2406",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4734014281851",
+    "uikName": "УИК №2407",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4734014281852",
+    "uikName": "УИК №2408",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4734014281853",
+    "uikName": "УИК №2409",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4734014281854",
+    "uikName": "УИК №2410",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4734014281855",
+    "uikName": "УИК №2411",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4734014281856",
+    "uikName": "УИК №2412",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4734014281857",
+    "uikName": "УИК №2413",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4734014281858",
+    "uikName": "УИК №2414",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4734014281859",
+    "uikName": "УИК №2415",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4734014281860",
+    "uikName": "УИК №2416",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4734014281861",
+    "uikName": "УИК №2417",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4734014281862",
+    "uikName": "УИК №2418",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4734014281863",
+    "uikName": "УИК №2419",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4734014281864",
+    "uikName": "УИК №2420",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4734014281865",
+    "uikName": "УИК №2421",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4734014281866",
+    "uikName": "УИК №2422",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4734014281867",
+    "uikName": "УИК №2423",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4734014281868",
+    "uikName": "УИК №2425",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4734014281869",
+    "uikName": "УИК №2426",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4734014281870",
+    "uikName": "УИК №2427",
     "tikTvd": "27320001575883",
-    "tikName": "Сенгилеевская"
+    "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4734015255602",
+    "uikName": "УИК №2501",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4734015255603",
+    "uikName": "УИК №2502",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4734015255604",
+    "uikName": "УИК №2503",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4734015255605",
+    "uikName": "УИК №2504",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4734015255606",
+    "uikName": "УИК №2505",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4734015255607",
+    "uikName": "УИК №2506",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4734015255608",
+    "uikName": "УИК №2507",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4734015255609",
+    "uikName": "УИК №2508",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4734015255610",
+    "uikName": "УИК №2509",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4734015255611",
+    "uikName": "УИК №2510",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4734015255612",
+    "uikName": "УИК №2511",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4734015255613",
+    "uikName": "УИК №2512",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4734015255614",
+    "uikName": "УИК №2513",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2514,
     "uikTvd": "4734015255615",
+    "uikName": "УИК №2514",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2515,
     "uikTvd": "4734015255616",
+    "uikName": "УИК №2515",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2516,
     "uikTvd": "4734015255617",
+    "uikName": "УИК №2516",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2517,
     "uikTvd": "4734015255618",
+    "uikName": "УИК №2517",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2518,
     "uikTvd": "4734015255619",
+    "uikName": "УИК №2518",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2519,
     "uikTvd": "4734015255620",
+    "uikName": "УИК №2519",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2520,
     "uikTvd": "4734015255621",
+    "uikName": "УИК №2520",
     "tikTvd": "27320001575882",
-    "tikName": "Старокулаткинская"
+    "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4734016307846",
+    "uikName": "УИК №2601",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4734016307847",
+    "uikName": "УИК №2602",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4734016307848",
+    "uikName": "УИК №2603",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4734016307849",
+    "uikName": "УИК №2604",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4734016307850",
+    "uikName": "УИК №2605",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4734016307851",
+    "uikName": "УИК №2606",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4734016307852",
+    "uikName": "УИК №2607",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4734016307853",
+    "uikName": "УИК №2608",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4734016307854",
+    "uikName": "УИК №2609",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4734016307855",
+    "uikName": "УИК №2610",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4734016307856",
+    "uikName": "УИК №2611",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4734016307857",
+    "uikName": "УИК №2612",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4734016307858",
+    "uikName": "УИК №2613",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4734016307859",
+    "uikName": "УИК №2614",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4734016307860",
+    "uikName": "УИК №2615",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4734016307861",
+    "uikName": "УИК №2616",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4734016307862",
+    "uikName": "УИК №2617",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4734016307863",
+    "uikName": "УИК №2618",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4734016307864",
+    "uikName": "УИК №2619",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4734016307865",
+    "uikName": "УИК №2620",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4734016307866",
+    "uikName": "УИК №2621",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4734016307867",
+    "uikName": "УИК №2622",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4734016307868",
+    "uikName": "УИК №2623",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4734016307869",
+    "uikName": "УИК №2624",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4734016307870",
+    "uikName": "УИК №2625",
     "tikTvd": "27320001575881",
-    "tikName": "Старомайнская"
+    "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4734017280716",
+    "uikName": "УИК №2701",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4734017280717",
+    "uikName": "УИК №2702",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4734017280718",
+    "uikName": "УИК №2704",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4734017280719",
+    "uikName": "УИК №2706",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4734017280720",
+    "uikName": "УИК №2707",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4734017280721",
+    "uikName": "УИК №2708",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4734017280722",
+    "uikName": "УИК №2710",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4734017280723",
+    "uikName": "УИК №2711",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4734017280724",
+    "uikName": "УИК №2712",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4734017280725",
+    "uikName": "УИК №2713",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4734017280726",
+    "uikName": "УИК №2715",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4734017280727",
+    "uikName": "УИК №2717",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4734017280728",
+    "uikName": "УИК №2718",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4734017280729",
+    "uikName": "УИК №2719",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4734017280730",
+    "uikName": "УИК №2720",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4734017280731",
+    "uikName": "УИК №2721",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4734017280732",
+    "uikName": "УИК №2722",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4734017280733",
+    "uikName": "УИК №2723",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4734017280734",
+    "uikName": "УИК №2724",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2725,
     "uikTvd": "4734017280735",
+    "uikName": "УИК №2725",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2726,
     "uikTvd": "4734017280736",
+    "uikName": "УИК №2726",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2727,
     "uikTvd": "4734017280737",
+    "uikName": "УИК №2727",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2728,
     "uikTvd": "4734017280738",
+    "uikName": "УИК №2728",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2729,
     "uikTvd": "4734017280739",
+    "uikName": "УИК №2729",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2730,
     "uikTvd": "4734017280740",
+    "uikName": "УИК №2730",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2733,
     "uikTvd": "4734017280741",
+    "uikName": "УИК №2733",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2734,
     "uikTvd": "4734017280742",
+    "uikName": "УИК №2734",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2735,
     "uikTvd": "4734017280743",
+    "uikName": "УИК №2735",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2736,
     "uikTvd": "4734017280744",
+    "uikName": "УИК №2736",
     "tikTvd": "27320001575880",
-    "tikName": "Сурская"
+    "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4734018220423",
+    "uikName": "УИК №2801",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4734018220424",
+    "uikName": "УИК №2802",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4734018220425",
+    "uikName": "УИК №2803",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4734018220426",
+    "uikName": "УИК №2804",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4734018220427",
+    "uikName": "УИК №2805",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4734018220428",
+    "uikName": "УИК №2806",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4734018220429",
+    "uikName": "УИК №2807",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4734018220430",
+    "uikName": "УИК №2808",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4734018220431",
+    "uikName": "УИК №2809",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4734018220432",
+    "uikName": "УИК №2810",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4734018220433",
+    "uikName": "УИК №2811",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4734018220434",
+    "uikName": "УИК №2812",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4734018220435",
+    "uikName": "УИК №2813",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4734018220436",
+    "uikName": "УИК №2814",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4734018220437",
+    "uikName": "УИК №2815",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4734018220438",
+    "uikName": "УИК №2816",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4734018220439",
+    "uikName": "УИК №2817",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4734018220440",
+    "uikName": "УИК №2818",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4734018220441",
+    "uikName": "УИК №2819",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4734018220442",
+    "uikName": "УИК №2820",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4734018220443",
+    "uikName": "УИК №2821",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4734018220444",
+    "uikName": "УИК №2823",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4734018220445",
+    "uikName": "УИК №2824",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4734018220446",
+    "uikName": "УИК №2825",
     "tikTvd": "27320001575879",
-    "tikName": "Тереньгульская"
+    "tikName": "Тереньгульская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4734023255254",
+    "uikName": "УИК №2901",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4734023255255",
+    "uikName": "УИК №2902",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4734023255256",
+    "uikName": "УИК №2903",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4734023255257",
+    "uikName": "УИК №2904",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4734023255258",
+    "uikName": "УИК №2905",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4734023255259",
+    "uikName": "УИК №2906",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4734023255260",
+    "uikName": "УИК №2907",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4734023255261",
+    "uikName": "УИК №2908",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4734023255262",
+    "uikName": "УИК №2909",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4734023255263",
+    "uikName": "УИК №2910",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4734023255264",
+    "uikName": "УИК №2911",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4734023255265",
+    "uikName": "УИК №2912",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4734023255266",
+    "uikName": "УИК №2913",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4734023255267",
+    "uikName": "УИК №2914",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4734023255268",
+    "uikName": "УИК №2915",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4734023255269",
+    "uikName": "УИК №2916",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4734023255270",
+    "uikName": "УИК №2917",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4734023255271",
+    "uikName": "УИК №2919",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4734023255272",
+    "uikName": "УИК №2920",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4734023255273",
+    "uikName": "УИК №2921",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4734023255274",
+    "uikName": "УИК №2922",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4734023255275",
+    "uikName": "УИК №2923",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2924,
     "uikTvd": "4734023255276",
+    "uikName": "УИК №2924",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2925,
     "uikTvd": "4734023255277",
+    "uikName": "УИК №2925",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2927,
     "uikTvd": "4734023255278",
+    "uikName": "УИК №2927",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2928,
     "uikTvd": "4734023255279",
+    "uikName": "УИК №2928",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2929,
     "uikTvd": "4734023255280",
+    "uikName": "УИК №2929",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 2930,
     "uikTvd": "4734023255281",
+    "uikName": "УИК №2930",
     "tikTvd": "27320001575872",
-    "tikName": "Ульяновская"
+    "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4734024322619",
+    "uikName": "УИК №3001",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4734024322620",
+    "uikName": "УИК №3002",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4734024322621",
+    "uikName": "УИК №3003",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4734024322622",
+    "uikName": "УИК №3004",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4734024322623",
+    "uikName": "УИК №3005",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4734024322624",
+    "uikName": "УИК №3006",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4734024322625",
+    "uikName": "УИК №3007",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3008,
     "uikTvd": "4734024322626",
+    "uikName": "УИК №3008",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4734024322627",
+    "uikName": "УИК №3009",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4734024322628",
+    "uikName": "УИК №3010",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3011,
     "uikTvd": "4734024322629",
+    "uikName": "УИК №3011",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4734024322630",
+    "uikName": "УИК №3012",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4734024322631",
+    "uikName": "УИК №3013",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4734024322632",
+    "uikName": "УИК №3014",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3015,
     "uikTvd": "4734024322633",
+    "uikName": "УИК №3015",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3016,
     "uikTvd": "4734024322634",
+    "uikName": "УИК №3016",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4734024322635",
+    "uikName": "УИК №3017",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3018,
     "uikTvd": "4734024322636",
+    "uikName": "УИК №3018",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3019,
     "uikTvd": "4734024322637",
+    "uikName": "УИК №3019",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4734024322638",
+    "uikName": "УИК №3020",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3021,
     "uikTvd": "4734024322639",
+    "uikName": "УИК №3021",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3022,
     "uikTvd": "4734024322640",
+    "uikName": "УИК №3022",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3023,
     "uikTvd": "4734024322641",
+    "uikName": "УИК №3023",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3024,
     "uikTvd": "4734024322642",
+    "uikName": "УИК №3024",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3025,
     "uikTvd": "4734024322643",
+    "uikName": "УИК №3025",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3026,
     "uikTvd": "4734024322644",
+    "uikName": "УИК №3026",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3027,
     "uikTvd": "4734024322645",
+    "uikName": "УИК №3027",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3029,
     "uikTvd": "4734024322646",
+    "uikName": "УИК №3029",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3030,
     "uikTvd": "4734024322647",
+    "uikName": "УИК №3030",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3032,
     "uikTvd": "4734024322648",
+    "uikName": "УИК №3032",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3034,
     "uikTvd": "4734024322649",
+    "uikName": "УИК №3034",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3035,
     "uikTvd": "4734024322650",
+    "uikName": "УИК №3035",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3036,
     "uikTvd": "4734024322651",
+    "uikName": "УИК №3036",
     "tikTvd": "27320001575871",
-    "tikName": "Цильнинская"
+    "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4734025304142",
+    "uikName": "УИК №3101",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3102,
     "uikTvd": "4734025304143",
+    "uikName": "УИК №3102",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4734025304144",
+    "uikName": "УИК №3103",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3104,
     "uikTvd": "4734025304145",
+    "uikName": "УИК №3104",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4734025304146",
+    "uikName": "УИК №3105",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4734025304147",
+    "uikName": "УИК №3106",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4734025304148",
+    "uikName": "УИК №3107",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3108,
     "uikTvd": "4734025304149",
+    "uikName": "УИК №3108",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4734025304150",
+    "uikName": "УИК №3109",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3110,
     "uikTvd": "4734025304151",
+    "uikName": "УИК №3110",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3111,
     "uikTvd": "4734025304152",
+    "uikName": "УИК №3111",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4734025304153",
+    "uikName": "УИК №3112",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4734025304154",
+    "uikName": "УИК №3113",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4734025304155",
+    "uikName": "УИК №3114",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4734025304156",
+    "uikName": "УИК №3115",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3116,
     "uikTvd": "4734025304157",
+    "uikName": "УИК №3116",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4734025304158",
+    "uikName": "УИК №3117",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3118,
     "uikTvd": "4734025304159",
+    "uikName": "УИК №3118",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3119,
     "uikTvd": "4734025304160",
+    "uikName": "УИК №3119",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3120,
     "uikTvd": "4734025304161",
+    "uikName": "УИК №3120",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4734025304162",
+    "uikName": "УИК №3121",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3122,
     "uikTvd": "4734025304163",
+    "uikName": "УИК №3122",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3123,
     "uikTvd": "4734025304164",
+    "uikName": "УИК №3123",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3124,
     "uikTvd": "4734025304165",
+    "uikName": "УИК №3124",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3125,
     "uikTvd": "4734025304166",
+    "uikName": "УИК №3125",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3126,
     "uikTvd": "4734025304167",
+    "uikName": "УИК №3126",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3127,
     "uikTvd": "4734025304168",
+    "uikName": "УИК №3127",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3128,
     "uikTvd": "4734025304169",
+    "uikName": "УИК №3128",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3129,
     "uikTvd": "4734025304170",
+    "uikName": "УИК №3129",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3130,
     "uikTvd": "4734025304171",
+    "uikName": "УИК №3130",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3131,
     "uikTvd": "4734025304172",
+    "uikName": "УИК №3131",
     "tikTvd": "27320001575870",
-    "tikName": "Чердаклинская"
+    "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4734004679800",
+    "uikName": "УИК №3201",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3202,
     "uikTvd": "4734004679801",
+    "uikName": "УИК №3202",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4734004679802",
+    "uikName": "УИК №3203",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3204,
     "uikTvd": "4734004679803",
+    "uikName": "УИК №3204",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3205,
     "uikTvd": "4734004679804",
+    "uikName": "УИК №3205",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3206,
     "uikTvd": "4734004679805",
+    "uikName": "УИК №3206",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4734004679806",
+    "uikName": "УИК №3207",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3208,
     "uikTvd": "4734004679807",
+    "uikName": "УИК №3208",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3209,
     "uikTvd": "4734004679808",
+    "uikName": "УИК №3209",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4734004679809",
+    "uikName": "УИК №3210",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3211,
     "uikTvd": "4734004679810",
+    "uikName": "УИК №3211",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4734004679811",
+    "uikName": "УИК №3212",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3213,
     "uikTvd": "4734004679812",
+    "uikName": "УИК №3213",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4734004679813",
+    "uikName": "УИК №3214",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3215,
     "uikTvd": "4734004679814",
+    "uikName": "УИК №3215",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3216,
     "uikTvd": "4734004679815",
+    "uikName": "УИК №3216",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3217,
     "uikTvd": "4734004679816",
+    "uikName": "УИК №3217",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3218,
     "uikTvd": "4734004679817",
+    "uikName": "УИК №3218",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4734004679818",
+    "uikName": "УИК №3219",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3220,
     "uikTvd": "4734004679819",
+    "uikName": "УИК №3220",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4734004679820",
+    "uikName": "УИК №3221",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3222,
     "uikTvd": "4734004679821",
+    "uikName": "УИК №3222",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4734004679822",
+    "uikName": "УИК №3223",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3224,
     "uikTvd": "4734004679823",
+    "uikName": "УИК №3224",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3225,
     "uikTvd": "4734004679824",
+    "uikName": "УИК №3225",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3226,
     "uikTvd": "4734004679825",
+    "uikName": "УИК №3226",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3227,
     "uikTvd": "4734004679826",
+    "uikName": "УИК №3227",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3228,
     "uikTvd": "4734004679827",
+    "uikName": "УИК №3228",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3229,
     "uikTvd": "4734004679828",
+    "uikName": "УИК №3229",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3230,
     "uikTvd": "4734004679829",
+    "uikName": "УИК №3230",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3231,
     "uikTvd": "4734004679830",
+    "uikName": "УИК №3231",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3232,
     "uikTvd": "4734004679831",
+    "uikName": "УИК №3232",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3233,
     "uikTvd": "4734004679832",
+    "uikName": "УИК №3233",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3234,
     "uikTvd": "4734004679833",
+    "uikName": "УИК №3234",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3236,
     "uikTvd": "4734004679834",
+    "uikName": "УИК №3236",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3237,
     "uikTvd": "4734004679835",
+    "uikName": "УИК №3237",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3238,
     "uikTvd": "4734004679836",
+    "uikName": "УИК №3238",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3239,
     "uikTvd": "4734004679837",
+    "uikName": "УИК №3239",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3240,
     "uikTvd": "4734004679838",
+    "uikName": "УИК №3240",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3241,
     "uikTvd": "4734004679839",
+    "uikName": "УИК №3241",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3242,
     "uikTvd": "4734004679840",
+    "uikName": "УИК №3242",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3243,
     "uikTvd": "4734004679841",
+    "uikName": "УИК №3243",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3244,
     "uikTvd": "4734004679842",
+    "uikName": "УИК №3244",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3245,
     "uikTvd": "4734004679843",
+    "uikName": "УИК №3245",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3246,
     "uikTvd": "4734004679844",
+    "uikName": "УИК №3246",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3247,
     "uikTvd": "4734004679845",
+    "uikName": "УИК №3247",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3248,
     "uikTvd": "4734004679846",
+    "uikName": "УИК №3248",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3249,
     "uikTvd": "4734004679847",
+    "uikName": "УИК №3249",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3250,
     "uikTvd": "4734004679848",
+    "uikName": "УИК №3250",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3251,
     "uikTvd": "4734004679849",
+    "uikName": "УИК №3251",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3252,
     "uikTvd": "4734004683121",
+    "uikName": "УИК №3252",
     "tikTvd": "27320001575894",
-    "tikName": "Димитровградская городская"
+    "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4734031222672",
+    "uikName": "УИК №3301",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4734031222673",
+    "uikName": "УИК №3302",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4734031222674",
+    "uikName": "УИК №3303",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4734031222675",
+    "uikName": "УИК №3304",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4734031222676",
+    "uikName": "УИК №3305",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4734031222677",
+    "uikName": "УИК №3306",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4734031222678",
+    "uikName": "УИК №3307",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4734031222679",
+    "uikName": "УИК №3308",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4734031222680",
+    "uikName": "УИК №3309",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4734031222681",
+    "uikName": "УИК №3310",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4734031222682",
+    "uikName": "УИК №3312",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4734031222683",
+    "uikName": "УИК №3313",
     "tikTvd": "27320001575869",
-    "tikName": "Новоульяновская"
+    "tikName": "Новоульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4734019337200",
+    "uikName": "УИК №3401",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4734019337201",
+    "uikName": "УИК №3402",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4734019337202",
+    "uikName": "УИК №3403",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4734019337203",
+    "uikName": "УИК №3404",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4734019337204",
+    "uikName": "УИК №3405",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4734019337205",
+    "uikName": "УИК №3406",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4734019337206",
+    "uikName": "УИК №3407",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4734019337207",
+    "uikName": "УИК №3408",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4734019337208",
+    "uikName": "УИК №3409",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4734019337209",
+    "uikName": "УИК №3410",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4734019337210",
+    "uikName": "УИК №3411",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4734019337211",
+    "uikName": "УИК №3412",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4734019337212",
+    "uikName": "УИК №3413",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3414,
     "uikTvd": "4734019337213",
+    "uikName": "УИК №3414",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4734019337214",
+    "uikName": "УИК №3415",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3416,
     "uikTvd": "4734019337215",
+    "uikName": "УИК №3416",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3417,
     "uikTvd": "4734019337216",
+    "uikName": "УИК №3417",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3418,
     "uikTvd": "4734019337217",
+    "uikName": "УИК №3418",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3419,
     "uikTvd": "4734019337218",
+    "uikName": "УИК №3419",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3420,
     "uikTvd": "4734019337219",
+    "uikName": "УИК №3420",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3421,
     "uikTvd": "4734019337220",
+    "uikName": "УИК №3421",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3422,
     "uikTvd": "4734019337221",
+    "uikName": "УИК №3422",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3423,
     "uikTvd": "4734019337222",
+    "uikName": "УИК №3423",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3424,
     "uikTvd": "4734019337223",
+    "uikName": "УИК №3424",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3425,
     "uikTvd": "4734019337224",
+    "uikName": "УИК №3425",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3426,
     "uikTvd": "4734019337225",
+    "uikName": "УИК №3426",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3427,
     "uikTvd": "4734019337226",
+    "uikName": "УИК №3427",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3428,
     "uikTvd": "4734019337227",
+    "uikName": "УИК №3428",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3429,
     "uikTvd": "4734019337228",
+    "uikName": "УИК №3429",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3431,
     "uikTvd": "4734019337229",
+    "uikName": "УИК №3431",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3432,
     "uikTvd": "4734019337230",
+    "uikName": "УИК №3432",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3433,
     "uikTvd": "4734019337231",
+    "uikName": "УИК №3433",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3434,
     "uikTvd": "4734019337232",
+    "uikName": "УИК №3434",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3435,
     "uikTvd": "4734019337233",
+    "uikName": "УИК №3435",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3437,
     "uikTvd": "4734019337234",
+    "uikName": "УИК №3437",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3438,
     "uikTvd": "4734019337235",
+    "uikName": "УИК №3438",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3439,
     "uikTvd": "4734019337236",
+    "uikName": "УИК №3439",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3440,
     "uikTvd": "4734019338181",
+    "uikName": "УИК №3440",
     "tikTvd": "27320001575878",
-    "tikName": "Ульяновск, Железнодорожная"
+    "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3501,
     "uikTvd": "4734022282608",
+    "uikName": "УИК №3501",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3502,
     "uikTvd": "4734022282609",
+    "uikName": "УИК №3502",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3503,
     "uikTvd": "4734022282610",
+    "uikName": "УИК №3503",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3504,
     "uikTvd": "4734022282611",
+    "uikName": "УИК №3504",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3505,
     "uikTvd": "4734022282612",
+    "uikName": "УИК №3505",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3506,
     "uikTvd": "4734022282613",
+    "uikName": "УИК №3506",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3507,
     "uikTvd": "4734022282614",
+    "uikName": "УИК №3507",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3508,
     "uikTvd": "4734022282615",
+    "uikName": "УИК №3508",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3509,
     "uikTvd": "4734022282616",
+    "uikName": "УИК №3509",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3510,
     "uikTvd": "4734022282617",
+    "uikName": "УИК №3510",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3511,
     "uikTvd": "4734022282618",
+    "uikName": "УИК №3511",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3512,
     "uikTvd": "4734022282619",
+    "uikName": "УИК №3512",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3513,
     "uikTvd": "4734022282620",
+    "uikName": "УИК №3513",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3514,
     "uikTvd": "4734022282621",
+    "uikName": "УИК №3514",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3515,
     "uikTvd": "4734022282622",
+    "uikName": "УИК №3515",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3516,
     "uikTvd": "4734022282623",
+    "uikName": "УИК №3516",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3517,
     "uikTvd": "4734022282624",
+    "uikName": "УИК №3517",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3518,
     "uikTvd": "4734022282625",
+    "uikName": "УИК №3518",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3519,
     "uikTvd": "4734022282626",
+    "uikName": "УИК №3519",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3520,
     "uikTvd": "4734022282627",
+    "uikName": "УИК №3520",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3521,
     "uikTvd": "4734022282628",
+    "uikName": "УИК №3521",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3522,
     "uikTvd": "4734022282629",
+    "uikName": "УИК №3522",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3523,
     "uikTvd": "4734022282630",
+    "uikName": "УИК №3523",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3524,
     "uikTvd": "4734022282631",
+    "uikName": "УИК №3524",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3525,
     "uikTvd": "4734022282632",
+    "uikName": "УИК №3525",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3526,
     "uikTvd": "4734022282633",
+    "uikName": "УИК №3526",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3527,
     "uikTvd": "4734022282634",
+    "uikName": "УИК №3527",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3528,
     "uikTvd": "4734022282635",
+    "uikName": "УИК №3528",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3529,
     "uikTvd": "4734022282636",
+    "uikName": "УИК №3529",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3530,
     "uikTvd": "4734022282637",
+    "uikName": "УИК №3530",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3531,
     "uikTvd": "4734022282638",
+    "uikName": "УИК №3531",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3532,
     "uikTvd": "4734022282639",
+    "uikName": "УИК №3532",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3533,
     "uikTvd": "4734022282640",
+    "uikName": "УИК №3533",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3534,
     "uikTvd": "4734022282641",
+    "uikName": "УИК №3534",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3535,
     "uikTvd": "4734022282642",
+    "uikName": "УИК №3535",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3536,
     "uikTvd": "4734022282643",
+    "uikName": "УИК №3536",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3537,
     "uikTvd": "4734022282644",
+    "uikName": "УИК №3537",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3538,
     "uikTvd": "4734022282645",
+    "uikName": "УИК №3538",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3539,
     "uikTvd": "4734022282646",
+    "uikName": "УИК №3539",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3540,
     "uikTvd": "4734022284557",
+    "uikName": "УИК №3540",
     "tikTvd": "27320001575877",
-    "tikName": "Ульяновск, Заволжская N1"
+    "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3601,
     "uikTvd": "4734028285398",
+    "uikName": "УИК №3601",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3602,
     "uikTvd": "4734028285399",
+    "uikName": "УИК №3602",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3603,
     "uikTvd": "4734028285400",
+    "uikName": "УИК №3603",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3604,
     "uikTvd": "4734028285401",
+    "uikName": "УИК №3604",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3605,
     "uikTvd": "4734028285402",
+    "uikName": "УИК №3605",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3606,
     "uikTvd": "4734028285403",
+    "uikName": "УИК №3606",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3607,
     "uikTvd": "4734028285404",
+    "uikName": "УИК №3607",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3608,
     "uikTvd": "4734028285405",
+    "uikName": "УИК №3608",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3609,
     "uikTvd": "4734028285406",
+    "uikName": "УИК №3609",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3610,
     "uikTvd": "4734028285407",
+    "uikName": "УИК №3610",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3611,
     "uikTvd": "4734028285408",
+    "uikName": "УИК №3611",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3612,
     "uikTvd": "4734028285409",
+    "uikName": "УИК №3612",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3613,
     "uikTvd": "4734028285410",
+    "uikName": "УИК №3613",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3614,
     "uikTvd": "4734028285411",
+    "uikName": "УИК №3614",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3615,
     "uikTvd": "4734028285412",
+    "uikName": "УИК №3615",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3616,
     "uikTvd": "4734028285413",
+    "uikName": "УИК №3616",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3617,
     "uikTvd": "4734028285414",
+    "uikName": "УИК №3617",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3618,
     "uikTvd": "4734028285415",
+    "uikName": "УИК №3618",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3619,
     "uikTvd": "4734028285416",
+    "uikName": "УИК №3619",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3620,
     "uikTvd": "4734028285417",
+    "uikName": "УИК №3620",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3621,
     "uikTvd": "4734028285418",
+    "uikName": "УИК №3621",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3622,
     "uikTvd": "4734028285419",
+    "uikName": "УИК №3622",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3623,
     "uikTvd": "4734028285420",
+    "uikName": "УИК №3623",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3624,
     "uikTvd": "4734028285421",
+    "uikName": "УИК №3624",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3625,
     "uikTvd": "4734028285422",
+    "uikName": "УИК №3625",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3626,
     "uikTvd": "4734028285423",
+    "uikName": "УИК №3626",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3627,
     "uikTvd": "4734028285424",
+    "uikName": "УИК №3627",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3628,
     "uikTvd": "4734028285425",
+    "uikName": "УИК №3628",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3629,
     "uikTvd": "4734028285426",
+    "uikName": "УИК №3629",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3630,
     "uikTvd": "4734028285427",
+    "uikName": "УИК №3630",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3631,
     "uikTvd": "4734028285428",
+    "uikName": "УИК №3631",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3632,
     "uikTvd": "4734028285429",
+    "uikName": "УИК №3632",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3633,
     "uikTvd": "4734028285430",
+    "uikName": "УИК №3633",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3634,
     "uikTvd": "4734028285431",
+    "uikName": "УИК №3634",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3635,
     "uikTvd": "4734028285432",
+    "uikName": "УИК №3635",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3636,
     "uikTvd": "4734028285433",
+    "uikName": "УИК №3636",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3637,
     "uikTvd": "4734028285434",
+    "uikName": "УИК №3637",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3638,
     "uikTvd": "4734028285435",
+    "uikName": "УИК №3638",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3639,
     "uikTvd": "4734028285436",
+    "uikName": "УИК №3639",
     "tikTvd": "27320001575876",
-    "tikName": "Ульяновск, Заволжская N2"
+    "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3701,
     "uikTvd": "4734020310076",
+    "uikName": "УИК №3701",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3702,
     "uikTvd": "4734020310077",
+    "uikName": "УИК №3702",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3703,
     "uikTvd": "4734020310078",
+    "uikName": "УИК №3703",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3704,
     "uikTvd": "4734020310079",
+    "uikName": "УИК №3704",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3705,
     "uikTvd": "4734020310080",
+    "uikName": "УИК №3705",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3706,
     "uikTvd": "4734020310081",
+    "uikName": "УИК №3706",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3707,
     "uikTvd": "4734020310082",
+    "uikName": "УИК №3707",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3708,
     "uikTvd": "4734020310083",
+    "uikName": "УИК №3708",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3709,
     "uikTvd": "4734020310084",
+    "uikName": "УИК №3709",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3710,
     "uikTvd": "4734020310085",
+    "uikName": "УИК №3710",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3711,
     "uikTvd": "4734020310086",
+    "uikName": "УИК №3711",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3712,
     "uikTvd": "4734020310087",
+    "uikName": "УИК №3712",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3713,
     "uikTvd": "4734020310088",
+    "uikName": "УИК №3713",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3714,
     "uikTvd": "4734020310089",
+    "uikName": "УИК №3714",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3715,
     "uikTvd": "4734020310090",
+    "uikName": "УИК №3715",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3716,
     "uikTvd": "4734020310091",
+    "uikName": "УИК №3716",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3717,
     "uikTvd": "4734020310092",
+    "uikName": "УИК №3717",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3718,
     "uikTvd": "4734020310093",
+    "uikName": "УИК №3718",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3719,
     "uikTvd": "4734020310094",
+    "uikName": "УИК №3719",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3720,
     "uikTvd": "4734020310095",
+    "uikName": "УИК №3720",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3721,
     "uikTvd": "4734020310096",
+    "uikName": "УИК №3721",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3722,
     "uikTvd": "4734020310097",
+    "uikName": "УИК №3722",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3723,
     "uikTvd": "4734020310098",
+    "uikName": "УИК №3723",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3724,
     "uikTvd": "4734020310099",
+    "uikName": "УИК №3724",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3725,
     "uikTvd": "4734020310100",
+    "uikName": "УИК №3725",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3726,
     "uikTvd": "4734020310101",
+    "uikName": "УИК №3726",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3727,
     "uikTvd": "4734020310102",
+    "uikName": "УИК №3727",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3728,
     "uikTvd": "4734020310103",
+    "uikName": "УИК №3728",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3729,
     "uikTvd": "4734020310104",
+    "uikName": "УИК №3729",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3730,
     "uikTvd": "4734020310105",
+    "uikName": "УИК №3730",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3731,
     "uikTvd": "4734020310106",
+    "uikName": "УИК №3731",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3732,
     "uikTvd": "4734020310107",
+    "uikName": "УИК №3732",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3733,
     "uikTvd": "4734020310108",
+    "uikName": "УИК №3733",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3734,
     "uikTvd": "4734020310109",
+    "uikName": "УИК №3734",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3735,
     "uikTvd": "4734020310110",
+    "uikName": "УИК №3735",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3736,
     "uikTvd": "4734020310111",
+    "uikName": "УИК №3736",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3737,
     "uikTvd": "4734020310112",
+    "uikName": "УИК №3737",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3738,
     "uikTvd": "4734020310113",
+    "uikName": "УИК №3738",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3739,
     "uikTvd": "4734020310114",
+    "uikName": "УИК №3739",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3740,
     "uikTvd": "4734020310115",
+    "uikName": "УИК №3740",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3741,
     "uikTvd": "4734020310116",
+    "uikName": "УИК №3741",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3742,
     "uikTvd": "4734020310117",
+    "uikName": "УИК №3742",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3743,
     "uikTvd": "4734020310118",
+    "uikName": "УИК №3743",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3744,
     "uikTvd": "4734020310119",
+    "uikName": "УИК №3744",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3745,
     "uikTvd": "4734020310120",
+    "uikName": "УИК №3745",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3746,
     "uikTvd": "4734020310121",
+    "uikName": "УИК №3746",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3747,
     "uikTvd": "4734020311534",
+    "uikName": "УИК №3747",
     "tikTvd": "27320001575875",
-    "tikName": "Ульяновск, Засвияжская N1"
+    "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3801,
     "uikTvd": "4734029326263",
+    "uikName": "УИК №3801",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3802,
     "uikTvd": "4734029326264",
+    "uikName": "УИК №3802",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3803,
     "uikTvd": "4734029326265",
+    "uikName": "УИК №3803",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3804,
     "uikTvd": "4734029326266",
+    "uikName": "УИК №3804",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3805,
     "uikTvd": "4734029326267",
+    "uikName": "УИК №3805",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3806,
     "uikTvd": "4734029326268",
+    "uikName": "УИК №3806",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3807,
     "uikTvd": "4734029326269",
+    "uikName": "УИК №3807",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3808,
     "uikTvd": "4734029326270",
+    "uikName": "УИК №3808",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3809,
     "uikTvd": "4734029326271",
+    "uikName": "УИК №3809",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3810,
     "uikTvd": "4734029326272",
+    "uikName": "УИК №3810",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3811,
     "uikTvd": "4734029326273",
+    "uikName": "УИК №3811",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3812,
     "uikTvd": "4734029326274",
+    "uikName": "УИК №3812",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3813,
     "uikTvd": "4734029326275",
+    "uikName": "УИК №3813",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3814,
     "uikTvd": "4734029326276",
+    "uikName": "УИК №3814",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3815,
     "uikTvd": "4734029326277",
+    "uikName": "УИК №3815",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3816,
     "uikTvd": "4734029326278",
+    "uikName": "УИК №3816",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3817,
     "uikTvd": "4734029326279",
+    "uikName": "УИК №3817",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3818,
     "uikTvd": "4734029326280",
+    "uikName": "УИК №3818",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3819,
     "uikTvd": "4734029326281",
+    "uikName": "УИК №3819",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3820,
     "uikTvd": "4734029326282",
+    "uikName": "УИК №3820",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3821,
     "uikTvd": "4734029326283",
+    "uikName": "УИК №3821",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3822,
     "uikTvd": "4734029326284",
+    "uikName": "УИК №3822",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3823,
     "uikTvd": "4734029326285",
+    "uikName": "УИК №3823",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3824,
     "uikTvd": "4734029326286",
+    "uikName": "УИК №3824",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3825,
     "uikTvd": "4734029326287",
+    "uikName": "УИК №3825",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3826,
     "uikTvd": "4734029326288",
+    "uikName": "УИК №3826",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3827,
     "uikTvd": "4734029326289",
+    "uikName": "УИК №3827",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3828,
     "uikTvd": "4734029326290",
+    "uikName": "УИК №3828",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3829,
     "uikTvd": "4734029326291",
+    "uikName": "УИК №3829",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3830,
     "uikTvd": "4734029326292",
+    "uikName": "УИК №3830",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3831,
     "uikTvd": "4734029326293",
+    "uikName": "УИК №3831",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3832,
     "uikTvd": "4734029326294",
+    "uikName": "УИК №3832",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3833,
     "uikTvd": "4734029326295",
+    "uikName": "УИК №3833",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3834,
     "uikTvd": "4734029326296",
+    "uikName": "УИК №3834",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3835,
     "uikTvd": "4734029326297",
+    "uikName": "УИК №3835",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3836,
     "uikTvd": "4734029326298",
+    "uikName": "УИК №3836",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3837,
     "uikTvd": "4734029326299",
+    "uikName": "УИК №3837",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3838,
     "uikTvd": "4734029326300",
+    "uikName": "УИК №3838",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3839,
     "uikTvd": "4734029326301",
+    "uikName": "УИК №3839",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3840,
     "uikTvd": "4734029326302",
+    "uikName": "УИК №3840",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3841,
     "uikTvd": "4734029326303",
+    "uikName": "УИК №3841",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3842,
     "uikTvd": "4734029326304",
+    "uikName": "УИК №3842",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3843,
     "uikTvd": "4734029326305",
+    "uikName": "УИК №3843",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3844,
     "uikTvd": "4734029326306",
+    "uikName": "УИК №3844",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3845,
     "uikTvd": "4734029326307",
+    "uikName": "УИК №3845",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3846,
     "uikTvd": "4734029326308",
+    "uikName": "УИК №3846",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3847,
     "uikTvd": "4734029326309",
+    "uikName": "УИК №3847",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3848,
     "uikTvd": "4734029326310",
+    "uikName": "УИК №3848",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3849,
     "uikTvd": "4734029326311",
+    "uikName": "УИК №3849",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3850,
     "uikTvd": "4734029326312",
+    "uikName": "УИК №3850",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3851,
     "uikTvd": "4734029326313",
+    "uikName": "УИК №3851",
     "tikTvd": "27320001575874",
-    "tikName": "Ульяновск, Засвияжская N2"
+    "tikName": "Ульяновск, Засвияжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3901,
     "uikTvd": "4734021470924",
+    "uikName": "УИК №3901",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3902,
     "uikTvd": "4734021470925",
+    "uikName": "УИК №3902",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3903,
     "uikTvd": "4734021470926",
+    "uikName": "УИК №3903",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3904,
     "uikTvd": "4734021470927",
+    "uikName": "УИК №3904",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3905,
     "uikTvd": "4734021470928",
+    "uikName": "УИК №3905",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3906,
     "uikTvd": "4734021470929",
+    "uikName": "УИК №3906",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3907,
     "uikTvd": "4734021470930",
+    "uikName": "УИК №3907",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3908,
     "uikTvd": "4734021470931",
+    "uikName": "УИК №3908",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3909,
     "uikTvd": "4734021470932",
+    "uikName": "УИК №3909",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3910,
     "uikTvd": "4734021470933",
+    "uikName": "УИК №3910",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3911,
     "uikTvd": "4734021470934",
+    "uikName": "УИК №3911",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3912,
     "uikTvd": "4734021470935",
+    "uikName": "УИК №3912",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3913,
     "uikTvd": "4734021470936",
+    "uikName": "УИК №3913",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3914,
     "uikTvd": "4734021470937",
+    "uikName": "УИК №3914",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3915,
     "uikTvd": "4734021470938",
+    "uikName": "УИК №3915",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3916,
     "uikTvd": "4734021470939",
+    "uikName": "УИК №3916",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3917,
     "uikTvd": "4734021470940",
+    "uikName": "УИК №3917",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3918,
     "uikTvd": "4734021470941",
+    "uikName": "УИК №3918",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3919,
     "uikTvd": "4734021470942",
+    "uikName": "УИК №3919",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3920,
     "uikTvd": "4734021470943",
+    "uikName": "УИК №3920",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3921,
     "uikTvd": "4734021470944",
+    "uikName": "УИК №3921",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3922,
     "uikTvd": "4734021470945",
+    "uikName": "УИК №3922",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3923,
     "uikTvd": "4734021470946",
+    "uikName": "УИК №3923",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3924,
     "uikTvd": "4734021470947",
+    "uikName": "УИК №3924",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3925,
     "uikTvd": "4734021470948",
+    "uikName": "УИК №3925",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3926,
     "uikTvd": "4734021470949",
+    "uikName": "УИК №3926",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3927,
     "uikTvd": "4734021470950",
+    "uikName": "УИК №3927",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3928,
     "uikTvd": "4734021470951",
+    "uikName": "УИК №3928",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3929,
     "uikTvd": "4734021470952",
+    "uikName": "УИК №3929",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3930,
     "uikTvd": "4734021470953",
+    "uikName": "УИК №3930",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3931,
     "uikTvd": "4734021470954",
+    "uikName": "УИК №3931",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3932,
     "uikTvd": "4734021470955",
+    "uikName": "УИК №3932",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3933,
     "uikTvd": "4734021470956",
+    "uikName": "УИК №3933",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3934,
     "uikTvd": "4734021470957",
+    "uikName": "УИК №3934",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3935,
     "uikTvd": "4734021470958",
+    "uikName": "УИК №3935",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3936,
     "uikTvd": "4734021470959",
+    "uikName": "УИК №3936",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3937,
     "uikTvd": "4734021470960",
+    "uikName": "УИК №3937",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3938,
     "uikTvd": "4734021470961",
+    "uikName": "УИК №3938",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3939,
     "uikTvd": "4734021470962",
+    "uikName": "УИК №3939",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3940,
     "uikTvd": "4734021470963",
+    "uikName": "УИК №3940",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3941,
     "uikTvd": "4734021470964",
+    "uikName": "УИК №3941",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3942,
     "uikTvd": "4734021470965",
+    "uikName": "УИК №3942",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3943,
     "uikTvd": "4734021470966",
+    "uikName": "УИК №3943",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3944,
     "uikTvd": "4734021470967",
+    "uikName": "УИК №3944",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3945,
     "uikTvd": "4734021470968",
+    "uikName": "УИК №3945",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3946,
     "uikTvd": "4734021470969",
+    "uikName": "УИК №3946",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3947,
     "uikTvd": "4734021470970",
+    "uikName": "УИК №3947",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3948,
     "uikTvd": "4734021470971",
+    "uikName": "УИК №3948",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3949,
     "uikTvd": "4734021470972",
+    "uikName": "УИК №3949",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3950,
     "uikTvd": "4734021470973",
+    "uikName": "УИК №3950",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   },
   {
     "uikNumber": 3951,
     "uikTvd": "4734021472679",
+    "uikName": "УИК №3951",
     "tikTvd": "27320001575873",
-    "tikName": "Ульяновск, Ленинская"
+    "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100339411265",
+    "regionName": "Ульяновская область",
+    "district": null
   }
 ] satisfies readonly UikTikRelation[];
